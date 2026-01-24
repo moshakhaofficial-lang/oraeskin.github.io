@@ -1,7 +1,7 @@
 # Redirect www to non-www
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www\.oraeskin\.in [NC]
-RewriteRule ^(.*)$ https://moshakha.com/$1 [L,R=301]
+RewriteRule ^(.*)$ https://oraeskin.in/$1 [L,R=301]
 
 # Ensure HTTPS
 RewriteCond %{HTTPS} off
