@@ -1,0 +1,504 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE_CONFIG } from '../config/site';
+import { PRODUCTS } from '../data/products';
+
+// Today's Instagram featured spotlight product
+const spotlight = PRODUCTS.find(p => p.id === 'minimalist-retinol-03') || PRODUCTS[0];
+const spotlightProduct = {
+    name: spotlight.name,
+    badge: spotlight.badge || "Editor's Choice",
+    price: `₹${spotlight.price}`,
+    rating: spotlight.amazonRating || 4.8,
+    image: spotlight.image,
+    reviewUrl: `/reviews/${spotlight.id}/`,
+    amazonUrl: spotlight.affiliateUrl || `https://www.amazon.in/dp/${spotlight.asin}?tag=oraeskin-21`
+};
+
+const links = [
+    {
+        title: "🎯 Custom Routine Finder",
+        subtitle: "30-second personalized quiz for Indian climate",
+        href: "/#routine-finder",
+        badge: "Free Tool",
+        highlight: true
+    },
+    {
+        title: "☀️ Best Sunscreens (Zero White Cast)",
+        subtitle: "Sweat-proof SPF 50 formulas tested for brown skin",
+        href: "/category/sunscreens/",
+        badge: "Top Rated"
+    },
+    {
+        title: "⚖️ Head-to-Head Comparisons",
+        subtitle: "Minimalist vs. Derma Co, CeraVe vs. Cetaphil",
+        href: "/comparisons/"
+    },
+    {
+        title: "🧪 Active Serums & Dark Spots Guide",
+        subtitle: "Niacinamide, Vitamin C, Salicylic & Retinoids",
+        href: "/category/serums/"
+    },
+    {
+        title: "🧴 All 36 Tested Skincare Reviews",
+        subtitle: "Independent clinical ratings & verified Amazon deals",
+        href: "/reviews/"
+    },
+    {
+        title: "📚 Read 100+ Skincare Editorial Guides",
+        subtitle: "Barrier repair, acne prevention, milia & routines",
+        href: "/blog/"
+    }
+];
+---
+
+<Layout 
+    title="OraeSkin | Official Instagram Links & Skincare Guides"
+    description="Official Instagram link hub for @oraeskincosmetics. Find dermatologist-approved routines, unbiased ingredient reviews, and verified Amazon India deals."
+>
+    <main class="links-page">
+        <div class="links-container">
+            <!-- Profile Header -->
+            <header class="profile-header">
+                <div class="avatar-wrap">
+                    <img src="/images/favicon-logo.png" alt="OraeSkin Logo" class="profile-avatar" />
+                    <span class="verified-badge" title="Verified Skincare Editorial">
+                        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                    </span>
+                </div>
+                <h1>OraeSkin</h1>
+                <a href="https://www.instagram.com/oraeskincosmetics/" target="_blank" rel="noopener noreferrer" class="instagram-handle">
+                    <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+                        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                    </svg>
+                    @oraeskincosmetics
+                </a>
+                <p class="profile-tagline">
+                    Science-backed skincare for Indian skin & tropical climate 🇮🇳
+                </p>
+                <p class="profile-subtext">
+                    Dermat-aligned routines • Unbiased ingredient reviews • Verified Amazon India deals
+                </p>
+            </header>
+
+            <!-- Instagram Spotlight Card -->
+            <section class="spotlight-card">
+                <div class="spotlight-header">
+                    <span class="spotlight-badge">🔥 Today's Instagram Spotlight</span>
+                </div>
+                <div class="spotlight-body">
+                    <img src={spotlightProduct.image} alt={spotlightProduct.name} class="spotlight-image" />
+                    <div class="spotlight-info">
+                        <h3>{spotlightProduct.name}</h3>
+                        <p class="spotlight-rating">⭐ {spotlightProduct.rating}/5.0 • <span class="badge-text">{spotlightProduct.badge}</span></p>
+                        <div class="spotlight-actions">
+                            <a href={spotlightProduct.reviewUrl} class="btn-review">Read Clinical Review</a>
+                            <a href={spotlightProduct.amazonUrl} target="_blank" rel="noopener noreferrer" class="btn-amazon">
+                                Buy on Amazon ({spotlightProduct.price})
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Main Links List -->
+            <div class="links-list">
+                {links.map((link) => (
+                    <a href={link.href} class={`link-card ${link.highlight ? 'highlight-card' : ''}`}>
+                        <div class="link-text">
+                            <div class="link-title-row">
+                                <span class="link-title">{link.title}</span>
+                                {link.badge && <span class="link-badge">{link.badge}</span>}
+                            </div>
+                            <span class="link-subtitle">{link.subtitle}</span>
+                        </div>
+                        <span class="link-arrow">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="9 18 15 12 9 6"></polyline>
+                            </svg>
+                        </span>
+                    </a>
+                ))}
+            </div>
+
+            <!-- Social Media Follow Row -->
+            <div class="social-links-row">
+                <a href={SITE_CONFIG.social.instagram} target="_blank" rel="noopener noreferrer" title="Instagram" class="social-icon">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                    </svg>
+                </a>
+                <a href={SITE_CONFIG.social.youtube} target="_blank" rel="noopener noreferrer" title="YouTube" class="social-icon">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                        <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                    </svg>
+                </a>
+                <a href={SITE_CONFIG.social.facebook} target="_blank" rel="noopener noreferrer" title="Facebook" class="social-icon">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                        <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                    </svg>
+                </a>
+                <a href={SITE_CONFIG.social.twitter} target="_blank" rel="noopener noreferrer" title="Twitter / X" class="social-icon">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Footer Disclaimer -->
+            <footer class="links-footer">
+                <p>
+                    {SITE_CONFIG.amazon.disclaimer}
+                </p>
+                <p class="copyright">
+                    © {new Date().getFullYear()} {SITE_CONFIG.name}. Tested for Indian skin.
+                </p>
+            </footer>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    .links-page {
+        min-height: 100vh;
+        background: linear-gradient(180deg, #fbf9f6 0%, #f4ede4 100%);
+        padding: 2.5rem 1rem 4rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    .links-container {
+        width: 100%;
+        max-width: 540px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* Profile Header */
+    .profile-header {
+        text-align: center;
+        margin-bottom: 1.75rem;
+    }
+
+    .avatar-wrap {
+        position: relative;
+        display: inline-block;
+        margin-bottom: 0.75rem;
+    }
+
+    .profile-avatar {
+        width: 88px;
+        height: 88px;
+        border-radius: 50%;
+        object-fit: cover;
+        background: #ffffff;
+        box-shadow: 0 8px 24px rgba(212, 165, 116, 0.25);
+        border: 3px solid #ffffff;
+        padding: 4px;
+    }
+
+    .verified-badge {
+        position: absolute;
+        bottom: 4px;
+        right: 4px;
+        background: #3b82f6;
+        color: #ffffff;
+        border-radius: 50%;
+        width: 22px;
+        height: 22px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid #ffffff;
+    }
+
+    .profile-header h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.85rem;
+        font-weight: 700;
+        color: #2b231a;
+        margin: 0 0 0.25rem;
+    }
+
+    .instagram-handle {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        color: #8b5e34;
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-decoration: none;
+        background: rgba(212, 165, 116, 0.12);
+        padding: 0.25rem 0.75rem;
+        border-radius: 20px;
+        margin-bottom: 0.85rem;
+        transition: all 0.2s ease;
+    }
+
+    .instagram-handle:hover {
+        background: rgba(212, 165, 116, 0.22);
+    }
+
+    .profile-tagline {
+        font-size: 0.98rem;
+        font-weight: 600;
+        color: #3f3227;
+        margin: 0 0 0.35rem;
+    }
+
+    .profile-subtext {
+        font-size: 0.82rem;
+        color: #7a6a5a;
+        margin: 0;
+        line-height: 1.4;
+    }
+
+    /* Spotlight Card */
+    .spotlight-card {
+        width: 100%;
+        background: #ffffff;
+        border: 2px solid #e7d8c6;
+        border-radius: 16px;
+        padding: 1rem;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.04);
+        box-sizing: border-box;
+    }
+
+    .spotlight-header {
+        margin-bottom: 0.75rem;
+    }
+
+    .spotlight-badge {
+        font-size: 0.72rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        background: #fee2e2;
+        color: #b91c1c;
+        padding: 0.25rem 0.6rem;
+        border-radius: 6px;
+    }
+
+    .spotlight-body {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    .spotlight-image {
+        width: 76px;
+        height: 76px;
+        border-radius: 10px;
+        object-fit: cover;
+        background: #f9f6f2;
+        border: 1px solid #ebdccb;
+        flex-shrink: 0;
+    }
+
+    .spotlight-info {
+        flex: 1;
+        min-width: 0;
+    }
+
+    .spotlight-info h3 {
+        font-size: 0.96rem;
+        font-weight: 700;
+        color: #2b231a;
+        margin: 0 0 0.2rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .spotlight-rating {
+        font-size: 0.78rem;
+        color: #6b5a4b;
+        margin: 0 0 0.6rem;
+    }
+
+    .badge-text {
+        color: #8b5e34;
+        font-weight: 600;
+    }
+
+    .spotlight-actions {
+        display: flex;
+        gap: 0.5rem;
+    }
+
+    .btn-review,
+    .btn-amazon {
+        font-size: 0.75rem;
+        font-weight: 600;
+        padding: 0.4rem 0.75rem;
+        border-radius: 8px;
+        text-decoration: none;
+        text-align: center;
+        transition: all 0.2s;
+    }
+
+    .btn-review {
+        background: #f4ede4;
+        color: #4a3b2c;
+        border: 1px solid #d9c8b4;
+    }
+
+    .btn-review:hover {
+        background: #e9decb;
+    }
+
+    .btn-amazon {
+        background: #d4a574;
+        color: #ffffff;
+    }
+
+    .btn-amazon:hover {
+        background: #bf8d58;
+    }
+
+    /* Links List */
+    .links-list {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 0.85rem;
+        margin-bottom: 2rem;
+    }
+
+    .link-card {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #ffffff;
+        border: 1.5px solid #ebdccb;
+        border-radius: 14px;
+        padding: 0.95rem 1.25rem;
+        text-decoration: none;
+        color: #2b231a;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+        transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+        box-sizing: border-box;
+    }
+
+    .link-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 24px rgba(212, 165, 116, 0.2);
+        border-color: #d4a574;
+    }
+
+    .highlight-card {
+        background: linear-gradient(135deg, #fffcf8 0%, #faefe2 100%);
+        border: 2px solid #d4a574;
+        box-shadow: 0 6px 18px rgba(212, 165, 116, 0.15);
+    }
+
+    .link-text {
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+        text-align: left;
+    }
+
+    .link-title-row {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .link-title {
+        font-size: 0.98rem;
+        font-weight: 700;
+        color: #2b231a;
+    }
+
+    .link-badge {
+        font-size: 0.65rem;
+        font-weight: 700;
+        background: #e6f4ea;
+        color: #137333;
+        padding: 0.15rem 0.45rem;
+        border-radius: 4px;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+    }
+
+    .link-subtitle {
+        font-size: 0.78rem;
+        color: #7a6a5a;
+    }
+
+    .link-arrow {
+        color: #b09e8c;
+        display: flex;
+        align-items: center;
+        transition: transform 0.2s;
+    }
+
+    .link-card:hover .link-arrow {
+        transform: translateX(3px);
+        color: #8b5e34;
+    }
+
+    /* Social Icons Row */
+    .social-links-row {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .social-icon {
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        background: #ffffff;
+        border: 1px solid #ebdccb;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #5a4b3d;
+        text-decoration: none;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        transition: all 0.2s ease;
+    }
+
+    .social-icon:hover {
+        color: #ffffff;
+        background: #d4a574;
+        border-color: #d4a574;
+        transform: translateY(-2px);
+    }
+
+    /* Footer */
+    .links-footer {
+        text-align: center;
+        font-size: 0.72rem;
+        color: #948270;
+        line-height: 1.5;
+        border-top: 1px solid #e7d8c6;
+        padding-top: 1.25rem;
+        width: 100%;
+    }
+
+    .links-footer p {
+        margin: 0 0 0.5rem;
+    }
+
+    .copyright {
+        font-weight: 600;
+        color: #6b5a4b;
+    }
+
+    @media (max-width: 480px) {
+        .spotlight-actions {
+            flex-direction: column;
+            gap: 0.35rem;
+        }
+        .btn-review, .btn-amazon {
+            padding: 0.35rem 0.5rem;
+        }
+    }
+</style>
