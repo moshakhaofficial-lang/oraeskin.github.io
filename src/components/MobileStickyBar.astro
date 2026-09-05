@@ -1,0 +1,208 @@
+---
+import { getAmazonAffiliateUrl } from '../config/site';
+
+interface Props {
+    title?: string;
+    brand?: string;
+    asinOrUrl?: string;
+    rating?: string;
+    priceEst?: string;
+}
+
+const {
+    title = "Minimalist SPF 50 Multi-Vitamin Sunscreen",
+    brand = "Minimalist",
+    asinOrUrl = "B09FPS9D5T",
+    rating = "4.8 ★",
+    priceEst = "~₹399"
+} = Astro.props;
+
+const affiliateUrl = getAmazonAffiliateUrl(asinOrUrl);
+---
+
+<div id="sticky-action-bar" class="sticky-action-bar">
+    <div class="sticky-inner">
+        <div class="sticky-info">
+            <span class="sticky-tag">Editor's #1 Tested Pick</span>
+            <div class="sticky-product-title">
+                <strong>{brand}</strong> — {title}
+            </div>
+            <div class="sticky-meta">
+                <span class="sticky-rating">{rating}</span>
+                <span class="sticky-price">{priceEst}</span>
+            </div>
+        </div>
+
+        <div class="sticky-action">
+            <a 
+                href={affiliateUrl} 
+                target="_blank" 
+                rel="nofollow sponsored noopener" 
+                class="sticky-cta-btn"
+            >
+                <span>Check Price on Amazon.in</span>
+                <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
+                </svg>
+            </a>
+            <button type="button" id="close-sticky-bar" class="sticky-close" aria-label="Dismiss sticky bar">✕</button>
+        </div>
+    </div>
+</div>
+
+<script is:inline>
+(function() {
+    const bar = document.getElementById('sticky-action-bar');
+    const closeBtn = document.getElementById('close-sticky-bar');
+    if (!bar) return;
+
+    let dismissed = false;
+
+    window.addEventListener('scroll', function() {
+        if (dismissed) return;
+        const scrollDistance = window.scrollY;
+        const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
+        
+        if (totalHeight > 0 && scrollDistance / totalHeight > 0.25) {
+            bar.classList.add('visible');
+        } else {
+            bar.classList.remove('visible');
+        }
+    }, { passive: true });
+
+    if (closeBtn) {
+        closeBtn.addEventListener('click', function() {
+            dismissed = true;
+            bar.classList.remove('visible');
+        });
+    }
+})();
+</script>
+
+<style>
+    .sticky-action-bar {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(255, 255, 255, 0.96);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-top: 1px solid rgba(212, 163, 115, 0.3);
+        box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.1);
+        padding: 0.75rem 1.25rem;
+        z-index: 999;
+        transform: translateY(110%);
+        transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .sticky-action-bar.visible {
+        transform: translateY(0);
+    }
+
+    .sticky-inner {
+        max-width: 1100px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    .sticky-info {
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+        min-width: 0;
+    }
+
+    .sticky-tag {
+        font-size: 0.65rem;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #b07d4b;
+    }
+
+    .sticky-product-title {
+        font-size: 0.95rem;
+        color: #1e293b;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .sticky-meta {
+        display: flex;
+        gap: 0.75rem;
+        font-size: 0.8rem;
+    }
+
+    .sticky-rating {
+        color: #d97706;
+        font-weight: 700;
+    }
+
+    .sticky-price {
+        color: #64748b;
+        font-weight: 600;
+    }
+
+    .sticky-action {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        flex-shrink: 0;
+    }
+
+    .sticky-cta-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+        color: #ffffff;
+        font-size: 0.875rem;
+        font-weight: 700;
+        padding: 0.6rem 1.2rem;
+        border-radius: 8px;
+        text-decoration: none;
+        box-shadow: 0 4px 12px rgba(217, 119, 6, 0.3);
+        white-space: nowrap;
+        transition: all 0.2s ease;
+    }
+
+    .sticky-cta-btn:hover {
+        background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+        transform: translateY(-1px);
+    }
+
+    .sticky-close {
+        background: transparent;
+        border: none;
+        color: #94a3b8;
+        font-size: 1rem;
+        cursor: pointer;
+        padding: 0.25rem 0.5rem;
+        line-height: 1;
+        transition: color 0.2s ease;
+    }
+
+    .sticky-close:hover {
+        color: #1e293b;
+    }
+
+    @media (max-width: 640px) {
+        .sticky-inner {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 0.6rem;
+        }
+        .sticky-action {
+            justify-content: space-between;
+        }
+        .sticky-cta-btn {
+            flex-grow: 1;
+            justify-content: center;
+        }
+    }
+</style>

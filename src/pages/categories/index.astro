@@ -1,0 +1,342 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
+import CategoryNav from '../../components/CategoryNav.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { CATEGORIES } from '../../data/categories';
+import { PRODUCTS } from '../../data/products';
+---
+
+<Layout title="All Skincare Categories & Product Reviews | OraeSkin">
+    <Header />
+
+    <main class="all-categories-main">
+        <header class="all-cat-hero">
+            <div class="container hero-container">
+                <span class="hero-eyebrow">Comprehensive Editorial Directory</span>
+                <h1 class="hero-title">All Skincare Categories & Reviews</h1>
+                <p class="hero-sub">
+                    Browse our complete database of dermatologist-evaluated skincare products on Amazon India, categorized by active ingredients, skin types, and tropical climate performance.
+                </p>
+                <AffiliateDisclaimer compact={true} />
+            </div>
+        </header>
+
+        <div class="container nav-box">
+            <CategoryNav activeSlug="all" />
+        </div>
+
+        <!-- Categories Visual Grid -->
+        <section class="container categories-overview-section">
+            <div class="section-heading-group">
+                <span class="section-tag">Category Directory</span>
+                <h2 class="section-heading">Explore By Skincare Step</h2>
+                <p class="section-sub">Select any category below to read in-depth buying guides and comparison matrices.</p>
+            </div>
+
+            <div class="categories-grid">
+                {CATEGORIES.map((cat) => {
+                    const count = PRODUCTS.filter(p => p.category === cat.slug).length;
+                    return (
+                        <div class="category-card">
+                            <div class="cat-card-header">
+                                <span class="cat-card-icon">{cat.icon}</span>
+                                <span class="cat-card-count">{count} Tested Picks</span>
+                            </div>
+                            <h3 class="cat-card-title">
+                                <a href={`/category/${cat.slug}`}>{cat.name}</a>
+                            </h3>
+                            <p class="cat-card-tagline">{cat.tagline}</p>
+                            <p class="cat-card-desc">{cat.description}</p>
+                            
+                            <div class="cat-card-actives">
+                                <span class="actives-title">Key Actives:</span>
+                                <div class="pills-list">
+                                    {cat.topActives.map(act => (
+                                        <span class="pill-act">{act}</span>
+                                    ))}
+                                </div>
+                            </div>
+
+                            <a href={`/category/${cat.slug}`} class="cat-explore-btn">
+                                <span>Explore {cat.name}</span>
+                                <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
+                                </svg>
+                            </a>
+                        </div>
+                    );
+                })}
+            </div>
+        </section>
+
+        <!-- All Products By Category -->
+        <section class="container all-products-section">
+            <div class="section-heading-group">
+                <span class="section-tag">Full Tested Catalog</span>
+                <h2 class="section-heading">All Amazon India Verified Products</h2>
+                <p class="section-sub">Every product evaluated with zero white-cast tests, humidity resistance, and pricing transparency.</p>
+            </div>
+
+            <div class="products-stack">
+                {PRODUCTS.map((p, idx) => (
+                    <ProductCard
+                        rank={idx + 1}
+                        title={p.title}
+                        brand={p.brand}
+                        badge={p.badge}
+                        rating={p.rating}
+                        reviewCount={p.reviewCount}
+                        priceEstimate={p.priceEst}
+                        asinOrUrl={p.asin}
+                        image={p.image}
+                        bestFor={p.badge}
+                        keyIngredients={p.keyIngredients}
+                        pros={p.pros}
+                        cons={p.cons}
+                    />
+                ))}
+            </div>
+        </section>
+    </main>
+
+    <Footer />
+</Layout>
+
+<style>
+    .all-categories-main {
+        padding-top: 100px;
+        padding-bottom: 90px;
+        background: #fbfbfa;
+    }
+
+    .all-cat-hero {
+        background: linear-gradient(180deg, #f4eee7 0%, #fbfbfa 100%);
+        padding: 4rem 1rem 2.5rem;
+        text-align: center;
+        border-bottom: 1px solid rgba(212, 163, 115, 0.2);
+    }
+
+    .hero-container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .hero-eyebrow {
+        display: inline-block;
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: #b07d4b;
+        background: rgba(212, 163, 115, 0.15);
+        padding: 0.35rem 0.85rem;
+        border-radius: 9999px;
+        margin-bottom: 0.75rem;
+    }
+
+    .hero-title {
+        font-family: 'Cinzel', serif;
+        font-size: 2.75rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin: 0 0 0.75rem 0;
+        line-height: 1.25;
+    }
+
+    .hero-sub {
+        font-size: 1.1rem;
+        color: #64748b;
+        line-height: 1.6;
+        margin: 0 0 1.5rem 0;
+    }
+
+    .nav-box {
+        margin: 1.5rem auto 3rem;
+    }
+
+    .section-heading-group {
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .section-tag {
+        display: inline-block;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: #b07d4b;
+        background: rgba(212, 163, 115, 0.15);
+        padding: 0.35rem 0.75rem;
+        border-radius: 9999px;
+        margin-bottom: 0.5rem;
+    }
+
+    .section-heading {
+        font-family: 'Cinzel', serif;
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin: 0 0 0.5rem 0;
+    }
+
+    .section-sub {
+        font-size: 1rem;
+        color: #64748b;
+        margin: 0;
+    }
+
+    .categories-overview-section {
+        margin-bottom: 5rem;
+    }
+
+    .categories-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    @media (max-width: 768px) {
+        .categories-grid {
+            grid-template-columns: 1fr;
+        }
+        .hero-title {
+            font-size: 2rem;
+        }
+    }
+
+    .category-card {
+        background: #ffffff;
+        border: 1px solid rgba(44, 53, 64, 0.1);
+        border-radius: 16px;
+        padding: 1.75rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+        transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+
+    .category-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.07);
+        border-color: #d4a373;
+    }
+
+    .cat-card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.75rem;
+    }
+
+    .cat-card-icon {
+        font-size: 2rem;
+    }
+
+    .cat-card-count {
+        font-size: 0.75rem;
+        font-weight: 700;
+        color: #b07d4b;
+        background: rgba(212, 163, 115, 0.15);
+        padding: 0.25rem 0.6rem;
+        border-radius: 9999px;
+    }
+
+    .cat-card-title {
+        font-family: 'Cinzel', serif;
+        font-size: 1.35rem;
+        font-weight: 700;
+        margin: 0 0 0.35rem 0;
+    }
+
+    .cat-card-title a {
+        color: #1e293b;
+        text-decoration: none;
+        transition: color 0.2s ease;
+    }
+
+    .cat-card-title a:hover {
+        color: #b07d4b;
+    }
+
+    .cat-card-tagline {
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: #b07d4b;
+        margin: 0 0 0.6rem 0;
+    }
+
+    .cat-card-desc {
+        font-size: 0.9rem;
+        color: #64748b;
+        line-height: 1.5;
+        margin: 0 0 1.25rem 0;
+        flex-grow: 1;
+    }
+
+    .cat-card-actives {
+        margin-bottom: 1.25rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid #f1f5f9;
+    }
+
+    .actives-title {
+        display: block;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #94a3b8;
+        margin-bottom: 0.4rem;
+    }
+
+    .pills-list {
+        display: flex;
+        gap: 0.4rem;
+        flex-wrap: wrap;
+    }
+
+    .pill-act {
+        font-size: 0.75rem;
+        font-weight: 600;
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        color: #334155;
+        padding: 0.2rem 0.5rem;
+        border-radius: 6px;
+    }
+
+    .cat-explore-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        background: linear-gradient(135deg, #2c3540 0%, #1a202c 100%);
+        color: #ffffff;
+        font-size: 0.875rem;
+        font-weight: 700;
+        padding: 0.75rem 1.25rem;
+        border-radius: 10px;
+        text-decoration: none;
+        transition: all 0.2s ease;
+    }
+
+    .cat-explore-btn:hover {
+        background: #0f172a;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(44, 53, 64, 0.2);
+    }
+
+    .all-products-section {
+        margin-top: 4rem;
+    }
+
+    .products-stack {
+        display: flex;
+        flex-direction: column;
+        gap: 2.5rem;
+    }
+</style>

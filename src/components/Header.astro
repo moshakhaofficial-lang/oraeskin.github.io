@@ -1,0 +1,170 @@
+---
+// OraeSkin Global Header Navigation
+---
+
+<header class="site-header">
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="/" class="brand" aria-label="OraeSkin Home">
+                <img src="/images/logo_opt.png" alt="OraeSkin Skincare Lab" class="brand-logo" width="180" height="67" loading="eager">
+            </a>
+
+            <button class="menu-toggle" aria-label="Toggle Navigation" aria-expanded="false">☰</button>
+
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/categories">Categories</a></li>
+                <li><a href="/blog">All 100+ Guides</a></li>
+                <li><a href="/#routine-finder">Routine Finder</a></li>
+                <li><a href="/#top-picks" class="nav-highlight">Top Amazon Deals</a></li>
+                <li><a href="/disclosure">Disclosure</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<script>
+    // Mobile Menu Logic
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+
+    if (menuToggle && navLinks) {
+        menuToggle.addEventListener('click', () => {
+            const isActive = navLinks.classList.toggle('active');
+            menuToggle.textContent = isActive ? '✕' : '☰';
+            menuToggle.setAttribute('aria-expanded', String(isActive));
+        });
+
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                navLinks.classList.remove('active');
+                if (menuToggle) {
+                    menuToggle.textContent = '☰';
+                    menuToggle.setAttribute('aria-expanded', 'false');
+                }
+            });
+        });
+    }
+</script>
+
+<style>
+    .site-header {
+        position: relative;
+        z-index: 1000;
+    }
+
+    .navbar {
+        background-color: rgba(253, 250, 246, 0.95);
+        backdrop-filter: blur(12px);
+        box-shadow: 0 2px 20px rgba(0, 0, 0, 0.04);
+        padding: 0.8rem 0;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        border-bottom: 1px solid #ede5da;
+        height: 80px;
+        display: flex;
+        align-items: center;
+    }
+
+    .nav-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 90%;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .brand {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+
+    .brand-logo {
+        height: 58px;
+        width: auto;
+        transition: opacity 0.2s ease;
+    }
+
+    .brand-logo:hover {
+        opacity: 0.85;
+    }
+
+    .nav-links {
+        list-style: none;
+        display: flex;
+        align-items: center;
+        gap: 24px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        color: #3a3a3a;
+        font-weight: 500;
+        font-size: 0.92rem;
+        transition: color 0.2s ease;
+        padding: 6px 0;
+    }
+
+    .nav-links a:hover {
+        color: #c87a54;
+    }
+
+    .nav-highlight {
+        background: linear-gradient(135deg, #c87a54, #d4af37);
+        color: #ffffff !important;
+        padding: 8px 16px !important;
+        border-radius: 20px;
+        font-weight: 600 !important;
+        box-shadow: 0 4px 12px rgba(200, 122, 84, 0.25);
+    }
+
+    .nav-highlight:hover {
+        opacity: 0.92;
+        transform: translateY(-1px);
+    }
+
+    .menu-toggle {
+        display: none;
+        background: none;
+        border: none;
+        font-size: 1.6rem;
+        color: #333;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+    @media (max-width: 860px) {
+        .menu-toggle {
+            display: block;
+        }
+
+        .nav-links {
+            position: fixed;
+            top: 80px;
+            left: 0;
+            right: 0;
+            background: #ffffff;
+            flex-direction: column;
+            align-items: center;
+            gap: 18px;
+            padding: 24px 0;
+            border-bottom: 1px solid #ede5da;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+            transform: translateY(-150%);
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s ease;
+        }
+
+        .nav-links.active {
+            transform: translateY(0);
+            opacity: 1;
+            pointer-events: auto;
+        }
+    }
+</style>

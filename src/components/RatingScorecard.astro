@@ -1,0 +1,392 @@
+---
+import { getAmazonAffiliateUrl } from '../config/site';
+
+interface Props {
+    title: string;
+    brand: string;
+    asinOrUrl: string;
+    overallScore: number; // e.g. 9.7
+    badge?: string;
+    formulaScore: number;
+    weatherScore: number;
+    textureScore: number;
+    valueScore: number;
+    whoShouldBuy: string;
+    whoShouldSkip: string;
+    image?: string;
+    priceEst?: string;
+}
+
+const {
+    title,
+    brand,
+    asinOrUrl,
+    overallScore,
+    badge = "Editor's Tested Pick",
+    formulaScore,
+    weatherScore,
+    textureScore,
+    valueScore,
+    whoShouldBuy,
+    whoShouldSkip,
+    image,
+    priceEst
+} = Astro.props;
+
+const affiliateUrl = getAmazonAffiliateUrl(asinOrUrl);
+---
+
+<div class="scorecard-card">
+    <div class="scorecard-header">
+        {image && (
+            <div class="scorecard-thumb">
+                <img src={image} alt={`${brand} ${title}`} loading="lazy" width="72" height="72" />
+            </div>
+        )}
+        <div class="scorecard-meta">
+            <span class="scorecard-badge">{badge}</span>
+            <h3 class="scorecard-title">{brand} — {title}</h3>
+            {priceEst && <span class="scorecard-price">Estimated Amazon Price: <strong>{priceEst}</strong></span>}
+        </div>
+        <div class="scorecard-score-box">
+            <div class="score-number">{overallScore.toFixed(1)}</div>
+            <div class="score-total">/10</div>
+            <div class="score-stars">★★★★★</div>
+            <div class="score-label">OraeSkin Score</div>
+        </div>
+    </div>
+
+    <div class="scorecard-breakdown">
+        <h4 class="breakdown-heading">Editorial Testing Breakdown</h4>
+        <div class="score-bars">
+            <div class="score-bar-row">
+                <div class="bar-label-group">
+                    <span class="bar-label">Active Ingredient Purity & Potency</span>
+                    <span class="bar-val">{formulaScore}/10</span>
+                </div>
+                <div class="bar-track">
+                    <div class="bar-fill" style={`width: ${formulaScore * 10}%`}></div>
+                </div>
+            </div>
+
+            <div class="score-bar-row">
+                <div class="bar-label-group">
+                    <span class="bar-label">Indian Humidity & Sweat Resilience</span>
+                    <span class="bar-val">{weatherScore}/10</span>
+                </div>
+                <div class="bar-track">
+                    <div class="bar-fill" style={`width: ${weatherScore * 10}%`}></div>
+                </div>
+            </div>
+
+            <div class="score-bar-row">
+                <div class="bar-label-group">
+                    <span class="bar-label">Texture, Absorption & Zero Cast</span>
+                    <span class="bar-val">{textureScore}/10</span>
+                </div>
+                <div class="bar-track">
+                    <div class="bar-fill" style={`width: ${textureScore * 10}%`}></div>
+                </div>
+            </div>
+
+            <div class="score-bar-row">
+                <div class="bar-label-group">
+                    <span class="bar-label">Value for Money & Cost-Per-Use</span>
+                    <span class="bar-val">{valueScore}/10</span>
+                </div>
+                <div class="bar-track">
+                    <div class="bar-fill" style={`width: ${valueScore * 10}%`}></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="scorecard-verdict-grid">
+        <div class="verdict-box buy-box">
+            <div class="verdict-title">
+                <svg width="18" height="18" viewBox="0 0 20 20" fill="#2e7d32">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                </svg>
+                <span>Who Should Buy This</span>
+            </div>
+            <p class="verdict-text">{whoShouldBuy}</p>
+        </div>
+
+        <div class="verdict-box skip-box">
+            <div class="verdict-title">
+                <svg width="18" height="18" viewBox="0 0 20 20" fill="#c62828">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"/>
+                </svg>
+                <span>Who Should Skip This</span>
+            </div>
+            <p class="verdict-text">{whoShouldSkip}</p>
+        </div>
+    </div>
+
+    <div class="scorecard-cta-row">
+        <a 
+            href={affiliateUrl} 
+            target="_blank" 
+            rel="nofollow sponsored noopener" 
+            class="scorecard-btn"
+        >
+            <span class="btn-text">Check Price on Amazon.in</span>
+            <svg width="18" height="18" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
+            </svg>
+        </a>
+        <span class="delivery-badge">✓ Prime Eligible Fast Delivery Available</span>
+    </div>
+</div>
+
+<style>
+    .scorecard-card {
+        background: #ffffff;
+        border: 1px solid rgba(44, 53, 64, 0.12);
+        border-radius: 16px;
+        padding: 1.75rem;
+        margin: 2rem 0;
+        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.03);
+    }
+
+    .scorecard-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 1.5rem;
+        padding-bottom: 1.25rem;
+        border-bottom: 1px solid #f1f5f9;
+    }
+
+    .scorecard-thumb {
+        flex-shrink: 0;
+        width: 72px;
+        height: 72px;
+        border-radius: 10px;
+        overflow: hidden;
+        border: 1px solid #e2e8f0;
+        background: #f8fafc;
+    }
+
+    .scorecard-thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .scorecard-badge {
+        display: inline-block;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+        color: #92400e;
+        padding: 0.3rem 0.75rem;
+        border-radius: 9999px;
+        margin-bottom: 0.5rem;
+    }
+
+    .scorecard-title {
+        font-family: 'Cinzel', serif;
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin: 0 0 0.4rem 0;
+        line-height: 1.35;
+    }
+
+    .scorecard-price {
+        font-size: 0.875rem;
+        color: #64748b;
+    }
+
+    .scorecard-price strong {
+        color: #0f172a;
+    }
+
+    .scorecard-score-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+        color: #ffffff;
+        padding: 0.85rem 1.25rem;
+        border-radius: 14px;
+        min-width: 100px;
+        text-align: center;
+        box-shadow: 0 4px 14px rgba(15, 23, 42, 0.2);
+    }
+
+    .score-number {
+        font-size: 1.85rem;
+        font-weight: 800;
+        line-height: 1;
+        color: #fbbf24;
+    }
+
+    .score-total {
+        font-size: 0.8rem;
+        color: #94a3b8;
+        margin-top: 0.1rem;
+    }
+
+    .score-stars {
+        color: #fbbf24;
+        font-size: 0.8rem;
+        letter-spacing: 2px;
+        margin: 0.3rem 0 0.15rem;
+    }
+
+    .score-label {
+        font-size: 0.65rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #cbd5e1;
+    }
+
+    .scorecard-breakdown {
+        margin-top: 1.25rem;
+    }
+
+    .breakdown-heading {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: #64748b;
+        font-weight: 700;
+        margin: 0 0 1rem 0;
+    }
+
+    .score-bars {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .bar-label-group {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.825rem;
+        font-weight: 600;
+        color: #334155;
+        margin-bottom: 0.3rem;
+    }
+
+    .bar-val {
+        color: #b07d4b;
+        font-weight: 700;
+    }
+
+    .bar-track {
+        height: 7px;
+        background: #f1f5f9;
+        border-radius: 9999px;
+        overflow: hidden;
+    }
+
+    .bar-fill {
+        height: 100%;
+        background: linear-gradient(90deg, #d4a373 0%, #b07d4b 100%);
+        border-radius: 9999px;
+        transition: width 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .scorecard-verdict-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+        margin: 1.5rem 0 1.25rem;
+    }
+
+    @media (max-width: 640px) {
+        .scorecard-verdict-grid {
+            grid-template-columns: 1fr;
+        }
+        .scorecard-header {
+            flex-direction: column;
+        }
+        .scorecard-score-box {
+            align-self: flex-start;
+            flex-direction: row;
+            gap: 0.75rem;
+            padding: 0.5rem 1rem;
+        }
+    }
+
+    .verdict-box {
+        padding: 1rem;
+        border-radius: 12px;
+        font-size: 0.85rem;
+        line-height: 1.5;
+    }
+
+    .buy-box {
+        background: rgba(46, 125, 50, 0.05);
+        border: 1px solid rgba(46, 125, 50, 0.2);
+    }
+
+    .skip-box {
+        background: rgba(198, 40, 40, 0.05);
+        border: 1px solid rgba(198, 40, 40, 0.2);
+    }
+
+    .verdict-title {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        font-weight: 700;
+        margin-bottom: 0.35rem;
+        font-size: 0.825rem;
+    }
+
+    .buy-box .verdict-title {
+        color: #1b5e20;
+    }
+
+    .skip-box .verdict-title {
+        color: #b71c1c;
+    }
+
+    .verdict-text {
+        color: #475569;
+        margin: 0;
+    }
+
+    .scorecard-cta-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 1rem;
+        padding-top: 1.25rem;
+        border-top: 1px solid #f1f5f9;
+    }
+
+    .scorecard-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6rem;
+        background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+        color: #ffffff;
+        padding: 0.75rem 1.4rem;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 0.9rem;
+        text-decoration: none;
+        box-shadow: 0 4px 14px rgba(217, 119, 6, 0.3);
+        transition: all 0.2s ease;
+    }
+
+    .scorecard-btn:hover {
+        background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 18px rgba(217, 119, 6, 0.4);
+    }
+
+    .delivery-badge {
+        font-size: 0.8rem;
+        color: #16a34a;
+        font-weight: 600;
+    }
+</style>

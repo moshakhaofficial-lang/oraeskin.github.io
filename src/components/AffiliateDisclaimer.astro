@@ -1,0 +1,89 @@
+---
+import { SITE_CONFIG } from '../config/site';
+
+interface Props {
+    compact?: boolean;
+}
+
+const { compact = false } = Astro.props;
+---
+
+<div class={`affiliate-disclaimer-box ${compact ? 'compact' : ''}`}>
+    <div class="disclaimer-badge">
+        <svg class="disclaimer-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="12" y1="16" x2="12" y2="12"></line>
+            <line x1="12" y1="8" x2="12.01" y2="8"></line>
+        </svg>
+        <span>Affiliate Disclosure</span>
+    </div>
+    <p class="disclaimer-text">
+        {SITE_CONFIG.amazon.disclaimer} When you buy through our links, we may earn an affiliate commission at no extra cost to you. <a href="/disclosure">Learn more</a>.
+    </p>
+</div>
+
+<style>
+    .affiliate-disclaimer-box {
+        background: #fdfbf7;
+        border: 1px solid #e8dfd3;
+        border-left: 4px solid #c87a54;
+        border-radius: 8px;
+        padding: 14px 18px;
+        margin: 20px 0;
+        display: flex;
+        align-items: flex-start;
+        gap: 12px;
+        font-size: 0.88rem;
+        color: #555;
+        line-height: 1.5;
+    }
+
+    .affiliate-disclaimer-box.compact {
+        padding: 8px 14px;
+        font-size: 0.82rem;
+        margin: 12px 0;
+        background: #faf8f5;
+    }
+
+    .disclaimer-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: #f5ede4;
+        color: #c87a54;
+        font-weight: 600;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        padding: 4px 8px;
+        border-radius: 4px;
+        white-space: nowrap;
+        flex-shrink: 0;
+    }
+
+    .disclaimer-icon {
+        flex-shrink: 0;
+    }
+
+    .disclaimer-text {
+        margin: 0;
+        flex: 1;
+    }
+
+    .disclaimer-text a {
+        color: #c87a54;
+        text-decoration: underline;
+        font-weight: 500;
+    }
+
+    .disclaimer-text a:hover {
+        color: #a85d38;
+    }
+
+    @media (max-width: 600px) {
+        .affiliate-disclaimer-box {
+            flex-direction: column;
+            gap: 8px;
+        }
+    }
+</style>

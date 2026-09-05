@@ -1,0 +1,810 @@
+---
+import { SITE_CONFIG } from '../config/site';
+
+const amazonTag = SITE_CONFIG.amazon.tag;
+---
+
+<section id="routine-finder" class="routine-finder-section">
+    <div class="finder-container">
+        <div class="finder-header">
+            <span class="finder-eyebrow">✨ 30-Second Interactive Quiz</span>
+            <h2 class="finder-title">Find Your Personalized Indian Skincare Routine</h2>
+            <p class="finder-subtitle">
+                Overwhelmed by skincare options? Answer 3 quick questions about your skin and climate to get a customized, dermatologist-aligned AM & PM regimen with top-rated Amazon India products.
+            </p>
+        </div>
+
+        <!-- Quiz Container Card -->
+        <div class="quiz-card" id="quiz-card">
+            <!-- Progress Bar -->
+            <div class="quiz-progress-bar">
+                <div class="progress-fill" id="quiz-progress-fill" style="width: 33%;"></div>
+            </div>
+            <div class="quiz-step-indicator" id="quiz-step-indicator">Step 1 of 3: Your Skin Type</div>
+
+            <!-- STEP 1: SKIN TYPE -->
+            <div class="quiz-step active" id="quiz-step-1">
+                <h3 class="step-question">What is your primary skin type?</h3>
+                <p class="step-hint">How does your skin feel 2 hours after washing your face without applying products?</p>
+                <div class="options-grid">
+                    <button type="button" class="option-btn" data-step="1" data-val="oily">
+                        <span class="opt-icon">✨</span>
+                        <span class="opt-title">Oily / Shiny</span>
+                        <span class="opt-desc">Greasy T-zone, large visible pores, prone to midday shine</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="1" data-val="dry">
+                        <span class="opt-icon">🏜️</span>
+                        <span class="opt-title">Dry / Flaky</span>
+                        <span class="opt-desc">Tight feeling, rough patches, dullness, needs heavy moisture</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="1" data-val="combination">
+                        <span class="opt-icon">⚖️</span>
+                        <span class="opt-title">Combination</span>
+                        <span class="opt-desc">Oily forehead & nose, normal or dry cheeks</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="1" data-val="sensitive">
+                        <span class="opt-icon">🌸</span>
+                        <span class="opt-title">Sensitive / Reactive</span>
+                        <span class="opt-desc">Turns red easily, stings from fragrances, easily inflamed</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- STEP 2: CONCERN -->
+            <div class="quiz-step" id="quiz-step-2">
+                <h3 class="step-question">What is your #1 skin concern to fix?</h3>
+                <p class="step-hint">Select the single issue you want your active serums to target first.</p>
+                <div class="options-grid">
+                    <button type="button" class="option-btn" data-step="2" data-val="acne">
+                        <span class="opt-icon">🎯</span>
+                        <span class="opt-title">Active Acne & Blackheads</span>
+                        <span class="opt-desc">Clogged pores, pimples, whiteheads, excess sebum</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="2" data-val="pigmentation">
+                        <span class="opt-icon">☀️</span>
+                        <span class="opt-title">Dark Spots & Tanning</span>
+                        <span class="opt-desc">Post-acne brown marks (PIH), sun tan, uneven tone</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="2" data-val="dullness">
+                        <span class="opt-icon">💡</span>
+                        <span class="opt-title">Dullness & Dehydration</span>
+                        <span class="opt-desc">Tired-looking skin lacking bounce, glow, and luminosity</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="2" data-val="barrier">
+                        <span class="opt-icon">🛡️</span>
+                        <span class="opt-title">Damaged Skin Barrier</span>
+                        <span class="opt-desc">Stinging, burning, over-exfoliated from strong peeling acids</span>
+                    </button>
+                </div>
+                <div class="step-nav">
+                    <button type="button" class="back-btn" id="back-to-step-1">← Back</button>
+                </div>
+            </div>
+
+            <!-- STEP 3: PREFERENCE -->
+            <div class="quiz-step" id="quiz-step-3">
+                <h3 class="step-question">What texture and finish do you prefer?</h3>
+                <p class="step-hint">Tailored to your climate and daily lifestyle.</p>
+                <div class="options-grid">
+                    <button type="button" class="option-btn" data-step="3" data-val="matte">
+                        <span class="opt-icon">🍃</span>
+                        <span class="opt-title">Weightless Matte / Gel</span>
+                        <span class="opt-desc">Zero stickiness, absorbs in seconds, ideal for humid summers</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="3" data-val="dewy">
+                        <span class="opt-icon">✨</span>
+                        <span class="opt-title">Glass-Skin Dewy Glow</span>
+                        <span class="opt-desc">Hydrated, luminous plump finish that catches the light</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="3" data-val="nourishing">
+                        <span class="opt-icon">🧴</span>
+                        <span class="opt-title">Deep Nourishment</span>
+                        <span class="opt-desc">Rich barrier creams to seal in moisture in AC or dry winters</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="3" data-val="minimalist">
+                        <span class="opt-icon">🔬</span>
+                        <span class="opt-title">Fragrance-Free / Clinical</span>
+                        <span class="opt-desc">Strictly zero essential oils, dyes, or perfumes</span>
+                    </button>
+                </div>
+                <div class="step-nav">
+                    <button type="button" class="back-btn" id="back-to-step-2">← Back</button>
+                </div>
+            </div>
+
+            <!-- RESULT SCREEN -->
+            <div class="quiz-step" id="quiz-result">
+                <div class="result-badge-top">🎯 MATCH COMPLETE</div>
+                <h3 class="result-title" id="result-title">Your Tailored 3-Step Indian Regimen</h3>
+                <p class="result-summary" id="result-summary">Based on your skin profile, here is your high-efficacy AM & PM protocol curated from top-rated Amazon India bestsellers.</p>
+
+                <!-- Routine Tabs -->
+                <div class="routine-tabs">
+                    <button type="button" class="tab-btn active" id="tab-am">☀️ Morning (AM) Routine</button>
+                    <button type="button" class="tab-btn" id="tab-pm">🌙 Night (PM) Routine</button>
+                </div>
+
+                <!-- Products Container -->
+                <div class="routine-products-grid" id="routine-products-container">
+                    <!-- Populated dynamically via JS -->
+                </div>
+
+                <div class="result-actions">
+                    <button type="button" class="retake-btn" id="retake-quiz-btn">🔄 Retake Quiz</button>
+                    <button type="button" class="share-btn" id="copy-routine-btn">📋 Copy My Routine</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script is:inline define:vars={{ amazonTag }}>
+(function() {
+    const answers = {
+        skinType: '',
+        concern: '',
+        preference: ''
+    };
+
+    // Product Database for Routine Builder
+    const CATALOG = {
+        cleansers: {
+            oily: {
+                name: 'Minimalist 2% Salicylic Acid Face Wash',
+                brand: 'Minimalist',
+                price: '~₹299',
+                rating: '4.7 ★ (21k+ reviews)',
+                benefit: 'Dissolves trapped sebum & blackheads with 2% BHA + LHA',
+                asin: 'B096PJMGPL'
+            },
+            dry: {
+                name: 'Cetaphil Gentle Skin Hydrating Cleanser',
+                brand: 'Cetaphil',
+                price: '~₹380',
+                rating: '4.7 ★ (28k+ reviews)',
+                benefit: 'Soap-free, preserves skin natural moisture barrier',
+                asin: 'B01CCGW4OE'
+            },
+            combination: {
+                name: 'CeraVe Foaming Facial Cleanser',
+                brand: 'CeraVe',
+                price: '~₹390',
+                rating: '4.8 ★ (32k+ reviews)',
+                benefit: '3 Essential Ceramides + Niacinamide balance oil & hydration',
+                asin: 'B07C5SKVL7'
+            },
+            sensitive: {
+                name: 'Cetaphil Gentle Skin Hydrating Cleanser',
+                brand: 'Cetaphil',
+                price: '~₹380',
+                rating: '4.7 ★ (28k+ reviews)',
+                benefit: 'Clinically tested for reactive, easily reddened skin',
+                asin: 'B01CCGW4OE'
+            }
+        },
+        serums: {
+            acne: {
+                name: 'Minimalist 10% Niacinamide Serum with Zinc PCA',
+                brand: 'Minimalist',
+                price: '~₹599',
+                rating: '4.8 ★ (25k+ reviews)',
+                benefit: 'Tightens open pores, calms red blemishes & controls sebum',
+                asin: 'B08F9WPM24'
+            },
+            pigmentation: {
+                name: 'Minimalist 10% Vitamin C Face Serum with Centella',
+                brand: 'Minimalist',
+                price: '~₹699',
+                rating: '4.7 ★ (17k+ reviews)',
+                benefit: 'Stable Ethyl Ascorbic Acid targets dark spots & post-acne marks',
+                asin: 'B096VJ969J'
+            },
+            dullness: {
+                name: 'Plum 15% Vitamin C Face Serum with Mandarin',
+                brand: 'Plum',
+                price: '~₹550',
+                rating: '4.6 ★ (15k+ reviews)',
+                benefit: 'High-strength antioxidant glow booster that restores radiance',
+                asin: 'B094R9TDRW'
+            },
+            barrier: {
+                name: 'Minimalist 10% Niacinamide Serum with EUGEL',
+                brand: 'Minimalist',
+                price: '~₹599',
+                rating: '4.8 ★ (25k+ reviews)',
+                benefit: 'Strengthens intercellular lipid synthesis and reduces sensitivity',
+                asin: 'B08F9WPM24'
+            }
+        },
+        sunscreens: {
+            matte: {
+                name: 'The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50',
+                brand: 'The Derma Co',
+                price: '~₹449',
+                rating: '4.7 ★ (19k+ reviews)',
+                benefit: 'Ultra-light water gel, zero white cast, completely matte finish',
+                asin: 'B0BVWDJTHF'
+            },
+            dewy: {
+                name: 'Dot & Key Watermelon Cooling Sunscreen SPF 50+',
+                brand: 'Dot & Key',
+                price: '~₹395',
+                rating: '4.6 ★ (14k+ reviews)',
+                benefit: 'Instant cooling burst with luminous glass-skin finish',
+                asin: 'B0BQN2YWN5'
+            },
+            nourishing: {
+                name: 'Minimalist SPF 50 PA++++ Multi-Vitamin Sunscreen',
+                brand: 'Minimalist',
+                price: '~₹399',
+                rating: '4.8 ★ (24k+ reviews)',
+                benefit: 'Photostable UV defense infused with repairing multi-vitamins',
+                asin: 'B09FPS9D5T'
+            },
+            minimalist: {
+                name: 'Minimalist SPF 50 PA++++ Multi-Vitamin Sunscreen',
+                brand: 'Minimalist',
+                price: '~₹399',
+                rating: '4.8 ★ (24k+ reviews)',
+                benefit: 'Fragrance-free, new-generation European UV filters',
+                asin: 'B09FPS9D5T'
+            }
+        },
+        moisturizers: {
+            matte: {
+                name: 'Minimalist Vitamin B5 10% Oil-Free Moisturizer',
+                brand: 'Minimalist',
+                price: '~₹349',
+                rating: '4.6 ★ (12k+ reviews)',
+                benefit: 'Non-greasy oil-free gel that hydrates without clogging',
+                asin: 'B094R9TFQ2'
+            },
+            dewy: {
+                name: 'Dot & Key Rice Water & Ceramide Deep Moisturizer',
+                brand: 'Dot & Key',
+                price: '~₹395',
+                rating: '4.7 ★ (18k+ reviews)',
+                benefit: 'Fermented rice extract + 5 ceramides for all-day glass glow',
+                asin: 'B0BDVG99J5'
+            },
+            nourishing: {
+                name: 'CeraVe Moisturizing Cream with 3 Essential Ceramides',
+                brand: 'CeraVe',
+                price: '~₹420',
+                rating: '4.8 ★ (45k+ reviews)',
+                benefit: 'Patented MVE technology for 24-hour continuous lipid repair',
+                asin: 'B00TTD9BRC'
+            },
+            minimalist: {
+                name: 'CeraVe Moisturizing Cream with 3 Essential Ceramides',
+                brand: 'CeraVe',
+                price: '~₹420',
+                rating: '4.8 ★ (45k+ reviews)',
+                benefit: 'Accepted by National Eczema Association, 0% fragrance',
+                asin: 'B00TTD9BRC'
+            }
+        }
+    };
+
+    function updateStep(step) {
+        const fill = document.getElementById('quiz-progress-fill');
+        const indicator = document.getElementById('quiz-step-indicator');
+        
+        document.querySelectorAll('.quiz-step').forEach(el => el.classList.remove('active'));
+
+        if (step === 1) {
+            document.getElementById('quiz-step-1').classList.add('active');
+            fill.style.width = '33%';
+            indicator.textContent = 'Step 1 of 3: Your Skin Type';
+        } else if (step === 2) {
+            document.getElementById('quiz-step-2').classList.add('active');
+            fill.style.width = '66%';
+            indicator.textContent = 'Step 2 of 3: Primary Concern';
+        } else if (step === 3) {
+            document.getElementById('quiz-step-3').classList.add('active');
+            fill.style.width = '100%';
+            indicator.textContent = 'Step 3 of 3: Finish & Texture Preference';
+        } else if (step === 4) {
+            document.getElementById('quiz-result').classList.add('active');
+            fill.style.width = '100%';
+            indicator.textContent = '✅ Analysis Complete';
+            renderResults();
+        }
+    }
+
+    // Handle Option Clicks
+    document.querySelectorAll('.option-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            const step = parseInt(this.getAttribute('data-step'));
+            const val = this.getAttribute('data-val');
+
+            if (step === 1) {
+                answers.skinType = val;
+                updateStep(2);
+            } else if (step === 2) {
+                answers.concern = val;
+                updateStep(3);
+            } else if (step === 3) {
+                answers.preference = val;
+                updateStep(4);
+            }
+        });
+    });
+
+    // Back buttons
+    const back1 = document.getElementById('back-to-step-1');
+    if (back1) back1.addEventListener('click', () => updateStep(1));
+    const back2 = document.getElementById('back-to-step-2');
+    if (back2) back2.addEventListener('click', () => updateStep(2));
+
+    const retakeBtn = document.getElementById('retake-quiz-btn');
+    if (retakeBtn) retakeBtn.addEventListener('click', () => {
+        answers.skinType = '';
+        answers.concern = '';
+        answers.preference = '';
+        updateStep(1);
+    });
+
+    let activeRoutineTab = 'am';
+
+    function renderResults() {
+        const skinType = answers.skinType || 'combination';
+        const concern = answers.concern || 'acne';
+        const pref = answers.preference || 'matte';
+
+        const cleanser = CATALOG.cleansers[skinType] || CATALOG.cleansers.combination;
+        const serum = CATALOG.serums[concern] || CATALOG.serums.acne;
+        const sunscreen = CATALOG.sunscreens[pref] || CATALOG.sunscreens.matte;
+        const moisturizer = CATALOG.moisturizers[pref] || CATALOG.moisturizers.dewy;
+
+        const container = document.getElementById('routine-products-container');
+        if (!container) return;
+
+        function buildCard(stepNum, stepName, prod) {
+            const affiliateUrl = 'https://www.amazon.in/dp/' + prod.asin + '?tag=' + amazonTag;
+            return `
+                <div class="result-product-card">
+                    <div class="prod-step-tag">Step ${stepNum}: ${stepName}</div>
+                    <div class="prod-brand">${prod.brand}</div>
+                    <h4 class="prod-title">${prod.name}</h4>
+                    <div class="prod-meta">
+                        <span class="prod-rating">${prod.rating}</span>
+                        <span class="prod-price">${prod.price}</span>
+                    </div>
+                    <p class="prod-benefit">${prod.benefit}</p>
+                    <a href="${affiliateUrl}" target="_blank" rel="nofollow sponsored noopener" class="prod-cta-btn">
+                        <span>Check Price on Amazon.in</span>
+                        <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
+                        </svg>
+                    </a>
+                </div>
+            `;
+        }
+
+        if (activeRoutineTab === 'am') {
+            container.innerHTML = `
+                ${buildCard(1, 'Cleanse', cleanser)}
+                ${buildCard(2, 'Target Active', serum)}
+                ${buildCard(3, 'Defend (SPF 50+)', sunscreen)}
+            `;
+        } else {
+            container.innerHTML = `
+                ${buildCard(1, 'Double Cleanse', cleanser)}
+                ${buildCard(2, 'Night Treatment', serum)}
+                ${buildCard(3, 'Barrier Seal', moisturizer)}
+            `;
+        }
+    }
+
+    const tabAm = document.getElementById('tab-am');
+    const tabPm = document.getElementById('tab-pm');
+    if (tabAm && tabPm) {
+        tabAm.addEventListener('click', () => {
+            tabAm.classList.add('active');
+            tabPm.classList.remove('active');
+            activeRoutineTab = 'am';
+            renderResults();
+        });
+        tabPm.addEventListener('click', () => {
+            tabPm.classList.add('active');
+            tabAm.classList.remove('active');
+            activeRoutineTab = 'pm';
+            renderResults();
+        });
+    }
+
+    const copyBtn = document.getElementById('copy-routine-btn');
+    if (copyBtn) {
+        copyBtn.addEventListener('click', () => {
+            const text = 'My OraeSkin Custom Skincare Routine:\\nSkin Type: ' + answers.skinType + '\\nConcern: ' + answers.concern + '\\nFind your routine on: https://www.oraeskin.in/#routine-finder';
+            navigator.clipboard.writeText(text).then(() => {
+                copyBtn.textContent = '✓ Routine Copied!';
+                setTimeout(() => { copyBtn.textContent = '📋 Copy My Routine'; }, 2000);
+            });
+        });
+    }
+})();
+</script>
+
+<style>
+    .routine-finder-section {
+        padding: 5rem 1rem;
+        background: linear-gradient(180deg, #fbfbfa 0%, #f4eee7 100%);
+        border-top: 1px solid rgba(212, 163, 115, 0.2);
+        border-bottom: 1px solid rgba(212, 163, 115, 0.2);
+    }
+
+    .finder-container {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .finder-header {
+        text-align: center;
+        margin-bottom: 2.5rem;
+    }
+
+    .finder-eyebrow {
+        display: inline-block;
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: #b07d4b;
+        background: rgba(212, 163, 115, 0.15);
+        padding: 0.4rem 0.9rem;
+        border-radius: 9999px;
+        margin-bottom: 0.75rem;
+    }
+
+    .finder-title {
+        font-family: 'Cinzel', serif;
+        font-size: 2.25rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin: 0 0 1rem 0;
+        line-height: 1.25;
+    }
+
+    .finder-subtitle {
+        font-size: 1.05rem;
+        color: #64748b;
+        max-width: 680px;
+        margin: 0 auto;
+        line-height: 1.6;
+    }
+
+    .quiz-card {
+        background: #ffffff;
+        border: 1px solid rgba(44, 53, 64, 0.12);
+        border-radius: 20px;
+        padding: 2.5rem;
+        box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.08);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .quiz-progress-bar {
+        height: 6px;
+        background: #f1f5f9;
+        border-radius: 9999px;
+        overflow: hidden;
+        margin-bottom: 1.25rem;
+    }
+
+    .progress-fill {
+        height: 100%;
+        background: linear-gradient(90deg, #d4a373 0%, #b07d4b 100%);
+        border-radius: 9999px;
+        transition: width 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .quiz-step-indicator {
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #94a3b8;
+        margin-bottom: 1.5rem;
+    }
+
+    .quiz-step {
+        display: none;
+        animation: fadeIn 0.35s ease;
+    }
+
+    .quiz-step.active {
+        display: block;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    .step-question {
+        font-family: 'Cinzel', serif;
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin: 0 0 0.4rem 0;
+    }
+
+    .step-hint {
+        font-size: 0.95rem;
+        color: #64748b;
+        margin: 0 0 1.75rem 0;
+    }
+
+    .options-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.25rem;
+        margin-bottom: 2rem;
+    }
+
+    @media (max-width: 640px) {
+        .options-grid {
+            grid-template-columns: 1fr;
+        }
+        .quiz-card {
+            padding: 1.5rem;
+        }
+        .finder-title {
+            font-size: 1.75rem;
+        }
+    }
+
+    .option-btn {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+        padding: 1.25rem;
+        background: #f8fafc;
+        border: 2px solid transparent;
+        border-radius: 14px;
+        cursor: pointer;
+        transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .option-btn:hover {
+        background: #ffffff;
+        border-color: #d4a373;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(212, 163, 115, 0.2);
+    }
+
+    .opt-icon {
+        font-size: 1.75rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .opt-title {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin-bottom: 0.3rem;
+    }
+
+    .opt-desc {
+        font-size: 0.85rem;
+        color: #64748b;
+        line-height: 1.4;
+    }
+
+    .step-nav {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .back-btn {
+        background: transparent;
+        border: none;
+        color: #64748b;
+        font-size: 0.9rem;
+        font-weight: 600;
+        cursor: pointer;
+        padding: 0.5rem 0;
+        transition: color 0.2s ease;
+    }
+
+    .back-btn:hover {
+        color: #1e293b;
+    }
+
+    /* Result styling */
+    .result-badge-top {
+        display: inline-block;
+        font-size: 0.75rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        background: #dcfce7;
+        color: #166534;
+        padding: 0.35rem 0.8rem;
+        border-radius: 9999px;
+        margin-bottom: 0.75rem;
+    }
+
+    .result-title {
+        font-family: 'Cinzel', serif;
+        font-size: 1.85rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin: 0 0 0.5rem 0;
+    }
+
+    .result-summary {
+        font-size: 1rem;
+        color: #64748b;
+        margin-bottom: 1.75rem;
+    }
+
+    .routine-tabs {
+        display: flex;
+        gap: 0.5rem;
+        background: #f1f5f9;
+        padding: 0.35rem;
+        border-radius: 12px;
+        margin-bottom: 1.75rem;
+        max-width: 400px;
+    }
+
+    .tab-btn {
+        flex: 1;
+        padding: 0.65rem 1rem;
+        border: none;
+        background: transparent;
+        border-radius: 9px;
+        font-size: 0.875rem;
+        font-weight: 700;
+        color: #64748b;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .tab-btn.active {
+        background: #ffffff;
+        color: #1e293b;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+
+    .routine-products-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1.25rem;
+        margin-bottom: 2rem;
+    }
+
+    @media (max-width: 768px) {
+        .routine-products-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .result-product-card {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 14px;
+        padding: 1.25rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        transition: transform 0.2s ease;
+    }
+
+    .result-product-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
+    }
+
+    .prod-step-tag {
+        font-size: 0.725rem;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: #b07d4b;
+        margin-bottom: 0.5rem;
+    }
+
+    .prod-brand {
+        font-size: 0.8rem;
+        color: #94a3b8;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+    .prod-title {
+        font-size: 1rem;
+        font-weight: 700;
+        color: #1e293b;
+        margin: 0.2rem 0 0.5rem 0;
+        line-height: 1.35;
+    }
+
+    .prod-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 0.8rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .prod-rating {
+        color: #d97706;
+        font-weight: 700;
+    }
+
+    .prod-price {
+        color: #0f172a;
+        font-weight: 700;
+    }
+
+    .prod-benefit {
+        font-size: 0.825rem;
+        color: #64748b;
+        line-height: 1.45;
+        margin-bottom: 1rem;
+        flex-grow: 1;
+    }
+
+    .prod-cta-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.4rem;
+        background: #d4a373;
+        color: #ffffff;
+        padding: 0.65rem 1rem;
+        border-radius: 8px;
+        font-weight: 700;
+        font-size: 0.825rem;
+        text-decoration: none;
+        transition: background 0.2s ease;
+    }
+
+    .prod-cta-btn:hover {
+        background: #b07d4b;
+    }
+
+    .result-actions {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+        flex-wrap: wrap;
+        padding-top: 1rem;
+        border-top: 1px solid #f1f5f9;
+    }
+
+    .retake-btn, .share-btn {
+        padding: 0.75rem 1.5rem;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 0.9rem;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .retake-btn {
+        background: #f1f5f9;
+        border: 1px solid #cbd5e1;
+        color: #334155;
+    }
+
+    .retake-btn:hover {
+        background: #e2e8f0;
+    }
+
+    .share-btn {
+        background: linear-gradient(135deg, #2c3540 0%, #1a202c 100%);
+        border: none;
+        color: #ffffff;
+        box-shadow: 0 4px 12px rgba(44, 53, 64, 0.2);
+    }
+
+    .share-btn:hover {
+        background: #0f172a;
+        transform: translateY(-1px);
+    }
+</style>

@@ -1,0 +1,147 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_CONFIG } from '../config/site';
+---
+
+<Layout title="Affiliate & Editorial Disclosure | OraeSkin">
+    <Header />
+    <main style="padding-top: 130px; padding-bottom: 90px;">
+        <article class="container disclosure-article">
+            <header class="disclosure-header">
+                <span class="eyebrow">Transparency & Trust</span>
+                <h1>Affiliate & Editorial Disclosure</h1>
+                <p class="last-updated">Last Updated: September 2026</p>
+            </header>
+
+            <div class="disclosure-body">
+                <div class="highlight-callout">
+                    <strong>Official Amazon Associates Statement:</strong>
+                    <p>
+                        "OraeSkin (www.oraeskin.in) is a participant in the Amazon Services LLC Associates Program and Amazon Associates India Programme, affiliate advertising programs designed to provide a means for sites to earn advertising fees and commissions by advertising and linking to Amazon.in and affiliated Amazon sites."
+                    </p>
+                </div>
+
+                <h2>1. How Affiliate Links Work on OraeSkin</h2>
+                <p>
+                    Throughout our website, you will find product reviews, curated buying guides, and comparison tables. Many of the product links point to <strong>Amazon.in</strong> with our associate tag (<code>{SITE_CONFIG.amazon.tag}</code>).
+                </p>
+                <p>
+                    When you click on these links and make a purchase, Amazon pays us a small referral commission. 
+                    <strong>This happens at zero additional cost to you.</strong> The price you pay on Amazon India is identical whether you use our link or navigate to Amazon directly.
+                </p>
+
+                <h2 id="editorial">2. Our Editorial Independence & Review Process</h2>
+                <p>
+                    Our editorial integrity is our top priority. Our recommendations, product scores, pros & cons, and buying guides are created independently based on:
+                </p>
+                <ul>
+                    <li><strong>Ingredient efficacy</strong>: Active concentrations, non-comedogenic formulations, and suitability for Indian melanin-rich skin.</li>
+                    <li><strong>Weather performance</strong>: How products perform in Indian heat, high humidity, and urban air pollution.</li>
+                    <li><strong>Real customer verification</strong>: Analyzing hundreds of verified Indian customer reviews on Amazon India to weed out formulations that cause breakouts or white cast.</li>
+                    <li><strong>Value for money</strong>: Ensuring budget-friendly picks (under ₹500) stand up against luxury alternatives.</li>
+                </ul>
+                <p>
+                    We never accept payment or incentives from brands in exchange for a positive review. If a product fails to meet our standards, we clearly highlight its shortcomings in our "Keep in Mind" sections.
+                </p>
+
+                <h2>3. Medical & Dermatological Disclaimer</h2>
+                <p>
+                    The content on OraeSkin is provided for educational and informational purposes only. It is not intended as medical advice, diagnosis, or treatment. 
+                    Always consult a certified dermatologist or healthcare provider before introducing new active ingredients (such as high-strength Retinoids, BHAs, or AHAs) into your routine, especially if you have sensitive skin, rosacea, or are pregnant.
+                </p>
+
+                <h2>4. Questions or Concerns?</h2>
+                <p>
+                    If you have questions regarding our affiliate partnerships, review methodology, or suggestions for products we should review next, please feel free to reach out via our social channels or contact page.
+                </p>
+            </div>
+        </article>
+    </main>
+    <Footer />
+</Layout>
+
+<style>
+    .disclosure-article {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .disclosure-header {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.82rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1.5px;
+        margin-bottom: 8px;
+    }
+
+    .disclosure-header h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.6rem;
+        color: #2c2c2c;
+        margin: 0 0 12px 0;
+    }
+
+    .last-updated {
+        color: #888;
+        font-size: 0.9rem;
+    }
+
+    .disclosure-body {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: #3e3e3e;
+    }
+
+    .disclosure-body h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.5rem;
+        color: #2c2c2c;
+        margin-top: 36px;
+        margin-bottom: 14px;
+    }
+
+    .highlight-callout {
+        background: #fdfaf6;
+        border-left: 4px solid #c87a54;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 30px;
+        font-size: 0.98rem;
+    }
+
+    .highlight-callout strong {
+        color: #c87a54;
+        display: block;
+        margin-bottom: 6px;
+    }
+
+    .highlight-callout p {
+        margin: 0;
+        color: #4a4a4a;
+        font-style: italic;
+    }
+
+    .disclosure-body ul {
+        padding-left: 24px;
+        margin-bottom: 24px;
+    }
+
+    .disclosure-body li {
+        margin-bottom: 10px;
+    }
+
+    @media (max-width: 600px) {
+        .disclosure-header h1 {
+            font-size: 2rem;
+        }
+    }
+</style>

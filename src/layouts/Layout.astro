@@ -1,0 +1,90 @@
+---
+import '../styles/global.css';
+import Consent from '../components/Consent.astro';
+import { SITE_CONFIG } from '../config/site';
+
+export interface Props {
+	title?: string;
+    description?: string;
+    image?: string;
+}
+
+const { 
+    title = SITE_CONFIG.title,
+    description = SITE_CONFIG.description,
+    image = '/images/Oraeskin_FBCover.png'
+} = Astro.props;
+
+const canonicalUrl = `https://www.oraeskin.in${Astro.url.pathname}`;
+const fullImageUrl = image.startsWith('http') ? image : `https://www.oraeskin.in${image}`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Google Consent Mode -->
+		<script is:inline>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  
+		  // Default consent to 'denied'
+		  gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'analytics_storage': 'denied'
+		  });
+		</script>
+		
+		<!-- Google tag (gtag.js) -->
+		<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${SITE_CONFIG.googleAnalyticsId}`}></script>
+		<script is:inline define:vars={{ gaId: SITE_CONFIG.googleAnalyticsId }}>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', gaId);
+		</script>
+
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="icon" type="image/png" href="/images/favicon-logo.png" />
+		<link rel="apple-touch-icon" href="/images/favicon-logo.png" />
+		<meta name="generator" content={Astro.generator} />
+        <link rel="canonical" href={canonicalUrl} />
+		<title>{title}</title>
+
+        <!-- SEO & Meta -->
+        <meta name="description" content={description} />
+        <meta name="keywords" content="skincare reviews, best sunscreen for indian skin, amazon india skincare, facewash for acne, niacinamide serum, affordable skincare india, OraeSkin" />
+        <meta name="author" content="OraeSkin Skincare Editorial" />
+        
+        <!-- Open Graph / Social -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={canonicalUrl} />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={fullImageUrl} />
+        <meta property="og:site_name" content="OraeSkin" />
+
+        <!-- Twitter Cards -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={fullImageUrl} />
+
+        <!-- Preconnect Critical Resources -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..800&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<slot />
+        
+        <script>
+            import '../scripts/animations.js';
+        </script>
+        
+        <Consent />
+	</body>
+</html>

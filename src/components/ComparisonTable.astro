@@ -1,0 +1,205 @@
+---
+import { getAmazonAffiliateUrl } from '../config/site';
+
+interface ProductItem {
+    name: string;
+    brand: string;
+    badge?: string;
+    rating: number;
+    bestFor: string;
+    price: string;
+    asinOrUrl: string;
+    image?: string;
+}
+
+interface Props {
+    title?: string;
+    products: ProductItem[];
+}
+
+const { title = "Quick Comparison: Best Skincare Picks on Amazon India", products } = Astro.props;
+---
+
+<div class="comparison-wrapper">
+    {title && <h3 class="comparison-title">{title}</h3>}
+    <div class="table-scroll-container">
+        <table class="comparison-table">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Best For</th>
+                    <th>Rating</th>
+                    <th>Est. Price</th>
+                    <th>Amazon Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                {products.map((item, idx) => {
+                    const affiliateUrl = getAmazonAffiliateUrl(item.asinOrUrl);
+                    return (
+                        <tr class={idx === 0 ? "highlight-row" : ""}>
+                            <td class="product-cell">
+                                {item.badge && <span class="table-badge">{item.badge}</span>}
+                                <div class="product-cell-inner">
+                                    {item.image && (
+                                        <img src={item.image} alt={item.name} class="table-img" loading="lazy" />
+                                    )}
+                                    <div>
+                                        <span class="table-brand">{item.brand}</span>
+                                        <strong class="table-name">{item.name}</strong>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="best-for-cell">{item.bestFor}</td>
+                            <td class="rating-cell">
+                                <span class="table-stars">★</span> {item.rating}/5
+                            </td>
+                            <td class="price-cell">{item.price}</td>
+                            <td class="action-cell">
+                                <a 
+                                    href={affiliateUrl} 
+                                    target="_blank" 
+                                    rel="nofollow sponsored noopener" 
+                                    class="table-btn"
+                                >
+                                    Check on Amazon
+                                </a>
+                            </td>
+                        </tr>
+                    );
+                })}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<style>
+    .comparison-wrapper {
+        background: #ffffff;
+        border: 1px solid #ede5da;
+        border-radius: 16px;
+        padding: 24px;
+        margin: 36px 0;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+    }
+
+    .comparison-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.3rem;
+        margin: 0 0 16px 0;
+        color: #2c2c2c;
+    }
+
+    .table-scroll-container {
+        overflow-x: auto;
+    }
+
+    .comparison-table {
+        width: 100%;
+        border-collapse: collapse;
+        text-align: left;
+        font-size: 0.9rem;
+    }
+
+    .comparison-table th {
+        background: #faf6f0;
+        color: #4a3e36;
+        padding: 12px 16px;
+        font-weight: 600;
+        border-bottom: 2px solid #e8dfd3;
+        white-space: nowrap;
+    }
+
+    .comparison-table td {
+        padding: 14px 16px;
+        border-bottom: 1px solid #f0eae1;
+        vertical-align: middle;
+    }
+
+    .highlight-row {
+        background: #fffcf8;
+    }
+
+    .product-cell {
+        min-width: 220px;
+    }
+
+    .product-cell-inner {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .table-img {
+        width: 48px;
+        height: 48px;
+        object-fit: contain;
+        border-radius: 6px;
+        background: #fcfaf7;
+        padding: 4px;
+    }
+
+    .table-brand {
+        display: block;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        color: #c87a54;
+        font-weight: 600;
+    }
+
+    .table-name {
+        color: #2c2c2c;
+        font-size: 0.92rem;
+        line-height: 1.2;
+    }
+
+    .table-badge {
+        display: inline-block;
+        background: #c87a54;
+        color: #ffffff;
+        font-size: 0.68rem;
+        font-weight: 700;
+        padding: 2px 8px;
+        border-radius: 10px;
+        margin-bottom: 6px;
+        text-transform: uppercase;
+    }
+
+    .best-for-cell {
+        color: #555;
+        min-width: 150px;
+    }
+
+    .rating-cell {
+        font-weight: 600;
+        color: #333;
+        white-space: nowrap;
+    }
+
+    .table-stars {
+        color: #f59e0b;
+    }
+
+    .price-cell {
+        font-weight: 600;
+        color: #2e7d32;
+        white-space: nowrap;
+    }
+
+    .table-btn {
+        display: inline-block;
+        background: #e8863d;
+        color: #ffffff !important;
+        padding: 7px 14px;
+        border-radius: 20px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.8rem;
+        white-space: nowrap;
+        transition: background 0.2s ease;
+    }
+
+    .table-btn:hover {
+        background: #d3732b;
+    }
+</style>

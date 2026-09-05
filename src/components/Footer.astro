@@ -1,0 +1,243 @@
+---
+import { SITE_CONFIG } from '../config/site';
+---
+
+<footer class="site-footer">
+    <div class="container">
+        <!-- Top Newsletter / Trust Strip -->
+        <div class="footer-trust-strip">
+            <div class="trust-item">
+                <span class="trust-icon">🧪</span>
+                <div>
+                    <strong>Science-Backed Reviews</strong>
+                    <p>Ingredient breakdown for melanin-rich Indian skin</p>
+                </div>
+            </div>
+            <div class="trust-item">
+                <span class="trust-icon">🛍️</span>
+                <div>
+                    <strong>Amazon Verified Deals</strong>
+                    <p>Daily curated prices and Prime offers across India</p>
+                </div>
+            </div>
+            <div class="trust-item">
+                <span class="trust-icon">✨</span>
+                <div>
+                    <strong>100% Unbiased</strong>
+                    <p>Independent ratings, tested in real tropical weather</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-main-grid">
+            <div class="footer-brand-col">
+                <img src="/images/logo_opt.png" alt="OraeSkin Skincare Lab" class="footer-logo" width="180" height="67" loading="lazy">
+                <p class="brand-desc">
+                    India's definitive skincare editorial and buying guide. Helping you discover dermatologist-approved products, safe actives, and glowing skin.
+                </p>
+                <div class="footer-social-row">
+                    <a href={SITE_CONFIG.social.instagram} target="_blank" rel="noopener" aria-label="Instagram">Instagram</a>
+                    <a href={SITE_CONFIG.social.youtube} target="_blank" rel="noopener" aria-label="YouTube">YouTube</a>
+                    <a href={SITE_CONFIG.social.facebook} target="_blank" rel="noopener" aria-label="Facebook">Facebook</a>
+                    <a href={SITE_CONFIG.social.twitter} target="_blank" rel="noopener" aria-label="X">X (Twitter)</a>
+                </div>
+            </div>
+
+            <div class="footer-links-col">
+                <h4>Popular Guides</h4>
+                <ul>
+                    <li><a href="/blog/best-sunscreens-for-indian-skin">Best Sunscreens for Indian Skin</a></li>
+                    <li><a href="/blog/best-cleansers-acne-oily-skin">Best Cleansers for Oily Skin</a></li>
+                    <li><a href="/blog/rice-water-vitamin-e-benefits">Rice Water & Vitamin E Benefits</a></li>
+                    <li><a href="/blog/avocado-cream-benefits">Avocado Cream for Deep Hydration</a></li>
+                    <li><a href="/blog/transformative-power-facewash">Facewash Routine Guide</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links-col">
+                <h4>Categories</h4>
+                <ul>
+                    <li><a href="/#concerns">Sun Protection & SPF 50</a></li>
+                    <li><a href="/#concerns">Acne & Salicylic Acid</a></li>
+                    <li><a href="/#concerns">Niacinamide & Brightening</a></li>
+                    <li><a href="/#concerns">Barrier Repair & Ceramides</a></li>
+                    <li><a href="/#top-picks">Amazon Skincare Deals</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links-col">
+                <h4>Editorial & Legal</h4>
+                <ul>
+                    <li><a href="/disclosure">Amazon Affiliate Disclosure</a></li>
+                    <li><a href="/disclosure#editorial">Review Methodology</a></li>
+                    <li><a href="mailto:contact@oraeskin.in">Contact Editorial Team</a></li>
+                    <li><a href="/sitemap.xml">XML Sitemap</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Mandatory Amazon Associates Disclaimer Banner -->
+        <div class="amazon-compliance-banner">
+            <p>
+                <strong>Amazon Associates Disclosure:</strong> OraeSkin (www.oraeskin.in) is a participant in the Amazon Associates India Programme, an affiliate advertising program designed to provide a means for websites to earn advertising fees by advertising and linking to Amazon.in. As an Amazon Associate, OraeSkin earns from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.
+            </p>
+        </div>
+
+        <div class="footer-bottom-bar">
+            <p>&copy; 2026 OraeSkin. All Rights Reserved. Independent Skincare Reviews & Buying Guides for India.</p>
+        </div>
+    </div>
+</footer>
+
+<style>
+    .site-footer {
+        background: #2a2523;
+        color: #e0d8d0;
+        padding: 60px 0 30px 0;
+        border-top: 4px solid #c87a54;
+    }
+
+    .footer-trust-strip {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 24px;
+        padding-bottom: 40px;
+        margin-bottom: 40px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .trust-item {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+    }
+
+    .trust-icon {
+        font-size: 1.8rem;
+    }
+
+    .trust-item strong {
+        display: block;
+        color: #ffffff;
+        font-size: 0.95rem;
+    }
+
+    .trust-item p {
+        margin: 2px 0 0 0;
+        font-size: 0.82rem;
+        color: #b5aaa0;
+    }
+
+    .footer-main-grid {
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr 1fr;
+        gap: 40px;
+        margin-bottom: 40px;
+    }
+
+    .footer-logo {
+        height: 60px;
+        width: auto;
+        margin-bottom: 16px;
+        filter: brightness(0) invert(1);
+    }
+
+    .brand-desc {
+        font-size: 0.88rem;
+        line-height: 1.6;
+        color: #b5aaa0;
+        max-width: 320px;
+        margin-bottom: 20px;
+    }
+
+    .footer-social-row {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+    }
+
+    .footer-social-row a {
+        color: #d4a574;
+        font-size: 0.85rem;
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.2s ease;
+    }
+
+    .footer-social-row a:hover {
+        color: #ffffff;
+    }
+
+    .footer-links-col h4 {
+        color: #ffffff;
+        font-size: 1rem;
+        margin: 0 0 16px 0;
+        font-family: 'Playfair Display', serif;
+        letter-spacing: 0.5px;
+    }
+
+    .footer-links-col ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .footer-links-col li {
+        margin-bottom: 10px;
+    }
+
+    .footer-links-col a {
+        color: #b5aaa0;
+        text-decoration: none;
+        font-size: 0.85rem;
+        transition: color 0.2s ease;
+    }
+
+    .footer-links-col a:hover {
+        color: #d4a574;
+    }
+
+    .amazon-compliance-banner {
+        background: rgba(0, 0, 0, 0.25);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 8px;
+        padding: 16px 20px;
+        margin-bottom: 24px;
+        font-size: 0.78rem;
+        line-height: 1.6;
+        color: #9c9187;
+    }
+
+    .amazon-compliance-banner p {
+        margin: 0;
+    }
+
+    .amazon-compliance-banner strong {
+        color: #d4a574;
+    }
+
+    .footer-bottom-bar {
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+        padding-top: 20px;
+        text-align: center;
+        font-size: 0.8rem;
+        color: #8c8279;
+    }
+
+    @media (max-width: 900px) {
+        .footer-main-grid {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .footer-main-grid {
+            grid-template-columns: 1fr;
+            gap: 28px;
+        }
+
+        .footer-trust-strip {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>

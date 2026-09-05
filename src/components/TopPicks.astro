@@ -1,0 +1,186 @@
+---
+import ProductCard from './ProductCard.astro';
+
+const topPicks = [
+    {
+        rank: 1,
+        title: "SPF 50 PA++++ Multi-Vitamin Sunscreen with Niacinamide",
+        brand: "Minimalist",
+        image: "/images/products/minimalist-spf50.jpg",
+        asinOrUrl: "B09FPS9D5T",
+        rating: 4.8,
+        reviewCount: "16,400+",
+        badge: "Best Overall Sunscreen",
+        bestFor: "All Indian Skin Types (Zero White Cast & Lightweight)",
+        keyIngredients: ["Niacinamide (Vitamin B3)", "Vitamin B5", "Photostable European Filters"],
+        pros: [
+            "Completely invisible on melanin-rich Indian skin",
+            "Non-comedogenic, won't clog pores in humid weather",
+            "Photostable and fragrance-free daily wear"
+        ],
+        cons: [
+            "Slightly dewy finish (oily skin may prefer powder touch-up)"
+        ],
+        priceEstimate: "₹399"
+    },
+    {
+        rank: 2,
+        title: "1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++)",
+        brand: "The Derma Co",
+        image: "/images/products/dermaco-hyaluronic.jpg",
+        asinOrUrl: "B0BVWDJTHF",
+        rating: 4.7,
+        reviewCount: "11,800+",
+        badge: "Best for Oily & Acne-Prone",
+        bestFor: "Oily skin, active acne, and hot humid climate",
+        keyIngredients: ["1% Hyaluronic Acid", "Vitamin E", "Broad Spectrum UV Filters"],
+        pros: [
+            "Ultra-lightweight water gel that absorbs in seconds",
+            "Protects against blue light and harsh UV damage",
+            "Zero greasy residue beneath daily makeup"
+        ],
+        cons: [
+            "Shake tube gently before first dispensing"
+        ],
+        priceEstimate: "₹449"
+    },
+    {
+        rank: 3,
+        title: "Foaming Facial Cleanser with 3 Essential Ceramides",
+        brand: "CeraVe",
+        image: "/images/products/cerave-cleanser.jpg",
+        asinOrUrl: "B07C5SKVL7",
+        rating: 4.8,
+        reviewCount: "28,500+",
+        badge: "Dermatologist #1 Pick",
+        bestFor: "Normal to oily, sensitive, and barrier-compromised skin",
+        keyIngredients: ["Ceramides 1, 3, 6-II", "Hyaluronic Acid", "Niacinamide"],
+        pros: [
+            "Maintains natural skin barrier while purifying excess sebum",
+            "Non-irritating, fragrance-free formula tested on sensitive skin",
+            "Generous size that lasts multiple months"
+        ],
+        cons: [
+            "Mild lather (does not foam aggressively)"
+        ],
+        priceEstimate: "₹390"
+    },
+    {
+        rank: 4,
+        title: "Barrier Repair Moisturizer with Ceramides & Rice Water",
+        brand: "Dot & Key",
+        image: "/images/products/dotkey-rice-cream.jpg",
+        asinOrUrl: "B0BDVG99J5",
+        rating: 4.7,
+        reviewCount: "7,300+",
+        badge: "Best Barrier Repair",
+        bestFor: "Dullness, dehydrated skin barrier, and post-acne marks",
+        keyIngredients: ["Fermented Rice Water", "5 Essential Ceramides", "Hyaluronic Acid", "Probiotics"],
+        pros: [
+            "Deeply replenishes intercellular lipids and heals dry patches",
+            "Delivers radiant, supple Korean glass-skin bounce",
+            "Lightweight gel-cream texture, zero stickiness"
+        ],
+        cons: [
+            "Subtle natural scent"
+        ],
+        priceEstimate: "₹395"
+    }
+];
+---
+
+<section id="top-picks" class="top-picks-section">
+    <div class="container">
+        <div class="section-header">
+            <div class="header-left">
+                <span class="eyebrow">Amazon India Verified • 2026</span>
+                <h2>Editor's Choice Top Skincare Products</h2>
+                <p>Independently tested single products with verified ratings and direct Amazon.in Prime links.</p>
+            </div>
+            <div class="header-right">
+                <span class="verified-badge">
+                    <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                    </svg>
+                    Amazon Verified Products
+                </span>
+            </div>
+        </div>
+
+        <div class="products-list">
+            {topPicks.map((product) => (
+                <ProductCard {...product} />
+            ))}
+        </div>
+    </div>
+</section>
+
+<style>
+    .top-picks-section {
+        padding: 70px 0;
+        background: #ffffff;
+    }
+
+    .section-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .header-left {
+        max-width: 650px;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1.5px;
+        margin-bottom: 6px;
+    }
+
+    .section-header h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.3rem;
+        color: #2c2c2c;
+        margin: 0 0 8px 0;
+    }
+
+    .section-header p {
+        color: #666;
+        margin: 0;
+        font-size: 1.05rem;
+    }
+
+    .verified-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: #eef7ee;
+        color: #2b7a2b;
+        font-weight: 600;
+        font-size: 0.85rem;
+        padding: 8px 16px;
+        border-radius: 20px;
+    }
+
+    .products-list {
+        margin-top: 20px;
+    }
+
+    @media (max-width: 768px) {
+        .section-header {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .section-header h2 {
+            font-size: 1.8rem;
+        }
+    }
+</style>

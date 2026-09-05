@@ -1,0 +1,117 @@
+---
+import { CATEGORIES } from '../data/categories';
+import { PRODUCTS } from '../data/products';
+
+interface Props {
+    activeSlug?: string;
+}
+
+const { activeSlug } = Astro.props;
+
+const totalProducts = PRODUCTS.length;
+---
+
+<nav class="category-nav-wrapper" aria-label="Skincare Categories">
+    <div class="category-nav-inner">
+        <a 
+            href="/categories" 
+            class:list={["category-pill", { active: activeSlug === 'all' || (!activeSlug && Astro.url.pathname === '/categories') }]}
+        >
+            <span class="category-icon">🌟</span>
+            <span class="category-label">All Categories</span>
+            <span class="category-count">{totalProducts}</span>
+        </a>
+        {CATEGORIES.map((cat) => {
+            const count = PRODUCTS.filter(p => p.category === cat.slug).length;
+            return (
+                <a 
+                    href={`/category/${cat.slug}`} 
+                    class:list={["category-pill", { active: activeSlug === cat.slug }]}
+                >
+                    <span class="category-icon">{cat.icon}</span>
+                    <span class="category-label">{cat.name}</span>
+                    <span class="category-count">{count}</span>
+                </a>
+            );
+        })}
+    </div>
+</nav>
+
+<style>
+    .category-nav-wrapper {
+        width: 100%;
+        overflow-x: auto;
+        padding: 0.75rem 0;
+        margin: 1.5rem 0;
+        scrollbar-width: thin;
+        scrollbar-color: rgba(212, 163, 115, 0.4) transparent;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .category-nav-wrapper::-webkit-scrollbar {
+        height: 4px;
+    }
+
+    .category-nav-wrapper::-webkit-scrollbar-thumb {
+        background: rgba(212, 163, 115, 0.4);
+        border-radius: 9999px;
+    }
+
+    .category-nav-inner {
+        display: flex;
+        gap: 0.75rem;
+        padding: 0 0.5rem;
+        min-width: max-content;
+    }
+
+    .category-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.6rem 1.1rem;
+        background: rgba(255, 255, 255, 0.85);
+        border: 1px solid rgba(44, 53, 64, 0.12);
+        border-radius: 9999px;
+        color: #2c3540;
+        text-decoration: none;
+        font-size: 0.875rem;
+        font-weight: 600;
+        transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+        white-space: nowrap;
+    }
+
+    .category-pill:hover {
+        background: #ffffff;
+        border-color: #d4a373;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(212, 163, 115, 0.2);
+        color: #b07d4b;
+    }
+
+    .category-pill.active {
+        background: linear-gradient(135deg, #2c3540 0%, #1a202c 100%);
+        color: #ffffff;
+        border-color: #2c3540;
+        box-shadow: 0 4px 12px rgba(44, 53, 64, 0.25);
+    }
+
+    .category-pill.active .category-count {
+        background: rgba(255, 255, 255, 0.2);
+        color: #ffffff;
+    }
+
+    .category-icon {
+        font-size: 1.1rem;
+        line-height: 1;
+    }
+
+    .category-count {
+        font-size: 0.75rem;
+        padding: 0.15rem 0.45rem;
+        background: rgba(44, 53, 64, 0.08);
+        border-radius: 9999px;
+        color: #64748b;
+        font-weight: 700;
+    }
+</style>
