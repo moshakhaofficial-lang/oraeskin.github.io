@@ -29,6 +29,22 @@ Usage:
 
 import os, sys, re, glob, json, random, urllib.request, urllib.parse
 
+def load_dotenv():
+    # Automatically load .env file from project root if it exists
+    env_path = os.path.join(os.path.dirname(__file__), '..', '.env')
+    if os.path.exists(env_path):
+        with open(env_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    k, v = line.split('=', 1)
+                    k = k.strip()
+                    v = v.strip().strip("'").strip('"')
+                    if k and k not in os.environ:
+                        os.environ[k] = v
+
+load_dotenv()
+
 HASHTAG_SETS = {
     'general': '#IndianSkincare #SkincareRoutineIndia #OraeSkin #SkincareIndia #AffordableSkincareIndia #IndianBeautyBlogger',
     'sunscreens': '#IndianSunscreen #NoWhiteCast #SunscreenAlways #OilySkinSunscreen #SunscreenIndia #SPF50',
