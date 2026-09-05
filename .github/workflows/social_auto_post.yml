@@ -17,6 +17,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install certifi
+
       - name: Queue Daily Product Spotlight & Blog Guide to Buffer
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
@@ -26,5 +29,8 @@ jobs:
             echo "Add it in Repository Settings -> Secrets and variables -> Actions -> New repository secret"
             exit 1
           fi
+          # Strip any accidental newlines, spaces, or quotes
+          CLEAN_KEY=$(echo "$BUFFER_API_KEY" | tr -d '[:space:]' | tr -d '"' | tr -d "'")
+          export BUFFER_API_KEY="$CLEAN_KEY"
           python3 scripts/instagram_publisher.py --buffer-random
           python3 scripts/instagram_publisher.py --buffer-random-blog

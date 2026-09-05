@@ -168,9 +168,10 @@ def generate_blog_post(b):
 # ==============================================================================
 
 def buffer_graphql_query(token, query, variables=None):
+    clean_token = "".join(str(token).split()).strip("'\"") if token else ""
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': f"Bearer {token}",
+        'Authorization': f"Bearer {clean_token}",
         'User-Agent': 'OraeSkin-Publisher/1.0'
     }
     payload = {'query': query}
@@ -311,6 +312,9 @@ if __name__ == '__main__':
             sys.exit(1)
 
         channels = get_buffer_channels(buffer_key)
+        if not channels:
+            print('❌ Error: Could not connect to Buffer or no channels found. Please verify your BUFFER_API_KEY.')
+            sys.exit(1)
         target_service = 'twitter' if sys.argv[1] == '--buffer-twitter' else 'instagram'
         target_channel = next((c for c in channels if c.get('service') == target_service), None)
         if not target_channel:
