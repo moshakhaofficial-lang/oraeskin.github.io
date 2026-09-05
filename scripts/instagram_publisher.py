@@ -115,6 +115,13 @@ Dermat-approved & tested for Indian skin & humid climate conditions 🇮🇳
 # BUFFER GRAPHQL API ENGINE
 # ==============================================================================
 
+import ssl
+try:
+    import certifi
+    SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
+except Exception:
+    SSL_CONTEXT = ssl._create_unverified_context()
+
 def buffer_graphql_query(token, query, variables=None):
     headers = {
         'Content-Type': 'application/json',
@@ -127,7 +134,7 @@ def buffer_graphql_query(token, query, variables=None):
     data = json.dumps(payload).encode('utf-8')
     req = urllib.request.Request('https://api.buffer.com', data=data, headers=headers, method='POST')
     try:
-        with urllib.request.urlopen(req) as resp:
+        with urllib.request.urlopen(req, context=SSL_CONTEXT) as resp:
             return json.loads(resp.read().decode())
     except urllib.error.HTTPError as e:
         err_body = e.read().decode()
@@ -201,7 +208,13 @@ def post_to_buffer(token, channel_id, caption, image_url, mode='addToQueue'):
                         'url': image_url
                     }
                 }
-            ]
+            ],
+            'metadata': {
+                'instagram': {
+                    'type': 'post',
+                    'shouldShareToFeed': True
+                }
+            }
         }
     }
     res = buffer_graphql_query(token, mutation, variables)
