@@ -4,15 +4,30 @@ OraeSkin Instagram Automation Engine
 ------------------------------------
 1. Generates high-converting Instagram captions, carousel text, and hashtags
    from OraeSkin products and blog guides.
-2. Publishes automatically to Instagram via Meta Graph API when credentials are provided.
+2. Publishes to Instagram via Buffer API (Recommended - No Meta App approval required!)
+3. Publishes directly via Meta Graph API if preferred.
 
 Usage:
+  # View all catalog products
   python3 scripts/instagram_publisher.py --list
-  python3 scripts/instagram_publisher.py --draft [product_id or blog_slug]
-  python3 scripts/instagram_publisher.py --post [product_id or blog_slug]
+
+  # Generate a draft caption & image for manual posting
+  python3 scripts/instagram_publisher.py --draft <product_id>
+
+  # Check connected Buffer channels (Instagram, etc.)
+  python3 scripts/instagram_publisher.py --buffer-channels
+
+  # Schedule/Post to Instagram via Buffer
+  python3 scripts/instagram_publisher.py --buffer <product_id>
+
+  # Post immediately via Buffer
+  python3 scripts/instagram_publisher.py --buffer-now <product_id>
+
+  # Queue a random product to Buffer
+  python3 scripts/instagram_publisher.py --buffer-random
 """
 
-import os, sys, re, glob, json, urllib.request, urllib.parse
+import os, sys, re, glob, json, random, urllib.request, urllib.parse
 
 HASHTAG_SETS = {
     'general': '#IndianSkincare #SkincareRoutineIndia #OraeSkin #SkincareIndia #AffordableSkincareIndia #IndianBeautyBlogger',
@@ -54,7 +69,7 @@ def generate_product_post(p):
     site_url = 'https://www.oraeskin.in'
     cat_tag = HASHTAG_SETS.get(p['category'], HASHTAG_SETS['general'])
     full_image_url = site_url + p['image']
-    review_link = f'{site_url}/reviews/{p["id"]}/'
+    review_link = f"{site_url}/reviews/{p['id']}/"
     
     caption = f"""✨ PRODUCT SPOTLIGHT: {p['name']}
 🏆 Badge: {p['badge']}
@@ -67,7 +82,7 @@ Dermat-approved & tested for Indian skin & humid climate conditions 🇮🇳
 💡 Verdict:
 {p['verdict']}
 
-🔗 Detailed score breakdown, clinical evidence & direct Amazon India link:
+🔗 Detailed clinical breakdown & verified Amazon India link:
 👉 Check the link in bio or visit: oraeskin.in/reviews/{p['id']}/
 
 ---
@@ -80,65 +95,126 @@ Dermat-approved & tested for Indian skin & humid climate conditions 🇮🇳
         'caption': caption.strip()
     }
 
-def publish_to_instagram(image_url, caption):
-    token = os.environ.get('INSTAGRAM_ACCESS_TOKEN')
-    account_id = os.environ.get('INSTAGRAM_ACCOUNT_ID')
-    if not token or not account_id:
-        print('❌ Error: INSTAGRAM_ACCESS_TOKEN or INSTAGRAM_ACCOUNT_ID environment variables are not set.')
-        print('Set them with:')
-        print('  export INSTAGRAM_ACCESS_TOKEN="your_meta_token"')
-        print('  export INSTAGRAM_ACCOUNT_ID="your_instagram_business_id"')
-        return False
+# ==============================================================================
+# BUFFER GRAPHQL API ENGINE
+# ==============================================================================
 
-    # Step 1: Create media container
-    media_endpoint = f'https://graph.facebook.com/v19.0/{account_id}/media'
-    data = urllib.parse.urlencode({
-        'image_url': image_url,
-        'caption': caption,
-        'access_token': token
-    }).encode('utf-8')
-
-    req = urllib.request.Request(media_endpoint, data=data, method='POST')
+def buffer_graphql_query(token, query, variables=None):
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': f"Bearer {token}",
+        'User-Agent': 'OraeSkin-Publisher/1.0'
+    }
+    payload = {'query': query}
+    if variables:
+        payload['variables'] = variables
+    data = json.dumps(payload).encode('utf-8')
+    req = urllib.request.Request('https://api.buffer.com', data=data, headers=headers, method='POST')
     try:
-        with urllib.request.urlopen(req) as response:
-            res = json.loads(response.read().decode())
-            creation_id = res.get('id')
-            print(f'✅ Media container created: {creation_id}')
+        with urllib.request.urlopen(req) as resp:
+            return json.loads(resp.read().decode())
+    except urllib.error.HTTPError as e:
+        err_body = e.read().decode()
+        print(f"❌ Buffer API Error ({e.code}): {err_body}")
+        return None
     except Exception as e:
-        print(f'❌ Failed to create media container: {e}')
-        return False
+        print(f"❌ Buffer Request Error: {e}")
+        return None
 
-    # Step 2: Publish container
-    publish_endpoint = f'https://graph.facebook.com/v19.0/{account_id}/media_publish'
-    pub_data = urllib.parse.urlencode({
-        'creation_id': creation_id,
-        'access_token': token
-    }).encode('utf-8')
+def get_buffer_channels(token):
+    # Fetch organizations first
+    org_query = """
+    query GetOrganizations {
+      account {
+        organizations {
+          id
+          name
+        }
+      }
+    }
+    """
+    res = buffer_graphql_query(token, org_query)
+    if not res or 'data' not in res or not res['data'].get('account'):
+        print('❌ Could not retrieve Buffer account organizations. Please check your BUFFER_API_KEY.')
+        return []
+    
+    orgs = res['data']['account'].get('organizations', [])
+    all_channels = []
+    for org in orgs:
+        ch_query = """
+        query GetChannels($orgId: OrganizationId!) {
+          channels(input: { organizationId: $orgId }) {
+            id
+            name
+            service
+          }
+        }
+        """
+        ch_res = buffer_graphql_query(token, ch_query, {'orgId': org['id']})
+        if ch_res and 'data' in ch_res and ch_res['data'].get('channels'):
+            for ch in ch_res['data']['channels']:
+                ch['organizationId'] = org['id']
+                all_channels.append(ch)
+    return all_channels
 
-    pub_req = urllib.request.Request(publish_endpoint, data=pub_data, method='POST')
-    try:
-        with urllib.request.urlopen(pub_req) as response:
-            pub_res = json.loads(response.read().decode())
-            print(f'🎉 Post published successfully to Instagram! Post ID: {pub_res.get("id")}')
-            return True
-    except Exception as e:
-        print(f'❌ Failed to publish post: {e}')
-        return False
+def post_to_buffer(token, channel_id, caption, image_url, mode='addToQueue'):
+    mutation = """
+    mutation CreatePost($input: CreatePostInput!) {
+      createPost(input: $input) {
+        ... on PostActionSuccess {
+          post {
+            id
+            status
+          }
+        }
+        ... on MutationError {
+          message
+        }
+      }
+    }
+    """
+    variables = {
+        'input': {
+            'channelId': channel_id,
+            'text': caption,
+            'schedulingType': 'automatic',
+            'mode': mode,
+            'assets': [
+                {
+                    'image': {
+                        'url': image_url
+                    }
+                }
+            ]
+        }
+    }
+    res = buffer_graphql_query(token, mutation, variables)
+    return res
+
+# ==============================================================================
+# CLI HANDLER
+# ==============================================================================
 
 if __name__ == '__main__':
     products = load_products()
+    buffer_key = os.environ.get('BUFFER_API_KEY')
+
     if len(sys.argv) < 2 or sys.argv[1] == '--list':
-        print(f'Available products ({len(products)} total):')
+        print(f"Available products ({len(products)} total):")
         for idx, p in enumerate(products):
-            print(f'{idx+1:2d}. {p["id"]:30} | {p["brand"]:15} | {p["badge"]}')
+            print(f"{idx+1:2d}. {p['id']:30} | {p['brand']:15} | {p['badge']}")
         print('\nUsage:')
         print('  python3 scripts/instagram_publisher.py --draft <product_id>')
-        print('  python3 scripts/instagram_publisher.py --post <product_id>')
+        print('  python3 scripts/instagram_publisher.py --buffer-channels')
+        print('  python3 scripts/instagram_publisher.py --buffer <product_id>')
+        print('  python3 scripts/instagram_publisher.py --buffer-now <product_id>')
+        print('  python3 scripts/instagram_publisher.py --buffer-random')
+
     elif sys.argv[1] == '--draft':
         pid = sys.argv[2] if len(sys.argv) > 2 else products[0]['id']
         match = next((p for p in products if p['id'] == pid), None)
         if not match:
-            print(f'Product {pid} not found.')
+            print(f"Product '{pid}' not found.")
             sys.exit(1)
         post = generate_product_post(match)
         print('=' * 60)
@@ -148,12 +224,55 @@ if __name__ == '__main__':
         print('📝 CAPTION:')
         print(post['caption'])
         print('=' * 60)
-    elif sys.argv[1] == '--post':
-        pid = sys.argv[2] if len(sys.argv) > 2 else products[0]['id']
-        match = next((p for p in products if p['id'] == pid), None)
-        if not match:
-            print(f'Product {pid} not found.')
+
+    elif sys.argv[1] == '--buffer-channels':
+        if not buffer_key:
+            print('❌ Error: BUFFER_API_KEY environment variable is not set.')
+            print('1. Go to https://publish.buffer.com/settings/api')
+            print('2. Copy your API Key')
+            print('3. Run: export BUFFER_API_KEY="your_key_here"')
             sys.exit(1)
+        print('Fetching connected Buffer channels...')
+        channels = get_buffer_channels(buffer_key)
+        if not channels:
+            print('No channels found or error querying API.')
+        else:
+            print(f"Connected Buffer Channels ({len(channels)}):")
+            for ch in channels:
+                print(f"  • ID: {ch['id']:35} | Service: {ch.get('service','unknown'):12} | Name: {ch.get('name','')}")
+
+    elif sys.argv[1] in ['--buffer', '--buffer-now', '--buffer-random']:
+        if not buffer_key:
+            print('❌ Error: BUFFER_API_KEY environment variable is not set.')
+            print('1. Go to https://publish.buffer.com/settings/api')
+            print('2. Copy your API Key')
+            print('3. Run: export BUFFER_API_KEY="your_key_here"')
+            sys.exit(1)
+        
+        mode = 'shareNow' if sys.argv[1] == '--buffer-now' else 'addToQueue'
+        
+        if sys.argv[1] == '--buffer-random':
+            match = random.choice(products)
+        else:
+            pid = sys.argv[2] if len(sys.argv) > 2 else products[0]['id']
+            match = next((p for p in products if p['id'] == pid), None)
+            if not match:
+                print(f"Product '{pid}' not found.")
+                sys.exit(1)
+
+        channels = get_buffer_channels(buffer_key)
+        # Find Instagram channel
+        ig_channel = next((c for c in channels if c.get('service') == 'instagram'), None)
+        if not ig_channel:
+            if channels:
+                ig_channel = channels[0]
+                print(f"⚠️ Warning: No channel explicitly labeled 'instagram' found. Using first channel: {ig_channel['name']} ({ig_channel['id']})")
+            else:
+                print('❌ No channels found in your Buffer account. Please connect your Instagram channel in Buffer first.')
+                sys.exit(1)
+
+        print(f"Sending '{match['name']}' to Buffer for {ig_channel['name']} ({mode})...")
         post = generate_product_post(match)
-        print(f'Publishing {match["name"]} to Instagram...')
-        publish_to_instagram(post['image_url'], post['caption'])
+        res = post_to_buffer(buffer_key, ig_channel['id'], post['caption'], post['image_url'], mode=mode)
+        print('Response from Buffer:')
+        print(json.dumps(res, indent=2))
