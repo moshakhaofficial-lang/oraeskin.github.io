@@ -1,0 +1,30 @@
+name: Auto Post to Instagram & Social via Buffer
+
+on:
+  workflow_dispatch: # Allows manual 1-click trigger from GitHub Actions tab
+  schedule:
+    - cron: '30 4 * * *' # Every day at 10:00 AM IST (04:30 UTC)
+
+jobs:
+  post-to-social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Queue Daily Product Spotlight & Blog Guide to Buffer
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: |
+          if [ -z "$BUFFER_API_KEY" ]; then
+            echo "❌ BUFFER_API_KEY secret is not set in GitHub repository settings."
+            echo "Add it in Repository Settings -> Secrets and variables -> Actions -> New repository secret"
+            exit 1
+          fi
+          python3 scripts/instagram_publisher.py --buffer-random
+          python3 scripts/instagram_publisher.py --buffer-random-blog
