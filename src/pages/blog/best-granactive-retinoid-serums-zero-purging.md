@@ -9,7 +9,7 @@ keywords: "granactive retinoid india, hpr serum amazon, anti aging without peeli
 description: "Next-generation HPR retinoids that bind directly to retinoic receptors: All the collagen-stimulating power with zero redness."
 topPickTitle: "Minimalist 0.3% Retinol with Squalane"
 topPickBrand: "Minimalist"
-topPickAsin: "Minimalist 0.3% Retinol Face Serum in Squalane"
+topPickAsin: "B0789NX2ZV"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹599"
 ---
@@ -24,7 +24,7 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Minimalist 0.3% Retinol with Squalane** | Evidence-Informed Active | All Indian Skin Types | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+0.3%25+Retinol+Face+Serum+in+Squalane&tag=oraeskin-21) |
+| **Minimalist — Minimalist 0.3% Retinol with Squalane** | Evidence-Informed Active | All Indian Skin Types | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0789NX2ZV?tag=oraeskin-21) |
 | **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
@@ -38,7 +38,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 - **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
 - **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+0.3%25+Retinol+Face+Serum+in+Squalane&tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0789NX2ZV?tag=oraeskin-21)**
 
 ---
 

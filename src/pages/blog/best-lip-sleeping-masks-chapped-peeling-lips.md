@@ -9,7 +9,7 @@ keywords: "lip sleeping mask india, best overnight lip mask amazon, laneige lip 
 description: "Wake up to baby-soft lips. Rich overnight butter masks from Dot & Key, Laneige dupes, and ceramide lip salves."
 topPickTitle: "Minimalist SPF 30 Lip Balm"
 topPickBrand: "Minimalist"
-topPickAsin: "Minimalist SPF 30 Lip Balm with Ceramides"
+topPickAsin: "B0BJ6XPC77"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹299"
 ---
@@ -24,7 +24,7 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Minimalist SPF 30 Lip Balm** | Evidence-Informed Active | All Indian Skin Types | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+SPF+30+Lip+Balm+with+Ceramides&tag=oraeskin-21) |
+| **Minimalist — Minimalist SPF 30 Lip Balm** | Evidence-Informed Active | All Indian Skin Types | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
 | **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
@@ -38,7 +38,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 - **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
 - **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+SPF+30+Lip+Balm+with+Ceramides&tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21)**
 
 ---
 

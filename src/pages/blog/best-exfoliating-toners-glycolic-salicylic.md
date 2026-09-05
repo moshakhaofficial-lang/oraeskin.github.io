@@ -9,7 +9,7 @@ keywords: "best exfoliating toner india, glycolic acid toner amazon india, minim
 description: "A comprehensive guide to AHA, BHA, and PHA exfoliating toners on Amazon India. Clear stubborn skin texture, unclog open pores, and fade body tan safely."
 topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid Toner"
 topPickBrand: "Minimalist"
-topPickAsin: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
+topPickAsin: "B0D4K7R9S5"
 topPickRating: "4.7 ★"
 topPickPrice: "~₹499"
 ---
@@ -24,9 +24,9 @@ Chemical toners unglue the intercellular cement binding dead keratinocytes toget
 
 | Toner | Active Exfoliant & % | Best Used For | Frequency | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist 8% Glycolic Acid** | 8% AHA Glycolic + Bamboo Water | Rough Texture, Dark Underarms & Tan | 2–3 Nights/Week | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+8%25+Glycolic+Acid+Exfoliating+Liquid&tag=oraeskin-21) |
-| **Plum Green Tea Alcohol-Free Toner** | 0.5% Glycolic + Organic Green Tea | Oily T-Zone, Open Pores & Daily Refresh | Daily AM & PM | [Check Price on Amazon.in](https://www.amazon.in/s?k=Plum+Green+Tea+Alcohol-Free+Toner&tag=oraeskin-21) |
-| **Minimalist PHA 3% Alcohol-Free Toner** | 3% Gluconolactone + Multi-Biotics | Ultra-Sensitive Skin & Barrier Prep | Daily AM & PM | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+PHA+3%25+Alcohol-Free+Face+Toner&tag=oraeskin-21) |
+| **Minimalist 8% Glycolic Acid** | 8% AHA Glycolic + Bamboo Water | Rough Texture, Dark Underarms & Tan | 2–3 Nights/Week | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D4K7R9S5?tag=oraeskin-21) |
+| **Plum Green Tea Alcohol-Free Toner** | 0.5% Glycolic + Organic Green Tea | Oily T-Zone, Open Pores & Daily Refresh | Daily AM & PM | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5MVM?tag=oraeskin-21) |
+| **Minimalist PHA 3% Alcohol-Free Toner** | 3% Gluconolactone + Multi-Biotics | Ultra-Sensitive Skin & Barrier Prep | Daily AM & PM | [Check Price on Amazon.in](https://www.amazon.in/dp/B0H9RYLKZJ?tag=oraeskin-21) |
 
 ---
 
@@ -38,7 +38,7 @@ Glycolic acid has the smallest molecular weight among all AHAs, allowing it to p
 - **Buffered Bamboo Water Base**: Includes soothing bamboo water to buffer the free acid value, preventing chemical burns.
 - **Our Testing Verdict**: Delivers baby-smooth skin by morning. Begin by using once weekly on the face, then increase to two or three times weekly as tolerance builds.
 
-👉 **[Check Live Price for Minimalist 8% Glycolic on Amazon.in](https://www.amazon.in/s?k=Minimalist+8%25+Glycolic+Acid+Exfoliating+Liquid&tag=oraeskin-21)**
+👉 **[Check Live Price for Minimalist 8% Glycolic on Amazon.in](https://www.amazon.in/dp/B0D4K7R9S5?tag=oraeskin-21)**
 
 ---
 
@@ -50,7 +50,7 @@ For those who want a gentle everyday toner that balances sebum without the poten
 - **Green Tea Antioxidants**: Inhibits acne bacteria and reduces inflammation around active blemishes.
 - **Gentle Micro-Exfoliation**: Low-dose glycolic acid refines pores gradually without peeling.
 
-👉 **[View Plum Green Tea Toner on Amazon India](https://www.amazon.in/s?k=Plum+Green+Tea+Alcohol-Free+Toner&tag=oraeskin-21)**
+👉 **[View Plum Green Tea Toner on Amazon India](https://www.amazon.in/dp/B00OCJ5MVM?tag=oraeskin-21)**
 
 ---
 

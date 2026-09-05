@@ -9,7 +9,7 @@ keywords: "hyaluronic acid serum india, how to apply hyaluronic acid damp skin, 
 description: "Stop applying Hyaluronic Acid wrong! Multi-molecular weight formulas that pull hydration deep into cells rather than drying out surface skin."
 topPickTitle: "Minimalist 10% Niacinamide Face Serum"
 topPickBrand: "Minimalist"
-topPickAsin: "Minimalist 10% Niacinamide Face Serum"
+topPickAsin: "B0FYHFR32Q"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹599"
 ---
@@ -24,7 +24,7 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Minimalist 10% Niacinamide Face Serum** | Evidence-Informed Active | All Indian Skin Types | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+10%25+Niacinamide+Face+Serum&tag=oraeskin-21) |
+| **Minimalist — Minimalist 10% Niacinamide Face Serum** | Evidence-Informed Active | All Indian Skin Types | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FYHFR32Q?tag=oraeskin-21) |
 | **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
@@ -38,7 +38,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 - **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
 - **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+10%25+Niacinamide+Face+Serum&tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FYHFR32Q?tag=oraeskin-21)**
 
 ---
 

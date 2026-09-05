@@ -9,7 +9,7 @@ keywords: "pha toner india, minimalist pha toner review, sensitive skin chemical
 description: "Why Polyhydroxy Acids are the gentlest chemical exfoliants in dermatology. Micro-exfoliation with zero irritation."
 topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Toner"
 topPickBrand: "Minimalist"
-topPickAsin: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
+topPickAsin: "B0D4K7R9S5"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹499"
 ---
@@ -24,7 +24,7 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Minimalist 8% Glycolic Acid Exfoliating Toner** | Evidence-Informed Active | All Indian Skin Types | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+8%25+Glycolic+Acid+Exfoliating+Liquid&tag=oraeskin-21) |
+| **Minimalist — Minimalist 8% Glycolic Acid Exfoliating Toner** | Evidence-Informed Active | All Indian Skin Types | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D4K7R9S5?tag=oraeskin-21) |
 | **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
@@ -38,7 +38,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 - **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
 - **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+8%25+Glycolic+Acid+Exfoliating+Liquid&tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0D4K7R9S5?tag=oraeskin-21)**
 
 ---
 

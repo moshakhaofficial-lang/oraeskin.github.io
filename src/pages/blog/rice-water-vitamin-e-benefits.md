@@ -34,7 +34,7 @@ Fermented rice water paired with skin-identical ceramides has become one of the 
 
 ### 2. The Face Shop Rice Water Bright Foaming Cleanser
 - **Why It's a Cult Classic**: Blends rice bran extract with soapwort to wash away impurities while imparting natural luminosity.
-- 👉 **[View The Face Shop Rice Water Cleanser on Amazon.in](https://www.amazon.in/s?k=The+Face+Shop+Rice+Water+Bright+Foaming+Cleanser&tag=oraeskin-21)**
+- 👉 **[View The Face Shop Rice Water Cleanser on Amazon.in](https://www.amazon.in/dp/B0DFPZVTWZ?tag=oraeskin-21)**
 
 ---
 

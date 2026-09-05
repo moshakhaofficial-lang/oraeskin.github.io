@@ -9,7 +9,7 @@ keywords: "cracked heel cream india, best foot cream amazon, urea heel balm"
 description: "High-strength Urea and Salicylic acid heel balms that dissolve painful cracks and smooth rough soles in 7 days."
 topPickTitle: "Minimalist 2% Salicylic Acid Body Wash"
 topPickBrand: "Minimalist"
-topPickAsin: "Minimalist 2% Salicylic Acid Body Wash"
+topPickAsin: "B0C7VQNQ4B"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹399"
 ---
@@ -24,7 +24,7 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Minimalist 2% Salicylic Acid Body Wash** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+2%25+Salicylic+Acid+Body+Wash&tag=oraeskin-21) |
+| **Minimalist — Minimalist 2% Salicylic Acid Body Wash** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21) |
 | **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
@@ -38,7 +38,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 - **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
 - **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+2%25+Salicylic+Acid+Body+Wash&tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21)**
 
 ---
 

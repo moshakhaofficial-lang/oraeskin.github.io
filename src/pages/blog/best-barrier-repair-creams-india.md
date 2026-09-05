@@ -31,7 +31,7 @@ The remedy is **barrier restoration therapy**: replenishing the skin's lipid mat
 | :--- | :--- | :--- | :--- | :--- |
 | **Dot & Key Rice Water Ceramide Cream** | 5 Ceramides + Fermented Rice | Gel-Cream (Dewy Glass) | Combination & Dehydrated Skin | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 | **CeraVe Moisturizing Cream** | 3 Ceramides + MVE Tech | Rich Cream (Velvet Matte) | Dry, Irritated & Eczema Skin | [Check Price on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21) |
-| **Minimalist Vitamin B5 10% Gel** | 10% Panthenol + Zinc | Oil-Free Gel (Matte) | Oily Acne-Prone Damaged Skin | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+Vitamin+B5+10%25+Moisturizer&tag=oraeskin-21) |
+| **Minimalist Vitamin B5 10% Gel** | 10% Panthenol + Zinc | Oil-Free Gel (Matte) | Oily Acne-Prone Damaged Skin | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 
 ---
 
@@ -68,7 +68,7 @@ Those with oily skin often fear moisturizers, worried that heavy ceramides will 
 - **Zinc & Copper Gluconate**: Minerals that inhibit acne bacterial colonies and reduce surface inflammation.
 - **Our Testing Verdict**: Feather-light hydration that soothes an over-exfoliated oily T-zone without a speck of greasy shine.
 
-👉 **[Check Price for Minimalist B5 on Amazon.in](https://www.amazon.in/s?k=Minimalist+Vitamin+B5+10%25+Moisturizer&tag=oraeskin-21)**
+👉 **[Check Price for Minimalist B5 on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)**
 
 ---
 

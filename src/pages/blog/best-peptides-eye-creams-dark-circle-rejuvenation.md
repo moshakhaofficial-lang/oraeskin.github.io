@@ -9,7 +9,7 @@ keywords: "peptide eye cream india, haloxyl dark circles, plump under eye hollow
 description: "Matrixyl 3000 and Haloxyl: Clinically tested peptide complexes that strengthen translucent periorbital skin."
 topPickTitle: "CeraVe Eye Repair Cream"
 topPickBrand: "CeraVe"
-topPickAsin: "CeraVe Eye Repair Cream"
+topPickAsin: "B0GRW7P4YR"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹399"
 ---
@@ -24,7 +24,7 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CeraVe — CeraVe Eye Repair Cream** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/s?k=CeraVe+Eye+Repair+Cream&tag=oraeskin-21) |
+| **CeraVe — CeraVe Eye Repair Cream** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) |
 | **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
@@ -38,7 +38,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 - **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
 - **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/s?k=CeraVe+Eye+Repair+Cream&tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21)**
 
 ---
 
