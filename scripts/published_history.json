@@ -1,10 +1,12 @@
 {
   "published_products": [
+    "bioderma-atoderm-baume",
     "minimalist-retinol-03",
     "minimalist-spf50"
   ],
   "published_blogs": [
-    "best-exfoliating-peeling-pads-convenience-india"
+    "best-exfoliating-peeling-pads-convenience-india",
+    "complete-body-skincare-routine-indian-monsoon"
   ],
   "history": [
     {
@@ -12,21 +14,48 @@
       "type": "product",
       "title": "0.3% Retinol Face Serum in Squalane",
       "date": "2026-09-06T02:58:28Z",
-      "channels": ["instagram"]
+      "channels": [
+        "instagram"
+      ]
     },
     {
       "id": "best-exfoliating-peeling-pads-convenience-india",
       "type": "blog",
       "title": "Best Pre-Soaked Exfoliating Toner Pads for Travel & Convenience",
       "date": "2026-09-06T02:58:50Z",
-      "channels": ["instagram"]
+      "channels": [
+        "instagram"
+      ]
     },
     {
       "id": "minimalist-spf50",
       "type": "product",
       "title": "SPF 50 Multi-Vitamin Sunscreen",
       "date": "2026-09-06T03:21:54Z",
-      "channels": ["twitter", "instagram"]
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "bioderma-atoderm-baume",
+      "type": "product",
+      "title": "Atoderm Intensive Baume",
+      "date": "2026-09-05T21:57:57.110618+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "complete-body-skincare-routine-indian-monsoon",
+      "type": "blog",
+      "title": "Complete Body Skincare Routine for Indian Monsoon & High Humidity",
+      "date": "2026-09-05T21:57:59.019816+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
     }
   ]
 }
