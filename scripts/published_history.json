@@ -1,0 +1,32 @@
+{
+  "published_products": [
+    "minimalist-retinol-03",
+    "minimalist-spf50"
+  ],
+  "published_blogs": [
+    "best-exfoliating-peeling-pads-convenience-india"
+  ],
+  "history": [
+    {
+      "id": "minimalist-retinol-03",
+      "type": "product",
+      "title": "0.3% Retinol Face Serum in Squalane",
+      "date": "2026-09-06T02:58:28Z",
+      "channels": ["instagram"]
+    },
+    {
+      "id": "best-exfoliating-peeling-pads-convenience-india",
+      "type": "blog",
+      "title": "Best Pre-Soaked Exfoliating Toner Pads for Travel & Convenience",
+      "date": "2026-09-06T02:58:50Z",
+      "channels": ["instagram"]
+    },
+    {
+      "id": "minimalist-spf50",
+      "type": "product",
+      "title": "SPF 50 Multi-Vitamin Sunscreen",
+      "date": "2026-09-06T03:21:54Z",
+      "channels": ["twitter", "instagram"]
+    }
+  ]
+}

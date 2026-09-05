@@ -7,12 +7,18 @@ Automatically queues products and clinical guides to:
   🐦 Twitter / X (@OraeSkin)
   📌 Pinterest (@OraeSkinCosmetics)
 
+* With full deduplication: never repeats a product or blog post
+  until the entire catalog / library has completed a rotation!
+
 Usage:
-  # Post a random product to ALL connected social channels
+  # Post next unposted product to ALL channels
   python3 scripts/instagram_publisher.py --buffer-random
 
-  # Post a random blog guide to ALL connected social channels
+  # Post next unposted blog guide to ALL channels
   python3 scripts/instagram_publisher.py --buffer-random-blog
+
+  # View publishing history & unposted counts
+  python3 scripts/instagram_publisher.py --history
 
   # Post a specific product to ALL channels
   python3 scripts/instagram_publisher.py --buffer <product_id>
@@ -24,13 +30,15 @@ Usage:
   python3 scripts/instagram_publisher.py --buffer <product_id> --channel instagram
   python3 scripts/instagram_publisher.py --buffer <product_id> --channel twitter
 
-  # List products, blogs, and channels
+  # Lists
   python3 scripts/instagram_publisher.py --list
   python3 scripts/instagram_publisher.py --list-blogs
   python3 scripts/instagram_publisher.py --buffer-channels
 """
 
-import os, sys, re, glob, json, random, ssl, urllib.request, urllib.parse
+import os, sys, re, glob, json, random, ssl, datetime, urllib.request, urllib.parse
+
+HISTORY_FILE = os.path.join(os.path.dirname(__file__), 'published_history.json')
 
 def load_dotenv():
     # Automatically load .env file from project root if it exists
@@ -61,6 +69,65 @@ HASHTAG_SETS = {
     'acne': '#AcnePatch #PimpleEmergency #SalicylicAcidIndia #FungalAcneSafe #CloggedPores #ClearSkinIndia',
     'anti-aging': '#RetinolIndia #BeginnerRetinol #GranactiveRetinoid #AntiAgingRoutine #HealthySkinBarrier'
 }
+
+# ==============================================================================
+# HISTORY & DEDUPLICATION ENGINE
+# ==============================================================================
+
+def load_history():
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return {
+                    'published_products': set(data.get('published_products', [])),
+                    'published_blogs': set(data.get('published_blogs', [])),
+                    'history': data.get('history', [])
+                }
+        except Exception as e:
+            print(f"⚠️ Could not load history file: {e}. Starting fresh.")
+    return {'published_products': set(), 'published_blogs': set(), 'history': []}
+
+def save_history(history_data):
+    try:
+        serializable = {
+            'published_products': sorted(list(history_data['published_products'])),
+            'published_blogs': sorted(list(history_data['published_blogs'])),
+            'history': history_data['history'][-100:] # Keep last 100 entries
+        }
+        with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
+            json.dump(serializable, f, indent=2)
+    except Exception as e:
+        print(f"❌ Error saving history: {e}")
+
+def get_next_unposted_product(products, history_data):
+    posted_ids = history_data['published_products']
+    available = [p for p in products if p['id'] not in posted_ids]
+    
+    if not available:
+        print("🔄 All 36 catalog products have been posted! Resetting rotation cycle...")
+        history_data['published_products'] = set()
+        available = products
+        
+    # Pick a random unposted product for variety
+    chosen = random.choice(available)
+    return chosen
+
+def get_next_unposted_blog(blogs, history_data):
+    posted_slugs = history_data['published_blogs']
+    available = [b for b in blogs if b['slug'] not in posted_slugs]
+    
+    if not available:
+        print("🔄 All 109 blog guides have been posted! Resetting rotation cycle...")
+        history_data['published_blogs'] = set()
+        available = blogs
+        
+    chosen = random.choice(available)
+    return chosen
+
+# ==============================================================================
+# DATA LOADERS
+# ==============================================================================
 
 def load_products():
     with open('src/data/products.ts', 'r', encoding='utf-8') as f:
@@ -134,6 +201,7 @@ Dermat-approved & tested for Indian skin & humid climate conditions 🇮🇳
 """
     return {
         'id': p['id'],
+        'type': 'product',
         'title': p['name'],
         'image_url': full_image_url,
         'caption': caption.strip(),
@@ -159,6 +227,7 @@ def generate_blog_post(b):
 """
     return {
         'id': b['slug'],
+        'type': 'blog',
         'title': b['title'],
         'image_url': full_image_url,
         'caption': caption.strip(),
@@ -322,24 +391,40 @@ def post_to_buffer(token, channel, post_data, mode='addToQueue'):
 if __name__ == '__main__':
     products = load_products()
     blogs = load_blog_posts()
+    history_data = load_history()
     buffer_key = os.environ.get('BUFFER_API_KEY')
 
     if len(sys.argv) < 2 or sys.argv[1] == '--list':
         print(f"Available Products ({len(products)} total):")
         for idx, p in enumerate(products):
-            print(f"{idx+1:2d}. {p['id']:30} | {p['brand']:15} | {p['badge']}")
+            status_tag = "✅ POSTED" if p['id'] in history_data['published_products'] else "⏳ UNPOSTED"
+            print(f"{idx+1:2d}. [{status_tag}] {p['id']:30} | {p['brand']:15} | {p['badge']}")
         print('\nAvailable Commands:')
-        print('  python3 scripts/instagram_publisher.py --list-blogs')
-        print('  python3 scripts/instagram_publisher.py --buffer-channels')
-        print('  python3 scripts/instagram_publisher.py --buffer-random          # Posts to ALL channels!')
-        print('  python3 scripts/instagram_publisher.py --buffer-random-blog     # Posts to ALL channels!')
-        print('  python3 scripts/instagram_publisher.py --buffer <product_id>     # Posts to ALL channels!')
-        print('  python3 scripts/instagram_publisher.py --buffer-blog <blog_slug> # Posts to ALL channels!')
+        print('  python3 scripts/instagram_publisher.py --history')
+        print('  python3 scripts/instagram_publisher.py --buffer-random          # Posts next unposted product!')
+        print('  python3 scripts/instagram_publisher.py --buffer-random-blog     # Posts next unposted blog!')
+        print('  python3 scripts/instagram_publisher.py --buffer <product_id>')
+        print('  python3 scripts/instagram_publisher.py --buffer-blog <blog_slug>')
+
+    elif sys.argv[1] == '--history':
+        pub_p = len(history_data['published_products'])
+        pub_b = len(history_data['published_blogs'])
+        print("=" * 60)
+        print("📊 ORAESKIN SOCIAL MEDIA PUBLISHING TRACKER")
+        print("=" * 60)
+        print(f"🧴 Products Posted:     {pub_p} / {len(products)} ({len(products) - pub_p} remaining in cycle)")
+        print(f"📚 Blog Guides Posted:  {pub_b} / {len(blogs)} ({len(blogs) - pub_b} remaining in cycle)")
+        print(f"\nRecent Posts Log ({len(history_data['history'])} recorded):")
+        for h in history_data['history'][-10:]:
+            channels_str = ", ".join(h.get('channels', []))
+            print(f"  • [{h.get('type','item').upper()}] {h.get('title','')} ({h.get('date','')[:10]}) → {channels_str}")
+        print("=" * 60)
 
     elif sys.argv[1] == '--list-blogs':
         print(f"Available Blog Guides ({len(blogs)} total):")
         for idx, b in enumerate(sorted(blogs, key=lambda x: x['slug'])):
-            print(f"{idx+1:3d}. {b['slug']:55} | {b['title'][:45]}...")
+            status_tag = "✅ POSTED" if b['slug'] in history_data['published_blogs'] else "⏳ UNPOSTED"
+            print(f"{idx+1:3d}. [{status_tag}] {b['slug']:55} | {b['title'][:40]}...")
 
     elif sys.argv[1] == '--buffer-channels':
         if not buffer_key:
@@ -377,13 +462,13 @@ if __name__ == '__main__':
                 print(f"❌ Channel '{target_channel_arg}' not found among connected channels.")
                 sys.exit(1)
         else:
-            # Default: post to ALL connected channels!
             target_channels = channels
 
         mode = 'shareNow' if sys.argv[1] == '--buffer-now' else 'addToQueue'
 
+        # Pick item with deduplication
         if sys.argv[1] == '--buffer-random-blog':
-            b_match = random.choice(blogs)
+            b_match = get_next_unposted_blog(blogs, history_data)
             post = generate_blog_post(b_match)
         elif sys.argv[1] == '--buffer-blog':
             slug = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else blogs[0]['slug']
@@ -391,9 +476,11 @@ if __name__ == '__main__':
             if not b_match:
                 print(f"Blog '{slug}' not found.")
                 sys.exit(1)
+            if slug in history_data['published_blogs']:
+                print(f"⚠️ Notice: Guide '{slug}' was previously published. Re-queueing as requested.")
             post = generate_blog_post(b_match)
         elif sys.argv[1] == '--buffer-random':
-            p_match = random.choice(products)
+            p_match = get_next_unposted_product(products, history_data)
             post = generate_product_post(p_match)
         else:
             pid = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else products[0]['id']
@@ -401,9 +488,12 @@ if __name__ == '__main__':
             if not p_match:
                 print(f"Product '{pid}' not found.")
                 sys.exit(1)
+            if pid in history_data['published_products']:
+                print(f"⚠️ Notice: Product '{pid}' was previously published. Re-queueing as requested.")
             post = generate_product_post(p_match)
 
-        print(f"📢 Publishing '{post['title']}' to {len(target_channels)} channel(s)...")
+        print(f"📢 Publishing '{post['title']}' across {len(target_channels)} channel(s)...")
+        successful_channels = []
         for ch in target_channels:
             srv = ch.get('service', 'unknown').capitalize()
             ch_name = ch.get('name', '')
@@ -412,6 +502,24 @@ if __name__ == '__main__':
             if res and 'data' in res and res['data'].get('createPost', {}).get('post'):
                 p_info = res['data']['createPost']['post']
                 print(f"    ✅ Success! (ID: {p_info['id']}, Status: {p_info['status']})")
+                successful_channels.append(ch.get('service'))
             elif res:
                 err_msg = res.get('data', {}).get('createPost', {}).get('message') or res.get('errors')
                 print(f"    ⚠️ Notice: {err_msg}")
+
+        # Record in history if at least one channel succeeded
+        if successful_channels:
+            if post.get('type') == 'product':
+                history_data['published_products'].add(post['id'])
+            elif post.get('type') == 'blog':
+                history_data['published_blogs'].add(post['id'])
+
+            history_data['history'].append({
+                'id': post['id'],
+                'type': post.get('type', 'product'),
+                'title': post['title'],
+                'date': datetime.datetime.now(datetime.timezone.utc).isoformat(),
+                'channels': successful_channels
+            })
+            save_history(history_data)
+            print(f"💾 Updated publishing history: '{post['id']}' marked as published.")

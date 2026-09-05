@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '30 4 * * *' # Every day at 10:00 AM IST (04:30 UTC)
 
+permissions:
+  contents: write
+
 jobs:
   post-to-social:
     runs-on: ubuntu-latest
@@ -34,3 +37,11 @@ jobs:
           export BUFFER_API_KEY="$CLEAN_KEY"
           python3 scripts/instagram_publisher.py --buffer-random
           python3 scripts/instagram_publisher.py --buffer-random-blog
+
+      - name: Commit and save updated publishing history
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add scripts/published_history.json
+          git commit -m "chore(social): update published history [skip ci]" || echo "No changes to commit"
+          git push
