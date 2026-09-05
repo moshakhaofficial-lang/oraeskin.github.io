@@ -1,33 +1,33 @@
 #!/usr/bin/env python3
 """
-OraeSkin Social Media & Instagram Automation Engine
----------------------------------------------------
-Automates posting to Instagram, Twitter/X, and Pinterest via Buffer's GraphQL API.
-Pulls products and 100+ clinical skincare guides from OraeSkin.
+OraeSkin Multi-Channel Social Automation Engine (Buffer API)
+------------------------------------------------------------
+Automatically queues products and clinical guides to:
+  📸 Instagram (@oraeskincosmetics)
+  🐦 Twitter / X (@OraeSkin)
+  📌 Pinterest (@OraeSkinCosmetics)
 
 Usage:
-  # View all products & blog guides
-  python3 scripts/instagram_publisher.py --list
-  python3 scripts/instagram_publisher.py --list-blogs
-
-  # View connected Buffer channels (Instagram, Twitter, Pinterest)
-  python3 scripts/instagram_publisher.py --buffer-channels
-
-  # Schedule a product post to Instagram queue
-  python3 scripts/instagram_publisher.py --buffer <product_id>
-
-  # Schedule a blog guide post to Instagram queue
-  python3 scripts/instagram_publisher.py --buffer-blog <blog_slug>
-
-  # Queue a random product or blog guide to Instagram
+  # Post a random product to ALL connected social channels
   python3 scripts/instagram_publisher.py --buffer-random
+
+  # Post a random blog guide to ALL connected social channels
   python3 scripts/instagram_publisher.py --buffer-random-blog
 
-  # Post immediately to Instagram (skip queue)
-  python3 scripts/instagram_publisher.py --buffer-now <product_id>
+  # Post a specific product to ALL channels
+  python3 scripts/instagram_publisher.py --buffer <product_id>
 
-  # Cross-post to Twitter as well
-  python3 scripts/instagram_publisher.py --buffer-twitter <product_id>
+  # Post a specific blog to ALL channels
+  python3 scripts/instagram_publisher.py --buffer-blog <blog_slug>
+
+  # Post to a single specific channel only
+  python3 scripts/instagram_publisher.py --buffer <product_id> --channel instagram
+  python3 scripts/instagram_publisher.py --buffer <product_id> --channel twitter
+
+  # List products, blogs, and channels
+  python3 scripts/instagram_publisher.py --list
+  python3 scripts/instagram_publisher.py --list-blogs
+  python3 scripts/instagram_publisher.py --buffer-channels
 """
 
 import os, sys, re, glob, json, random, ssl, urllib.request, urllib.parse
@@ -136,7 +136,8 @@ Dermat-approved & tested for Indian skin & humid climate conditions 🇮🇳
         'id': p['id'],
         'title': p['name'],
         'image_url': full_image_url,
-        'caption': caption.strip()
+        'caption': caption.strip(),
+        'link': review_link
     }
 
 def generate_blog_post(b):
@@ -160,7 +161,8 @@ def generate_blog_post(b):
         'id': b['slug'],
         'title': b['title'],
         'image_url': full_image_url,
-        'caption': caption.strip()
+        'caption': caption.strip(),
+        'link': blog_link
     }
 
 # ==============================================================================
@@ -225,7 +227,76 @@ def get_buffer_channels(token):
                 all_channels.append(ch)
     return all_channels
 
-def post_to_buffer(token, channel, caption, image_url, mode='addToQueue'):
+def get_pinterest_boards(token, channel_id):
+    q = """
+    query GetBoards($id: ChannelId!) {
+      channel(input: { id: $id }) {
+        metadata {
+          ... on PinterestMetadata {
+            boards {
+              serviceId
+              name
+            }
+          }
+        }
+      }
+    }
+    """
+    res = buffer_graphql_query(token, q, {'id': channel_id})
+    if res and 'data' in res and res['data'].get('channel', {}).get('metadata', {}).get('boards'):
+        return res['data']['channel']['metadata']['boards']
+    return []
+
+def post_to_buffer(token, channel, post_data, mode='addToQueue'):
+    caption = post_data['caption']
+    title = post_data['title']
+    image_url = post_data['image_url']
+    link = post_data.get('link', 'https://www.oraeskin.in')
+    service = channel.get('service')
+
+    post_input = {
+        'channelId': channel['id'],
+        'schedulingType': 'automatic',
+        'mode': mode,
+        'assets': [
+            {
+                'image': {
+                    'url': image_url
+                }
+            }
+        ]
+    }
+    
+    if service == 'instagram':
+        post_input['text'] = caption
+        post_input['metadata'] = {
+            'instagram': {
+                'type': 'post',
+                'shouldShareToFeed': True
+            }
+        }
+    elif service == 'twitter':
+        # 280-char limit for Twitter/X
+        tweet_text = f"✨ {title}\n\nClinical test & Amazon India guide: {link}\n\n#IndianSkincare #SkincareIndia"
+        if len(tweet_text) > 275:
+            tweet_text = tweet_text[:270] + "..."
+        post_input['text'] = tweet_text
+    elif service == 'pinterest':
+        boards = get_pinterest_boards(token, channel['id'])
+        if not boards:
+            print(f"⚠️ Skipping Pinterest ({channel['name']}): No boards created on Pinterest yet. Create a board on Pinterest to enable.")
+            return None
+        post_input['text'] = caption[:480]
+        post_input['metadata'] = {
+            'pinterest': {
+                'boardServiceId': boards[0]['serviceId'],
+                'title': title[:95],
+                'url': link
+            }
+        }
+    else:
+        post_input['text'] = caption
+        
     mutation = """
     mutation CreatePost($input: CreatePostInput!) {
       createPost(input: $input) {
@@ -241,31 +312,8 @@ def post_to_buffer(token, channel, caption, image_url, mode='addToQueue'):
       }
     }
     """
-    post_input = {
-        'channelId': channel['id'],
-        'text': caption,
-        'schedulingType': 'automatic',
-        'mode': mode,
-        'assets': [
-            {
-                'image': {
-                    'url': image_url
-                }
-            }
-        ]
-    }
-    
-    if channel.get('service') == 'instagram':
-        post_input['metadata'] = {
-            'instagram': {
-                'type': 'post',
-                'shouldShareToFeed': True
-            }
-        }
-        
     variables = {'input': post_input}
-    res = buffer_graphql_query(token, mutation, variables)
-    return res
+    return buffer_graphql_query(token, mutation, variables)
 
 # ==============================================================================
 # CLI HANDLER
@@ -283,10 +331,10 @@ if __name__ == '__main__':
         print('\nAvailable Commands:')
         print('  python3 scripts/instagram_publisher.py --list-blogs')
         print('  python3 scripts/instagram_publisher.py --buffer-channels')
-        print('  python3 scripts/instagram_publisher.py --buffer <product_id>')
-        print('  python3 scripts/instagram_publisher.py --buffer-blog <blog_slug>')
-        print('  python3 scripts/instagram_publisher.py --buffer-random')
-        print('  python3 scripts/instagram_publisher.py --buffer-random-blog')
+        print('  python3 scripts/instagram_publisher.py --buffer-random          # Posts to ALL channels!')
+        print('  python3 scripts/instagram_publisher.py --buffer-random-blog     # Posts to ALL channels!')
+        print('  python3 scripts/instagram_publisher.py --buffer <product_id>     # Posts to ALL channels!')
+        print('  python3 scripts/instagram_publisher.py --buffer-blog <blog_slug> # Posts to ALL channels!')
 
     elif sys.argv[1] == '--list-blogs':
         print(f"Available Blog Guides ({len(blogs)} total):")
@@ -306,7 +354,7 @@ if __name__ == '__main__':
             for ch in channels:
                 print(f"  • ID: {ch['id']:35} | Service: {ch.get('service','unknown'):12} | Name: {ch.get('name','')}")
 
-    elif sys.argv[1] in ['--buffer', '--buffer-now', '--buffer-random', '--buffer-twitter', '--buffer-blog', '--buffer-random-blog']:
+    elif sys.argv[1] in ['--buffer', '--buffer-now', '--buffer-random', '--buffer-blog', '--buffer-random-blog']:
         if not buffer_key:
             print('❌ Error: BUFFER_API_KEY environment variable is not set in .env')
             sys.exit(1)
@@ -315,10 +363,22 @@ if __name__ == '__main__':
         if not channels:
             print('❌ Error: Could not connect to Buffer or no channels found. Please verify your BUFFER_API_KEY.')
             sys.exit(1)
-        target_service = 'twitter' if sys.argv[1] == '--buffer-twitter' else 'instagram'
-        target_channel = next((c for c in channels if c.get('service') == target_service), None)
-        if not target_channel:
-            target_channel = channels[0]
+
+        # Check if user specified a single channel flag: --channel <instagram|twitter|pinterest>
+        target_channel_arg = None
+        if '--channel' in sys.argv:
+            idx = sys.argv.index('--channel')
+            if len(sys.argv) > idx + 1:
+                target_channel_arg = sys.argv[idx + 1].lower()
+
+        if target_channel_arg:
+            target_channels = [c for c in channels if c.get('service') == target_channel_arg]
+            if not target_channels:
+                print(f"❌ Channel '{target_channel_arg}' not found among connected channels.")
+                sys.exit(1)
+        else:
+            # Default: post to ALL connected channels!
+            target_channels = channels
 
         mode = 'shareNow' if sys.argv[1] == '--buffer-now' else 'addToQueue'
 
@@ -326,7 +386,7 @@ if __name__ == '__main__':
             b_match = random.choice(blogs)
             post = generate_blog_post(b_match)
         elif sys.argv[1] == '--buffer-blog':
-            slug = sys.argv[2] if len(sys.argv) > 2 else blogs[0]['slug']
+            slug = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else blogs[0]['slug']
             b_match = next((b for b in blogs if b['slug'] == slug), None)
             if not b_match:
                 print(f"Blog '{slug}' not found.")
@@ -336,21 +396,22 @@ if __name__ == '__main__':
             p_match = random.choice(products)
             post = generate_product_post(p_match)
         else:
-            pid = sys.argv[2] if len(sys.argv) > 2 else products[0]['id']
+            pid = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else products[0]['id']
             p_match = next((p for p in products if p['id'] == pid), None)
             if not p_match:
                 print(f"Product '{pid}' not found.")
                 sys.exit(1)
             post = generate_product_post(p_match)
 
-        if target_service == 'twitter':
-            short_caption = f"✨ {post['title']}\n\nClinical test & Amazon India buying guide: https://www.oraeskin.in\n\n#IndianSkincare #SkincareIndia"
-            post['caption'] = short_caption[:275]
-
-        print(f"🚀 Queuing to {target_channel['service'].capitalize()} ({target_channel['name']}): '{post['title']}'...")
-        res = post_to_buffer(buffer_key, target_channel, post['caption'], post['image_url'], mode=mode)
-        if res and 'data' in res and res['data'].get('createPost', {}).get('post'):
-            p_info = res['data']['createPost']['post']
-            print(f"✅ Successfully scheduled! (Post ID: {p_info['id']}, Status: {p_info['status']})")
-        else:
-            print("Response:", json.dumps(res, indent=2))
+        print(f"📢 Publishing '{post['title']}' to {len(target_channels)} channel(s)...")
+        for ch in target_channels:
+            srv = ch.get('service', 'unknown').capitalize()
+            ch_name = ch.get('name', '')
+            print(f"  → Queuing to {srv} ({ch_name})...")
+            res = post_to_buffer(buffer_key, ch, post, mode=mode)
+            if res and 'data' in res and res['data'].get('createPost', {}).get('post'):
+                p_info = res['data']['createPost']['post']
+                print(f"    ✅ Success! (ID: {p_info['id']}, Status: {p_info['status']})")
+            elif res:
+                err_msg = res.get('data', {}).get('createPost', {}).get('message') or res.get('errors')
+                print(f"    ⚠️ Notice: {err_msg}")
