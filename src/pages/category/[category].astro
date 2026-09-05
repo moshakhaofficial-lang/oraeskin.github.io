@@ -61,7 +61,7 @@ const comparisonProducts = categoryProducts.map(p => ({
                         <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                         </svg>
-                        Independently Tested for Indian Skin
+                        Formulation Evaluated for Indian Skin
                     </span>
                     <span class="meta-item">
                         <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
@@ -97,7 +97,7 @@ const comparisonProducts = categoryProducts.map(p => ({
         <!-- In-Depth Product Reviews -->
         <section class="container products-section">
             <div class="section-heading-group">
-                <span class="section-tag">Tested & Ranked</span>
+                <span class="section-tag">Audited & Ranked</span>
                 <h2 class="section-heading">Detailed Reviews: The Best {category.name} in India</h2>
                 <p class="section-sub">Comprehensive editorial scorecards based on texture, humidity resistance, and ingredient efficacy.</p>
             </div>
@@ -106,6 +106,8 @@ const comparisonProducts = categoryProducts.map(p => ({
                 {categoryProducts.map((p, idx) => (
                     <ProductCard
                         rank={idx + 1}
+                        id={p.id}
+                        oraeSkinScore={p.oraeSkinScore}
                         title={p.title}
                         brand={p.brand}
                         badge={p.badge}
@@ -114,7 +116,7 @@ const comparisonProducts = categoryProducts.map(p => ({
                         priceEstimate={p.priceEst}
                         asinOrUrl={p.asin}
                         image={p.image}
-                        bestFor={p.badge}
+                        bestFor={p.bestFor || p.badge}
                         keyIngredients={p.keyIngredients}
                         pros={p.pros}
                         cons={p.cons}

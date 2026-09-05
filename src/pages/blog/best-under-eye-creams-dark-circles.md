@@ -6,7 +6,7 @@ date: "2026-03-01"
 category: "Under-Eye Treatments"
 rating: 4.7
 keywords: "best under eye cream for dark circles india, cerave eye repair cream amazon, minimalist caffeine under eye serum, under eye dark circles treatment amazon, reduce puffy eyes india"
-description: "Dermatologist-evaluated under-eye creams and serums on Amazon India. Combat stubborn genetic dark circles, morning fluid retention, and fine dehydration lines."
+description: "Evidence-informed under-eye creams and serums on Amazon India. Combat stubborn genetic dark circles, morning fluid retention, and fine dehydration lines."
 topPickTitle: "CeraVe Eye Repair Cream for Dark Circles & Puffiness"
 topPickBrand: "CeraVe"
 topPickAsin: "B00BFZ744K"
@@ -61,7 +61,7 @@ If you wake up with swollen, heavy eye bags after a late night of work, topical 
 
 ---
 
-## Dermatologist Technique: How to Apply Without Damaging Skin
+## Application Technique: How to Apply Without Damaging Skin
 
 1. **Use Your Ring Finger Only**: Your ring finger naturally exerts the lightest pressure, preventing friction that causes post-inflammatory dark circles.
 2. **Pat, Never Rub**: Dispense a tiny rice-grain amount for both eyes. Gently tap along the orbital bone from the inner corner outward toward the temples.

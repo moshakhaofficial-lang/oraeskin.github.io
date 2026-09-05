@@ -6,12 +6,12 @@ date: "2026-03-01"
 category: "Sun Protection"
 rating: 4.9
 keywords: "best sunscreen for indian skin, sunscreen with no white cast, minimalist spf 50 amazon, best sunscreen for oily skin india, dermaco sunscreen"
-description: "Tested and reviewed: The top dermatologist-recommended sunscreens available on Amazon India that leave zero white cast, resist tropical sweat, and don't trigger breakouts."
+description: "Researched and evaluated: Top-performing sunscreens available on Amazon India that leave zero white cast, resist tropical sweat, and respect the skin barrier."
 ---
 
 Finding the perfect sunscreen in India is notoriously challenging. Between UV indices regularly crossing 10+, high humidity, and melanin-rich skin that turns ashy or purple under mineral filters, most sunscreens fall short.
 
-We analyzed over 25 top-selling sunscreens on **Amazon India** across oily, dry, acne-prone, and combination skin types. Below are the definitive, dermatologist-vetted picks available for fast Prime delivery.
+We analyzed over 25 top-selling sunscreens on **Amazon India** across oily, dry, acne-prone, and combination skin types. Below are our evidence-informed editorial picks available for fast Prime delivery.
 
 ---
 

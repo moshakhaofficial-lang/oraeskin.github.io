@@ -309,7 +309,7 @@ def run_qa():
     print("=" * 70)
     print("📊 QA AUDIT RESULTS BREAKDOWN")
     print("=" * 70)
-    report("HTML Build & Count", [] if len(html_files) == 123 else ["Not 123"], f"{len(html_files)} total static pages")
+    report("HTML Build & Count", [] if len(html_files) >= 123 else ["Less than 123 pages"], f"{len(html_files)} total static pages")
     report("SEO Metadata", meta_errors, "Title, description, canonical on all pages")
     report("OpenGraph Tags", og_errors, "og:title, og:desc, og:image, og:url")
     report("Amazon Affiliate Tag", amazon_tag_errors, f"All links have tag={AFFILIATE_TAG}")

@@ -4,12 +4,14 @@ import ProductCard from './ProductCard.astro';
 const topPicks = [
     {
         rank: 1,
+        id: "minimalist-spf50",
+        oraeSkinScore: 9.6,
         title: "SPF 50 PA++++ Multi-Vitamin Sunscreen with Niacinamide",
         brand: "Minimalist",
         image: "/images/products/minimalist-spf50.jpg",
         asinOrUrl: "B09FPS9D5T",
         rating: 4.8,
-        reviewCount: "16,400+",
+        reviewCount: "24,300+",
         badge: "Best Overall Sunscreen",
         bestFor: "All Indian Skin Types (Zero White Cast & Lightweight)",
         keyIngredients: ["Niacinamide (Vitamin B3)", "Vitamin B5", "Photostable European Filters"],
@@ -25,12 +27,14 @@ const topPicks = [
     },
     {
         rank: 2,
+        id: "dermaco-hyaluronic-spf50",
+        oraeSkinScore: 9.5,
         title: "1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++)",
         brand: "The Derma Co",
         image: "/images/products/dermaco-hyaluronic.jpg",
         asinOrUrl: "B0BVWDJTHF",
         rating: 4.7,
-        reviewCount: "11,800+",
+        reviewCount: "21,800+",
         badge: "Best for Oily & Acne-Prone",
         bestFor: "Oily skin, active acne, and hot humid climate",
         keyIngredients: ["1% Hyaluronic Acid", "Vitamin E", "Broad Spectrum UV Filters"],
@@ -46,13 +50,15 @@ const topPicks = [
     },
     {
         rank: 3,
+        id: "cerave-foaming-cleanser",
+        oraeSkinScore: 9.6,
         title: "Foaming Facial Cleanser with 3 Essential Ceramides",
         brand: "CeraVe",
         image: "/images/products/cerave-cleanser.jpg",
         asinOrUrl: "B07C5SKVL7",
         rating: 4.8,
-        reviewCount: "28,500+",
-        badge: "Dermatologist #1 Pick",
+        reviewCount: "42,500+",
+        badge: "Editor's Barrier Pick",
         bestFor: "Normal to oily, sensitive, and barrier-compromised skin",
         keyIngredients: ["Ceramides 1, 3, 6-II", "Hyaluronic Acid", "Niacinamide"],
         pros: [
@@ -63,16 +69,18 @@ const topPicks = [
         cons: [
             "Mild lather (does not foam aggressively)"
         ],
-        priceEstimate: "₹390"
+        priceEstimate: "₹625"
     },
     {
         rank: 4,
+        id: "dotkey-rice-ceramide-cream",
+        oraeSkinScore: 9.4,
         title: "Barrier Repair Moisturizer with Ceramides & Rice Water",
         brand: "Dot & Key",
         image: "/images/products/dotkey-rice-cream.jpg",
         asinOrUrl: "B0BDVG99J5",
         rating: 4.7,
-        reviewCount: "7,300+",
+        reviewCount: "18,300+",
         badge: "Best Barrier Repair",
         bestFor: "Dullness, dehydrated skin barrier, and post-acne marks",
         keyIngredients: ["Fermented Rice Water", "5 Essential Ceramides", "Hyaluronic Acid", "Probiotics"],
@@ -93,9 +101,9 @@ const topPicks = [
     <div class="container">
         <div class="section-header">
             <div class="header-left">
-                <span class="eyebrow">Amazon India Verified • 2026</span>
+                <span class="eyebrow">Editorial Intelligence • 2026</span>
                 <h2>Editor's Choice Top Skincare Products</h2>
-                <p>Independently tested single products with verified ratings and direct Amazon.in Prime links.</p>
+                <p>Editorially evaluated formulations with verified Amazon ratings, transparent OraeSkin Scores, and direct Prime links.</p>
             </div>
             <div class="header-right">
                 <span class="verified-badge">

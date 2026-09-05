@@ -6,7 +6,7 @@ date: "2026-03-01"
 category: "Moisturizers"
 rating: 4.8
 keywords: "best barrier repair cream india, ceramide moisturizer amazon india, dot and key rice water ceramide cream, cerave moisturizing cream review, heal damaged skin barrier"
-description: "Over-exfoliated skin? Redness and burning? Discover the best dermatologist-tested ceramide and barrier repair creams available on Amazon India to restore skin resilience."
+description: "Over-exfoliated skin? Redness and burning? Discover the best barrier-restoring ceramide and barrier repair creams available on Amazon India to restore skin resilience."
 topPickTitle: "Dot & Key Rice Water & Ceramide Deep Hydrating Moisturizer"
 topPickBrand: "Dot & Key"
 topPickAsin: "B0BDVG99J5"

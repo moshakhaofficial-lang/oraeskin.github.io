@@ -6,7 +6,7 @@ date: "2026-03-02"
 category: "Cleansers & Facewash"
 rating: 4.8
 keywords: "best cleanser for oily skin india, facewash for acne, cerave foaming cleanser amazon india, minimalist salicylic acid facewash, cetaphil gentle cleanser"
-description: "Dermatologist-evaluated facewashes to control excess sebum, unclog pores, and eliminate acne breakouts without stripping your skin barrier in Indian weather."
+description: "Evidence-informed facewashes to control excess sebum, unclog pores, and eliminate acne breakouts without stripping your skin barrier in Indian weather."
 ---
 
 When combating oily skin and persistent acne in Indian cities, the right cleanser is your foundation. Wash with something too mild, and sebum, vehicle exhaust, and sunscreen residue remain trapped inside your pores; wash with something too harsh, and your skin strips away natural lipids, overcompensating with rebound oiliness.

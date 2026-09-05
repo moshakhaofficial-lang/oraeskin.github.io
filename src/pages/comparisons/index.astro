@@ -1,0 +1,249 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { COMPARISONS } from '../../data/comparisons';
+import { getProductById } from '../../data/products';
+---
+
+<Layout 
+    title="Head-to-Head Skincare Comparisons | OraeSkin"
+    description="Compare top Indian skincare products side-by-side. Formulations, OraeSkin Scores, climate performance, and skin-type recommendations evaluated independently."
+>
+    <Header />
+    <main style="padding-top: 130px; padding-bottom: 90px;">
+        <div class="container comparisons-index-container">
+            <header class="comp-index-header">
+                <span class="eyebrow">Ingredient & Formulation Showdowns</span>
+                <h1>Head-to-Head Skincare Comparisons</h1>
+                <p class="subtitle">Confused between two popular serums, sunscreens, or moisturizers? We break down the active concentrations, Indian climate suitability, and price-per-gram economics so you can choose the right one for your skin.</p>
+            </header>
+
+            <div class="comparisons-grid">
+                {COMPARISONS.map((comp) => {
+                    const productA = getProductById(comp.productAId);
+                    const productB = getProductById(comp.productBId);
+
+                    return (
+                        <article class="comparison-preview-card">
+                            <div class="card-category-badge">{comp.category.toUpperCase()}</div>
+                            <h2 class="card-title">
+                                <a href={`/comparisons/${comp.slug}/`}>{comp.title}</a>
+                            </h2>
+                            <p class="card-subtitle">{comp.subtitle}</p>
+
+                            {productA && productB && (
+                                <div class="mini-vs-preview">
+                                    <div class="mini-prod">
+                                        <img src={productA.image} alt={productA.name} width="56" height="56" />
+                                        <div class="mini-meta">
+                                            <strong>{productA.brand}</strong>
+                                            <span>Score: {productA.oraeSkinScore.toFixed(1)}/10</span>
+                                        </div>
+                                    </div>
+                                    <span class="mini-vs-sep">VS</span>
+                                    <div class="mini-prod">
+                                        <img src={productB.image} alt={productB.name} width="56" height="56" />
+                                        <div class="mini-meta">
+                                            <strong>{productB.brand}</strong>
+                                            <span>Score: {productB.oraeSkinScore.toFixed(1)}/10</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            )}
+
+                            <div class="card-winner-preview">
+                                <strong>Quick Take:</strong>
+                                <span>{comp.verdictSummary}</span>
+                            </div>
+
+                            <div class="card-footer">
+                                <a href={`/comparisons/${comp.slug}/`} class="btn-compare-link">
+                                    View Full Comparison Matrix →
+                                </a>
+                            </div>
+                        </article>
+                    );
+                })}
+            </div>
+        </div>
+    </main>
+    <Footer />
+</Layout>
+
+<style>
+    .comparisons-index-container {
+        max-width: 1060px;
+        margin: 0 auto;
+    }
+
+    .comp-index-header {
+        text-align: center;
+        margin-bottom: 44px;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1.5px;
+        margin-bottom: 8px;
+    }
+
+    .comp-index-header h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.6rem;
+        color: #2c2c2c;
+        margin: 0 0 14px 0;
+    }
+
+    .subtitle {
+        font-size: 1.15rem;
+        color: #666;
+        max-width: 760px;
+        margin: 0 auto;
+        line-height: 1.6;
+    }
+
+    .comparisons-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 26px;
+    }
+
+    .comparison-preview-card {
+        background: #fff;
+        border: 1px solid #eee5dd;
+        border-radius: 14px;
+        padding: 26px;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.03);
+        transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+
+    .comparison-preview-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+    }
+
+    .card-category-badge {
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 1px;
+        color: #c87a54;
+        margin-bottom: 8px;
+    }
+
+    .card-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.35rem;
+        line-height: 1.35;
+        margin: 0 0 8px 0;
+    }
+
+    .card-title a {
+        color: #2c2c2c;
+        text-decoration: none;
+    }
+
+    .card-title a:hover {
+        color: #c87a54;
+    }
+
+    .card-subtitle {
+        font-size: 0.9rem;
+        color: #666;
+        line-height: 1.5;
+        margin: 0 0 18px 0;
+    }
+
+    .mini-vs-preview {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #fdfaf6;
+        border: 1px solid #f0eae1;
+        border-radius: 10px;
+        padding: 12px 14px;
+        margin-bottom: 16px;
+    }
+
+    .mini-prod {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .mini-prod img {
+        width: 48px;
+        height: 48px;
+        object-fit: contain;
+        background: #fff;
+        border-radius: 6px;
+        padding: 4px;
+        border: 1px solid #eee5dd;
+    }
+
+    .mini-meta {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mini-meta strong {
+        font-size: 0.85rem;
+        color: #2c2c2c;
+    }
+
+    .mini-meta span {
+        font-size: 0.75rem;
+        color: #c87a54;
+        font-weight: 600;
+    }
+
+    .mini-vs-sep {
+        font-weight: 800;
+        font-size: 0.75rem;
+        color: #a89f91;
+    }
+
+    .card-winner-preview {
+        font-size: 0.86rem;
+        color: #555;
+        line-height: 1.5;
+        margin-bottom: 20px;
+        flex: 1;
+    }
+
+    .card-winner-preview strong {
+        color: #2c2c2c;
+    }
+
+    .card-footer {
+        border-top: 1px solid #f2ede6;
+        padding-top: 14px;
+        margin-top: auto;
+    }
+
+    .btn-compare-link {
+        font-size: 0.9rem;
+        font-weight: 700;
+        color: #c87a54;
+        text-decoration: underline;
+    }
+
+    .btn-compare-link:hover {
+        color: #b56a45;
+    }
+
+    @media (max-width: 768px) {
+        .comp-index-header h1 {
+            font-size: 2.2rem;
+        }
+        .comparisons-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>

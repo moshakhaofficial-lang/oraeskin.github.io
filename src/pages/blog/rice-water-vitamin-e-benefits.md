@@ -13,7 +13,7 @@ Fermented rice water paired with skin-identical ceramides has become one of the 
 
 ---
 
-## 3 Scientifically Proven Benefits of Rice Water & Ceramides
+## 3 Research-Backed Benefits of Rice Water & Ceramides
 
 1. **Intense Barrier Repair**: Ceramides replenish the lipid matrix between skin cells, preventing transepidermal water loss (TEWL) caused by harsh air conditioning and sun exposure.
 2. **Pore Refining & Oil Balance**: Inositol and amino acids present in fermented rice extract gently tighten pore openings and regulate sebum in humid weather.
@@ -21,7 +21,7 @@ Fermented rice water paired with skin-identical ceramides has become one of the 
 
 ---
 
-## Top Tested Rice Water Skincare on Amazon India
+## Top Recommended Rice Water Skincare on Amazon India
 
 ### 1. Dot & Key Rice Water & Ceramide Deep Hydrating Moisturizer
 - **Direct Amazon Link**: **[Dot & Key Rice Water Cream on Amazon India](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**

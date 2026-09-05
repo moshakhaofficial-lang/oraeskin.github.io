@@ -6,7 +6,7 @@ date: "2026-03-02"
 category: "Sunscreens & SPF"
 rating: 4.8
 keywords: "best sunscreen under 400 india, budget sunscreen amazon india, affordable spf 50"
-description: "Daily sun defense should not break the bank. Dermatologist-tested broad-spectrum SPF 50 sunscreens under ₹400 on Amazon India."
+description: "Daily sun defense should not break the bank. Barrier-safe broad-spectrum SPF 50 sunscreens under ₹400 on Amazon India."
 topPickTitle: "Minimalist SPF 50 Multi-Vitamin Sunscreen"
 topPickBrand: "Minimalist"
 topPickAsin: "B09FPS9D5T"
@@ -14,7 +14,7 @@ topPickRating: "4.8 ★"
 topPickPrice: "~₹399"
 ---
 
-Daily sun defense should not break the bank. Dermatologist-tested broad-spectrum SPF 50 sunscreens under ₹400 on Amazon India.
+Daily sun defense should not break the bank. Barrier-safe broad-spectrum SPF 50 sunscreens under ₹400 on Amazon India.
 
 In India's distinct tropical climate—characterized by intense UV radiation, high ambient humidity, and urban air pollution—selecting the right products for **sunscreens & spf** requires careful consideration of active stability, formulation weight, and skin barrier compatibility.
 
@@ -24,7 +24,7 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Minimalist SPF 50 Multi-Vitamin Sunscreen** | Dermatologist Formulated | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Minimalist — Minimalist SPF 50 Multi-Vitamin Sunscreen** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 | **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
@@ -44,7 +44,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 
 ## 2. CeraVe Dermatological Solution — *Best for Sensitive Skin*
 
-Developed in collaboration with dermatologists, this formulation replenishes essential lipids and calms reactive skin.
+Formulated with barrier-restoring active ingredients, this formulation replenishes essential lipids and calms reactive skin.
 
 - **Skin-Identical Ceramides**: Rebuilds the stratum corneum matrix to halt moisture evaporation caused by air conditioning.
 - **Fragrance-Free & Hypoallergenic**: Completely safe for easily irritated, stinging, or redness-prone complexions.
@@ -64,7 +64,7 @@ Combining botanical brightness with modern skin barrier science for effortless d
 
 ---
 
-## Dermatologist Routine Tips for Indian Skin
+## Editorial Routine Tips for Indian Skin
 
 1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
 2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.

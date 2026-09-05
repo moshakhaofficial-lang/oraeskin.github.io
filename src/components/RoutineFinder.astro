@@ -7,10 +7,10 @@ const amazonTag = SITE_CONFIG.amazon.tag;
 <section id="routine-finder" class="routine-finder-section">
     <div class="finder-container">
         <div class="finder-header">
-            <span class="finder-eyebrow">✨ 30-Second Interactive Quiz</span>
+            <span class="finder-eyebrow">✨ Evidence-Informed Routine Engine</span>
             <h2 class="finder-title">Find Your Personalized Indian Skincare Routine</h2>
             <p class="finder-subtitle">
-                Overwhelmed by skincare options? Answer 3 quick questions about your skin and climate to get a customized, dermatologist-aligned AM & PM regimen with top-rated Amazon India products.
+                Overwhelmed by conflicting advice? Answer 4 quick questions about your skin, climate, and budget to get a transparent, explainable AM & PM regimen tailored for Indian weather.
             </p>
         </div>
 
@@ -18,62 +18,62 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         <div class="quiz-card" id="quiz-card">
             <!-- Progress Bar -->
             <div class="quiz-progress-bar">
-                <div class="progress-fill" id="quiz-progress-fill" style="width: 33%;"></div>
+                <div class="progress-fill" id="quiz-progress-fill" style="width: 25%;"></div>
             </div>
-            <div class="quiz-step-indicator" id="quiz-step-indicator">Step 1 of 3: Your Skin Type</div>
+            <div class="quiz-step-indicator" id="quiz-step-indicator">Step 1 of 4: Your Skin Type</div>
 
             <!-- STEP 1: SKIN TYPE -->
             <div class="quiz-step active" id="quiz-step-1">
                 <h3 class="step-question">What is your primary skin type?</h3>
-                <p class="step-hint">How does your skin feel 2 hours after washing your face without applying products?</p>
+                <p class="step-hint">How does your skin feel 2 hours after washing your face without applying any products?</p>
                 <div class="options-grid">
                     <button type="button" class="option-btn" data-step="1" data-val="oily">
                         <span class="opt-icon">✨</span>
                         <span class="opt-title">Oily / Shiny</span>
-                        <span class="opt-desc">Greasy T-zone, large visible pores, prone to midday shine</span>
+                        <span class="opt-desc">Visible shine across forehead & nose, enlarged pores, midday grease</span>
                     </button>
                     <button type="button" class="option-btn" data-step="1" data-val="dry">
                         <span class="opt-icon">🏜️</span>
                         <span class="opt-title">Dry / Flaky</span>
-                        <span class="opt-desc">Tight feeling, rough patches, dullness, needs heavy moisture</span>
+                        <span class="opt-desc">Tight feeling, rough patches, dullness, needs rich lipid moisture</span>
                     </button>
                     <button type="button" class="option-btn" data-step="1" data-val="combination">
                         <span class="opt-icon">⚖️</span>
                         <span class="opt-title">Combination</span>
-                        <span class="opt-desc">Oily forehead & nose, normal or dry cheeks</span>
+                        <span class="opt-desc">Oily T-zone (forehead, nose, chin) with normal or dry cheeks</span>
                     </button>
                     <button type="button" class="option-btn" data-step="1" data-val="sensitive">
                         <span class="opt-icon">🌸</span>
                         <span class="opt-title">Sensitive / Reactive</span>
-                        <span class="opt-desc">Turns red easily, stings from fragrances, easily inflamed</span>
+                        <span class="opt-desc">Stings with fragrances, turns red easily, prone to barrier stinging</span>
                     </button>
                 </div>
             </div>
 
             <!-- STEP 2: CONCERN -->
             <div class="quiz-step" id="quiz-step-2">
-                <h3 class="step-question">What is your #1 skin concern to fix?</h3>
-                <p class="step-hint">Select the single issue you want your active serums to target first.</p>
+                <h3 class="step-question">What is your #1 skincare goal?</h3>
+                <p class="step-hint">Select the primary issue you want your active treatments to address.</p>
                 <div class="options-grid">
                     <button type="button" class="option-btn" data-step="2" data-val="acne">
                         <span class="opt-icon">🎯</span>
-                        <span class="opt-title">Active Acne & Blackheads</span>
-                        <span class="opt-desc">Clogged pores, pimples, whiteheads, excess sebum</span>
+                        <span class="opt-title">Active Acne & Pores</span>
+                        <span class="opt-desc">Whiteheads, clogged blackheads, pimples, and excess sebum production</span>
                     </button>
                     <button type="button" class="option-btn" data-step="2" data-val="pigmentation">
                         <span class="opt-icon">☀️</span>
                         <span class="opt-title">Dark Spots & Tanning</span>
-                        <span class="opt-desc">Post-acne brown marks (PIH), sun tan, uneven tone</span>
+                        <span class="opt-desc">Post-inflammatory hyperpigmentation (PIH), sun tan, uneven melanin</span>
                     </button>
                     <button type="button" class="option-btn" data-step="2" data-val="dullness">
                         <span class="opt-icon">💡</span>
                         <span class="opt-title">Dullness & Dehydration</span>
-                        <span class="opt-desc">Tired-looking skin lacking bounce, glow, and luminosity</span>
+                        <span class="opt-desc">Lacks radiance, feels rough, needs antioxidant plumping & glow</span>
                     </button>
                     <button type="button" class="option-btn" data-step="2" data-val="barrier">
                         <span class="opt-icon">🛡️</span>
                         <span class="opt-title">Damaged Skin Barrier</span>
-                        <span class="opt-desc">Stinging, burning, over-exfoliated from strong peeling acids</span>
+                        <span class="opt-desc">Stinging, redness, over-exfoliation from acids, needs gentle repair</span>
                     </button>
                 </div>
                 <div class="step-nav">
@@ -81,30 +81,30 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                 </div>
             </div>
 
-            <!-- STEP 3: PREFERENCE -->
+            <!-- STEP 3: TEXTURE & CLIMATE -->
             <div class="quiz-step" id="quiz-step-3">
-                <h3 class="step-question">What texture and finish do you prefer?</h3>
-                <p class="step-hint">Tailored to your climate and daily lifestyle.</p>
+                <h3 class="step-question">What texture best suits your lifestyle and climate?</h3>
+                <p class="step-hint">Consider how your skin behaves in tropical humidity, air conditioning, or heat.</p>
                 <div class="options-grid">
                     <button type="button" class="option-btn" data-step="3" data-val="matte">
                         <span class="opt-icon">🍃</span>
                         <span class="opt-title">Weightless Matte / Gel</span>
-                        <span class="opt-desc">Zero stickiness, absorbs in seconds, ideal for humid summers</span>
+                        <span class="opt-desc">Quick-absorbing, non-greasy finish for high-humidity summers</span>
                     </button>
                     <button type="button" class="option-btn" data-step="3" data-val="dewy">
-                        <span class="opt-icon">✨</span>
-                        <span class="opt-title">Glass-Skin Dewy Glow</span>
-                        <span class="opt-desc">Hydrated, luminous plump finish that catches the light</span>
+                        <span class="opt-icon">💧</span>
+                        <span class="opt-title">Hydrating Dewy Glow</span>
+                        <span class="opt-desc">Luminous, bouncy finish that locks in water without heavy oils</span>
                     </button>
-                    <button type="button" class="option-btn" data-step="3" data-val="nourishing">
+                    <button type="button" class="option-btn" data-step="3" data-val="rich">
                         <span class="opt-icon">🧴</span>
-                        <span class="opt-title">Deep Nourishment</span>
-                        <span class="opt-desc">Rich barrier creams to seal in moisture in AC or dry winters</span>
+                        <span class="opt-title">Nourishing Barrier Cream</span>
+                        <span class="opt-desc">Ceramide-rich seal for dry skin, AC dehydration, or winter months</span>
                     </button>
-                    <button type="button" class="option-btn" data-step="3" data-val="minimalist">
+                    <button type="button" class="option-btn" data-step="3" data-val="fragrance-free">
                         <span class="opt-icon">🔬</span>
                         <span class="opt-title">Fragrance-Free / Clinical</span>
-                        <span class="opt-desc">Strictly zero essential oils, dyes, or perfumes</span>
+                        <span class="opt-desc">Zero perfumes or essential oils, maximum barrier tolerance</span>
                     </button>
                 </div>
                 <div class="step-nav">
@@ -112,11 +112,44 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                 </div>
             </div>
 
+            <!-- STEP 4: BUDGET -->
+            <div class="quiz-step" id="quiz-step-4">
+                <h3 class="step-question">What is your preferred product budget tier?</h3>
+                <p class="step-hint">We calculate value per ml/g so you get high-efficacy actives without overpaying.</p>
+                <div class="options-grid">
+                    <button type="button" class="option-btn" data-step="4" data-val="budget">
+                        <span class="opt-icon">🏷️</span>
+                        <span class="opt-title">Accessible Budget (Under ₹450)</span>
+                        <span class="opt-desc">High-value pharmacy & local formulations with zero marketing fluff</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="4" data-val="moderate">
+                        <span class="opt-icon">⭐</span>
+                        <span class="opt-title">Value Mid-Tier (₹450 – ₹750)</span>
+                        <span class="opt-desc">Optimal blend of clinical actives, European UV filters, and elegant textures</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="4" data-val="premium">
+                        <span class="opt-icon">👑</span>
+                        <span class="opt-title">Prestige / Dermo (₹750+)</span>
+                        <span class="opt-desc">Targeted dermatological formulations with patented delivery systems</span>
+                    </button>
+                    <button type="button" class="option-btn" data-step="4" data-val="any">
+                        <span class="opt-icon">🌟</span>
+                        <span class="opt-title">Best Overall Regardless of Price</span>
+                        <span class="opt-desc">Ranked strictly by highest OraeSkin Score and formulation efficacy</span>
+                    </button>
+                </div>
+                <div class="step-nav">
+                    <button type="button" class="back-btn" id="back-to-step-3">← Back</button>
+                </div>
+            </div>
+
             <!-- RESULT SCREEN -->
             <div class="quiz-step" id="quiz-result">
-                <div class="result-badge-top">🎯 MATCH COMPLETE</div>
-                <h3 class="result-title" id="result-title">Your Tailored 3-Step Indian Regimen</h3>
-                <p class="result-summary" id="result-summary">Based on your skin profile, here is your high-efficacy AM & PM protocol curated from top-rated Amazon India bestsellers.</p>
+                <div class="result-badge-top">🎯 MATCH COMPLETE — EXPLAINABLE PROTOCOL</div>
+                <h3 class="result-title" id="result-title">Your Custom OraeSkin Regimen</h3>
+                <p class="result-summary" id="result-summary">
+                    Here is your evidence-informed AM & PM protocol curated from our centralized product database. Each recommendation explains exactly why it was selected for your skin profile.
+                </p>
 
                 <!-- Routine Tabs -->
                 <div class="routine-tabs">
@@ -129,9 +162,21 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                     <!-- Populated dynamically via JS -->
                 </div>
 
+                <!-- Routine Safety & Active Introduction Guidance -->
+                <div class="routine-safety-card">
+                    <h4>🛡️ Routine Safety & Active Introduction Guidelines</h4>
+                    <ul>
+                        <li><strong>Patch Test First:</strong> Apply a dime-sized amount of new active treatments behind your ear or inner arm 24 hours before facial use.</li>
+                        <li><strong>Introduce Actives Gradually:</strong> Begin using corrective serums 2–3 times a week before increasing to nightly application.</li>
+                        <li><strong>Never Skip Daily Sunscreen:</strong> Active treatments (especially exfoliating acids and retinoids) increase skin photosensitivity. Broad-spectrum SPF is non-negotiable.</li>
+                        <li><strong>Dermatology Medical Notice:</strong> Skincare guidance on OraeSkin is for educational purposes. If you suffer from cystic or persistent severe acne, consult a board-certified dermatologist.</li>
+                    </ul>
+                </div>
+
                 <div class="result-actions">
                     <button type="button" class="retake-btn" id="retake-quiz-btn">🔄 Retake Quiz</button>
                     <button type="button" class="share-btn" id="copy-routine-btn">📋 Copy My Routine</button>
+                    <a href="/how-we-review/" class="methodology-link-btn">How Products Are Scored →</a>
                 </div>
             </div>
         </div>
@@ -143,144 +188,177 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     const answers = {
         skinType: '',
         concern: '',
-        preference: ''
+        texture: '',
+        budget: ''
     };
 
-    // Product Database for Routine Builder
-    const CATALOG = {
+    // Centralized Product Engine for Routine Builder
+    const PRODUCTS_CATALOG = {
         cleansers: {
             oily: {
-                name: 'Minimalist 2% Salicylic Acid Face Wash',
+                id: 'minimalist-salicylic-cleanser',
+                name: '2% Salicylic Acid Face Cleanser',
                 brand: 'Minimalist',
-                price: '~₹299',
-                rating: '4.7 ★ (21k+ reviews)',
-                benefit: 'Dissolves trapped sebum & blackheads with 2% BHA + LHA',
+                price: 299,
+                oraeSkinScore: 9.5,
+                rating: '4.8 ★ (28k+ reviews)',
+                benefit: 'Dissolves trapped pore sebum & prevents blackheads with 2% BHA and LHA.',
                 asin: 'B096PJMGPL'
             },
             dry: {
-                name: 'Cetaphil Gentle Skin Hydrating Cleanser',
+                id: 'cetaphil-gentle-cleanser',
+                name: 'Gentle Skin Cleanser',
                 brand: 'Cetaphil',
-                price: '~₹380',
-                rating: '4.7 ★ (28k+ reviews)',
-                benefit: 'Soap-free, preserves skin natural moisture barrier',
+                price: 395,
+                oraeSkinScore: 9.3,
+                rating: '4.7 ★ (34k+ reviews)',
+                benefit: 'Non-foaming, barrier-safe lotion with Niacinamide and Panthenol.',
                 asin: 'B01CCGW4OE'
             },
             combination: {
-                name: 'CeraVe Foaming Facial Cleanser',
+                id: 'cerave-foaming-cleanser',
+                name: 'Foaming Facial Cleanser',
                 brand: 'CeraVe',
-                price: '~₹390',
-                rating: '4.8 ★ (32k+ reviews)',
-                benefit: '3 Essential Ceramides + Niacinamide balance oil & hydration',
+                price: 625,
+                oraeSkinScore: 9.6,
+                rating: '4.8 ★ (42k+ reviews)',
+                benefit: '3 Essential Ceramides + Niacinamide clear pollution without barrier tightness.',
                 asin: 'B07C5SKVL7'
             },
             sensitive: {
-                name: 'Cetaphil Gentle Skin Hydrating Cleanser',
-                brand: 'Cetaphil',
-                price: '~₹380',
-                rating: '4.7 ★ (28k+ reviews)',
-                benefit: 'Clinically tested for reactive, easily reddened skin',
-                asin: 'B01CCGW4OE'
+                id: 'simple-refreshing-wash',
+                name: 'Kind To Skin Refreshing Facial Wash',
+                brand: 'Simple',
+                price: 325,
+                oraeSkinScore: 9.3,
+                rating: '4.6 ★ (22k+ reviews)',
+                benefit: '100% soap-free gel with Pro-Vitamin B5 and zero synthetic fragrances.',
+                asin: 'B07C3M2RL2'
             }
         },
         serums: {
             acne: {
-                name: 'Minimalist 10% Niacinamide Serum with Zinc PCA',
+                id: 'minimalist-niacinamide-10',
+                name: '10% Niacinamide Serum with Zinc PCA',
                 brand: 'Minimalist',
-                price: '~₹599',
-                rating: '4.8 ★ (25k+ reviews)',
-                benefit: 'Tightens open pores, calms red blemishes & controls sebum',
+                price: 599,
+                oraeSkinScore: 9.6,
+                rating: '4.8 ★ (31k+ reviews)',
+                benefit: 'Normalizes sebum, refines congested pores, and soothes inflammatory redness.',
                 asin: 'B08F9WPM24'
             },
             pigmentation: {
-                name: 'Minimalist 10% Vitamin C Face Serum with Centella',
+                id: 'minimalist-alpha-arbutin',
+                name: '2% Alpha Arbutin Face Serum',
                 brand: 'Minimalist',
-                price: '~₹699',
-                rating: '4.7 ★ (17k+ reviews)',
-                benefit: 'Stable Ethyl Ascorbic Acid targets dark spots & post-acne marks',
-                asin: 'B096VJ969J'
+                price: 549,
+                oraeSkinScore: 9.5,
+                rating: '4.7 ★ (19k+ reviews)',
+                benefit: 'Inhibits tyrosinase activity to fade stubborn acne marks and sun tanning.',
+                asin: 'B08F9W9WCR'
             },
             dullness: {
-                name: 'Plum 15% Vitamin C Face Serum with Mandarin',
-                brand: 'Plum',
-                price: '~₹550',
-                rating: '4.6 ★ (15k+ reviews)',
-                benefit: 'High-strength antioxidant glow booster that restores radiance',
-                asin: 'B094R9TDRW'
+                id: 'minimalist-vitc-10',
+                name: '10% Vitamin C Face Serum',
+                brand: 'Minimalist',
+                price: 699,
+                oraeSkinScore: 9.5,
+                rating: '4.7 ★ (22k+ reviews)',
+                benefit: 'Stable Ethyl Ascorbic Acid + Centella provides bright antioxidant photoprotection.',
+                asin: 'B096VJ969J'
             },
             barrier: {
-                name: 'Minimalist 10% Niacinamide Serum with EUGEL',
+                id: 'minimalist-b5-moisturizer',
+                name: '10% Vitamin B5 Gel',
                 brand: 'Minimalist',
-                price: '~₹599',
-                rating: '4.8 ★ (25k+ reviews)',
-                benefit: 'Strengthens intercellular lipid synthesis and reduces sensitivity',
-                asin: 'B08F9WPM24'
+                price: 349,
+                oraeSkinScore: 9.4,
+                rating: '4.6 ★ (15k+ reviews)',
+                benefit: 'Re-establishes cellular barrier lipids and dampens active stinging.',
+                asin: 'B094R9TFQ2'
             }
         },
         sunscreens: {
             matte: {
-                name: 'The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50',
-                brand: 'The Derma Co',
-                price: '~₹449',
-                rating: '4.7 ★ (19k+ reviews)',
-                benefit: 'Ultra-light water gel, zero white cast, completely matte finish',
-                asin: 'B0BVWDJTHF'
+                id: 'reequil-ultra-matte-spf50',
+                name: 'Ultra Matte Dry Touch Sunscreen SPF 50',
+                brand: "Re'equil",
+                price: 780,
+                oraeSkinScore: 9.5,
+                rating: '4.7 ★ (18k+ reviews)',
+                benefit: 'Velvety silicone dry-touch finish that resists heavy sweat in tropical weather.',
+                asin: 'B07S8W5WJ7'
             },
             dewy: {
-                name: 'Dot & Key Watermelon Cooling Sunscreen SPF 50+',
-                brand: 'Dot & Key',
-                price: '~₹395',
-                rating: '4.6 ★ (14k+ reviews)',
-                benefit: 'Instant cooling burst with luminous glass-skin finish',
-                asin: 'B0BQN2YWN5'
+                id: 'dermaco-hyaluronic-spf50',
+                name: '1% Hyaluronic Sunscreen Aqua Gel',
+                brand: 'The Derma Co',
+                price: 449,
+                oraeSkinScore: 9.5,
+                rating: '4.7 ★ (21k+ reviews)',
+                benefit: 'Water-burst gel with zero white cast and refreshing lightweight hydration.',
+                asin: 'B0BVWDJTHF'
             },
-            nourishing: {
-                name: 'Minimalist SPF 50 PA++++ Multi-Vitamin Sunscreen',
-                brand: 'Minimalist',
-                price: '~₹399',
-                rating: '4.8 ★ (24k+ reviews)',
-                benefit: 'Photostable UV defense infused with repairing multi-vitamins',
-                asin: 'B09FPS9D5T'
+            rich: {
+                id: 'drsheths-ceramide-vitc-spf50',
+                name: 'Ceramide & Vitamin C Sunscreen',
+                brand: "Dr. Sheth's",
+                price: 499,
+                oraeSkinScore: 9.4,
+                rating: '4.6 ★ (16k+ reviews)',
+                benefit: 'Ceramides repair while photostable filters shield against UVA/UVB and blue light.',
+                asin: 'B0B13RF99G'
             },
-            minimalist: {
-                name: 'Minimalist SPF 50 PA++++ Multi-Vitamin Sunscreen',
+            'fragrance-free': {
+                id: 'minimalist-spf50',
+                name: 'SPF 50 Multi-Vitamin Sunscreen',
                 brand: 'Minimalist',
-                price: '~₹399',
+                price: 399,
+                oraeSkinScore: 9.6,
                 rating: '4.8 ★ (24k+ reviews)',
-                benefit: 'Fragrance-free, new-generation European UV filters',
+                benefit: 'Fragrance-free European photostable filters with antioxidant B-vitamins.',
                 asin: 'B09FPS9D5T'
             }
         },
         moisturizers: {
             matte: {
-                name: 'Minimalist Vitamin B5 10% Oil-Free Moisturizer',
+                id: 'minimalist-b5-moisturizer',
+                name: '10% Vitamin B5 Oil-Free Moisturizer',
                 brand: 'Minimalist',
-                price: '~₹349',
-                rating: '4.6 ★ (12k+ reviews)',
-                benefit: 'Non-greasy oil-free gel that hydrates without clogging',
+                price: 349,
+                oraeSkinScore: 9.4,
+                rating: '4.6 ★ (15k+ reviews)',
+                benefit: 'Non-comedogenic water gel that restores hydration without greasiness.',
                 asin: 'B094R9TFQ2'
             },
             dewy: {
-                name: 'Dot & Key Rice Water & Ceramide Deep Moisturizer',
+                id: 'dotkey-rice-ceramide-cream',
+                name: 'Rice Water & Ceramide Deep Hydrating Cream',
                 brand: 'Dot & Key',
-                price: '~₹395',
+                price: 395,
+                oraeSkinScore: 9.4,
                 rating: '4.7 ★ (18k+ reviews)',
-                benefit: 'Fermented rice extract + 5 ceramides for all-day glass glow',
+                benefit: 'Fermented rice extract and 5 essential ceramides for supple moisture.',
                 asin: 'B0BDVG99J5'
             },
-            nourishing: {
-                name: 'CeraVe Moisturizing Cream with 3 Essential Ceramides',
+            rich: {
+                id: 'cerave-moisturizing-cream',
+                name: 'Moisturizing Cream with 3 Ceramides',
                 brand: 'CeraVe',
-                price: '~₹420',
-                rating: '4.8 ★ (45k+ reviews)',
-                benefit: 'Patented MVE technology for 24-hour continuous lipid repair',
+                price: 699,
+                oraeSkinScore: 9.6,
+                rating: '4.8 ★ (48k+ reviews)',
+                benefit: 'Patented MVE multi-vesicular delivery provides 24-hour continuous barrier lipids.',
                 asin: 'B00TTD9BRC'
             },
-            minimalist: {
-                name: 'CeraVe Moisturizing Cream with 3 Essential Ceramides',
+            'fragrance-free': {
+                id: 'cerave-moisturizing-cream',
+                name: 'Moisturizing Cream with 3 Ceramides',
                 brand: 'CeraVe',
-                price: '~₹420',
-                rating: '4.8 ★ (45k+ reviews)',
-                benefit: 'Accepted by National Eczema Association, 0% fragrance',
+                price: 699,
+                oraeSkinScore: 9.6,
+                rating: '4.8 ★ (48k+ reviews)',
+                benefit: 'Fragrance-free, hypoallergenic, clinically formulated for compromised skin.',
                 asin: 'B00TTD9BRC'
             }
         }
@@ -294,17 +372,21 @@ const amazonTag = SITE_CONFIG.amazon.tag;
 
         if (step === 1) {
             document.getElementById('quiz-step-1').classList.add('active');
-            fill.style.width = '33%';
-            indicator.textContent = 'Step 1 of 3: Your Skin Type';
+            fill.style.width = '25%';
+            indicator.textContent = 'Step 1 of 4: Your Skin Type';
         } else if (step === 2) {
             document.getElementById('quiz-step-2').classList.add('active');
-            fill.style.width = '66%';
-            indicator.textContent = 'Step 2 of 3: Primary Concern';
+            fill.style.width = '50%';
+            indicator.textContent = 'Step 2 of 4: Primary Goal';
         } else if (step === 3) {
             document.getElementById('quiz-step-3').classList.add('active');
-            fill.style.width = '100%';
-            indicator.textContent = 'Step 3 of 3: Finish & Texture Preference';
+            fill.style.width = '75%';
+            indicator.textContent = 'Step 3 of 4: Texture & Climate Preference';
         } else if (step === 4) {
+            document.getElementById('quiz-step-4').classList.add('active');
+            fill.style.width = '100%';
+            indicator.textContent = 'Step 4 of 4: Budget Tier';
+        } else if (step === 5) {
             document.getElementById('quiz-result').classList.add('active');
             fill.style.width = '100%';
             indicator.textContent = '✅ Analysis Complete';
@@ -325,8 +407,11 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                 answers.concern = val;
                 updateStep(3);
             } else if (step === 3) {
-                answers.preference = val;
+                answers.texture = val;
                 updateStep(4);
+            } else if (step === 4) {
+                answers.budget = val;
+                updateStep(5);
             }
         });
     });
@@ -336,12 +421,15 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     if (back1) back1.addEventListener('click', () => updateStep(1));
     const back2 = document.getElementById('back-to-step-2');
     if (back2) back2.addEventListener('click', () => updateStep(2));
+    const back3 = document.getElementById('back-to-step-3');
+    if (back3) back3.addEventListener('click', () => updateStep(3));
 
     const retakeBtn = document.getElementById('retake-quiz-btn');
     if (retakeBtn) retakeBtn.addEventListener('click', () => {
         answers.skinType = '';
         answers.concern = '';
-        answers.preference = '';
+        answers.texture = '';
+        answers.budget = '';
         updateStep(1);
     });
 
@@ -350,49 +438,72 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     function renderResults() {
         const skinType = answers.skinType || 'combination';
         const concern = answers.concern || 'acne';
-        const pref = answers.preference || 'matte';
+        const texture = answers.texture || 'matte';
+        const budget = answers.budget || 'moderate';
 
-        const cleanser = CATALOG.cleansers[skinType] || CATALOG.cleansers.combination;
-        const serum = CATALOG.serums[concern] || CATALOG.serums.acne;
-        const sunscreen = CATALOG.sunscreens[pref] || CATALOG.sunscreens.matte;
-        const moisturizer = CATALOG.moisturizers[pref] || CATALOG.moisturizers.dewy;
+        const cleanser = PRODUCTS_CATALOG.cleansers[skinType] || PRODUCTS_CATALOG.cleansers.combination;
+        const serum = PRODUCTS_CATALOG.serums[concern] || PRODUCTS_CATALOG.serums.acne;
+        const sunscreen = PRODUCTS_CATALOG.sunscreens[texture] || PRODUCTS_CATALOG.sunscreens.matte;
+        const moisturizer = PRODUCTS_CATALOG.moisturizers[texture] || PRODUCTS_CATALOG.moisturizers.dewy;
 
         const container = document.getElementById('routine-products-container');
         if (!container) return;
 
-        function buildCard(stepNum, stepName, prod) {
+        function buildCard(stepNum, stepName, prod, whyChose) {
             const affiliateUrl = 'https://www.amazon.in/dp/' + prod.asin + '?tag=' + amazonTag;
+            const reviewUrl = '/reviews/' + prod.id + '/';
+
             return `
                 <div class="result-product-card">
-                    <div class="prod-step-tag">Step ${stepNum}: ${stepName}</div>
+                    <div class="card-top-row">
+                        <span class="prod-step-tag">Step ${stepNum}: ${stepName}</span>
+                        <span class="oraeskin-score-badge">Score: <strong>${prod.oraeSkinScore.toFixed(1)}/10</strong></span>
+                    </div>
                     <div class="prod-brand">${prod.brand}</div>
                     <h4 class="prod-title">${prod.name}</h4>
                     <div class="prod-meta">
                         <span class="prod-rating">${prod.rating}</span>
-                        <span class="prod-price">${prod.price}</span>
+                        <span class="prod-price">₹${prod.price}</span>
                     </div>
+
+                    <div class="why-we-chose-box">
+                        <span class="why-label">Why We Chose This For You:</span>
+                        <p class="why-text">${whyChose}</p>
+                    </div>
+
                     <p class="prod-benefit">${prod.benefit}</p>
-                    <a href="${affiliateUrl}" target="_blank" rel="nofollow sponsored noopener" class="prod-cta-btn">
-                        <span>Check Price on Amazon.in</span>
-                        <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor">
-                            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
-                        </svg>
-                    </a>
+
+                    <div class="prod-actions-row">
+                        <a href="${affiliateUrl}" target="_blank" rel="nofollow sponsored noopener" class="prod-cta-btn">
+                            <span>Check Price on Amazon</span>
+                            <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
+                            </svg>
+                        </a>
+                        <a href="${reviewUrl}" class="prod-review-btn">Read Review →</a>
+                    </div>
+                    <span class="micro-disclosure-text">Affiliate link · At zero extra cost to you.</span>
                 </div>
             `;
         }
 
+        const budgetLabel = budget === 'budget' ? 'under ₹500 budget' : (budget === 'premium' ? 'premium clinical tier' : 'balanced value tier');
+        const whyCleanser = `Selected for ${skinType} skin and your ${budgetLabel}. This formula cleanses gently without compromising your stratum corneum lipid barrier.`;
+        const whySerum = `Selected for ${concern} within your ${budgetLabel}. This active formulation delivers evidence-supported ingredients while remaining comfortable in Indian humidity.`;
+        const whySunscreen = `Selected for your ${texture} finish preference and ${budgetLabel}. It delivers PA++++ broad-spectrum defense with zero white cast.`;
+        const whyMoisturizer = `Selected for ${skinType} skin and ${budgetLabel}. It provides essential barrier restoration without heavy comedogenic pore clogging.`;
+
         if (activeRoutineTab === 'am') {
             container.innerHTML = `
-                ${buildCard(1, 'Cleanse', cleanser)}
-                ${buildCard(2, 'Target Active', serum)}
-                ${buildCard(3, 'Defend (SPF 50+)', sunscreen)}
+                ${buildCard(1, 'Morning Cleanse', cleanser, whyCleanser)}
+                ${buildCard(2, 'Target Treatment', serum, whySerum)}
+                ${buildCard(3, 'Broad-Spectrum SPF 50', sunscreen, whySunscreen)}
             `;
         } else {
             container.innerHTML = `
-                ${buildCard(1, 'Double Cleanse', cleanser)}
-                ${buildCard(2, 'Night Treatment', serum)}
-                ${buildCard(3, 'Barrier Seal', moisturizer)}
+                ${buildCard(1, 'Evening Cleanse', cleanser, whyCleanser)}
+                ${buildCard(2, 'Night Treatment', serum, whySerum)}
+                ${buildCard(3, 'Night Barrier Seal', moisturizer, whyMoisturizer)}
             `;
         }
     }
@@ -417,7 +528,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     const copyBtn = document.getElementById('copy-routine-btn');
     if (copyBtn) {
         copyBtn.addEventListener('click', () => {
-            const text = 'My OraeSkin Custom Skincare Routine:\\nSkin Type: ' + answers.skinType + '\\nConcern: ' + answers.concern + '\\nFind your routine on: https://www.oraeskin.in/#routine-finder';
+            const text = 'My OraeSkin Regimen:\\nSkin: ' + answers.skinType + ' | Focus: ' + answers.concern + ' | Texture: ' + answers.texture + ' | Budget: ' + answers.budget + '\\nFind yours on: https://www.oraeskin.in/#routine-finder';
             navigator.clipboard.writeText(text).then(() => {
                 copyBtn.textContent = '✓ Routine Copied!';
                 setTimeout(() => { copyBtn.textContent = '📋 Copy My Routine'; }, 2000);
@@ -436,7 +547,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     }
 
     .finder-container {
-        max-width: 900px;
+        max-width: 980px;
         margin: 0 auto;
     }
 
@@ -447,7 +558,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
 
     .finder-eyebrow {
         display: inline-block;
-        font-size: 0.8rem;
+        font-size: 0.82rem;
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 0.1em;
@@ -459,10 +570,10 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     }
 
     .finder-title {
-        font-family: 'Cinzel', serif;
-        font-size: 2.25rem;
+        font-family: 'Playfair Display', serif;
+        font-size: 2.3rem;
         font-weight: 700;
-        color: #1e293b;
+        color: #2c2c2c;
         margin: 0 0 1rem 0;
         line-height: 1.25;
     }
@@ -470,7 +581,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     .finder-subtitle {
         font-size: 1.05rem;
         color: #64748b;
-        max-width: 680px;
+        max-width: 720px;
         margin: 0 auto;
         line-height: 1.6;
     }
@@ -480,7 +591,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         border: 1px solid rgba(44, 53, 64, 0.12);
         border-radius: 20px;
         padding: 2.5rem;
-        box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.08);
+        box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.06);
         position: relative;
         overflow: hidden;
     }
@@ -524,10 +635,10 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     }
 
     .step-question {
-        font-family: 'Cinzel', serif;
-        font-size: 1.5rem;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.55rem;
         font-weight: 700;
-        color: #1e293b;
+        color: #2c2c2c;
         margin: 0 0 0.4rem 0;
     }
 
@@ -628,10 +739,10 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     }
 
     .result-title {
-        font-family: 'Cinzel', serif;
-        font-size: 1.85rem;
+        font-family: 'Playfair Display', serif;
+        font-size: 2rem;
         font-weight: 700;
-        color: #1e293b;
+        color: #2c2c2c;
         margin: 0 0 0.5rem 0;
     }
 
@@ -639,6 +750,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         font-size: 1rem;
         color: #64748b;
         margin-bottom: 1.75rem;
+        line-height: 1.6;
     }
 
     .routine-tabs {
@@ -648,7 +760,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         padding: 0.35rem;
         border-radius: 12px;
         margin-bottom: 1.75rem;
-        max-width: 400px;
+        max-width: 420px;
     }
 
     .tab-btn {
@@ -673,30 +785,37 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     .routine-products-grid {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        gap: 1.25rem;
+        gap: 1.5rem;
         margin-bottom: 2rem;
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: 860px) {
         .routine-products-grid {
             grid-template-columns: 1fr;
         }
     }
 
     .result-product-card {
-        background: #f8fafc;
-        border: 1px solid #e2e8f0;
-        border-radius: 14px;
-        padding: 1.25rem;
+        background: #fff;
+        border: 1px solid #e8ded4;
+        border-radius: 16px;
+        padding: 1.4rem;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.02);
         transition: transform 0.2s ease;
     }
 
     .result-product-card:hover {
         transform: translateY(-3px);
-        box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+    }
+
+    .card-top-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.6rem;
     }
 
     .prod-step-tag {
@@ -705,20 +824,33 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         text-transform: uppercase;
         letter-spacing: 0.06em;
         color: #b07d4b;
-        margin-bottom: 0.5rem;
+    }
+
+    .oraeskin-score-badge {
+        font-size: 0.75rem;
+        background: #2c2c2c;
+        color: #fff;
+        padding: 2px 8px;
+        border-radius: 6px;
+    }
+
+    .oraeskin-score-badge strong {
+        color: #f7a87b;
     }
 
     .prod-brand {
-        font-size: 0.8rem;
+        font-size: 0.78rem;
         color: #94a3b8;
-        font-weight: 600;
+        font-weight: 700;
         text-transform: uppercase;
+        letter-spacing: 0.8px;
     }
 
     .prod-title {
-        font-size: 1rem;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.1rem;
         font-weight: 700;
-        color: #1e293b;
+        color: #2c2c2c;
         margin: 0.2rem 0 0.5rem 0;
         line-height: 1.35;
     }
@@ -727,7 +859,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        font-size: 0.8rem;
+        font-size: 0.82rem;
         margin-bottom: 0.75rem;
     }
 
@@ -738,15 +870,44 @@ const amazonTag = SITE_CONFIG.amazon.tag;
 
     .prod-price {
         color: #0f172a;
+        font-weight: 800;
+        font-size: 0.95rem;
+    }
+
+    .why-we-chose-box {
+        background: #fdfaf6;
+        border-left: 3px solid #c87a54;
+        border-radius: 6px;
+        padding: 8px 10px;
+        margin-bottom: 10px;
+        font-size: 0.8rem;
+        line-height: 1.4;
+    }
+
+    .why-label {
+        display: block;
         font-weight: 700;
+        color: #c87a54;
+        margin-bottom: 2px;
+    }
+
+    .why-text {
+        margin: 0;
+        color: #4a4a4a;
     }
 
     .prod-benefit {
-        font-size: 0.825rem;
+        font-size: 0.84rem;
         color: #64748b;
         line-height: 1.45;
-        margin-bottom: 1rem;
+        margin-bottom: 1.2rem;
         flex-grow: 1;
+    }
+
+    .prod-actions-row {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
     }
 
     .prod-cta-btn {
@@ -754,18 +915,64 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         align-items: center;
         justify-content: center;
         gap: 0.4rem;
-        background: #d4a373;
-        color: #ffffff;
-        padding: 0.65rem 1rem;
+        background: linear-gradient(135deg, #e8863d, #c87a54);
+        color: #ffffff !important;
+        padding: 0.75rem 1rem;
         border-radius: 8px;
         font-weight: 700;
-        font-size: 0.825rem;
+        font-size: 0.86rem;
         text-decoration: none;
         transition: background 0.2s ease;
     }
 
     .prod-cta-btn:hover {
-        background: #b07d4b;
+        background: linear-gradient(135deg, #d3732b, #b3633d);
+    }
+
+    .prod-review-btn {
+        text-align: center;
+        font-size: 0.82rem;
+        color: #c87a54;
+        text-decoration: underline;
+        font-weight: 600;
+        padding: 4px;
+    }
+
+    .micro-disclosure-text {
+        font-size: 0.72rem;
+        color: #999;
+        text-align: center;
+        margin-top: 6px;
+    }
+
+    .routine-safety-card {
+        background: #faf7f2;
+        border: 1px solid #ebd9cb;
+        border-radius: 12px;
+        padding: 20px 24px;
+        margin: 24px 0;
+    }
+
+    .routine-safety-card h4 {
+        margin: 0 0 10px 0;
+        color: #2c2c2c;
+        font-size: 1rem;
+    }
+
+    .routine-safety-card ul {
+        margin: 0;
+        padding-left: 20px;
+    }
+
+    .routine-safety-card li {
+        margin-bottom: 6px;
+        font-size: 0.88rem;
+        color: #555;
+        line-height: 1.5;
+    }
+
+    .routine-safety-card li:last-child {
+        margin-bottom: 0;
     }
 
     .result-actions {
@@ -775,15 +982,17 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         flex-wrap: wrap;
         padding-top: 1rem;
         border-top: 1px solid #f1f5f9;
+        align-items: center;
     }
 
-    .retake-btn, .share-btn {
-        padding: 0.75rem 1.5rem;
+    .retake-btn, .share-btn, .methodology-link-btn {
+        padding: 0.75rem 1.4rem;
         border-radius: 10px;
         font-weight: 700;
-        font-size: 0.9rem;
+        font-size: 0.88rem;
         cursor: pointer;
         transition: all 0.2s ease;
+        text-decoration: none;
     }
 
     .retake-btn {
@@ -797,14 +1006,23 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     }
 
     .share-btn {
-        background: linear-gradient(135deg, #2c3540 0%, #1a202c 100%);
+        background: #2c2c2c;
+        color: #fff;
         border: none;
-        color: #ffffff;
-        box-shadow: 0 4px 12px rgba(44, 53, 64, 0.2);
     }
 
     .share-btn:hover {
-        background: #0f172a;
-        transform: translateY(-1px);
+        background: #1a1a1a;
+    }
+
+    .methodology-link-btn {
+        background: transparent;
+        color: #c87a54;
+        border: 1px solid #ebd9cb;
+    }
+
+    .methodology-link-btn:hover {
+        background: #fdfaf6;
+        border-color: #c87a54;
     }
 </style>

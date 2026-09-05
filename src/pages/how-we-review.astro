@@ -1,0 +1,521 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout 
+    title="How We Review Skincare Products | OraeSkin Editorial Methodology"
+    description="Transparent breakdown of how OraeSkin researches, analyzes, scores, and recommends skincare products specifically for Indian skin, climate, and budgets."
+>
+    <Header />
+    <main style="padding-top: 130px; padding-bottom: 90px;">
+        <article class="container methodology-article">
+            <header class="methodology-header">
+                <span class="eyebrow">Editorial Standards</span>
+                <h1>How We Review & Score Skincare</h1>
+                <p class="subtitle">Evidence-informed, climate-aware, and completely independent. Here is exactly how every product enters our database and earns its OraeSkin Score.</p>
+                <div class="meta-badge-row">
+                    <span class="meta-badge">📋 Published: September 2026</span>
+                    <span class="meta-badge">⚖️ Zero Sponsored Rankings</span>
+                    <span class="meta-badge">🇮🇳 Built for Indian Skin & Climate</span>
+                </div>
+            </header>
+
+            <div class="methodology-body">
+                <!-- Highlight Box -->
+                <div class="core-statement">
+                    <h3>Our Transparency Commitment</h3>
+                    <p>
+                        OraeSkin is an <strong>independent skincare research and editorial publication</strong>. We do not claim to operate a private clinical testing laboratory, nor do we employ fictional "celebrity dermatologists" to rubber-stamp commercial products.
+                    </p>
+                    <p>
+                        Instead, we evaluate skincare through rigorous <strong>formulation analysis, peer-reviewed dermatological literature, real-world Indian climatic factors, verified purchaser sentiment, and strict price-per-millilitre economics</strong>.
+                    </p>
+                </div>
+
+                <!-- Section 1: Product Selection -->
+                <h2>1. How Products Enter Our Radar</h2>
+                <p>
+                    With thousands of skincare launches hitting Indian marketplaces every month, we filter aggressively before a product is selected for deep evaluation. A formula must satisfy several baseline criteria:
+                </p>
+                <div class="criteria-grid">
+                    <div class="criteria-card">
+                        <div class="card-icon">🇮🇳</div>
+                        <h4>Indian Availability</h4>
+                        <p>Must be officially available and reliably restocked on Amazon India, official brand portals, or Indian pharmacies at standard retail prices.</p>
+                    </div>
+                    <div class="criteria-card">
+                        <div class="card-icon">🔬</div>
+                        <h4>Formulation Transparency</h4>
+                        <p>We prioritize brands that disclose full ingredient lists (INCI) and declare active concentrations (e.g., Niacinamide 5%, Salicylic Acid 2%).</p>
+                    </div>
+                    <div class="criteria-card">
+                        <div class="card-icon">💬</div>
+                        <h4>Verified Indian Consumer Proof</h4>
+                        <p>We analyze hundreds of verified Indian consumer reviews across heat, monsoon, and dry winter seasons to spot breakout trends or packaging flaws.</p>
+                    </div>
+                    <div class="criteria-card">
+                        <div class="card-icon">💰</div>
+                        <h4>Price-to-Value Accessibility</h4>
+                        <p>We look for formulations that deliver maximum barrier support or corrective efficacy within accessible Indian budgets (₹250 – ₹1,200).</p>
+                    </div>
+                </div>
+
+                <!-- Section 2: OraeSkin Score -->
+                <h2>2. The OraeSkin Score (Out of 10)</h2>
+                <p>
+                    Every product on OraeSkin receives our proprietary <strong>OraeSkin Score</strong>. Unlike marketplace star ratings which often reflect delivery speed or unboxing excitement, our score is a multi-dimensional editorial assessment weighted across six key pillars:
+                </p>
+
+                <div class="score-breakdown-card">
+                    <div class="score-pillar">
+                        <div class="pillar-header">
+                            <span class="pillar-title">1. Formula & Active Ingredients</span>
+                            <span class="pillar-weight">25% Weight</span>
+                        </div>
+                        <p>Quality, stability, and concentration of hero actives (e.g., pure L-Ascorbic Acid vs ethylated derivatives, encapsulated Salicylic Acid, ceramide ratios). Penalty deductions for unnecessary drying alcohols or aggressive synthetic dyes.</p>
+                    </div>
+
+                    <div class="score-pillar">
+                        <div class="pillar-header">
+                            <span class="pillar-title">2. Skin-Type & Climate Suitability</span>
+                            <span class="pillar-weight">20% Weight</span>
+                        </div>
+                        <p>How the vehicle behaves in Indian conditions: 38°C summers, 85% monsoon humidity, sweat resistance, absence of white cast on Fitzpatrick skin types III–VI, and comedogenic potential in polluted metros.</p>
+                    </div>
+
+                    <div class="score-pillar">
+                        <div class="pillar-header">
+                            <span class="pillar-title">3. Scientific Evidence Quality</span>
+                            <span class="pillar-weight">20% Weight</span>
+                        </div>
+                        <p>We cross-reference active ingredients against PubMed literature, Cochrane reviews, and dermatological clinical consensus. We reward ingredients backed by double-blind randomized trials over fleeting wellness trends.</p>
+                    </div>
+
+                    <div class="score-pillar">
+                        <div class="pillar-header">
+                            <span class="pillar-title">4. Verified User Sentiment</span>
+                            <span class="pillar-weight">15% Weight</span>
+                        </div>
+                        <p>Systematic synthesis of verified purchaser feedback. We identify recurring real-world issues: pilling under makeup, eye stinging, batch inconsistencies, or pump dispenser jams.</p>
+                    </div>
+
+                    <div class="score-pillar">
+                        <div class="pillar-header">
+                            <span class="pillar-title">5. Value for Money & Price-Per-ml</span>
+                            <span class="pillar-weight">10% Weight</span>
+                        </div>
+                        <p>Calculation of cost per unit volume (₹/ml or ₹/g) based on recommended daily dosing. A ₹500 sunscreen for 50ml costs ₹10/ml, whereas a ₹799 formula for 100g costs ₹8/g. We evaluate economic sustainability for daily use.</p>
+                    </div>
+
+                    <div class="score-pillar">
+                        <div class="pillar-header">
+                            <span class="pillar-title">6. Availability & Brand Reliability</span>
+                            <span class="pillar-weight">10% Weight</span>
+                        </div>
+                        <p>Consistent marketplace availability, tamper-evident packaging, shelf-life stability, batch traceability, and adherence to Indian cosmetic regulatory standards.</p>
+                    </div>
+                </div>
+
+                <!-- Section 3: Evidence Classification Rubric -->
+                <h2>3. Evidence Quality Classification</h2>
+                <p>
+                    When evaluating claims made on packaging or marketing campaigns, we classify active ingredients using a 4-tier evidentiary standard:
+                </p>
+
+                <div class="table-responsive">
+                    <table class="evidence-table">
+                        <thead>
+                            <tr>
+                                <th>Evidence Tier</th>
+                                <th>Criteria & Sources</th>
+                                <th>Example Actives</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><span class="tier-tag tier-1">Tier 1: Strong Evidence</span></td>
+                                <td>Multiple double-blind, randomized controlled trials (RCTs), independent systematic reviews, Cochrane library consensus.</td>
+                                <td>Tretinoin, Salicylic Acid (2%), Niacinamide (2-5%), Broad Spectrum Zinc Oxide / UV Filters, Glycerin.</td>
+                            </tr>
+                            <tr>
+                                <td><span class="tier-tag tier-2">Tier 2: Moderate Evidence</span></td>
+                                <td>Published peer-reviewed in-vivo trials, consistent split-face clinical studies, established dermatological use.</td>
+                                <td>Azelaic Acid (10%), Alpha Arbutin (2%), Tranexamic Acid (3%), Centella Asiatica, Ceramides (1:3:1 ratio).</td>
+                            </tr>
+                            <tr>
+                                <td><span class="tier-tag tier-3">Tier 3: Limited / Emerging</span></td>
+                                <td>In-vitro (petri-dish) data, preliminary pilot studies, supplier-sponsored ingredient dossiers without independent validation.</td>
+                                <td>Copper Peptides for skin tightening, Bakuchiol (as direct Retinol replacement), Plant Stem Cells.</td>
+                            </tr>
+                            <tr>
+                                <td><span class="tier-tag tier-4">Tier 4: Marketing Claim</span></td>
+                                <td>Unsubstantiated buzzwords, self-reported consumer perception questionnaires ("92% of 25 people felt glowing"), detox claims.</td>
+                                <td>"Anti-pollution shield", "instant pore eraser", "magnetic detox minerals".</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Section 4: Indian Climate & Skin Nuances -->
+                <h2>4. What Makes Indian Skin & Climate Unique</h2>
+                <p>
+                    Most international skincare recommendations are formulated for temperate, low-humidity climates. Applying a heavy occlusive balm designed for cold dry climates in Mumbai or Chennai will often result in clogged pores and prickly heat rashes. We explicitly audit for:
+                </p>
+                <ul>
+                    <li><strong>Fitzpatrick Skin Types III to VI</strong>: Higher baseline epidermal melanin makes South Asian skin prone to Post-Inflammatory Hyperpigmentation (PIH) whenever a harsh active causes barrier irritation. We favor anti-inflammatory buffers.</li>
+                    <li><strong>White Cast Detection</strong>: Sunscreens must absorb transparently on deeper Indian skin tones without leaving an ashen, blue, or purple halo.</li>
+                    <li><strong>Sweat and Sebum Emulsification</strong>: In tropical weather, heavy petrolatum or thick plant waxes melt into pores. We prioritize fluid gels, aqua-gels, and dry-touch silicones for day routines.</li>
+                    <li><strong>High UV Index & Pollution Synergy</strong>: Indian cities frequently experience UV index levels of 9–11 coupled with high PM2.5 concentrations, making antioxidant photoprotection critical.</li>
+                </ul>
+
+                <!-- Section 5: Editorial Independence & Commercial Integrity -->
+                <h2>5. Commercial Integrity & Affiliate Transparency</h2>
+                <p>
+                    OraeSkin earns revenue through affiliate commissions when readers purchase products via our Amazon India referral links. Here is how we safeguard editorial objectivity:
+                </p>
+                <div class="policy-box">
+                    <ul>
+                        <li><strong>Rankings Are Not For Sale:</strong> No cosmetic brand can purchase a placement on our top lists, manipulate an OraeSkin Score, or sponsor a #1 verdict.</li>
+                        <li><strong>Honest Cons & Disadvantages:</strong> Every review highlights specific reasons to skip or avoid the product. If a product pills, irritates, or has high fragrance, we state it plainly.</li>
+                        <li><strong>Zero Price Inflation:</strong> You pay the exact same price on Amazon India whether you click our link or visit directly.</li>
+                        <li><strong>Equal Evaluation:</strong> Low-cost Indian pharmacy formulations (like Cipla Saslic, Minimalist, Sebogel) are evaluated against identical clinical benchmarks as imported prestige brands.</li>
+                    </ul>
+                </div>
+
+                <div class="methodology-cta">
+                    <h3>Explore Our Research & Curations</h3>
+                    <p>Put our methodology to work for your personal skin type and budget.</p>
+                    <div class="cta-buttons">
+                        <a href="/#routine-finder" class="btn btn-primary">Try The Routine Finder →</a>
+                        <a href="/categories/" class="btn btn-outline">Browse Product Categories</a>
+                        <a href="/disclosure/" class="btn btn-outline">Read Full Legal Disclosure</a>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </main>
+    <Footer />
+</Layout>
+
+<style>
+    .methodology-article {
+        max-width: 860px;
+        margin: 0 auto;
+    }
+
+    .methodology-header {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1.5px;
+        margin-bottom: 10px;
+    }
+
+    .methodology-header h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.8rem;
+        color: #2c2c2c;
+        line-height: 1.2;
+        margin: 0 0 16px 0;
+    }
+
+    .subtitle {
+        font-size: 1.15rem;
+        color: #666;
+        max-width: 700px;
+        margin: 0 auto 20px auto;
+        line-height: 1.6;
+    }
+
+    .meta-badge-row {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 16px;
+    }
+
+    .meta-badge {
+        background: #f4ede4;
+        color: #6d5038;
+        font-size: 0.82rem;
+        font-weight: 600;
+        padding: 6px 14px;
+        border-radius: 20px;
+    }
+
+    .methodology-body {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: #3e3e3e;
+    }
+
+    .methodology-body h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.8rem;
+        color: #2c2c2c;
+        margin-top: 48px;
+        margin-bottom: 16px;
+        border-bottom: 2px solid #f4ede4;
+        padding-bottom: 8px;
+    }
+
+    .core-statement {
+        background: linear-gradient(135deg, #fdfaf6 0%, #faede4 100%);
+        border: 1px solid #ebd9cb;
+        border-left: 5px solid #c87a54;
+        border-radius: 12px;
+        padding: 26px 30px;
+        margin: 30px 0;
+    }
+
+    .core-statement h3 {
+        margin: 0 0 10px 0;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.35rem;
+        color: #2c2c2c;
+    }
+
+    .core-statement p {
+        margin: 0 0 10px 0;
+        color: #4a4a4a;
+        line-height: 1.7;
+    }
+
+    .core-statement p:last-child {
+        margin-bottom: 0;
+    }
+
+    .criteria-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 20px;
+        margin: 24px 0 36px 0;
+    }
+
+    .criteria-card {
+        background: #fff;
+        border: 1px solid #eee5dd;
+        border-radius: 12px;
+        padding: 22px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+    }
+
+    .card-icon {
+        font-size: 1.8rem;
+        margin-bottom: 10px;
+    }
+
+    .criteria-card h4 {
+        margin: 0 0 8px 0;
+        font-size: 1.1rem;
+        color: #2c2c2c;
+    }
+
+    .criteria-card p {
+        margin: 0;
+        font-size: 0.92rem;
+        color: #666;
+        line-height: 1.6;
+    }
+
+    .score-breakdown-card {
+        background: #fff;
+        border: 1px solid #eee5dd;
+        border-radius: 14px;
+        padding: 28px;
+        margin: 24px 0 36px 0;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+    }
+
+    .score-pillar {
+        padding: 16px 0;
+        border-bottom: 1px solid #f0e6dc;
+    }
+
+    .score-pillar:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
+    .pillar-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 6px;
+    }
+
+    .pillar-title {
+        font-weight: 700;
+        color: #2c2c2c;
+        font-size: 1.05rem;
+    }
+
+    .pillar-weight {
+        background: #c87a54;
+        color: #fff;
+        font-size: 0.78rem;
+        font-weight: 700;
+        padding: 3px 10px;
+        border-radius: 12px;
+    }
+
+    .score-pillar p {
+        margin: 0;
+        font-size: 0.94rem;
+        color: #666;
+        line-height: 1.6;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+        margin: 24px 0 36px 0;
+    }
+
+    .evidence-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.95rem;
+        background: #fff;
+        border-radius: 10px;
+        overflow: hidden;
+        border: 1px solid #eee5dd;
+    }
+
+    .evidence-table th {
+        background: #f7f2ed;
+        color: #2c2c2c;
+        text-align: left;
+        padding: 14px 16px;
+        font-weight: 700;
+        border-bottom: 2px solid #e3d5c7;
+    }
+
+    .evidence-table td {
+        padding: 14px 16px;
+        border-bottom: 1px solid #eee5dd;
+        vertical-align: top;
+        color: #4a4a4a;
+        line-height: 1.6;
+    }
+
+    .tier-tag {
+        display: inline-block;
+        font-size: 0.8rem;
+        font-weight: 700;
+        padding: 4px 10px;
+        border-radius: 6px;
+        white-space: nowrap;
+    }
+
+    .tier-1 { background: #e8f5e9; color: #2e7d32; }
+    .tier-2 { background: #e3f2fd; color: #1565c0; }
+    .tier-3 { background: #fff8e1; color: #f57f17; }
+    .tier-4 { background: #fbe9e7; color: #d84315; }
+
+    .policy-box {
+        background: #faf7f2;
+        border-radius: 12px;
+        padding: 24px;
+        margin: 20px 0 30px 0;
+    }
+
+    .policy-box ul {
+        margin: 0;
+        padding-left: 20px;
+    }
+
+    .policy-box li {
+        margin-bottom: 12px;
+        color: #444;
+    }
+
+    .policy-box li:last-child {
+        margin-bottom: 0;
+    }
+
+    .methodology-cta {
+        text-align: center;
+        background: #2c2c2c;
+        color: #fff;
+        border-radius: 16px;
+        padding: 40px 30px;
+        margin-top: 50px;
+    }
+
+    .methodology-cta h3 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.8rem;
+        color: #fff;
+        margin: 0 0 10px 0;
+    }
+
+    .methodology-cta p {
+        color: #ccc;
+        margin: 0 0 24px 0;
+    }
+
+    .cta-buttons {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 12px 24px;
+        border-radius: 8px;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.2s ease;
+        font-size: 0.95rem;
+    }
+
+    .btn-primary {
+        background: #c87a54;
+        color: #fff;
+    }
+
+    .btn-primary:hover {
+        background: #b56a45;
+        transform: translateY(-2px);
+    }
+
+    .btn-outline {
+        background: transparent;
+        color: #fff;
+        border: 1px solid #777;
+    }
+
+    .btn-outline:hover {
+        border-color: #fff;
+        background: rgba(255,255,255,0.08);
+    }
+
+    @media (max-width: 768px) {
+        .methodology-header h1 {
+            font-size: 2.2rem;
+        }
+        .score-pillar {
+            padding: 12px 0;
+        }
+        .pillar-header {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 4px;
+        }
+        .cta-buttons {
+            flex-direction: column;
+        }
+    }
+</style>

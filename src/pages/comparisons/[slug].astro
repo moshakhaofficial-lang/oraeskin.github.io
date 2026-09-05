@@ -1,0 +1,769 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { COMPARISONS, type ComparisonItem } from '../../data/comparisons';
+import { getProductById, type SkincareProduct } from '../../data/products';
+import { getAmazonAffiliateUrl, SITE_CONFIG } from '../../config/site';
+
+export async function getStaticPaths() {
+    return COMPARISONS.map((comp) => {
+        const productA = getProductById(comp.productAId);
+        const productB = getProductById(comp.productBId);
+        return {
+            params: { slug: comp.slug },
+            props: { comp, productA, productB }
+        };
+    });
+}
+
+interface Props {
+    comp: ComparisonItem;
+    productA?: SkincareProduct;
+    productB?: SkincareProduct;
+}
+
+const { comp, productA, productB } = Astro.props;
+
+if (!productA || !productB) {
+    throw new Error(`Comparison products not found for slug ${comp.slug}`);
+}
+
+const affiliateUrlA = getAmazonAffiliateUrl(productA.asin);
+const affiliateUrlB = getAmazonAffiliateUrl(productB.asin);
+
+const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": SITE_CONFIG.url
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Comparisons",
+            "item": `${SITE_CONFIG.url}/comparisons/`
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": comp.title,
+            "item": `${SITE_CONFIG.url}/comparisons/${comp.slug}/`
+        }
+    ]
+};
+---
+
+<Layout 
+    title={`${comp.title} | Head-to-Head Skincare Comparison | OraeSkin`}
+    description={`${comp.title}. Side-by-side formulation breakdown, OraeSkin Scores, texture in Indian humidity, price per gram, and skin-type recommendations.`}
+>
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+    <Header />
+    <main style="padding-top: 120px; padding-bottom: 90px;">
+        <article class="container comparison-container">
+            <!-- Breadcrumbs -->
+            <nav class="comp-breadcrumbs" aria-label="Breadcrumb">
+                <a href="/">Home</a>
+                <span class="sep">/</span>
+                <a href="/comparisons/">Comparisons</a>
+                <span class="sep">/</span>
+                <span class="curr">{comp.title}</span>
+            </nav>
+
+            <!-- Header -->
+            <header class="comp-header">
+                <span class="eyebrow">Head-to-Head Formulation Audit</span>
+                <h1>{comp.title}</h1>
+                <p class="comp-subtitle">{comp.subtitle}</p>
+                <div class="comp-audit-strip">
+                    <span>📅 Last Verified: <strong>{comp.lastUpdated}</strong></span>
+                    <span class="sep-dot">•</span>
+                    <span>⚖️ Zero Sponsored Winners</span>
+                    <span class="sep-dot">•</span>
+                    <span>🇮🇳 Tested for Indian Weather</span>
+                </div>
+            </header>
+
+            <!-- Side-by-Side Product Hero Cards -->
+            <div class="vs-hero-grid">
+                <!-- Product A -->
+                <div class="vs-card">
+                    <span class="vs-badge">Product A</span>
+                    <div class="vs-img-box">
+                        <img src={productA.image} alt={`${productA.brand} ${productA.name}`} width="180" height="180" />
+                    </div>
+                    <span class="vs-brand">{productA.brand}</span>
+                    <h2 class="vs-name">{productA.name}</h2>
+                    
+                    <div class="vs-score-row">
+                        <div class="vs-score-badge">
+                            <span class="score-sub">OraeSkin</span>
+                            <span class="score-main">{productA.oraeSkinScore.toFixed(1)}/10</span>
+                        </div>
+                        <div class="vs-amazon-badge">
+                            <span class="score-sub">Amazon</span>
+                            <span class="score-main">{productA.rating}/5</span>
+                        </div>
+                    </div>
+
+                    <div class="vs-price">₹{productA.price} <span class="vs-size">({productA.size})</span></div>
+
+                    <div class="vs-actions">
+                        <a 
+                            href={affiliateUrlA} 
+                            target="_blank" 
+                            rel="nofollow sponsored noopener" 
+                            class="btn-amazon-primary"
+                        >
+                            Check Price on Amazon →
+                        </a>
+                        <a href={`/reviews/${productA.id}/`} class="btn-review-link">Read Full Review →</a>
+                    </div>
+                </div>
+
+                <div class="vs-divider-badge">VS</div>
+
+                <!-- Product B -->
+                <div class="vs-card">
+                    <span class="vs-badge">Product B</span>
+                    <div class="vs-img-box">
+                        <img src={productB.image} alt={`${productB.brand} ${productB.name}`} width="180" height="180" />
+                    </div>
+                    <span class="vs-brand">{productB.brand}</span>
+                    <h2 class="vs-name">{productB.name}</h2>
+
+                    <div class="vs-score-row">
+                        <div class="vs-score-badge">
+                            <span class="score-sub">OraeSkin</span>
+                            <span class="score-main">{productB.oraeSkinScore.toFixed(1)}/10</span>
+                        </div>
+                        <div class="vs-amazon-badge">
+                            <span class="score-sub">Amazon</span>
+                            <span class="score-main">{productB.rating}/5</span>
+                        </div>
+                    </div>
+
+                    <div class="vs-price">₹{productB.price} <span class="vs-size">({productB.size})</span></div>
+
+                    <div class="vs-actions">
+                        <a 
+                            href={affiliateUrlB} 
+                            target="_blank" 
+                            rel="nofollow sponsored noopener" 
+                            class="btn-amazon-primary"
+                        >
+                            Check Price on Amazon →
+                        </a>
+                        <a href={`/reviews/${productB.id}/`} class="btn-review-link">Read Full Review →</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="micro-disclosure-strip">
+                Affiliate link · We may earn a commission from Amazon purchases at zero extra cost to you.
+            </div>
+
+            <!-- Attribute Comparison Table -->
+            <section class="comp-section">
+                <h2>Side-by-Side Attribute Breakdown</h2>
+                <div class="table-responsive">
+                    <table class="comp-matrix-table">
+                        <thead>
+                            <tr>
+                                <th>Key Attribute</th>
+                                <th>{productA.brand}</th>
+                                <th>{productB.brand}</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>OraeSkin Score</strong></td>
+                                <td><span class="table-score-highlight">{productA.oraeSkinScore.toFixed(1)}/10</span></td>
+                                <td><span class="table-score-highlight">{productB.oraeSkinScore.toFixed(1)}/10</span></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Amazon Rating</strong></td>
+                                <td>{productA.rating}/5 ({productA.reviewCount})</td>
+                                <td>{productB.rating}/5 ({productB.reviewCount})</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Estimated Price</strong></td>
+                                <td>₹{productA.price}</td>
+                                <td>₹{productB.price}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Bottle / Tube Size</strong></td>
+                                <td>{productA.size}</td>
+                                <td>{productB.size}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Hero Active Ingredients</strong></td>
+                                <td>{productA.keyActives.join(', ')}</td>
+                                <td>{productB.keyActives.join(', ')}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Texture & Viscosity</strong></td>
+                                <td>{productA.texture}</td>
+                                <td>{productB.texture}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Finish on Skin</strong></td>
+                                <td>{productA.finish}</td>
+                                <td>{productB.finish}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>White Cast on Melanin</strong></td>
+                                <td>{productA.whiteCast}</td>
+                                <td>{productB.whiteCast}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Fragrance Status</strong></td>
+                                <td>{productA.fragrance ? 'Contains Fragrance' : 'Fragrance-Free ✓'}</td>
+                                <td>{productB.fragrance ? 'Contains Fragrance' : 'Fragrance-Free ✓'}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Drying Alcohols</strong></td>
+                                <td>{productA.alcoholFree ? 'Alcohol-Free ✓' : 'Contains Alcohol'}</td>
+                                <td>{productB.alcoholFree ? 'Alcohol-Free ✓' : 'Contains Alcohol'}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Best Suited Skin Types</strong></td>
+                                <td>{productA.skinType.join(', ')}</td>
+                                <td>{productB.skinType.join(', ')}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Editorial Verdict & Which Should You Choose? -->
+            <section class="comp-section">
+                <h2>Which One Should You Choose?</h2>
+                <div class="verdict-card">
+                    <span class="verdict-lead">Editorial Synthesis:</span>
+                    <p>{comp.verdictSummary}</p>
+                </div>
+
+                <div class="winners-grid">
+                    <div class="winner-box winner-a">
+                        <span class="winner-tag">Choose {productA.brand} If:</span>
+                        <h4>{productA.name}</h4>
+                        <p>{comp.winnerForA}</p>
+                        <a href={affiliateUrlA} target="_blank" rel="nofollow sponsored noopener" class="btn-winner">
+                            Check {productA.brand} Price →
+                        </a>
+                    </div>
+
+                    <div class="winner-box winner-b">
+                        <span class="winner-tag">Choose {productB.brand} If:</span>
+                        <h4>{productB.name}</h4>
+                        <p>{comp.winnerForB}</p>
+                        <a href={affiliateUrlB} target="_blank" rel="nofollow sponsored noopener" class="btn-winner">
+                            Check {productB.brand} Price →
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Climate & Humidity Evaluation -->
+            <section class="comp-section">
+                <h2>Indian Weather & Climate Performance</h2>
+                <div class="analysis-box">
+                    <p>{comp.climateVerdict}</p>
+                </div>
+            </section>
+
+            <!-- Value & Economics -->
+            <section class="comp-section">
+                <h2>Price-to-Value Economics</h2>
+                <div class="analysis-box">
+                    <p>{comp.valueVerdict}</p>
+                </div>
+            </section>
+
+            <!-- Links to individual reviews -->
+            <div class="comp-nav-links">
+                <a href={`/reviews/${productA.id}/`} class="nav-card">
+                    <span>Read Deep Dive:</span>
+                    <strong>{productA.brand} {productA.name} Review →</strong>
+                </a>
+                <a href={`/reviews/${productB.id}/`} class="nav-card">
+                    <span>Read Deep Dive:</span>
+                    <strong>{productB.brand} {productB.name} Review →</strong>
+                </a>
+            </div>
+        </article>
+    </main>
+    <Footer />
+</Layout>
+
+<style>
+    .comparison-container {
+        max-width: 960px;
+        margin: 0 auto;
+    }
+
+    .comp-breadcrumbs {
+        font-size: 0.86rem;
+        color: #888;
+        margin-bottom: 24px;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 6px;
+    }
+
+    .comp-breadcrumbs a {
+        color: #888;
+        text-decoration: none;
+    }
+
+    .comp-breadcrumbs a:hover {
+        color: #c87a54;
+    }
+
+    .comp-breadcrumbs .sep {
+        color: #ccc;
+    }
+
+    .comp-breadcrumbs .curr {
+        color: #2c2c2c;
+        font-weight: 600;
+    }
+
+    .comp-header {
+        text-align: center;
+        margin-bottom: 36px;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1.5px;
+        margin-bottom: 8px;
+    }
+
+    .comp-header h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.6rem;
+        line-height: 1.25;
+        color: #2c2c2c;
+        margin: 0 0 12px 0;
+    }
+
+    .comp-subtitle {
+        font-size: 1.15rem;
+        color: #666;
+        max-width: 720px;
+        margin: 0 auto 16px auto;
+        line-height: 1.6;
+    }
+
+    .comp-audit-strip {
+        font-size: 0.85rem;
+        color: #777;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    .sep-dot {
+        color: #ccc;
+    }
+
+    /* VS Grid */
+    .vs-hero-grid {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr;
+        gap: 20px;
+        align-items: center;
+        margin-bottom: 16px;
+    }
+
+    .vs-card {
+        background: #fff;
+        border: 1px solid #eee5dd;
+        border-radius: 16px;
+        padding: 28px;
+        text-align: center;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.03);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .vs-badge {
+        font-size: 0.72rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 700;
+        background: #fdfaf6;
+        color: #c87a54;
+        border: 1px solid #ebd9cb;
+        padding: 3px 12px;
+        border-radius: 12px;
+        margin-bottom: 12px;
+    }
+
+    .vs-img-box {
+        width: 140px;
+        height: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 14px;
+    }
+
+    .vs-img-box img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+
+    .vs-brand {
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1px;
+    }
+
+    .vs-name {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.25rem;
+        color: #2c2c2c;
+        margin: 4px 0 12px 0;
+        line-height: 1.35;
+    }
+
+    .vs-score-row {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 12px;
+    }
+
+    .vs-score-badge, .vs-amazon-badge {
+        padding: 6px 12px;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .vs-score-badge {
+        background: #2c2c2c;
+        color: #fff;
+    }
+
+    .vs-score-badge .score-sub {
+        font-size: 0.6rem;
+        text-transform: uppercase;
+        color: #d1bba4;
+    }
+
+    .vs-score-badge .score-main {
+        font-size: 1rem;
+        font-weight: 800;
+        color: #f7a87b;
+    }
+
+    .vs-amazon-badge {
+        background: #fdfaf6;
+        border: 1px solid #eee5dd;
+        color: #2c2c2c;
+    }
+
+    .vs-amazon-badge .score-sub {
+        font-size: 0.6rem;
+        text-transform: uppercase;
+        color: #777;
+    }
+
+    .vs-amazon-badge .score-main {
+        font-size: 1rem;
+        font-weight: 700;
+    }
+
+    .vs-price {
+        font-size: 1.4rem;
+        font-weight: 800;
+        color: #2c2c2c;
+        margin-bottom: 16px;
+    }
+
+    .vs-size {
+        font-size: 0.85rem;
+        color: #777;
+        font-weight: 500;
+    }
+
+    .vs-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        width: 100%;
+    }
+
+    .btn-amazon-primary {
+        background: linear-gradient(135deg, #e8863d, #c87a54);
+        color: #fff !important;
+        font-weight: 700;
+        font-size: 0.9rem;
+        padding: 10px 16px;
+        border-radius: 24px;
+        text-decoration: none;
+        transition: all 0.2s ease;
+    }
+
+    .btn-amazon-primary:hover {
+        background: linear-gradient(135deg, #d3732b, #b3633d);
+        transform: translateY(-2px);
+    }
+
+    .btn-review-link {
+        font-size: 0.84rem;
+        color: #777;
+        text-decoration: underline;
+    }
+
+    .btn-review-link:hover {
+        color: #c87a54;
+    }
+
+    .vs-divider-badge {
+        background: #c87a54;
+        color: #fff;
+        font-weight: 800;
+        font-size: 0.9rem;
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 4px 12px rgba(200, 122, 84, 0.4);
+    }
+
+    .micro-disclosure-strip {
+        text-align: center;
+        font-size: 0.78rem;
+        color: #888;
+        margin-bottom: 40px;
+    }
+
+    /* Sections */
+    .comp-section {
+        margin-bottom: 44px;
+    }
+
+    .comp-section h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.8rem;
+        color: #2c2c2c;
+        margin-bottom: 18px;
+        border-bottom: 2px solid #f4ede4;
+        padding-bottom: 8px;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+    }
+
+    .comp-matrix-table {
+        width: 100%;
+        border-collapse: collapse;
+        background: #fff;
+        border-radius: 12px;
+        overflow: hidden;
+        border: 1px solid #eee5dd;
+    }
+
+    .comp-matrix-table th {
+        background: #f7f2ed;
+        color: #2c2c2c;
+        text-align: left;
+        padding: 14px 18px;
+        font-weight: 700;
+        border-bottom: 2px solid #e3d5c7;
+    }
+
+    .comp-matrix-table td {
+        padding: 14px 18px;
+        border-bottom: 1px solid #eee5dd;
+        vertical-align: middle;
+        font-size: 0.95rem;
+        color: #444;
+    }
+
+    .table-score-highlight {
+        font-weight: 800;
+        color: #c87a54;
+        font-size: 1.1rem;
+    }
+
+    .verdict-card {
+        background: #fdfaf6;
+        border: 1px solid #ebd9cb;
+        border-left: 5px solid #c87a54;
+        border-radius: 10px;
+        padding: 22px 26px;
+        margin-bottom: 24px;
+    }
+
+    .verdict-lead {
+        display: block;
+        font-weight: 700;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 0.8px;
+        margin-bottom: 6px;
+    }
+
+    .verdict-card p {
+        margin: 0;
+        font-size: 1.05rem;
+        line-height: 1.7;
+        color: #3e3e3e;
+    }
+
+    .winners-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+
+    .winner-box {
+        background: #fff;
+        border-radius: 12px;
+        padding: 24px;
+        border: 1px solid #eee5dd;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .winner-a { border-top: 4px solid #2e7d32; }
+    .winner-b { border-top: 4px solid #1565c0; }
+
+    .winner-tag {
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        color: #777;
+        margin-bottom: 4px;
+    }
+
+    .winner-box h4 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.2rem;
+        color: #2c2c2c;
+        margin: 0 0 10px 0;
+    }
+
+    .winner-box p {
+        font-size: 0.95rem;
+        color: #555;
+        line-height: 1.6;
+        margin: 0 0 18px 0;
+        flex: 1;
+    }
+
+    .btn-winner {
+        align-self: flex-start;
+        background: #2c2c2c;
+        color: #fff;
+        font-size: 0.85rem;
+        font-weight: 700;
+        padding: 8px 16px;
+        border-radius: 20px;
+        text-decoration: none;
+        transition: all 0.2s ease;
+    }
+
+    .btn-winner:hover {
+        background: #c87a54;
+    }
+
+    .analysis-box {
+        background: #fff;
+        border: 1px solid #eee5dd;
+        border-radius: 10px;
+        padding: 20px 24px;
+        font-size: 1.02rem;
+        color: #444;
+        line-height: 1.7;
+    }
+
+    .analysis-box p {
+        margin: 0;
+    }
+
+    .comp-nav-links {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 16px;
+        margin-top: 36px;
+    }
+
+    .nav-card {
+        background: #fdfaf7;
+        border: 1px solid #eee5dd;
+        border-radius: 10px;
+        padding: 18px;
+        text-decoration: none;
+        display: flex;
+        flex-direction: column;
+        transition: all 0.2s ease;
+    }
+
+    .nav-card:hover {
+        border-color: #c87a54;
+        transform: translateY(-2px);
+    }
+
+    .nav-card span {
+        font-size: 0.78rem;
+        color: #888;
+        text-transform: uppercase;
+        margin-bottom: 4px;
+    }
+
+    .nav-card strong {
+        color: #c87a54;
+        font-size: 0.95rem;
+    }
+
+    @media (max-width: 768px) {
+        .comp-header h1 {
+            font-size: 2.2rem;
+        }
+
+        .vs-hero-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .vs-divider-badge {
+            margin: 0 auto;
+        }
+
+        .winners-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .comp-nav-links {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>

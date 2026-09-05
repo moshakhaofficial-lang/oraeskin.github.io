@@ -18,31 +18,30 @@ import CategoryNav from '../components/CategoryNav.astro';
 				<div class="hero-text-content">
 					<div class="hero-tag-badge">
 						<span class="live-dot"></span>
-						<span>Updated for 2026 • India Skincare Editorial</span>
+						<span>Independent Indian Skincare Editorial • 2026</span>
 					</div>
 					<h1 class="hero-headline">
-						Skincare That Actually Works for <span class="gradient-text">Indian Skin</span>.
+						Research. Compare. <span class="gradient-text">Choose Better Skincare</span> for Indian Skin.
 					</h1>
 					<p class="hero-subtext">
-						We independently test and review top-rated skincare on Amazon India. No gimmicks, no chalky white cast—just dermatologist-backed formulas that conquer tropical heat, humidity, and pigmentation.
+						Evidence-informed skincare recommendations built specifically for Indian skin, tropical climates, and accessible budgets. We analyze active formulations, weather textures, and customer sentiment to help you buy with confidence.
 					</p>
 
 					<!-- Quick Search / Trend Pills -->
 					<div class="trend-pills">
 						<span class="trend-label">Trending Now:</span>
 						<a href="/blog/best-sunscreens-for-indian-skin" class="pill">☀️ Zero-Cast Sunscreens</a>
-						<a href="/blog/best-cleansers-acne-oily-skin" class="pill">🫧 Acne Cleansers</a>
-						<a href="/blog/rice-water-vitamin-e-benefits" class="pill">🌾 Rice Water Creams</a>
+						<a href="/comparisons/minimalist-spf50-vs-dermaco-hyaluronic-sunscreen/" class="pill">⚖️ Minimalist vs Derma Co</a>
+						<a href="/reviews/cerave-foaming-cleanser/" class="pill">🫧 CeraVe Cleanser Review</a>
+						<a href="/how-we-review/" class="pill">📋 Scoring Methodology</a>
 					</div>
 
 					<div class="hero-actions">
-						<a href="#top-picks" class="btn-hero-primary">
-							<span>Explore Top Amazon Deals</span>
-							<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
-								<path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/>
-							</svg>
+						<a href="#routine-finder" class="btn-hero-primary">
+							<span>Find My Routine →</span>
 						</a>
-						<a href="#guides" class="btn-hero-secondary">Read Buying Guides</a>
+						<a href="/reviews/" class="btn-hero-secondary">Explore Best Products</a>
+						<a href="/comparisons/" class="btn-hero-outline">Compare Products</a>
 					</div>
 				</div>
 
@@ -53,12 +52,48 @@ import CategoryNav from '../components/CategoryNav.astro';
 							<img src="/images/products/minimalist-spf50.jpg" alt="7 Best Sunscreens for Indian Skin" loading="eager" />
 						</div>
 						<div class="feature-card-content">
-							<span class="card-cat">Sun Protection • Top 7 Tested</span>
+							<span class="card-cat">Sun Protection • Top 7 Evaluated</span>
 							<h3>Best Sunscreens for Indian Skin (Zero White Cast & Sweat-Proof)</h3>
-							<p>We tested 25+ top sunscreens on Amazon India to find formulas that melt invisibly into melanin-rich skin.</p>
+							<p>We analyzed 25+ top sunscreens on Amazon India to find formulas that melt invisibly into melanin-rich skin.</p>
 							<a href="/blog/best-sunscreens-for-indian-skin" class="btn-read-guide">
 								Read Full Guide & Deals →
 							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Trust & Methodology Strip -->
+		<section class="trust-strip-section">
+			<div class="container">
+				<div class="trust-strip-grid">
+					<div class="trust-strip-item">
+						<span class="trust-icon">🔬</span>
+						<div class="trust-info">
+							<strong>Formulation Analysis</strong>
+							<span>Declared active concentrations & INCI purity</span>
+						</div>
+					</div>
+					<div class="trust-strip-item">
+						<span class="trust-icon">⚖️</span>
+						<div class="trust-info">
+							<strong>OraeSkin Score</strong>
+							<span>6-pillar objective editorial scoring system</span>
+						</div>
+					</div>
+					<div class="trust-strip-item">
+						<span class="trust-icon">🇮🇳</span>
+						<div class="trust-info">
+							<strong>Indian Climate Ready</strong>
+							<span>Monsoon humidity, sweat resilience & zero cast</span>
+						</div>
+					</div>
+					<div class="trust-strip-item">
+						<span class="trust-icon">🛡️</span>
+						<div class="trust-info">
+							<strong>Zero Sponsored Rankings</strong>
+							<span>Brands cannot buy placement or favorable scores</span>
 						</div>
 					</div>
 				</div>
@@ -72,6 +107,44 @@ import CategoryNav from '../components/CategoryNav.astro';
 
 		<!-- Interactive 30-Second Routine Finder Quiz -->
 		<RoutineFinder />
+
+		<!-- Head-to-Head Comparisons Feature Section -->
+		<section class="home-comparisons-section">
+			<div class="container">
+				<div class="section-header-center">
+					<span class="eyebrow">Product Showdowns</span>
+					<h2>Popular Skincare Comparisons</h2>
+					<p>Torn between two bestsellers? We break down the formulations, textures, and value-for-money to pick the right one for your skin.</p>
+				</div>
+
+				<div class="home-comp-grid">
+					<a href="/comparisons/minimalist-spf50-vs-dermaco-hyaluronic-sunscreen/" class="home-comp-card">
+						<span class="h-comp-badge">Sunscreens</span>
+						<h4>Minimalist SPF 50 vs The Derma Co 1% Hyaluronic</h4>
+						<p>Certified photostability vs ultra-lightweight aqua gel in Indian humidity.</p>
+						<span class="h-comp-link">Compare Now →</span>
+					</a>
+
+					<a href="/comparisons/cerave-foaming-vs-cetaphil-gentle-cleanser/" class="home-comp-card">
+						<span class="h-comp-badge">Cleansers</span>
+						<h4>CeraVe Foaming Cleanser vs Cetaphil Gentle Cleanser</h4>
+						<p>3 Essential Ceramides gel foam vs soap-free non-foaming lotion for reactive skin.</p>
+						<span class="h-comp-link">Compare Now →</span>
+					</a>
+
+					<a href="/comparisons/minimalist-10-vitc-vs-plum-15-vitc/" class="home-comp-card">
+						<span class="h-comp-badge">Serums</span>
+						<h4>Minimalist 10% Vitamin C vs Plum 15% Vitamin C Mandarin</h4>
+						<p>Ethyl Ascorbic Acid + Centella vs Japanese Mandarin glow booster for dark spots.</p>
+						<span class="h-comp-link">Compare Now →</span>
+					</a>
+				</div>
+
+				<div class="comp-all-btn-row">
+					<a href="/comparisons/" class="btn-all-comparisons">Browse All Head-to-Head Comparisons →</a>
+				</div>
+			</div>
+		</section>
 
 		<!-- Skin Concerns Filter Grid -->
 		<ConcernFilter />
@@ -476,6 +549,150 @@ import CategoryNav from '../components/CategoryNav.astro';
 		background: #fdfaf6;
 		border-color: #c87a54;
 		color: #c87a54;
+	}
+
+	.btn-hero-outline {
+		display: inline-flex;
+		align-items: center;
+		background: transparent;
+		color: #555;
+		border: 1px dashed #c87a54;
+		font-weight: 600;
+		font-size: 1rem;
+		padding: 14px 24px;
+		border-radius: 30px;
+		text-decoration: none;
+		transition: all 0.2s ease;
+	}
+
+	.btn-hero-outline:hover {
+		background: #fdfaf6;
+		border-style: solid;
+		color: #c87a54;
+	}
+
+	/* Trust Strip */
+	.trust-strip-section {
+		background: #ffffff;
+		border-bottom: 1px solid #eee5dd;
+		padding: 24px 0;
+	}
+
+	.trust-strip-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+		gap: 20px;
+	}
+
+	.trust-strip-item {
+		display: flex;
+		align-items: center;
+		gap: 12px;
+	}
+
+	.trust-strip-item .trust-icon {
+		font-size: 1.6rem;
+		flex-shrink: 0;
+	}
+
+	.trust-info strong {
+		display: block;
+		font-size: 0.92rem;
+		color: #2c2c2c;
+		margin-bottom: 2px;
+	}
+
+	.trust-info span {
+		font-size: 0.78rem;
+		color: #777;
+		line-height: 1.3;
+		display: block;
+	}
+
+	/* Home Comparisons Section */
+	.home-comparisons-section {
+		padding: 60px 0;
+		background: #fcf9f5;
+		border-top: 1px solid #eee5dd;
+		border-bottom: 1px solid #eee5dd;
+	}
+
+	.home-comp-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+		gap: 22px;
+		margin: 36px 0 28px 0;
+	}
+
+	.home-comp-card {
+		background: #ffffff;
+		border: 1px solid #ede5da;
+		border-radius: 14px;
+		padding: 24px;
+		text-decoration: none;
+		display: flex;
+		flex-direction: column;
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+	}
+
+	.home-comp-card:hover {
+		transform: translateY(-3px);
+		box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+		border-color: #c87a54;
+	}
+
+	.h-comp-badge {
+		font-size: 0.72rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.8px;
+		color: #c87a54;
+		margin-bottom: 8px;
+	}
+
+	.home-comp-card h4 {
+		font-family: 'Playfair Display', serif;
+		font-size: 1.18rem;
+		color: #2c2c2c;
+		margin: 0 0 8px 0;
+		line-height: 1.35;
+	}
+
+	.home-comp-card p {
+		font-size: 0.88rem;
+		color: #666;
+		line-height: 1.5;
+		margin: 0 0 16px 0;
+		flex: 1;
+	}
+
+	.h-comp-link {
+		font-size: 0.85rem;
+		font-weight: 700;
+		color: #c87a54;
+		text-decoration: underline;
+	}
+
+	.comp-all-btn-row {
+		text-align: center;
+		margin-top: 10px;
+	}
+
+	.btn-all-comparisons {
+		display: inline-block;
+		font-size: 0.95rem;
+		font-weight: 700;
+		color: #2c2c2c;
+		text-decoration: none;
+		padding: 10px 22px;
+		border-radius: 20px;
+		border: 1px solid #c87a54;
+		transition: all 0.2s ease;
+	}
+
+	.btn-all-comparisons:hover {
+		background: #c87a54;
+		color: #fff;
 	}
 
 	/* Hero Featured Card */

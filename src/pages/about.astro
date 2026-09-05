@@ -1,0 +1,357 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout 
+    title="About OraeSkin | Independent Indian Skincare Editorial"
+    description="Discover the mission behind OraeSkin: providing evidence-informed, climate-aware skincare research and buying guides tailored for Indian skin and budgets."
+>
+    <Header />
+    <main style="padding-top: 130px; padding-bottom: 90px;">
+        <article class="container about-article">
+            <header class="about-header">
+                <span class="eyebrow">Our Mission & Standards</span>
+                <h1>Skincare Built for Indian Reality</h1>
+                <p class="subtitle">Evidence-informed research, transparent scoring, and zero marketing fluff. We help you choose skincare that actually works in Indian weather.</p>
+            </header>
+
+            <div class="about-body">
+                <!-- Section 1: Why We Started -->
+                <div class="mission-callout">
+                    <h3>Why OraeSkin Exists</h3>
+                    <p>
+                        For years, Indian skincare consumers have been caught between two extremes: generic international advice recommending thick occlusive balms designed for European winters, and domestic influencer marketing pushing hyped "instant glow" serums with undisclosed concentrations.
+                    </p>
+                    <p>
+                        India has a distinct dermatological reality: high UV indices (frequently 9–11+), tropical monsoons with 85%+ relative humidity, heavy urban PM2.5 pollution, and melanin-rich Fitzpatrick skin types (III to VI) that are highly susceptible to Post-Inflammatory Hyperpigmentation (PIH).
+                    </p>
+                    <p>
+                        <strong>OraeSkin was built to bridge this gap:</strong> offering honest, evidence-informed formulation breakdowns, climate-tested texture evaluations, and practical price comparisons to help you build a routine that respects both your skin barrier and your budget.
+                    </p>
+                </div>
+
+                <!-- Section 2: What We Are & Are Not -->
+                <h2>What We Are — And What We Are Not</h2>
+                <div class="comparison-cards">
+                    <div class="pillar-card is-card">
+                        <div class="card-badge green-badge">What OraeSkin Is</div>
+                        <ul>
+                            <li><strong>Evidence-Informed:</strong> We cross-reference active ingredients with published clinical trials, PubMed studies, and cosmetic chemistry literature.</li>
+                            <li><strong>Climate-Conscious:</strong> Every formulation is evaluated for how it feels in 35°C heat, high humidity, and polluted city air.</li>
+                            <li><strong>Price-to-Value Minded:</strong> We calculate price-per-ml and compare affordable Indian pharmacy gems against luxury prestige imports.</li>
+                            <li><strong>Editorially Independent:</strong> Brands cannot purchase positive scores, top placements, or sponsored verdicts.</li>
+                        </ul>
+                    </div>
+
+                    <div class="pillar-card not-card">
+                        <div class="card-badge red-badge">What OraeSkin Is Not</div>
+                        <ul>
+                            <li><strong>Not a Medical Clinic:</strong> We do not provide clinical medical diagnosis, tele-consultations, or prescription treatments.</li>
+                            <li><strong>Not a Fabricated Lab:</strong> We do not invent fictional testing laboratories or claim animal/human clinical trials we did not conduct.</li>
+                            <li><strong>Not a Brand Shill:</strong> We do not take PR freebies in exchange for guaranteed favorable coverage.</li>
+                            <li><strong>Not an AI Content Farm:</strong> We do not churn out generic keyword-stuffed listicles with recycled manufacturer claims.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Section 3: Our Core Editorial Principles -->
+                <h2>Our Editorial Principles</h2>
+                <div class="principles-grid">
+                    <div class="principle-item">
+                        <h4>1. Melanin-First Evaluation</h4>
+                        <p>We scrutinize sunscreens for white cast on deep South Asian skin tones and advocate for soothing, anti-inflammatory actives that prevent post-acne marks.</p>
+                    </div>
+                    <div class="principle-item">
+                        <h4>2. Formulation Transparency</h4>
+                        <p>We demand disclosed active percentages (e.g. 2% Salicylic Acid, 10% Niacinamide) and call out unnecessary drying alcohols or aggressive artificial dyes.</p>
+                    </div>
+                    <div class="principle-item">
+                        <h4>3. Real Consumer Sentiment</h4>
+                        <p>We synthesize hundreds of verified Indian consumer reviews on Amazon India to catch real-world issues like pilling, eye irritation, or dispenser failures.</p>
+                    </div>
+                    <div class="principle-item">
+                        <h4>4. Factual Accountability</h4>
+                        <p>If we get a fact wrong or a brand reformulates a product, our <a href="/corrections/">Corrections Policy</a> ensures prompt review and public updates.</p>
+                    </div>
+                </div>
+
+                <!-- Section 4: Commercial & Affiliate Transparency -->
+                <h2>How We Fund Our Research</h2>
+                <p>
+                    OraeSkin is supported by affiliate commissions through the <strong>Amazon Associates India Programme</strong>. When you click an affiliate link to purchase a product on Amazon.in, we may earn a small referral percentage.
+                </p>
+                <p>
+                    <strong>Crucially:</strong> this never costs you a single rupee extra. More importantly, affiliate partnerships never influence our editorial scoring. If a popular best-selling product has poor photostability, heavy fragrance, or leaves an ashen white cast, we report it candidly.
+                </p>
+
+                <!-- Section 5: Medical Disclaimer -->
+                <div class="medical-notice">
+                    <h4>Important Medical Disclaimer</h4>
+                    <p>
+                        The information provided on OraeSkin is for educational, research, and consumer guidance purposes only. It does not constitute medical advice or establish a doctor-patient relationship. Persistent cystic acne, sudden rashes, severe rosacea, or suspicious skin lesions require in-person evaluation by a qualified medical dermatologist.
+                    </p>
+                </div>
+
+                <!-- Navigation links -->
+                <div class="about-links-row">
+                    <a href="/how-we-review/" class="about-link-card">
+                        <span class="link-title">Our Review Methodology →</span>
+                        <span class="link-sub">See how our 6-pillar OraeSkin Score is calculated.</span>
+                    </a>
+                    <a href="/corrections/" class="about-link-card">
+                        <span class="link-title">Corrections & Updates Policy →</span>
+                        <span class="link-sub">How we handle price changes, reformulations, and errata.</span>
+                    </a>
+                    <a href="/disclosure/" class="about-link-card">
+                        <span class="link-title">Affiliate Disclosure →</span>
+                        <span class="link-sub">Complete statement of our commercial relationships.</span>
+                    </a>
+                </div>
+            </div>
+        </article>
+    </main>
+    <Footer />
+</Layout>
+
+<style>
+    .about-article {
+        max-width: 860px;
+        margin: 0 auto;
+    }
+
+    .about-header {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1.5px;
+        margin-bottom: 10px;
+    }
+
+    .about-header h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.8rem;
+        color: #2c2c2c;
+        line-height: 1.2;
+        margin: 0 0 16px 0;
+    }
+
+    .subtitle {
+        font-size: 1.15rem;
+        color: #666;
+        max-width: 700px;
+        margin: 0 auto;
+        line-height: 1.6;
+    }
+
+    .about-body {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: #3e3e3e;
+    }
+
+    .about-body h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.8rem;
+        color: #2c2c2c;
+        margin-top: 46px;
+        margin-bottom: 16px;
+        border-bottom: 2px solid #f4ede4;
+        padding-bottom: 8px;
+    }
+
+    .mission-callout {
+        background: #fdfaf6;
+        border-left: 5px solid #c87a54;
+        border-radius: 12px;
+        padding: 26px 30px;
+        margin: 30px 0;
+        border: 1px solid #ebd9cb;
+        border-left-width: 5px;
+    }
+
+    .mission-callout h3 {
+        margin: 0 0 12px 0;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.4rem;
+        color: #2c2c2c;
+    }
+
+    .mission-callout p {
+        margin: 0 0 12px 0;
+        color: #4a4a4a;
+        line-height: 1.7;
+    }
+
+    .mission-callout p:last-child {
+        margin-bottom: 0;
+    }
+
+    .comparison-cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 24px;
+        margin: 28px 0;
+    }
+
+    .pillar-card {
+        background: #fff;
+        border-radius: 12px;
+        padding: 26px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+        border: 1px solid #eee5dd;
+    }
+
+    .is-card {
+        border-top: 4px solid #2e7d32;
+    }
+
+    .not-card {
+        border-top: 4px solid #c62828;
+    }
+
+    .card-badge {
+        display: inline-block;
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        padding: 4px 12px;
+        border-radius: 16px;
+        margin-bottom: 16px;
+    }
+
+    .green-badge {
+        background: #e8f5e9;
+        color: #2e7d32;
+    }
+
+    .red-badge {
+        background: #ffebee;
+        color: #c62828;
+    }
+
+    .pillar-card ul {
+        margin: 0;
+        padding-left: 20px;
+    }
+
+    .pillar-card li {
+        margin-bottom: 12px;
+        font-size: 0.96rem;
+        line-height: 1.6;
+        color: #444;
+    }
+
+    .pillar-card li:last-child {
+        margin-bottom: 0;
+    }
+
+    .principles-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 20px;
+        margin: 24px 0;
+    }
+
+    .principle-item {
+        background: #fdfaf7;
+        border: 1px solid #eee5dd;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .principle-item h4 {
+        margin: 0 0 8px 0;
+        font-size: 1.05rem;
+        color: #2c2c2c;
+    }
+
+    .principle-item p {
+        margin: 0;
+        font-size: 0.92rem;
+        color: #666;
+        line-height: 1.6;
+    }
+
+    .principle-item a {
+        color: #c87a54;
+        text-decoration: underline;
+    }
+
+    .medical-notice {
+        background: #fff8e1;
+        border-left: 4px solid #f57f17;
+        border-radius: 8px;
+        padding: 20px 24px;
+        margin: 36px 0;
+    }
+
+    .medical-notice h4 {
+        margin: 0 0 8px 0;
+        color: #b76e00;
+        font-size: 1.05rem;
+    }
+
+    .medical-notice p {
+        margin: 0;
+        font-size: 0.92rem;
+        color: #5d4037;
+        line-height: 1.6;
+    }
+
+    .about-links-row {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 16px;
+        margin-top: 40px;
+    }
+
+    .about-link-card {
+        display: block;
+        background: #fff;
+        border: 1px solid #ebd9cb;
+        border-radius: 10px;
+        padding: 20px;
+        text-decoration: none;
+        transition: all 0.2s ease;
+    }
+
+    .about-link-card:hover {
+        border-color: #c87a54;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(200, 122, 84, 0.1);
+    }
+
+    .link-title {
+        display: block;
+        font-weight: 700;
+        color: #2c2c2c;
+        margin-bottom: 4px;
+        font-size: 1rem;
+    }
+
+    .link-sub {
+        display: block;
+        font-size: 0.85rem;
+        color: #888;
+        line-height: 1.4;
+    }
+
+    @media (max-width: 768px) {
+        .about-header h1 {
+            font-size: 2.2rem;
+        }
+        .comparison-cards {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>

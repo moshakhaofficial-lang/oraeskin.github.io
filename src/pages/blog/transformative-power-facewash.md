@@ -6,7 +6,7 @@ date: "2026-02-15"
 category: "Routines"
 rating: 4.8
 keywords: "facewash routine indian skin, how to choose facewash, cerave foaming cleanser amazon, minimalist salicylic facewash, double cleansing india"
-description: "A comprehensive guide to selecting the right facewash for Indian skin, humidity, and pollution. Master double-cleansing and discover dermatologist-tested Amazon India picks."
+description: "A comprehensive guide to selecting the right facewash for Indian skin, humidity, and pollution. Master double-cleansing and discover barrier-restoring Amazon India picks."
 ---
 
 In India's tropical climate, your facial cleanser is the most crucial step of your routine. Between particulate pollution (PM 2.5), high humidity, and long-lasting sunscreens, improper cleansing leads directly to dullness, blackheads, and inflammatory acne.

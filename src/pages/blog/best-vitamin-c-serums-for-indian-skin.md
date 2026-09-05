@@ -69,7 +69,7 @@ Combining Vitamin C with Niacinamide was once considered a formulation taboo, bu
 
 ---
 
-## Dermatologist Guide: How to Layer Vitamin C for Maximum Results
+## Editorial Guide: How to Layer Vitamin C for Maximum Results
 
 1. **Apply to Clean, Dry Skin**: Pat skin dry after washing with a gentle cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21). Applying active acids onto damp skin increases absorption velocity, which can cause stinging in beginners.
 2. **Use 3 to 4 Drops**: Smooth evenly over the face and neck using gentle pressing motions.

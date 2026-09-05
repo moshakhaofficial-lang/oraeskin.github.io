@@ -17,7 +17,7 @@ const articles = Object.entries(rawPosts).map(([filePath, post]: [string, any]) 
         category: post.frontmatter?.category || 'Skincare',
         rating: post.frontmatter?.rating || 4.8,
         date: post.frontmatter?.date || 'March 2026',
-        description: post.frontmatter?.description || 'In-depth dermatologist review and Amazon India product buying guide.'
+        description: post.frontmatter?.description || 'Evidence-informed product review and Amazon India buying guide.'
     };
 }).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
