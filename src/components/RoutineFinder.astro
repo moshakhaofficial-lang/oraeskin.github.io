@@ -223,7 +223,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                 oraeSkinScore: 9.6,
                 rating: '4.8 ★ (42k+ reviews)',
                 benefit: '3 Essential Ceramides + Niacinamide clear pollution without barrier tightness.',
-                asin: 'B07C5SKVL7'
+                asin: 'B003YMJJSK'
             },
             sensitive: {
                 id: 'simple-refreshing-wash',
@@ -447,10 +447,17 @@ const amazonTag = SITE_CONFIG.amazon.tag;
         const moisturizer = PRODUCTS_CATALOG.moisturizers[texture] || PRODUCTS_CATALOG.moisturizers.dewy;
 
         const container = document.getElementById('routine-products-container');
-        if (!container) return;
+        const verifiedAsins = new Set([
+            'B09FPS9D5T', 'B0BVWDJTHF', 'B0BQN2YWN5', 'B003YMJJSK', 
+            'B0BDVG99J5', 'B00TTD9BRC', 'B00OZ63ODA', 'B096PJMGPL', 
+            'B01CCGW4OE', 'B006NVDWGE', 'B0CJJN6XNK'
+        ]);
 
         function buildCard(stepNum, stepName, prod, whyChose) {
-            const affiliateUrl = 'https://www.amazon.in/dp/' + prod.asin + '?tag=' + amazonTag;
+            const isVerified = prod.asin && verifiedAsins.has(prod.asin);
+            const affiliateUrl = isVerified 
+                ? 'https://www.amazon.in/dp/' + prod.asin + '?tag=' + amazonTag
+                : 'https://www.amazon.in/s?k=' + encodeURIComponent(prod.brand + ' ' + prod.name) + '&tag=' + amazonTag;
             const reviewUrl = '/reviews/' + prod.id + '/';
 
             return `

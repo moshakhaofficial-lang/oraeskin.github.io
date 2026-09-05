@@ -19,7 +19,7 @@ We evaluated the top-rated anti-acne cleansers sold on **Amazon India** to deter
 
 | Cleanser | Key Active | Skin Concern | Est. Price | Direct Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CeraVe Foaming Cleanser** | 3 Ceramides + Niacinamide | Oily, Sensitive | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **CeraVe Foaming Cleanser** | 3 Ceramides + Niacinamide | Oily, Sensitive | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Minimalist 2% Salicylic Acid** | 2% BHA + LHA + Zinc | Blackheads & Pores | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 | **Cetaphil Gentle Skin Cleanser** | Hydrating Glycerin & B5 | Sensitive Acne & Barrier | ~₹380 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
@@ -29,12 +29,12 @@ We evaluated the top-rated anti-acne cleansers sold on **Amazon India** to deter
 
 CeraVe's official availability on Amazon India has made it an instant holy grail for Indian skincare enthusiasts. Developed with dermatologists, this foaming gel washes away excess sebum and city grime without leaving that tight, squeaky feeling.
 
-- **Direct Amazon Link**: **[CeraVe Foaming Cleanser on Amazon India](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+- **Direct Amazon Link**: **[CeraVe Foaming Cleanser on Amazon India](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
 - **Key Ingredients**: 3 Essential Ceramides (1, 3, 6-II), Hyaluronic Acid, Niacinamide (Vitamin B3)
 - **Texture**: Non-greasy gel-to-foam
 - **Why It Works**: Niacinamide actively calms inflammation and reduces surface oiliness, while ceramides keep the moisture barrier resilient against pollutants.
 
-👉 **[Check Live Price for CeraVe Foaming Cleanser on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+👉 **[Check Live Price for CeraVe Foaming Cleanser on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
 
 ---
 
@@ -68,6 +68,6 @@ When your skin barrier is peeling or irritated from retinoids or acne medication
 
 A common mistake is washing three or four times daily in humid weather. Over-cleansing strips natural sebum, triggering sebaceous glands to produce even more oil.
 
-1. **Morning (AM)**: Cleanse gently with [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) or lukewarm water.
+1. **Morning (AM)**: Cleanse gently with [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) or lukewarm water.
 2. **Evening (PM)**: Use an active wash like [Minimalist 2% Salicylic](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) to dissolve pollution, SPF, and accumulated sebum.
 3. **Moisturize Immediately**: Lock in hydration within 60 seconds of patting dry with a non-comedogenic moisturizer.

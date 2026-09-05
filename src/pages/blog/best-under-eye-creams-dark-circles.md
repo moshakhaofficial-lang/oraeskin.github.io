@@ -9,7 +9,7 @@ keywords: "best under eye cream for dark circles india, cerave eye repair cream 
 description: "Evidence-informed under-eye creams and serums on Amazon India. Combat stubborn genetic dark circles, morning fluid retention, and fine dehydration lines."
 topPickTitle: "CeraVe Eye Repair Cream for Dark Circles & Puffiness"
 topPickBrand: "CeraVe"
-topPickAsin: "B00BFZ744K"
+topPickAsin: "CeraVe Eye Repair Cream"
 topPickRating: "4.7 ★"
 topPickPrice: "~₹399"
 ---
@@ -29,9 +29,9 @@ To identify treatments that make a noticeable clinical difference, we tested the
 
 | Product | Key Active Complex | Primary Target | Texture | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CeraVe Eye Repair Cream** | 3 Ceramides + Marine Botanicals | Thin Fragile Barrier & Dark Circles | Restorative Cream | [Check Price on Amazon.in](https://www.amazon.in/dp/B00BFZ744K?tag=oraeskin-21) |
-| **Minimalist 5% Caffeine Serum** | 5% Caffeine + EGCG + Matrixyl 3000 | Puffy Morning Bags & Fluid Pools | Aqueous Dropper Serum | [Check Price on Amazon.in](https://www.amazon.in/dp/B095S6Q8S5?tag=oraeskin-21) |
-| **The Derma Co 5% Caffeine Serum** | 5% Caffeine + 1% Hyaluronic Acid | Eye Fatigue & Dehydration Lines | Cooling Fluid | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GGBW1K8?tag=oraeskin-21) |
+| **CeraVe Eye Repair Cream** | 3 Ceramides + Marine Botanicals | Thin Fragile Barrier & Dark Circles | Restorative Cream | [Check Price on Amazon.in](https://www.amazon.in/s?k=CeraVe+Eye+Repair+Cream&tag=oraeskin-21) |
+| **Minimalist 5% Caffeine Serum** | 5% Caffeine + EGCG + Matrixyl 3000 | Puffy Morning Bags & Fluid Pools | Aqueous Dropper Serum | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+5%25+Caffeine+Under-Eye+Serum&tag=oraeskin-21) |
+| **The Derma Co 5% Caffeine Serum** | 5% Caffeine + 1% Hyaluronic Acid | Eye Fatigue & Dehydration Lines | Cooling Fluid | [Check Price on Amazon.in](https://www.amazon.in/s?k=The+Derma+Co+5%25+Caffeine+Under-Eye+Serum&tag=oraeskin-21) |
 
 ---
 
@@ -44,7 +44,7 @@ Developed with dermatologists and ophthalmologist-tested, CeraVe Eye Repair Crea
 - **Non-Comedogenic & Milia-Safe**: Ultra-pure formula that hydrates deeply without clogging delicate orbital glands or causing white milia seeds.
 - **Our Testing Verdict**: Outstanding for anyone with sensitive, stinging eyes who wants visible brightening and barrier reinforcement over 6 to 8 weeks.
 
-👉 **[Check Live Price for CeraVe Eye Repair on Amazon.in](https://www.amazon.in/dp/B00BFZ744K?tag=oraeskin-21)**
+👉 **[Check Live Price for CeraVe Eye Repair on Amazon.in](https://www.amazon.in/s?k=CeraVe+Eye+Repair+Cream&tag=oraeskin-21)**
 
 ---
 
@@ -57,7 +57,7 @@ If you wake up with swollen, heavy eye bags after a late night of work, topical 
 - **Matrixyl 3000 Peptides**: Stimulates collagen and fibronectin synthesis to smooth fine dehydration crinkles.
 - **Our Testing Verdict**: A must-have morning desk companion. Keep it in the refrigerator for an added cold-roller de-puffing sensation.
 
-👉 **[View Minimalist Caffeine Serum on Amazon India](https://www.amazon.in/dp/B095S6Q8S5?tag=oraeskin-21)**
+👉 **[View Minimalist Caffeine Serum on Amazon India](https://www.amazon.in/s?k=Minimalist+5%25+Caffeine+Under-Eye+Serum&tag=oraeskin-21)**
 
 ---
 

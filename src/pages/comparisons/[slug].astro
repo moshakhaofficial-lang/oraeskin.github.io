@@ -29,8 +29,8 @@ if (!productA || !productB) {
     throw new Error(`Comparison products not found for slug ${comp.slug}`);
 }
 
-const affiliateUrlA = getAmazonAffiliateUrl(productA.asin);
-const affiliateUrlB = getAmazonAffiliateUrl(productB.asin);
+const affiliateUrlA = getAmazonAffiliateUrl(productA.amazonUrl || productA.affiliateUrl || productA.asin);
+const affiliateUrlB = getAmazonAffiliateUrl(productB.amazonUrl || productB.affiliateUrl || productB.asin);
 
 const breadcrumbSchema = {
     "@context": "https://schema.org",

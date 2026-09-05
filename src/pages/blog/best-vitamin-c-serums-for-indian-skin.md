@@ -9,7 +9,7 @@ keywords: "best vitamin c serum for indian skin, minimalist vitamin c serum revi
 description: "We tested the top Vitamin C serums on Amazon India for hyperpigmentation, stability in Indian heat, and skin brightening. Complete comparison with pros, cons, and recommendations."
 topPickTitle: "Minimalist 10% Vitamin C Face Serum with Centella"
 topPickBrand: "Minimalist"
-topPickAsin: "B096VJ969J"
+topPickAsin: "Minimalist 10% Vitamin C Face Serum"
 topPickRating: "4.7 ★"
 topPickPrice: "~₹699"
 ---
@@ -27,9 +27,9 @@ To find the formulas that truly deliver glowing skin without irritation or prema
 
 | Serum | Active Form & % | Skin Type | Oxidation Stability | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist 10% Vitamin C** | 10% Ethyl Ascorbic Acid + Centella | Sensitive & Acne-Prone | Exceptional (12+ Months) | [Check Price on Amazon.in](https://www.amazon.in/dp/B096VJ969J?tag=oraeskin-21) |
-| **Plum 15% Vitamin C** | 15% Ethyl Ascorbic + Kakadu Plum | Normal to Oily Skin | High (Amber Glass) | [Check Price on Amazon.in](https://www.amazon.in/dp/B094R9TDRW?tag=oraeskin-21) |
-| **The Derma Co 10% Vitamin C** | 10% Vit C + 5% Niacinamide | Combination & Dull Skin | High (Airless Pump) | [Check Price on Amazon.in](https://www.amazon.in/dp/B08DFL3M9K?tag=oraeskin-21) |
+| **Minimalist 10% Vitamin C** | 10% Ethyl Ascorbic Acid + Centella | Sensitive & Acne-Prone | Exceptional (12+ Months) | [Check Price on Amazon.in](https://www.amazon.in/s?k=Minimalist+10%25+Vitamin+C+Face+Serum&tag=oraeskin-21) |
+| **Plum 15% Vitamin C** | 15% Ethyl Ascorbic + Kakadu Plum | Normal to Oily Skin | High (Amber Glass) | [Check Price on Amazon.in](https://www.amazon.in/s?k=Plum+15%25+Vitamin+C+Face+Serum&tag=oraeskin-21) |
+| **The Derma Co 10% Vitamin C** | 10% Vit C + 5% Niacinamide | Combination & Dull Skin | High (Airless Pump) | [Check Price on Amazon.in](https://www.amazon.in/s?k=The+Derma+Co+10%25+Vitamin+C+Face+Serum&tag=oraeskin-21) |
 
 ---
 
@@ -41,7 +41,7 @@ Minimalist formulated this serum specifically to overcome the oxidation trap. In
 - **Polyhydroxy Acid (PHA)**: Includes gluconolactone to gently buff surface micro-flakes, allowing deeper active penetration.
 - **Our Testing Verdict**: After 6 weeks of daily morning use, post-inflammatory brown acne marks showed noticeable fading without any tingling or flaking.
 
-👉 **[Check Live Price for Minimalist 10% Vitamin C on Amazon.in](https://www.amazon.in/dp/B096VJ969J?tag=oraeskin-21)**
+👉 **[Check Live Price for Minimalist 10% Vitamin C on Amazon.in](https://www.amazon.in/s?k=Minimalist+10%25+Vitamin+C+Face+Serum&tag=oraeskin-21)**
 
 ---
 
@@ -53,7 +53,7 @@ For experienced skincare users seeking an aggressive glow booster, Plum’s 15% 
 - **Antioxidant Cocktail**: Rosehip oil and botanical bio-flavonoids provide lipid replenishment alongside water-soluble antioxidant protection.
 - **Our Testing Verdict**: Excellent for stubborn sun tanning across the forehead and cheekbones. Those with active cystic acne should start with a 10% formula before graduating to 15%.
 
-👉 **[View Plum 15% Vitamin C Serum on Amazon India](https://www.amazon.in/dp/B094R9TDRW?tag=oraeskin-21)**
+👉 **[View Plum 15% Vitamin C Serum on Amazon India](https://www.amazon.in/s?k=Plum+15%25+Vitamin+C+Face+Serum&tag=oraeskin-21)**
 
 ---
 
@@ -65,13 +65,13 @@ Combining Vitamin C with Niacinamide was once considered a formulation taboo, bu
 - **Airless Dispenser**: Packaged in an opaque pump that shields the formula from oxygen and light.
 - **Our Testing Verdict**: The ideal morning treatment for combination skin prone to midday greasy shine in the T-zone.
 
-👉 **[Check Price for The Derma Co Vitamin C on Amazon.in](https://www.amazon.in/dp/B08DFL3M9K?tag=oraeskin-21)**
+👉 **[Check Price for The Derma Co Vitamin C on Amazon.in](https://www.amazon.in/s?k=The+Derma+Co+10%25+Vitamin+C+Face+Serum&tag=oraeskin-21)**
 
 ---
 
 ## Editorial Guide: How to Layer Vitamin C for Maximum Results
 
-1. **Apply to Clean, Dry Skin**: Pat skin dry after washing with a gentle cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21). Applying active acids onto damp skin increases absorption velocity, which can cause stinging in beginners.
+1. **Apply to Clean, Dry Skin**: Pat skin dry after washing with a gentle cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21). Applying active acids onto damp skin increases absorption velocity, which can cause stinging in beginners.
 2. **Use 3 to 4 Drops**: Smooth evenly over the face and neck using gentle pressing motions.
 3. **Wait 60 Seconds**: Allow the serum to bind with skin receptors before applying moisturizer.
 4. **Always Seal with SPF 50**: Vitamin C neutralizes free radicals created by UV rays, boosting your sunscreen's photoprotection. Always layer under a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).

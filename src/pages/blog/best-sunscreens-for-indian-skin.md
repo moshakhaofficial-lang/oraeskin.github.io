@@ -22,7 +22,7 @@ We analyzed over 25 top-selling sunscreens on **Amazon India** across oily, dry,
 | **Minimalist SPF 50 Multi-Vitamin** | SPF 50 PA++++ | All Skin / Sensitive | Natural Dewy | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 | **The Derma Co 1% Hyaluronic Aqua Gel** | SPF 50 PA++++ | Oily & Acne-Prone | Matte Finish | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
 | **Dot & Key Watermelon Cooling Sunscreen** | SPF 50 PA+++ | Normal to Combination | Fresh Dewy | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BQN2YWN5?tag=oraeskin-21) |
-| **Aqualogica Radiance+ Dewy Sunscreen** | SPF 50+ PA++++ | Dry & Dull Skin | Luminous Glow | [Check Price on Amazon.in](https://www.amazon.in/dp/B09SLF5ZH8?tag=oraeskin-21) |
+| **Aqualogica Radiance+ Dewy Sunscreen** | SPF 50+ PA++++ | Dry & Dull Skin | Luminous Glow | [Check Price on Amazon.in](https://www.amazon.in/s?k=Aqualogica+Radiance%2B+Dewy+Sunscreen+SPF+50&tag=oraeskin-21) |
 
 ---
 
@@ -76,12 +76,12 @@ Infused with watermelon extract and hyaluronic acid, this sunscreen provides an 
 
 Enriched with watermelon and 2% niacinamide, this hybrid sunscreen gives that coveted glass-skin finish without heavy oils.
 
-- **Direct Amazon Link**: **[Aqualogica Radiance+ Sunscreen on Amazon India](https://www.amazon.in/dp/B09SLF5ZH8?tag=oraeskin-21)**
+- **Direct Amazon Link**: **[Aqualogica Radiance+ Sunscreen on Amazon India](https://www.amazon.in/s?k=Aqualogica+Radiance%2B+Dewy+Sunscreen+SPF+50&tag=oraeskin-21)**
 - **Key Actives**: 2% Niacinamide, Watermelon, Hyaluronic Acid
 - **Best Suited For**: Dry to normal skin and dull skin looking for radiance
 - **Estimated Amazon Price**: ~₹399
 
-👉 **[Check Price for Aqualogica Radiance+ on Amazon.in](https://www.amazon.in/dp/B09SLF5ZH8?tag=oraeskin-21)**
+👉 **[Check Price for Aqualogica Radiance+ on Amazon.in](https://www.amazon.in/s?k=Aqualogica+Radiance%2B+Dewy+Sunscreen+SPF+50&tag=oraeskin-21)**
 
 ---
 

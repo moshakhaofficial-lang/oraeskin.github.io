@@ -9,7 +9,7 @@ keywords: "hereditary dark circles treatment, south asian dark circles, under ey
 description: "What topical eye creams can realistically fix (pigment & fluid) versus structural bone hollows that require lifestyle or clinical care."
 topPickTitle: "CeraVe Eye Repair Cream"
 topPickBrand: "CeraVe"
-topPickAsin: "B00BFZ744K"
+topPickAsin: "CeraVe Eye Repair Cream"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹399"
 ---
@@ -24,8 +24,8 @@ In India's distinct tropical climate—characterized by intense UV radiation, hi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CeraVe — CeraVe Eye Repair Cream** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00BFZ744K?tag=oraeskin-21) |
-| **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **CeraVe — CeraVe Eye Repair Cream** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/s?k=CeraVe+Eye+Repair+Cream&tag=oraeskin-21) |
+| **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
 | **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
 ---
@@ -38,7 +38,7 @@ Our top-ranked solution provides balanced, science-backed efficacy tailored for 
 - **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
 - **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00BFZ744K?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/s?k=CeraVe+Eye+Repair+Cream&tag=oraeskin-21)**
 
 ---
 
@@ -49,7 +49,7 @@ Formulated with barrier-restoring active ingredients, this formulation replenish
 - **Skin-Identical Ceramides**: Rebuilds the stratum corneum matrix to halt moisture evaporation caused by air conditioning.
 - **Fragrance-Free & Hypoallergenic**: Completely safe for easily irritated, stinging, or redness-prone complexions.
 
-👉 **[View on Amazon India](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+👉 **[View on Amazon India](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
 
 ---
 
@@ -66,7 +66,7 @@ Combining botanical brightness with modern skin barrier science for effortless d
 
 ## Editorial Routine Tips for Indian Skin
 
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
+1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21).
 2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
 3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
 

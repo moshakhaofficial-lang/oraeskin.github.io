@@ -18,7 +18,7 @@ Choosing a pH-balanced cleanser (ideally between 4.5 and 5.5) protects the skinâ
 ## How to Choose by Skin Type
 
 *   **Oily or Acne-Prone Skin**: Opt for a foaming gel with Salicylic Acid (BHA) to dissolve oil inside the pores. Our top pick is the **[Minimalist 2% Salicylic Acid Cleanser](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21)**.
-*   **Dry or Sensitive Skin**: Benefit from gentle, ceramide-rich formulas that replenish lipids while washing. We recommend **[CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**.
+*   **Dry or Sensitive Skin**: Benefit from gentle, ceramide-rich formulas that replenish lipids while washing. We recommend **[CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**.
 *   **Combination Skin**: Lightweight micellar foaming washes like **[Cetaphil Gentle Skin Cleanser](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21)** balance the T-zone without drying the cheeks.
 
 ---

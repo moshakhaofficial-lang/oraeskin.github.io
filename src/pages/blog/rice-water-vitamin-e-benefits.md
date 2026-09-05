@@ -34,13 +34,13 @@ Fermented rice water paired with skin-identical ceramides has become one of the 
 
 ### 2. The Face Shop Rice Water Bright Foaming Cleanser
 - **Why It's a Cult Classic**: Blends rice bran extract with soapwort to wash away impurities while imparting natural luminosity.
-- 👉 **[View The Face Shop Rice Water Cleanser on Amazon.in](https://www.amazon.in/dp/B00FSB7C00?tag=oraeskin-21)**
+- 👉 **[View The Face Shop Rice Water Cleanser on Amazon.in](https://www.amazon.in/s?k=The+Face+Shop+Rice+Water+Bright+Foaming+Cleanser&tag=oraeskin-21)**
 
 ---
 
 ## Daily Glass-Skin Routine with Rice Water
 
-1. **Cleanse**: Start with a gentle foaming wash like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
+1. **Cleanse**: Start with a gentle foaming wash like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21).
 2. **Treat**: Apply 3–4 drops of a Niacinamide serum onto slightly damp skin.
 3. **Hydrate**: Massage a coin-sized amount of **[Dot & Key Rice Water Cream](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)** into face and neck.
 4. **Shield (AM)**: Protect your newly repaired barrier with **[Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**.
