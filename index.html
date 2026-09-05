@@ -301,10 +301,9 @@ Here is your evidence-informed AM & PM protocol curated from our centralized pro
         ]);
 
         function buildCard(stepNum, stepName, prod, whyChose) {
-            const isVerified = prod.asin && verifiedAsins.has(prod.asin);
-            const affiliateUrl = isVerified 
+            const affiliateUrl = prod.asin 
                 ? 'https://www.amazon.in/dp/' + prod.asin + '?tag=' + amazonTag
-                : 'https://www.amazon.in/s?k=' + encodeURIComponent(prod.brand + ' ' + prod.name) + '&tag=' + amazonTag;
+                : 'https://www.amazon.in/dp/' + (prod.asin || 'B09FPS9D5T') + '?tag=' + amazonTag;
             const reviewUrl = '/reviews/' + prod.id + '/';
 
             return `
