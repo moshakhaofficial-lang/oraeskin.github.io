@@ -1,11 +1,13 @@
 {
   "published_products": [
     "bioderma-atoderm-baume",
+    "minimalist-glycolic-toner",
     "minimalist-retinol-03",
     "minimalist-spf50"
   ],
   "published_blogs": [
     "best-exfoliating-peeling-pads-convenience-india",
+    "best-night-creams-for-glowing-radiant-skin-india",
     "complete-body-skincare-routine-indian-monsoon"
   ],
   "history": [
@@ -52,6 +54,26 @@
       "type": "blog",
       "title": "Complete Body Skincare Routine for Indian Monsoon & High Humidity",
       "date": "2026-09-05T21:57:59.019816+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "minimalist-glycolic-toner",
+      "type": "product",
+      "title": "8% Glycolic Acid Exfoliating Liquid",
+      "date": "2026-09-06T08:45:06.000280+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-night-creams-for-glowing-radiant-skin-india",
+      "type": "blog",
+      "title": "Best Night Creams in India for Waking Up with Radiant, Plump Skin",
+      "date": "2026-09-06T08:45:07.471914+00:00",
       "channels": [
         "twitter",
         "instagram"
