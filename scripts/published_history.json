@@ -2,13 +2,15 @@
   "published_products": [
     "bioderma-atoderm-baume",
     "minimalist-glycolic-toner",
+    "minimalist-pha-toner",
     "minimalist-retinol-03",
     "minimalist-spf50"
   ],
   "published_blogs": [
     "best-exfoliating-peeling-pads-convenience-india",
     "best-night-creams-for-glowing-radiant-skin-india",
-    "complete-body-skincare-routine-indian-monsoon"
+    "complete-body-skincare-routine-indian-monsoon",
+    "when-should-you-start-using-retinol-in-india"
   ],
   "history": [
     {
@@ -74,6 +76,26 @@
       "type": "blog",
       "title": "Best Night Creams in India for Waking Up with Radiant, Plump Skin",
       "date": "2026-09-06T08:45:07.471914+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "minimalist-pha-toner",
+      "type": "product",
+      "title": "PHA 3% Alcohol-Free Face Toner",
+      "date": "2026-09-07T09:31:12.090190+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "when-should-you-start-using-retinol-in-india",
+      "type": "blog",
+      "title": "At What Age Should You Start Using Retinol? Evidence-Informed Age Guide",
+      "date": "2026-09-07T09:31:13.843735+00:00",
       "channels": [
         "twitter",
         "instagram"
