@@ -1,6 +1,7 @@
 {
   "published_products": [
     "bioderma-atoderm-baume",
+    "biotique-morning-nectar-lotion",
     "minimalist-glycolic-toner",
     "minimalist-pha-toner",
     "minimalist-retinol-03",
@@ -9,6 +10,7 @@
   "published_blogs": [
     "best-exfoliating-peeling-pads-convenience-india",
     "best-night-creams-for-glowing-radiant-skin-india",
+    "best-retinol-eye-creams-fine-lines-crow-feet",
     "complete-body-skincare-routine-indian-monsoon",
     "when-should-you-start-using-retinol-in-india"
   ],
@@ -96,6 +98,26 @@
       "type": "blog",
       "title": "At What Age Should You Start Using Retinol? Evidence-Informed Age Guide",
       "date": "2026-09-07T09:31:13.843735+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "biotique-morning-nectar-lotion",
+      "type": "product",
+      "title": "Morning Nectar Nourishing Lotion",
+      "date": "2026-09-08T08:57:04.816572+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-retinol-eye-creams-fine-lines-crow-feet",
+      "type": "blog",
+      "title": "Best Retinol Eye Creams for Smoothing Crow\u2019s Feet & Wrinkles",
+      "date": "2026-09-08T08:57:06.410759+00:00",
       "channels": [
         "twitter",
         "instagram"
