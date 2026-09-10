@@ -11,6 +11,11 @@ const currentUrl = `${siteUrl}${Astro.url.pathname}`;
 const articleImage = frontmatter.image?.startsWith('http') 
     ? frontmatter.image 
     : `${siteUrl}${frontmatter.image || '/images/Oraeskin_FBCover.png'}`;
+
+const rawDate = frontmatter.date;
+const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
+    ? new Date(rawDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
+    : (rawDate || 'September 2026');
 ---
 
 <Layout title={`${frontmatter.title} | OraeSkin Reviews`}>
@@ -78,7 +83,7 @@ const articleImage = frontmatter.image?.startsWith('http')
                         OraeSkin Editorial Team
                     </span>
                     <span class="meta-sep">•</span>
-                    <span class="date-label">Updated {frontmatter.date || "2026"}</span>
+                    <span class="date-label">Updated {displayDate}</span>
                     <span class="meta-sep">•</span>
                     <span class="read-time">5 Min Read</span>
                 </div>

@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Refreshing Facial Mists for Tropical Indian Heatwaves & Travel"
 image: "/images/products/cosrx-ahabha-toner.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Toners"
 rating: 4.7
 keywords: "facial mist for summer heatwave india, cooling face spray travel, cosrx clarifying mist review, plum green tea mist, instant skin cooling"

@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Heavy-Duty Lip Balms for Accutane & Isotretinoin Severe Peeling in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Lip Care"
 rating: 4.9
 keywords: "accutane lip balm india, best lip balm for isotretinoin peeling, cure severe cracked bleeding lips, bioderma atoderm baume lips, minimalist spf 30 lip balm"

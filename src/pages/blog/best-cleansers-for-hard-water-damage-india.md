@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Cleansers for Hard Water Skin Damage in India: Combatting Calcium Buildup"
 image: "/images/products/simple-refreshing-wash.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Cleansers"
 rating: 4.7
 keywords: "hard water skin damage cleanser india, best face wash for hard tap water, chelating cleanser india, simple refreshing wash review, prevent hard water acne"

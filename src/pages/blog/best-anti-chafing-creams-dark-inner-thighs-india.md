@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Anti-Chafing Creams & Friction Treatments for Dark Inner Thighs in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Body Care"
 rating: 4.8
 keywords: "anti chafing cream india, dark inner thighs friction treatment, bioderma atoderm baume chafing, minimalist glycolic acid inner thighs, prevent chub rub"

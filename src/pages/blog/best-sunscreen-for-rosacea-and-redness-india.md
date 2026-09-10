@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Calming Sunscreens for Rosacea, Facial Flushing & Heat Sensitivity in India"
 image: "/images/products/drsheths-ceramide-vitc-spf50.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Sunscreens"
 rating: 4.8
 keywords: "sunscreen for rosacea india, best sunscreen for facial redness flushing, dr sheths ceramide sunscreen review, calming sunscreen sensitive skin"

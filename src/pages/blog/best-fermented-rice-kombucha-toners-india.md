@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Fermented Rice & Kombucha Toners for Glass Skin Radiance in India"
 image: "/images/products/faceshop-rice-cleanser.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Toners"
 rating: 4.8
 keywords: "fermented rice toner india, kombucha toner glass skin, the face shop rice water review, korean fermented skincare amazon india, translucent glow"

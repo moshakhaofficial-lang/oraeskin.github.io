@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Fungal Acne Safe Cleansers in India: Malassezia-Proof Facial Washes"
 image: "/images/products/simple-refreshing-wash.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Cleansers"
 rating: 4.8
 keywords: "fungal acne safe cleanser india, best face wash for malassezia folliculitis, simple refreshing wash fungal acne, fungal acne safe skincare"

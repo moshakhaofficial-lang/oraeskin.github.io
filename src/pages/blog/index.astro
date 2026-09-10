@@ -22,6 +22,13 @@ const articles = Object.entries(rawPosts).map(([filePath, post]: [string, any]) 
 }).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
 const totalArticles = articles.length;
+
+function formatDisplayDate(d: string) {
+    if (!d) return 'September 2026';
+    const dateObj = new Date(d);
+    if (isNaN(dateObj.getTime())) return d;
+    return dateObj.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
 ---
 
 <Layout title={`Skincare Reviews & Buying Guides (${totalArticles}+ Tested Guides) | OraeSkin`}>
@@ -90,7 +97,7 @@ const totalArticles = articles.length;
                             <div class="card-meta">
                                 <span class="card-rating">★ {post.rating}</span>
                                 <span class="meta-dot">•</span>
-                                <span class="card-date">{post.date}</span>
+                                <span class="card-date">{formatDisplayDate(post.date)}</span>
                             </div>
                             <h3>
                                 <a href={post.url}>{post.title}</a>

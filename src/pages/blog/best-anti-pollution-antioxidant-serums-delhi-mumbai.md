@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Anti-Pollution Antioxidant Serums for High Smog Cities in India"
 image: "/images/products/plum-vitc-mandarin.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Serums"
 rating: 4.8
 keywords: "anti pollution serum india, air pollution skincare delhi mumbai, best antioxidant serum smog, plum 15 vitamin c review, pm2.5 skin defense"

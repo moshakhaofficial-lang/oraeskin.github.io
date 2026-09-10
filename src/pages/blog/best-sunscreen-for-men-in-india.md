@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Sunscreen for Men in India: Sweat-Resistant, Zero White Cast SPF 50 Picks"
 image: "/images/products/minimalist-spf50.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Sunscreens"
 rating: 4.8
 keywords: "best sunscreen for men in india, men sweat resistant sunscreen, minimalist spf 50 men review, non sticky sunscreen men, reequil ultra matte men"

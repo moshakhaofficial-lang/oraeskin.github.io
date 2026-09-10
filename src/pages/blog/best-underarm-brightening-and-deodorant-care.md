@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Underarm Brightening & Odor Control Routine for Indian Weather"
 image: "/images/products/minimalist-glycolic-toner.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Body Care"
 rating: 4.8
 keywords: "underarm brightening routine india, glycolic acid for dark underarms, eliminate body odor chemical exfoliation, minimalist glycolic toner review"

@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Post-Workout Face Washes for Gym Sweat Acne & Congestion in India"
 image: "/images/products/minimalist-salicylic-cleanser.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Cleansers"
 rating: 4.8
 keywords: "post workout face wash gym acne india, best cleanser for sweat pimples, minimalist salicylic acid cleanser gym, clear post workout congestion"

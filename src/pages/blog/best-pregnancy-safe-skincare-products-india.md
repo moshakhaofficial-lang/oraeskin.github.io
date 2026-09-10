@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Pregnancy-Safe Skincare Products in India: Fighting Acne & Melasma Safely"
 image: "/images/products/minimalist-niacinamide-10.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Specialist Routines"
 rating: 4.8
 keywords: "pregnancy safe skincare india, pregnancy acne treatment safe, melasma pregnancy mask cream india, safe sunscreen pregnancy, minimalist niacinamide pregnancy"

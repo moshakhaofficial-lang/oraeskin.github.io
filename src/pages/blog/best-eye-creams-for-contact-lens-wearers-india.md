@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Non-Migrating Eye Creams for Contact Lens Wearers in India"
 image: "/images/products/cerave-eye-repair.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Eye Care"
 rating: 4.8
 keywords: "eye cream contact lens wearers india, non migrating eye cream, cerave eye repair review, dark circles eye cream sensitive eyes, prevent cloudy lenses"

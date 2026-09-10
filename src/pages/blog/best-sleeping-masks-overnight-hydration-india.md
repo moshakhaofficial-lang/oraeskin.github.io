@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Overnight Sleeping Mask Gels for Air-Conditioned Bedroom Dehydration"
 image: "/images/products/dotkey-rice-ceramide-cream.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Moisturizers"
 rating: 4.8
 keywords: "sleeping mask india, overnight gel mask ac dehydration, dot and key rice cream review, wake up glowing skin, night hydration gel"

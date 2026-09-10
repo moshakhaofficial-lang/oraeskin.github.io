@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Gentle Sunscreens After Chemical Peels & Laser Treatments in India"
 image: "/images/products/drsheths-ceramide-vitc-spf50.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Sunscreens"
 rating: 4.8
 keywords: "sunscreen after chemical peel india, post laser sunscreen india, gentle healing sunscreen, dr sheths ceramide sunscreen, protect post procedure skin"

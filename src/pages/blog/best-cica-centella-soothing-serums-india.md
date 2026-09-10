@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Cica (Centella Asiatica) Serums in India for Calming Heat Rashes & Sunburn"
 image: "/images/products/minimalist-vitc-10.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Serums"
 rating: 4.7
 keywords: "cica serum india, centella asiatica serum benefits, soothe sunburn heat rash, minimalist centella serum review, calm irritated skin"

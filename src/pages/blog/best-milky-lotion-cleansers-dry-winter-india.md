@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Milky Lotion Cleansers for Dry Winter Mornings in North India"
 image: "/images/products/cetaphil-gentle-cleanser.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Cleansers"
 rating: 4.7
 keywords: "milky cleanser dry winter india, non foaming face wash north india winter, cetaphil gentle cleanser review, morning winter cleanser no tightness"

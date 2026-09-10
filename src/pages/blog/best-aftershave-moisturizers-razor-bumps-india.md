@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Soothing Aftershave Moisturizers for Men: Eliminating Razor Bumps & Burn"
 image: "/images/products/minimalist-b5-moisturizer.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Moisturizers"
 rating: 4.8
 keywords: "aftershave moisturizer men india, cure razor bumps burn, minimalist b5 moisturizer review, sebogel for razor bumps, men grooming skincare"

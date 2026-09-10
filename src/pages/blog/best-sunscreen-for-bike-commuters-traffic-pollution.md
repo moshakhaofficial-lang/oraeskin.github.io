@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Sunscreens for Two-Wheeler Bike Commuters in Indian Traffic & Pollution"
 image: "/images/products/reequil-ultra-matte-spf50.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Sunscreens"
 rating: 4.8
 keywords: "sunscreen for bike commuters india, two wheeler rider sunscreen, anti pollution sunscreen traffic, reequil ultra matte review, commuter sunscreen soot defense"

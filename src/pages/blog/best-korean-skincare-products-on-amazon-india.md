@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "Best Authentic Korean Skincare Products on Amazon India: Glass Skin Routine"
 image: "/images/products/faceshop-rice-cleanser.jpg"
-date: "2026-03-10"
+date: "2026-09-10"
 category: "Korean Skincare"
 rating: 4.8
 keywords: "korean skincare amazon india, the face shop rice water cleanser review, cosrx aha bha toner amazon india, k-beauty glass skin, authentic k-beauty india"
