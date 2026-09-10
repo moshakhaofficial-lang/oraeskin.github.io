@@ -2,6 +2,7 @@
   "published_products": [
     "bioderma-atoderm-baume",
     "biotique-morning-nectar-lotion",
+    "dermaco-hyaluronic-spf50",
     "dotkey-lip-mask",
     "minimalist-glycolic-toner",
     "minimalist-pha-toner",
@@ -10,6 +11,7 @@
   ],
   "published_blogs": [
     "best-body-oils-for-glowing-skin-post-shower",
+    "best-budget-lip-balms-under-200-india",
     "best-exfoliating-peeling-pads-convenience-india",
     "best-night-creams-for-glowing-radiant-skin-india",
     "best-retinol-eye-creams-fine-lines-crow-feet",
@@ -140,6 +142,26 @@
       "type": "blog",
       "title": "Best Body Oils in India for a Radiant Post-Shower Glow (Non-Sticky)",
       "date": "2026-09-09T09:03:01.685329+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "dermaco-hyaluronic-spf50",
+      "type": "product",
+      "title": "1% Hyaluronic Sunscreen Aqua Gel",
+      "date": "2026-09-10T09:01:53.400425+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-budget-lip-balms-under-200-india",
+      "type": "blog",
+      "title": "Top 5 Pharmacy & Drugstore Lip Balms Under \u20b9200 on Amazon India",
+      "date": "2026-09-10T09:01:56.041975+00:00",
       "channels": [
         "twitter",
         "instagram"
