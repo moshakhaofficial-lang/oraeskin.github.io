@@ -7,9 +7,11 @@
     "minimalist-glycolic-toner",
     "minimalist-pha-toner",
     "minimalist-retinol-03",
+    "minimalist-salicylic-cleanser",
     "minimalist-spf50"
   ],
   "published_blogs": [
+    "avocado-cream-benefits",
     "best-body-oils-for-glowing-skin-post-shower",
     "best-budget-lip-balms-under-200-india",
     "best-exfoliating-peeling-pads-convenience-india",
@@ -164,6 +166,25 @@
       "date": "2026-09-10T09:01:56.041975+00:00",
       "channels": [
         "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "minimalist-salicylic-cleanser",
+      "type": "product",
+      "title": "2% Salicylic Acid Face Wash",
+      "date": "2026-09-11T08:59:58.553732+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "avocado-cream-benefits",
+      "type": "blog",
+      "title": "Avocado Cream for Skin: Deep Hydration, Anti-Aging & Best Amazon India Picks",
+      "date": "2026-09-11T08:59:59.462655+00:00",
+      "channels": [
         "instagram"
       ]
     }
