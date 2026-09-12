@@ -2,6 +2,7 @@
   "published_products": [
     "bioderma-atoderm-baume",
     "biotique-morning-nectar-lotion",
+    "cerave-moisturizing-cream",
     "dermaco-hyaluronic-spf50",
     "dotkey-lip-mask",
     "minimalist-glycolic-toner",
@@ -16,6 +17,7 @@
     "best-budget-lip-balms-under-200-india",
     "best-exfoliating-peeling-pads-convenience-india",
     "best-night-creams-for-glowing-radiant-skin-india",
+    "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "complete-body-skincare-routine-indian-monsoon",
     "when-should-you-start-using-retinol-in-india"
@@ -185,6 +187,26 @@
       "title": "Avocado Cream for Skin: Deep Hydration, Anti-Aging & Best Amazon India Picks",
       "date": "2026-09-11T08:59:59.462655+00:00",
       "channels": [
+        "instagram"
+      ]
+    },
+    {
+      "id": "cerave-moisturizing-cream",
+      "type": "product",
+      "title": "Moisturizing Cream with Ceramides",
+      "date": "2026-09-12T08:42:56.953156+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-post-workout-face-washes-sweat-acne",
+      "type": "blog",
+      "title": "Best Post-Workout Face Washes for Gym Sweat Acne & Congestion in India",
+      "date": "2026-09-12T08:42:58.310066+00:00",
+      "channels": [
+        "twitter",
         "instagram"
       ]
     }
