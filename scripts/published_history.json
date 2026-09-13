@@ -2,6 +2,7 @@
   "published_products": [
     "bioderma-atoderm-baume",
     "biotique-morning-nectar-lotion",
+    "cerave-foaming-cleanser",
     "cerave-moisturizing-cream",
     "dermaco-hyaluronic-spf50",
     "dotkey-lip-mask",
@@ -16,6 +17,7 @@
     "best-body-oils-for-glowing-skin-post-shower",
     "best-budget-lip-balms-under-200-india",
     "best-exfoliating-peeling-pads-convenience-india",
+    "best-lip-sleeping-masks-chapped-peeling-lips",
     "best-night-creams-for-glowing-radiant-skin-india",
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
@@ -205,6 +207,26 @@
       "type": "blog",
       "title": "Best Post-Workout Face Washes for Gym Sweat Acne & Congestion in India",
       "date": "2026-09-12T08:42:58.310066+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "cerave-foaming-cleanser",
+      "type": "product",
+      "title": "Foaming Facial Cleanser",
+      "date": "2026-09-13T09:38:15.270001+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-lip-sleeping-masks-chapped-peeling-lips",
+      "type": "blog",
+      "title": "Top Lip Sleeping Masks in India for Severely Chapped, Peeling Lips",
+      "date": "2026-09-13T09:38:16.531275+00:00",
       "channels": [
         "twitter",
         "instagram"
