@@ -4,6 +4,7 @@
     "biotique-morning-nectar-lotion",
     "cerave-foaming-cleanser",
     "cerave-moisturizing-cream",
+    "dermaco-acne-patch",
     "dermaco-hyaluronic-spf50",
     "dotkey-lip-mask",
     "minimalist-glycolic-toner",
@@ -16,6 +17,7 @@
     "avocado-cream-benefits",
     "best-body-oils-for-glowing-skin-post-shower",
     "best-budget-lip-balms-under-200-india",
+    "best-ceramide-lip-balms-restoring-barrier",
     "best-exfoliating-peeling-pads-convenience-india",
     "best-lip-sleeping-masks-chapped-peeling-lips",
     "best-night-creams-for-glowing-radiant-skin-india",
@@ -227,6 +229,26 @@
       "type": "blog",
       "title": "Top Lip Sleeping Masks in India for Severely Chapped, Peeling Lips",
       "date": "2026-09-13T09:38:16.531275+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "dermaco-acne-patch",
+      "type": "product",
+      "title": "100% Hydrocolloid Invisible Acne Patches",
+      "date": "2026-09-14T10:00:55.995536+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-ceramide-lip-balms-restoring-barrier",
+      "type": "blog",
+      "title": "Best Ceramide Lip Treatments for Chronic Angular Cheilitis & Cracks",
+      "date": "2026-09-14T10:01:18.593591+00:00",
       "channels": [
         "twitter",
         "instagram"
