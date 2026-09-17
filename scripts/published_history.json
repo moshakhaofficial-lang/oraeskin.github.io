@@ -13,7 +13,8 @@
     "minimalist-pha-toner",
     "minimalist-retinol-03",
     "minimalist-salicylic-cleanser",
-    "minimalist-spf50"
+    "minimalist-spf50",
+    "plum-bodylovin-vanilla-lotion"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
@@ -28,6 +29,7 @@
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-vitamin-c-serums-for-indian-skin",
     "complete-body-skincare-routine-indian-monsoon",
+    "how-to-use-glycolic-acid-toner-safely-melanin-skin",
     "when-should-you-start-using-retinol-in-india"
   ],
   "history": [
@@ -293,6 +295,26 @@
       "type": "blog",
       "title": "Best Vitamin C Serums for Indian Skin: Fading Dark Spots & Hyperpigmentation (2025 Review)",
       "date": "2026-09-16T09:23:28.378748+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "plum-bodylovin-vanilla-lotion",
+      "type": "product",
+      "title": "BodyLovin Vanilla Caramello Body Lotion",
+      "date": "2026-09-17T09:33:30.890139+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "how-to-use-glycolic-acid-toner-safely-melanin-skin",
+      "type": "blog",
+      "title": "How to Use Glycolic Acid Toner Safely on Melanin-Rich Indian Skin",
+      "date": "2026-09-17T09:33:38.111174+00:00",
       "channels": [
         "twitter",
         "instagram"
