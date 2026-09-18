@@ -14,6 +14,7 @@
     "minimalist-retinol-03",
     "minimalist-salicylic-cleanser",
     "minimalist-spf50",
+    "minimalist-vitc-10",
     "plum-bodylovin-vanilla-lotion"
   ],
   "published_blogs": [
@@ -22,6 +23,7 @@
     "best-budget-lip-balms-under-200-india",
     "best-ceramide-lip-balms-restoring-barrier",
     "best-chemical-exfoliating-lip-scrubs-smoothness",
+    "best-dewy-sunscreen-for-dry-skin-india",
     "best-exfoliating-peeling-pads-convenience-india",
     "best-lip-sleeping-masks-chapped-peeling-lips",
     "best-night-creams-for-glowing-radiant-skin-india",
@@ -315,6 +317,26 @@
       "type": "blog",
       "title": "How to Use Glycolic Acid Toner Safely on Melanin-Rich Indian Skin",
       "date": "2026-09-17T09:33:38.111174+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "minimalist-vitc-10",
+      "type": "product",
+      "title": "10% Vitamin C Face Serum",
+      "date": "2026-09-18T09:05:33.938212+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-dewy-sunscreen-for-dry-skin-india",
+      "type": "blog",
+      "title": "Best Dewy & Hydrating Sunscreens for Dry Flaky Skin in India",
+      "date": "2026-09-18T09:05:35.271518+00:00",
       "channels": [
         "twitter",
         "instagram"
