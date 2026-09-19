@@ -8,6 +8,7 @@
     "dermaco-acne-patch",
     "dermaco-hyaluronic-spf50",
     "dotkey-lip-mask",
+    "minimalist-b5-moisturizer",
     "minimalist-glycolic-toner",
     "minimalist-niacinamide-10",
     "minimalist-pha-toner",
@@ -25,6 +26,7 @@
     "best-chemical-exfoliating-lip-scrubs-smoothness",
     "best-dewy-sunscreen-for-dry-skin-india",
     "best-exfoliating-peeling-pads-convenience-india",
+    "best-foot-creams-cracked-heels-urea-salicylic",
     "best-lip-sleeping-masks-chapped-peeling-lips",
     "best-night-creams-for-glowing-radiant-skin-india",
     "best-post-workout-face-washes-sweat-acne",
@@ -337,6 +339,26 @@
       "type": "blog",
       "title": "Best Dewy & Hydrating Sunscreens for Dry Flaky Skin in India",
       "date": "2026-09-18T09:05:35.271518+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "minimalist-b5-moisturizer",
+      "type": "product",
+      "title": "Vitamin B5 10% Moisturizer",
+      "date": "2026-09-19T08:53:03.407962+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-foot-creams-cracked-heels-urea-salicylic",
+      "type": "blog",
+      "title": "Best Foot Creams for Deep Cracked Heels & Calluses in India",
+      "date": "2026-09-19T08:53:05.040633+00:00",
       "channels": [
         "twitter",
         "instagram"
