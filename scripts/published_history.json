@@ -2,6 +2,7 @@
   "published_products": [
     "bioderma-atoderm-baume",
     "biotique-morning-nectar-lotion",
+    "cerave-eye-repair",
     "cerave-foaming-cleanser",
     "cerave-moisturizing-cream",
     "dermaco-10-niacinamide",
@@ -34,6 +35,7 @@
     "best-vitamin-c-serums-for-indian-skin",
     "complete-body-skincare-routine-indian-monsoon",
     "how-to-use-glycolic-acid-toner-safely-melanin-skin",
+    "morning-vs-night-cleanser-should-you-wash-twice",
     "when-should-you-start-using-retinol-in-india"
   ],
   "history": [
@@ -359,6 +361,26 @@
       "type": "blog",
       "title": "Best Foot Creams for Deep Cracked Heels & Calluses in India",
       "date": "2026-09-19T08:53:05.040633+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "cerave-eye-repair",
+      "type": "product",
+      "title": "Eye Repair Cream",
+      "date": "2026-09-20T09:22:11.540255+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "morning-vs-night-cleanser-should-you-wash-twice",
+      "type": "blog",
+      "title": "Morning vs Night Cleanser: Should You Really Wash Your Face Twice a Day?",
+      "date": "2026-09-20T09:22:12.693106+00:00",
       "channels": [
         "twitter",
         "instagram"
