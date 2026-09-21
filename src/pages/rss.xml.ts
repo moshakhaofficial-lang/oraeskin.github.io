@@ -6,7 +6,13 @@ const rawPosts = import.meta.glob('./blog/*.md', { eager: true });
 export const GET: APIRoute = async () => {
     const siteUrl = SITE_CONFIG.url.replace(/\/$/, '');
     
-    const items = Object.entries(rawPosts).map(([filePath, post]: [string, any]) => {
+    const sortedPosts = Object.entries(rawPosts).sort(([, a]: [string, any], [, b]: [string, any]) => {
+        const dateA = new Date(a.frontmatter?.date || '2026-01-01').getTime();
+        const dateB = new Date(b.frontmatter?.date || '2026-01-01').getTime();
+        return dateB - dateA;
+    });
+
+    const items = sortedPosts.map(([filePath, post]: [string, any]) => {
         const slug = filePath.replace(/^\.\/blog\//, '').replace(/\.md$/, '');
         const title = post.frontmatter?.title || 'OraeSkin Skincare Guide';
         const description = post.frontmatter?.description || '';
