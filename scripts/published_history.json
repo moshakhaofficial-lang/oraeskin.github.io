@@ -21,7 +21,8 @@
     "minimalist-spf30-lipbalm",
     "minimalist-spf50",
     "minimalist-vitc-10",
-    "plum-bodylovin-vanilla-lotion"
+    "plum-bodylovin-vanilla-lotion",
+    "plum-vitc-mandarin"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
@@ -31,6 +32,7 @@
     "best-ceramide-lip-balms-restoring-barrier",
     "best-chemical-exfoliating-lip-scrubs-smoothness",
     "best-dewy-sunscreen-for-dry-skin-india",
+    "best-emergency-acne-kits-amazon-india",
     "best-exfoliating-peeling-pads-convenience-india",
     "best-foot-creams-cracked-heels-urea-salicylic",
     "best-lactic-acid-lotions-rough-elbows-knees-india",
@@ -469,6 +471,26 @@
       "type": "blog",
       "title": "Best Lactic Acid Body Lotions for Rough Elbows, Knees & Dry Skin",
       "date": "2026-09-24T09:24:26.309829+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "plum-vitc-mandarin",
+      "type": "product",
+      "title": "15% Vitamin C Face Serum",
+      "date": "2026-09-25T09:42:20.187028+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-emergency-acne-kits-amazon-india",
+      "type": "blog",
+      "title": "Top 3 Emergency Acne SOS Kits on Amazon India for Event Readiness",
+      "date": "2026-09-25T09:42:21.675323+00:00",
       "channels": [
         "twitter",
         "instagram"
