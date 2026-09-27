@@ -23,10 +23,12 @@
     "minimalist-spf50",
     "minimalist-vitc-10",
     "plum-bodylovin-vanilla-lotion",
+    "plum-greentea-toner",
     "plum-vitc-mandarin"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
+    "best-aha-exfoliating-face-washes-dull-skin",
     "best-alcohol-free-toners-under-400-india",
     "best-body-oils-for-glowing-skin-post-shower",
     "best-budget-lip-balms-under-200-india",
@@ -513,6 +515,26 @@
       "type": "blog",
       "title": "Best Complete 3-Step Skincare Routine Under \u20b91,000 on Amazon India (Cleanser + Moisturizer + SPF)",
       "date": "2026-09-26T09:26:27.971110+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "plum-greentea-toner",
+      "type": "product",
+      "title": "Green Tea Alcohol-Free Toner",
+      "date": "2026-09-27T10:06:22.390984+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-aha-exfoliating-face-washes-dull-skin",
+      "type": "blog",
+      "title": "Best AHA Exfoliating Face Washes for Dullness & Rough Texture",
+      "date": "2026-09-27T10:06:24.125728+00:00",
       "channels": [
         "twitter",
         "instagram"
