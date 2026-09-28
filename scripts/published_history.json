@@ -13,6 +13,7 @@
     "dermaco-hyaluronic-spf50",
     "dotkey-lip-mask",
     "dotkey-watermelon-spf50",
+    "drsheths-ceramide-vitc-spf50",
     "minimalist-b5-moisturizer",
     "minimalist-glycolic-toner",
     "minimalist-niacinamide-10",
@@ -31,6 +32,7 @@
     "best-aha-exfoliating-face-washes-dull-skin",
     "best-alcohol-free-toners-under-400-india",
     "best-body-oils-for-glowing-skin-post-shower",
+    "best-brightening-body-lotions-sun-tanned-arms",
     "best-budget-lip-balms-under-200-india",
     "best-ceramide-lip-balms-restoring-barrier",
     "best-chemical-exfoliating-lip-scrubs-smoothness",
@@ -535,6 +537,26 @@
       "type": "blog",
       "title": "Best AHA Exfoliating Face Washes for Dullness & Rough Texture",
       "date": "2026-09-27T10:06:24.125728+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "drsheths-ceramide-vitc-spf50",
+      "type": "product",
+      "title": "Ceramide & Vitamin C Sunscreen",
+      "date": "2026-09-28T11:05:36.969373+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-brightening-body-lotions-sun-tanned-arms",
+      "type": "blog",
+      "title": "Best Brightening Body Lotions in India for Fading Uneven Arm Tanning",
+      "date": "2026-09-28T11:05:38.400558+00:00",
       "channels": [
         "twitter",
         "instagram"
