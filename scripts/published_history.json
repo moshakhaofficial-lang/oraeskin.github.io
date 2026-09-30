@@ -26,7 +26,8 @@
     "minimalist-vitc-10",
     "plum-bodylovin-vanilla-lotion",
     "plum-greentea-toner",
-    "plum-vitc-mandarin"
+    "plum-vitc-mandarin",
+    "reequil-ultra-matte-spf50"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
@@ -47,6 +48,7 @@
     "best-micro-dart-patches-deep-blind-pimples",
     "best-moisturizers-for-combination-skin-tzone",
     "best-night-creams-for-glowing-radiant-skin-india",
+    "best-non-comedogenic-moisturizers-acne-prone-skin",
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-vitamin-c-serums-for-indian-skin",
@@ -579,6 +581,26 @@
       "type": "blog",
       "title": "Best Moisturizers for Combination Skin: Balancing Oily T-Zone & Dry Cheeks",
       "date": "2026-09-29T10:48:18.416776+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "reequil-ultra-matte-spf50",
+      "type": "product",
+      "title": "Ultra Matte Dry Touch Sunscreen Gel",
+      "date": "2026-09-30T10:36:06.365202+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-non-comedogenic-moisturizers-acne-prone-skin",
+      "type": "blog",
+      "title": "Best Non-Comedogenic Moisturizers That Will Never Clog Your Pores",
+      "date": "2026-09-30T10:36:07.772134+00:00",
       "channels": [
         "twitter",
         "instagram"
