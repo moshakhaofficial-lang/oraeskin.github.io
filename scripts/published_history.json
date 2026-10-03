@@ -29,7 +29,8 @@
     "plum-bodylovin-vanilla-lotion",
     "plum-greentea-toner",
     "plum-vitc-mandarin",
-    "reequil-ultra-matte-spf50"
+    "reequil-ultra-matte-spf50",
+    "simple-refreshing-wash"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
@@ -59,6 +60,7 @@
     "complete-body-skincare-routine-indian-monsoon",
     "how-to-use-glycolic-acid-toner-safely-melanin-skin",
     "morning-vs-night-cleanser-should-you-wash-twice",
+    "transformative-power-facewash",
     "ultimate-anti-aging-skincare-routine-guide-india",
     "when-should-you-start-using-retinol-in-india"
   ],
@@ -645,6 +647,26 @@
       "type": "blog",
       "title": "Top 5 Salicylic Acid Spot Gels in India for Emergency Breakouts",
       "date": "2026-10-02T10:36:53.103648+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "simple-refreshing-wash",
+      "type": "product",
+      "title": "Kind to Skin Refreshing Facial Wash",
+      "date": "2026-10-03T09:57:12.099413+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "transformative-power-facewash",
+      "type": "blog",
+      "title": "The Transformative Power of the Right Facewash (Indian Weather Guide)",
+      "date": "2026-10-03T09:57:13.243052+00:00",
       "channels": [
         "twitter",
         "instagram"
