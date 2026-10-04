@@ -1,5 +1,6 @@
 {
   "published_products": [
+    "aqualogica-radiance-spf50",
     "bioderma-atoderm-baume",
     "biotique-morning-nectar-lotion",
     "cerave-eye-repair",
@@ -58,6 +59,7 @@
     "best-salicylic-acid-spot-gels-urgent-breakouts",
     "best-vitamin-c-serums-for-indian-skin",
     "complete-body-skincare-routine-indian-monsoon",
+    "how-to-fix-hair-oil-acne-forehead-temples-india",
     "how-to-use-glycolic-acid-toner-safely-melanin-skin",
     "morning-vs-night-cleanser-should-you-wash-twice",
     "transformative-power-facewash",
@@ -667,6 +669,26 @@
       "type": "blog",
       "title": "The Transformative Power of the Right Facewash (Indian Weather Guide)",
       "date": "2026-10-03T09:57:13.243052+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "aqualogica-radiance-spf50",
+      "type": "product",
+      "title": "Radiance+ Dewy Sunscreen SPF 50+",
+      "date": "2026-10-04T10:40:30.952328+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "how-to-fix-hair-oil-acne-forehead-temples-india",
+      "type": "blog",
+      "title": "How to Fix Hair Oil Acne & Pomade Breakouts on Forehead & Temples in India",
+      "date": "2026-10-04T10:40:32.650363+00:00",
       "channels": [
         "twitter",
         "instagram"
