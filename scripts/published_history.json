@@ -23,6 +23,7 @@
     "minimalist-niacinamide-10",
     "minimalist-pha-toner",
     "minimalist-retinol-03",
+    "minimalist-salicylic-bodywash",
     "minimalist-salicylic-cleanser",
     "minimalist-spf30-lipbalm",
     "minimalist-spf50",
@@ -57,6 +58,7 @@
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-salicylic-acid-spot-gels-urgent-breakouts",
+    "best-tranexamic-acid-serums-stubborn-pigmentation-india",
     "best-vitamin-c-serums-for-indian-skin",
     "complete-body-skincare-routine-indian-monsoon",
     "how-to-fix-hair-oil-acne-forehead-temples-india",
@@ -689,6 +691,26 @@
       "type": "blog",
       "title": "How to Fix Hair Oil Acne & Pomade Breakouts on Forehead & Temples in India",
       "date": "2026-10-04T10:40:32.650363+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "minimalist-salicylic-bodywash",
+      "type": "product",
+      "title": "2% Salicylic Acid Body Wash",
+      "date": "2026-10-05T11:41:43.250023+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-tranexamic-acid-serums-stubborn-pigmentation-india",
+      "type": "blog",
+      "title": "Best Tranexamic Acid Serums for Stubborn Sun Spots & PIH in India",
+      "date": "2026-10-05T11:41:44.113944+00:00",
       "channels": [
         "twitter",
         "instagram"
