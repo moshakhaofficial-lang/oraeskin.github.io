@@ -12,7 +12,7 @@ const articles = Object.entries(rawPosts).map(([filePath, post]: [string, any]) 
     const slug = filePath.replace(/^\.\//, '').replace(/\.md$/, '');
     return {
         title: post.frontmatter?.title || 'Skincare Review',
-        url: `/blog/${slug}`,
+        url: `/blog/${slug}/`,
         image: post.frontmatter?.image || '/images/products/minimalist-spf50.jpg',
         category: post.frontmatter?.category || 'Skincare',
         rating: post.frontmatter?.rating || 4.8,
@@ -31,9 +31,11 @@ function formatDisplayDate(d: string) {
 }
 ---
 
-<Layout title={`Skincare Reviews & Buying Guides (${totalArticles}+ Tested Guides) | OraeSkin`}>
-    <meta name="description" content={`Explore ${totalArticles}+ in-depth skincare buying guides, product comparisons, and curated Amazon India recommendations for Indian skin.`} slot="head" />
-    <meta name="keywords" content="skincare reviews india, amazon india skincare deals, best sunscreen india, facewash for oily skin, oraeskin" slot="head" />
+<Layout
+    title={`Skincare Reviews & Buying Guides (${totalArticles}+ Tested Guides) | OraeSkin`}
+    description={`Explore ${totalArticles}+ in-depth skincare buying guides, product comparisons, and curated Amazon India recommendations for Indian skin.`}
+    keywords="skincare reviews india, amazon india skincare deals, best sunscreen india, facewash for oily skin, oraeskin"
+>
     
 	<Header />
 	<main class="blog-main-page">

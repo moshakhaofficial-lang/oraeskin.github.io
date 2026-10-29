@@ -14,8 +14,8 @@ const totalProducts = PRODUCTS.length;
 <nav class="category-nav-wrapper" aria-label="Skincare Categories">
     <div class="category-nav-inner">
         <a 
-            href="/categories" 
-            class:list={["category-pill", { active: activeSlug === 'all' || (!activeSlug && Astro.url.pathname === '/categories') }]}
+            href="/categories/" 
+            class:list={["category-pill", { active: activeSlug === 'all' || (!activeSlug && Astro.url.pathname === '/categories/') }]}
         >
             <span class="category-icon">🌟</span>
             <span class="category-label">All Categories</span>
@@ -25,7 +25,7 @@ const totalProducts = PRODUCTS.length;
             const count = PRODUCTS.filter(p => p.category === cat.slug).length;
             return (
                 <a 
-                    href={`/category/${cat.slug}`} 
+                    href={`/category/${cat.slug}/`} 
                     class:list={["category-pill", { active: activeSlug === cat.slug }]}
                 >
                     <span class="category-icon">{cat.icon}</span>

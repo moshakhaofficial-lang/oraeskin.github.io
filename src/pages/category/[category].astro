@@ -34,7 +34,10 @@ const comparisonProducts = categoryProducts.map(p => ({
 }));
 ---
 
-<Layout title={`${category.name} Reviews & Buying Guide (India) | OraeSkin`}>
+<Layout
+    title={`${category.name} Reviews & Buying Guide (India) | OraeSkin`}
+    description={category.description}
+>
     <Header />
 
     <main class="category-page-main">

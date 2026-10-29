@@ -24,6 +24,7 @@ function rehypeAmazonAffiliateLinks() {
 // https://astro.build/config
 export default defineConfig({
     site: 'https://www.oraeskin.in',
+    trailingSlash: 'always',
     markdown: {
         rehypePlugins: [rehypeAmazonAffiliateLinks],
     },

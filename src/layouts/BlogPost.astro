@@ -18,26 +18,13 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
     : (rawDate || 'September 2026');
 ---
 
-<Layout title={`${frontmatter.title} | OraeSkin Reviews`}>
-    <!-- SEO Meta Tags -->
-    <meta name="description" content={frontmatter.description} slot="head" />
-    <meta name="keywords" content={frontmatter.keywords || "skincare reviews, amazon india skincare, best skincare products, indian skin routines, OraeSkin"} slot="head" />
-    <link rel="canonical" href={currentUrl} slot="head" />
-    
-    <!-- Open Graph -->
-    <meta property="og:title" content={frontmatter.title} slot="head" />
-    <meta property="og:description" content={frontmatter.description} slot="head" />
-    <meta property="og:image" content={articleImage} slot="head" />
-    <meta property="og:type" content="article" slot="head" />
-    <meta property="og:url" content={currentUrl} slot="head" />
-    <meta property="og:site_name" content="OraeSkin" slot="head" />
-    
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image" slot="head" />
-    <meta name="twitter:title" content={frontmatter.title} slot="head" />
-    <meta name="twitter:description" content={frontmatter.description} slot="head" />
-    <meta name="twitter:image" content={articleImage} slot="head" />
-    
+<Layout
+    title={`${frontmatter.title} | OraeSkin Reviews`}
+    description={frontmatter.description}
+    image={articleImage}
+    keywords={frontmatter.keywords || "skincare reviews, amazon india skincare, best skincare products, indian skin routines, OraeSkin"}
+    ogType="article"
+>
     <!-- Structured Data (JSON-LD) -->
     <script is:inline type="application/ld+json" slot="head" set:html={JSON.stringify({
         "@context": "https://schema.org",
@@ -113,7 +100,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
                 </div>
 
                 <div class="article-nav-actions">
-                    <a href="/blog" class="btn-back">← Back to All Guides & Reviews</a>
+                    <a href="/blog/" class="btn-back">← Back to All Guides & Reviews</a>
                     <a href="/#top-picks" class="btn-top-picks">Explore Top Amazon Deals →</a>
                 </div>
             </footer>

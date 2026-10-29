@@ -7,12 +7,16 @@ export interface Props {
 	title?: string;
     description?: string;
     image?: string;
+    keywords?: string;
+    ogType?: string;
 }
 
 const { 
     title = SITE_CONFIG.title,
     description = SITE_CONFIG.description,
-    image = '/images/Oraeskin_FBCover.png'
+    image = '/images/Oraeskin_FBCover.png',
+    keywords = "skincare reviews, best sunscreen for indian skin, amazon india skincare, facewash for acne, niacinamide serum, affordable skincare india, OraeSkin",
+    ogType = 'website'
 } = Astro.props;
 
 const canonicalUrl = `https://www.oraeskin.in${Astro.url.pathname}`;
@@ -55,11 +59,11 @@ const fullImageUrl = image.startsWith('http') ? image : `https://www.oraeskin.in
         <!-- SEO & Meta -->
         <meta name="google-site-verification" content="google00fd83d7197d0bb6" />
         <meta name="description" content={description} />
-        <meta name="keywords" content="skincare reviews, best sunscreen for indian skin, amazon india skincare, facewash for acne, niacinamide serum, affordable skincare india, OraeSkin" />
+        <meta name="keywords" content={keywords} />
         <meta name="author" content="OraeSkin Skincare Editorial" />
         
         <!-- Open Graph / Social -->
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={ogType} />
         <meta property="og:url" content={canonicalUrl} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
@@ -78,6 +82,8 @@ const fullImageUrl = image.startsWith('http') ? image : `https://www.oraeskin.in
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..800;1,400..800&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+        <slot name="head" />
 	</head>
 	<body>
 		<slot />
