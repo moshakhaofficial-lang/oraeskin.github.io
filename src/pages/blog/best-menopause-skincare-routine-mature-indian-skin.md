@@ -23,7 +23,7 @@ During perimenopause and menopause, shifting estrogen levels profoundly alter th
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Minimalist — Granactive Retinoid 2% (0.2% HPR)** | Hydroxypinacolone Retinoate + Squalane | Rebuilding Dermal Collagen Without Retinoid Peeling | ~₹699 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
-| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Restoring Deep Lipid Deficits & Calming Menopausal Dryness | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21) |
+| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Restoring Deep Lipid Deficits & Calming Menopausal Dryness | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
 | **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides + Hyaluronic Acid + UV Filters | Guarding Thinning Mature Skin Against Photo-Aging | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
@@ -44,7 +44,7 @@ Estrogen plays a vital role in stimulating dermal fibroblasts, maintaining glyco
 ### Morning (AM) Architecture: Plump, Nourish & Protect
 - **Step 1: Hydrating Cream Cleanser**: Skip foaming gels that wash away precious lipids. Wash with lukewarm water or a lotion cleanser.
 - **Step 2: Antioxidant Defense & Moisture**: Layer a hydrating peptide or hyaluronic serum onto damp skin to boost intradermal water holding.
-- **Step 3: Ceramide Barrier Reinforcement**: Apply [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21). Its multi-vesicular emulsion slowly diffuses ceramides 1, 3, and 6-II into the stratum corneum throughout the day.
+- **Step 3: Ceramide Barrier Reinforcement**: Apply [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21). Its multi-vesicular emulsion slowly diffuses ceramides 1, 3, and 6-II into the stratum corneum throughout the day.
 - **Step 4: Broad Spectrum Anti-Pigmentation SPF**: Shield with [Dr. Sheth's Ceramide Sunscreen](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) to halt melanin synthesis.
 
 ### Evening (PM) Architecture: Cellular Renewal & Night Repair
@@ -76,7 +76,7 @@ The ultimate anti-aging solution for fragile, mature Indian skin. Hydroxypinacol
 ### CeraVe Moisturizing Cream with Ceramides
 - **Amazon Price**: ~₹420
 - **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy CeraVe Moisturizing Cream with Ceramides on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21)
+- **Direct Amazon Link**: [Buy CeraVe Moisturizing Cream with Ceramides on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21)
 
 Gold standard emollient cream that replenishes the exact 3 physiological ceramides (1, 3, 6-II) that drop drastically after menopause. Rich, restorative, and completely non-comedogenic.
 
@@ -86,7 +86,7 @@ Gold standard emollient cream that replenishes the exact 3 physiological ceramid
 - **Pro**: Accepted by the National Eczema Association
 - **Con**: Best applied onto damp skin to maximize hyaluronic hydration
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21).
+> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21).
 
 ---
 

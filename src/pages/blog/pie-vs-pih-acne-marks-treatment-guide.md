@@ -9,7 +9,7 @@ keywords: "pie vs pih acne marks india, treat red acne marks vs brown spots, pos
 description: "Are your acne scars red or dark brown? Treating them requires completely different dermatological actives. Discover the definitive guide to PIE vs PIH in India."
 topPickTitle: "Minimalist 10% Niacinamide Face Serum"
 topPickBrand: "Minimalist"
-topPickAsin: "B0CW1M65YC"
+topPickAsin: "B08F9MF314"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹599"
 ---
@@ -24,8 +24,8 @@ When a pimple heals, it often leaves a stubborn flat mark. However, treating it 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Lonza Niacinamide & 1% Zinc PCA | Both PIE (Vascular Redness) & PIH (Melanosome Transfer) | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) |
-| **Minimalist — 2% Alpha Arbutin Face Serum** | 2% Pure Alpha Arbutin & 1% Hyaluronic Acid | Dark Brown & Black Melanin Marks (PIH) | ~₹549 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GWN2JFFM?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Lonza Niacinamide & 1% Zinc PCA | Both PIE (Vascular Redness) & PIH (Melanosome Transfer) | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — 2% Alpha Arbutin Face Serum** | 2% Pure Alpha Arbutin & 1% Hyaluronic Acid | Dark Brown & Black Melanin Marks (PIH) | ~₹549 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21) |
 | **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 6% Nicotinamide & 2% Salicylic Acid | Freshly Popped Red Inflamed Blemishes | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---
@@ -38,7 +38,7 @@ Our evaluation of **Minimalist 10% Niacinamide Face Serum** highlights its scien
 - **Melanin Transfer Blocker**: Inhibits melanosome migration into keratinocytes to fade brown marks (PIH).
 - **Zinc Sebum Normalization**: Curtails oil production to stop new blemish flares.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
 
 ---
 
@@ -50,7 +50,7 @@ Our evaluation of **Minimalist 2% Alpha Arbutin Face Serum** highlights its scie
 - **Safe for Melanin-Dense Tones**: Lightens hyperpigmentation without the cytotoxicity of harsh bleaching creams.
 - **Deep Hydrating Vehicle**: Low molecular weight hyaluronic acid ensures uniform dermal distribution.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0GWN2JFFM?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21)**
 
 ---
 
@@ -69,7 +69,7 @@ Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highligh
 ## Editorial Routine Tips for Indian Skin
 
 1. **The Glass Test**: Press a clear glass cup firmly against the red mark. If it disappears temporarily (blanches), it is PIE (vascular). If it stays dark brown, it is PIH (melanin).
-2. **Target PIE with Niacinamide**: Apply [Minimalist 10% Niacinamide](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) twice daily to repair capillary inflammation.
+2. **Target PIE with Niacinamide**: Apply [Minimalist 10% Niacinamide](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) twice daily to repair capillary inflammation.
 3. **Strict Morning Sunscreen**: UV radiation turns red PIE marks into permanent brown PIH patches. Always protect with [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
 
 ---

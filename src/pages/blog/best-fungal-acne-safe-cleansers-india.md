@@ -25,7 +25,7 @@ Malassezia folliculitis (commonly known as fungal acne) is an opportunistic yeas
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Panthenol, Vitamin E & Cocamidopropyl Betaine | Malassezia Folliculitis, Itchy Forehead Bumps & Oily Skin | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **CeraVe — Foaming Facial Cleanser** | Ceramides 1, 3, 6-II, Niacinamide & Hyaluronic Acid | Compromised Barriers Suffering from Fungal Acne | ~₹650 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
+| **CeraVe — Foaming Facial Cleanser** | Ceramides 1, 3, 6-II, Niacinamide & Hyaluronic Acid | Compromised Barriers Suffering from Fungal Acne | ~₹650 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid & 6% Nicotinamide | Persistent Follicular Bumps Along Hairline & Cheeks | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---
@@ -50,7 +50,7 @@ Our evaluation of **CeraVe Foaming Facial Cleanser** highlights its scientific f
 - **Soothes Pruritic Itching**: Niacinamide brings down inflammatory erythema associated with yeast flares.
 - **Gentle Daily Foam**: Clears excess sebum without stripping protective antimicrobial peptides.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
 
 ---
 

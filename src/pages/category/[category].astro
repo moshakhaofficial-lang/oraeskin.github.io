@@ -7,7 +7,7 @@ import CategoryNav from '../../components/CategoryNav.astro';
 import ProductCard from '../../components/ProductCard.astro';
 import ComparisonTable from '../../components/ComparisonTable.astro';
 import { CATEGORIES } from '../../data/categories';
-import { PRODUCTS } from '../../data/products';
+import { AVAILABLE_PRODUCTS as PRODUCTS } from '../../data/products';
 
 export function getStaticPaths() {
     return CATEGORIES.map((cat) => ({

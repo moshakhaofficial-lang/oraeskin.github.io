@@ -25,8 +25,8 @@ The biggest mistake Indian skincare enthusiasts make is applying potent active i
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Minimalist — Granactive Retinoid 2% (0.2% HPR)** | 2% Granactive Retinoid (Hydroxypinacolone Retinoate) in Squalane | Night 2: Cellular Renewal & Collagen Boosting | ~₹699 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
-| **Cosrx — AHA/BHA Clarifying Treatment Toner** | Willow Bark Water, Apple Fruit Water & Betaine Salicylate | Night 1: Dissolving Dead Surface Keratin | ~₹990 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21) |
-| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides, Hyaluronic Acid & MVE Delivery | Nights 3 & 4: Replenishing Barrier Lipids | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21) |
+| **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
+| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides, Hyaluronic Acid & MVE Delivery | Nights 3 & 4: Replenishing Barrier Lipids | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
 
 ---
 
@@ -42,15 +42,19 @@ Our evaluation of **Minimalist Granactive Retinoid 2% (0.2% HPR)** highlights it
 
 ---
 
-## 2. Cosrx AHA/BHA Clarifying Treatment Toner — *Night 1: The Exfoliation Step*
+## 2. Minimalist PHA 3% Alcohol-Free Face Toner — *Best for Sensitive Skin Exfoliation*
 
-Our evaluation of **Cosrx AHA/BHA Clarifying Treatment Toner** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+PHAs have larger molecular structures that gently dissolve surface debris without penetrating deep enough to cause stinging.
 
-- **Clears the Canvas**: Removes dead stratum corneum cells so your Night 2 Retinoid penetrates evenly.
-- **Low-Irritation Acid Blend**: Prevents the chemical burns common with overly aggressive 30% acid peels.
-- **Mineral-Rich Soothing Base**: Prepares pores without causing stinging or micro-tears.
+- **Key actives**: 3% Gluconolactone (PHA), Multi-Biotics (Pre & Probiotics), Polyglutamic Acid
+- **Texture & finish**: Hydrating Essence Water — plump dewy smoothness
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹338 for 150ml (₹2.3/ml) · 4.2★ from 9,500+ Amazon India ratings
+- **Skip it if**: you require aggressive pore-clearing for deep cystic acne nodules.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21)**
+**Pros:** Zero stinging or irritation even on rosacea-prone or eczema-prone skin. **Cons:** Exfoliates more gradually compared to strong 8% Glycolic acid.
+
+📖 **[Read our full Minimalist PHA 3% Alcohol-Free Face Toner review](/reviews/minimalist-pha-toner/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
 
 ---
 
@@ -62,13 +66,13 @@ Our evaluation of **CeraVe Moisturizing Cream with Ceramides** highlights its sc
 - **MVE Time-Release Hydration**: Sustains deep moisture throughout the entire night.
 - **Halts Retinoid Peeling**: Ensures skin never enters a state of chronic low-grade inflammation.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21)**
 
 ---
 
 ## Editorial Routine Tips for Indian Skin
 
-1. **Memorize the 4-Night Cycle**: Night 1: Exfoliate with [Cosrx AHA/BHA Toner](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21) ➔ Night 2: Treat with [Minimalist Granactive Retinoid](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) ➔ Nights 3 & 4: Pure barrier recovery with [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21).
+1. **Memorize the 4-Night Cycle**: Night 1: Exfoliate with [Minimalist PHA 3% Alcohol-Free Face Toner](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) ➔ Night 2: Treat with [Minimalist Granactive Retinoid](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) ➔ Nights 3 & 4: Pure barrier recovery with [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21).
 2. **Never Combine Night 1 and Night 2**: Never use chemical acids and retinoids on the same evening; this strips the barrier and causes severe redness on Indian skin.
 3. **Daytime SPF is Mandatory**: Every morning of the cycle, shield skin with broad-spectrum [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
 

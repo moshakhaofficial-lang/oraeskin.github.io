@@ -25,8 +25,8 @@ Dark underarms in Indian skin are typically caused by a combination of shaving f
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Dark Underarms, Chronic Body Odor & Shaving Stubble | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA) & Betaine | Underarm Folliculitis & Daily Shower Hygiene | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide & 1% Zinc PCA | Sensitive Underarms Prone to Waxing Redness | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA) & Betaine | Underarm Folliculitis & Daily Shower Hygiene | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide & 1% Zinc PCA | Sensitive Underarms Prone to Waxing Redness | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 
 ---
 
@@ -50,7 +50,7 @@ Our evaluation of **Minimalist 2% Salicylic Acid Body Wash** highlights its scie
 - **Deep Follicular Cleansing**: Clears out apocrine sweat glands to prevent boil formation and bumps.
 - **Gentle Daily Formulation**: Safe for everyday shower use across all body zones.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
 
 ---
 
@@ -62,7 +62,7 @@ Our evaluation of **Minimalist 10% Niacinamide Face Serum** highlights its scien
 - **Strengthens Underarm Barrier**: Rebuilds delicate skin often damaged by waxing strips.
 - **Zinc Sebum & Odor Control**: Naturally balances bacterial colonization.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
 
 ---
 

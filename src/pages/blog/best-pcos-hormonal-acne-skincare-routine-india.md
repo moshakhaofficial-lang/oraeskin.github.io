@@ -23,7 +23,7 @@ PCOS-driven hormonal acne is one of the most stubborn dermatological challenges 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Deep Inflamed Cysts & Fast Spot Treatment | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Matmarine + Zinc PCA | Regulating Hormonal Sebum & Fading Jawline PIH | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Matmarine + Zinc PCA | Regulating Hormonal Sebum & Fading Jawline PIH | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 | **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated Salicylic Acid + LHA + Zinc | Daily Deep-Pore Cleansing Without Irritation | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 
 ---
@@ -44,7 +44,7 @@ When *Cutibacterium acnes* bacteria thrive in this oxygen-deprived sebum plug, y
 
 ### Morning (AM) Protocol: Calm, Regulate & Shield
 - **Step 1: Gentle Salicylic Cleansing**: Wash with a balanced BHA cleanser like [Minimalist 2% Salicylic Acid Face Wash](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21). Massage onto damp skin for 60 seconds, concentrating along the jawline and chin, then rinse with lukewarm water.
-- **Step 2: Anti-Inflammatory Sebum Control**: Apply 2–3 drops of [Minimalist 10% Niacinamide Face Serum](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21). Niacinamide suppresses sebum excretion rates, strengthens ceramide synthesis, and inhibits melanosome transfer to prevent dark spots.
+- **Step 2: Anti-Inflammatory Sebum Control**: Apply 2–3 drops of [Minimalist 10% Niacinamide Face Serum](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21). Niacinamide suppresses sebum excretion rates, strengthens ceramide synthesis, and inhibits melanosome transfer to prevent dark spots.
 - **Step 3: Lightweight Hydration & Broad-Spectrum SPF**: Use a matte, non-comedogenic sunscreen like Minimalist SPF 50. UV exposure darkens active acne marks permanently; diligent sun protection is non-negotiable.
 
 ### Evening (PM) Protocol: Decongest & Repair
@@ -77,7 +77,7 @@ The undisputed gold standard pharmacy blemish gel in India. Formulated with 2% S
 ### Minimalist 10% Niacinamide Face Serum
 - **Amazon Price**: ~₹599
 - **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy Minimalist 10% Niacinamide Face Serum on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21)
+- **Direct Amazon Link**: [Buy Minimalist 10% Niacinamide Face Serum on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)
 
 A powerhouse daily serum infused with pure pharmaceutical-grade Vitamin B3, Zinc PCA, and patented Matmarine biotechnology. It normalizes sebum production in PCOS-affected sebaceous glands and actively prevents dark marks from settling after pimples resolve.
 
@@ -87,7 +87,7 @@ A powerhouse daily serum infused with pure pharmaceutical-grade Vitamin B3, Zinc
 - **Pro**: Fragrance-free, silicone-free, non-sticky texture
 - **Con**: If your skin has never used niacinamide, introduce every alternate day first
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21).
+> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21).
 
 ---
 

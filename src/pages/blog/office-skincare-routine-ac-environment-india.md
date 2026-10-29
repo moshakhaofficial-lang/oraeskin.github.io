@@ -5,7 +5,7 @@ image: "/images/products/dotkey-rice-ceramide-cream.jpg"
 date: "2026-09-14"
 category: "Routines & Guides"
 rating: 4.8
-keywords: "office skincare routine ac environment india, air conditioned office dry skin, blue light screen fatigue eyes, dot and key rice cream, cerave eye repair"
+keywords: "office skincare routine ac environment india, air conditioned office dry skin, blue light screen fatigue eyes, dot and key rice cream, the ordinary caffeine eye serum"
 description: "Spending 8+ hours in air-conditioned cubicles dehydrates skin while causing an afternoon oil slick. Discover the ultimate desk-side skincare protocol."
 topPickTitle: "Dot & Key Rice Water & Ceramide Hydrating Cream"
 topPickBrand: "Dot & Key"
@@ -26,7 +26,7 @@ Corporate workers in Indian tech hubs (Bengaluru, Gurgaon, Hyderabad, Pune, Mumb
 | :--- | :--- | :--- | :--- | :--- |
 | **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water & Triple Ceramides | All-Day Air-Conditioned Cubicle Dehydration | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 | **The Derma Co — 1% Hyaluronic Sunscreen Aqua Gel** | 1% Hyaluronic Acid & Blue Light Protection Filters | Dual Monitors, Laptops & Desk Glare Defense | ~₹449 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
-| **CeraVe — Eye Repair Cream** | 3 Essential Ceramides & Marine Botanical Complex | Computer Vision Fatigue, Screen Shadows & Dry Under-Eyes | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) |
+| **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ~₹900 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 
 ---
 
@@ -54,22 +54,26 @@ Our evaluation of **The Derma Co 1% Hyaluronic Sunscreen Aqua Gel** highlights i
 
 ---
 
-## 3. CeraVe Eye Repair Cream — *Best for Screen Eye Strain & Hollows*
+## 3. The Ordinary Caffeine Solution 5% + EGCG — *Best for Morning Puffiness*
 
-Our evaluation of **CeraVe Eye Repair Cream** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A simple, fragrance-free water serum with a high 5% caffeine level and green tea EGCG. It's light enough to use morning and night without clogging the eye area.
 
-- **Ophthalmologist Tested Safety**: Non-migrating formula safe for contact lens wearers and dry office eyes.
-- **Plumps Periorbital Dehydration Lines**: Fills in fine creases accentuated by squinting at screen code.
-- **Fast Absorbing Cream**: Does not crease or cake under daytime under-eye concealer.
+- **Key actives**: 5% Caffeine, EGCG (Green Tea), Hyaluronic Acid
+- **Texture & finish**: Light Water-Based Serum — absorbs quickly, non-greasy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹900 for 30ml (₹30.0/ml) · 4.2★ from 19,000+ Amazon India ratings
+- **Skip it if**: your main concern is fine lines or brown pigment-type dark circles; caffeine mainly helps puffiness and bluish shadows.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21)**
+**Pros:** High 5% caffeine for visible de-puffing. **Cons:** Can feel slightly tacky before it sinks in.
+
+📖 **[Read our full The Ordinary Caffeine Solution 5% + EGCG review](/reviews/theordinary-caffeine-egcg/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21)**
 
 ---
 
 ## Editorial Routine Tips for Indian Skin
 
 1. **Hydrate Internally and Externally**: Keep a 1-liter water bottle at your desk. Indoor AC suppresses thirst, accelerating dehydration.
-2. **Apply Eye Cream in the AM**: Protect delicate periorbital tissue with [CeraVe Eye Repair Cream](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) before staring at dual monitors.
+2. **Apply Eye Cream in the AM**: Protect delicate periorbital tissue with [The Ordinary Caffeine Solution 5% + EGCG](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) before staring at dual monitors.
 3. **Blot, Don't Wash at 3 PM**: Splashing harsh tap water at 3 PM strips protective ceramides; use oil-blotting sheets and seal with [Dot & Key Rice Ceramide Cream](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21).
 
 ---

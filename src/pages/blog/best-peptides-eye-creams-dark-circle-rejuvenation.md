@@ -1,72 +1,85 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Best Peptide Eye Creams for Plumping Hollow Under-Eyes in India"
-image: "/images/products/cerave-cleanser.jpg"
-date: "2026-03-02"
+title: "Best Peptide Eye Creams & Serums in India for Firmer Under-Eyes"
+image: "/images/products/minimalist-vitk-retinal-eye-cream.jpg"
+date: "2026-10-29"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "peptide eye cream india, haloxyl dark circles, plump under eye hollows"
 description: "Matrixyl 3000 and Haloxyl: Clinically tested peptide complexes that strengthen translucent periorbital skin."
-topPickTitle: "CeraVe Eye Repair Cream"
-topPickBrand: "CeraVe"
-topPickAsin: "B0GRW7P4YR"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹399"
+topPickTitle: "Minimalist Vitamin K + Retinal 0.1% Under Eye Cream"
+topPickBrand: "Minimalist"
+topPickAsin: "B0CHYR58VF"
+topPickRating: "4 ★"
+topPickPrice: "~₹463"
 ---
 
-Matrixyl 3000 and Haloxyl: Clinically tested peptide complexes that strengthen translucent periorbital skin.
-
-In India's distinct tropical climate—characterized by intense UV radiation, high ambient humidity, and urban air pollution—selecting the right products for **under-eye treatments** requires careful consideration of active stability, formulation weight, and skin barrier compatibility.
-
----
-
-## Quick Comparison: Top Under-Eye Treatments Picks on Amazon India
-
-| Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **CeraVe — CeraVe Eye Repair Cream** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) |
-| **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
-| **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+Peptides are small protein fragments used to support firmness and smoothness, and they are gentle enough for thin under-eye skin. These are the peptide-containing eye products on Amazon India we rate most highly, based on their formulas.
 
 ---
 
-## 1. CeraVe — CeraVe Eye Repair Cream — *Editor's #1 Pick*
+## Quick Comparison
 
-Our top-ranked solution provides balanced, science-backed efficacy tailored for Indian skin textures and weather resilience.
+| Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹463 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
+| **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,136 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
+| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 9.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
 
-- **Fast-Absorbing Texture**: Formulated to sink in rapidly without leaving greasy films or clogging pores in hot, humid conditions.
-- **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
-- **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
-
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21)**
-
----
-
-## 2. CeraVe Dermatological Solution — *Best for Sensitive Skin*
-
-Formulated with barrier-restoring active ingredients, this formulation replenishes essential lipids and calms reactive skin.
-
-- **Skin-Identical Ceramides**: Rebuilds the stratum corneum matrix to halt moisture evaporation caused by air conditioning.
-- **Fragrance-Free & Hypoallergenic**: Completely safe for easily irritated, stinging, or redness-prone complexions.
-
-👉 **[View on Amazon India](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
+*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
-## 3. Dot & Key Barrier Care — *Best for Hydration & Glow*
+## 1. Minimalist Vitamin K + Retinal 0.1% Under Eye Cream — *Best Overall Peptide Eye Cream*
 
-Combining botanical brightness with modern skin barrier science for effortless daily radiance.
+Two peptides (Palmitoyl Tripeptide-1 and Tetrapeptide-7) plus retinal, vitamin K and caffeine.
 
-- **Non-Sticky Finish**: Absorbs cleanly and layers smoothly under makeup or sunscreen.
-- **Deep Moisture Reservoir**: Sustains cell hydration for over 24 hours.
+- **Key actives**: Vitamin K, Retinal 0.1%, 3% Caffeine, Palmitoyl Tripeptide-1 & Tetrapeptide-7
+- **Texture & finish**: Lightweight Eye Cream — smooth, non-greasy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹463 for 14g (₹33.1/g) · 4★ from 4,000+ Amazon India ratings
+- **Skip it if**: you are pregnant or breastfeeding (retinoids), or your under-eye skin is very sensitive or eczema-prone.
 
-👉 **[Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
+**Pros:** Retinal (retinaldehyde) works faster than retinol on fine lines and texture. **Cons:** Retinoid can sting or flake on sensitive under-eye skin — start every other night.
+
+📖 **[Read our full Minimalist Vitamin K + Retinal 0.1% Under Eye Cream review](/reviews/minimalist-caffeine-eye-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21)**
 
 ---
 
+## 2. Beauty of Joseon Revive Eye Serum: Ginseng + Retinal — *Best Gentle Option*
+
+Palmitoyl Tripeptide-5 with adenosine, ceramide and a low dose of retinal.
+
+- **Key actives**: Retinal (Liposomal), Ginseng Root Extract, Niacinamide, Adenosine
+- **Texture & finish**: Silky Serum-Cream — soft & hydrated, non-sticky
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹1,136 for 30ml (₹37.9/ml) · 4.1★ from 19,300+ Amazon India ratings
+- **Skip it if**: you are pregnant or breastfeeding (it contains retinal), or you want a fast, strong anti-ageing effect.
+
+**Pros:** Gentle, encapsulated retinal with a supportive base of ceramide NP, cholesterol and hyaluronate. **Cons:** Retinal is low in the ingredient list — results are gradual.
+
+📖 **[Read our full Beauty of Joseon Revive Eye Serum: Ginseng + Retinal review](/reviews/boj-revive-eye-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21)**
+
+---
+
+## 3. The Derma Co 5% Caffeine Under-Eye Serum with Roller — *Best Budget Pick*
+
+A caffeine serum with a retinol-peptide blend and a cooling roller.
+
+- **Key actives**: 5% Caffeine, 1% Hyaluronic Acid, Retinol Peptide Blend
+- **Texture & finish**: Fluid Gel — cooling fresh
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹539 for 15ml (₹35.9/ml) · 3.8★ from 1,100+ Amazon India ratings
+- **Skip it if**: you prefer using clean ring fingers or have broken skin around the eye.
+
+**Pros:** Metal roller-ball applicator provides immediate chilled depuffing benefits. **Cons:** 15ml volume runs out faster than standard 30ml dropper bottles.
+
+📖 **[Read our full The Derma Co 5% Caffeine Under-Eye Serum with Roller review](/reviews/dermaco-5-caffeine-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21)**
+
+---
 ## Editorial Routine Tips for Indian Skin
 
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21).
+1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
 2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
 3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
 

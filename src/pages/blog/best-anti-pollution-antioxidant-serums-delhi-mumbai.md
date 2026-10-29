@@ -25,7 +25,7 @@ Indian mega-cities like Delhi NCR, Mumbai, Kolkata, and Kanpur regularly experie
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | City Dwellers Exposed to High AQI Smog & Exhaust Fumes | ~₹550 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & 1% Zinc PCA | Smoggy Cities + Oily/Acne-Prone Skin | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & 1% Zinc PCA | Smoggy Cities + Oily/Acne-Prone Skin | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 | **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Mandatory Daytime Shield Against UV + Smog Synergy | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
@@ -50,7 +50,7 @@ Our evaluation of **Minimalist 10% Niacinamide Face Serum** highlights its scien
 - **Calms Pollution Micro-Inflammation**: Reduces airborne irritant-induced redness and sensitivity.
 - **Zinc Anti-Microbial Action**: Inhibits bacterial strains transferred to the skin via contaminated urban air.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
 
 ---
 
@@ -69,7 +69,7 @@ Our evaluation of **Minimalist SPF 50 Multi-Vitamin Sunscreen** highlights its s
 ## Editorial Routine Tips for Indian Skin
 
 1. **Apply Antioxidants Every Morning**: Antioxidants act like invisible body armor against smog. Apply 3 drops of [Plum 15% Vitamin C](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) before your sunscreen.
-2. **Double Cleanse Every Evening**: Air pollution nanoparticles settle inside pores. Use [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) to thoroughly dissolve grime.
+2. **Double Cleanse Every Evening**: Air pollution nanoparticles settle inside pores. Use [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) to thoroughly dissolve grime.
 3. **Never Touch Face with Commuting Hands**: Wash hands thoroughly before touching your face after traveling in public transport or city traffic.
 
 ---

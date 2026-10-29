@@ -98,15 +98,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21",
         "badge": "Editor's Pick — Best Overall",
-        "price": 399,
-        "priceEst": "₹399",
+        "price": 346,
+        "priceEst": "₹346",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/minimalist-spf50.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "24,300+",
-        "reviewCount": "24,300+",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "36,900+",
+        "reviewCount": "36,900+",
         "scoreBreakdown": {
             "formula": 9.6,
             "skinSuitability": 9.5,
@@ -179,7 +179,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Absorbs faster with zero dewy tackiness on sweat-prone days."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.6,
@@ -202,15 +202,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21",
         "badge": "Best for Oily & Acne-Prone Skin",
-        "price": 449,
-        "priceEst": "₹449",
+        "price": 479,
+        "priceEst": "₹479",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/dermaco-hyaluronic-spf50.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "19,500+",
-        "reviewCount": "19,500+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "43,000+",
+        "reviewCount": "43,000+",
         "scoreBreakdown": {
             "formula": 9.3,
             "skinSuitability": 9.7,
@@ -280,7 +280,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds refreshing watermelon extract with an instant cooling sensation."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.5,
@@ -303,15 +303,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BQN2YWN5?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BQN2YWN5?tag=oraeskin-21",
         "badge": "Best Cooling & Dewy Glow",
-        "price": 395,
-        "priceEst": "₹395",
+        "price": 387,
+        "priceEst": "₹387",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/dotkey-watermelon-spf50.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "14,200+",
-        "reviewCount": "14,200+",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "12,900+",
+        "reviewCount": "12,900+",
         "scoreBreakdown": {
             "formula": 9,
             "skinSuitability": 9.2,
@@ -378,7 +378,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Features niacinamide and watermelon with a rich water-burst texture."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.2,
@@ -401,15 +401,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21",
         "badge": "Best Luminous Glow for Dry Skin",
-        "price": 399,
-        "priceEst": "₹399",
+        "price": 382,
+        "priceEst": "₹382",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/aqualogica-radiance-spf50.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "16,800+",
-        "reviewCount": "16,800+",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "10,500+",
+        "reviewCount": "10,500+",
         "scoreBreakdown": {
             "formula": 9.1,
             "skinSuitability": 9.2,
@@ -472,7 +472,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds ceramides for extra barrier strengthening."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.2,
@@ -495,15 +495,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21",
         "badge": "Best for Weakened Moisture Barrier",
-        "price": 499,
-        "priceEst": "₹499",
+        "price": 369,
+        "priceEst": "₹369",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/drsheths-ceramide-vitc-spf50.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "18,400+",
-        "reviewCount": "18,400+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "900+",
+        "reviewCount": "900+",
         "scoreBreakdown": {
             "formula": 9.4,
             "skinSuitability": 9.3,
@@ -567,7 +567,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Provides similar vitamin protection at ₹399."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.3,
@@ -590,15 +590,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21",
         "badge": "Best Sweat & Humidity Proof",
-        "price": 780,
-        "priceEst": "₹780",
+        "price": 580,
+        "priceEst": "₹580",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/reequil-ultra-matte-spf50.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "21,100+",
-        "reviewCount": "21,100+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "11,800+",
+        "reviewCount": "11,800+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.6,
@@ -662,7 +662,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Easier to wash off without needing an oil cleanser."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.5,
@@ -681,19 +681,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "brand": "CeraVe",
         "category": "cleansers",
         "subcategory": "Gel-to-Foam Cleanser",
-        "asin": "B003YMJJSK",
-        "amazonUrl": "https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21",
+        "asin": "B07C5SKVL7",
+        "amazonUrl": "https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21",
         "badge": "Editor's Choice — Best Daily Wash",
-        "price": 650,
-        "priceEst": "₹650",
+        "price": 1061,
+        "priceEst": "₹1,061",
         "currency": "₹",
         "size": "236ml",
         "image": "/images/products/cerave-foaming-cleanser.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "32,400+",
-        "reviewCount": "32,400+",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "38,600+",
+        "reviewCount": "38,600+",
         "scoreBreakdown": {
             "formula": 9.8,
             "skinSuitability": 9.7,
@@ -764,7 +764,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Zero foam formulation for severely dry or reactive skin."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -787,15 +787,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21",
         "badge": "Best for Active Acne & Blackheads",
-        "price": 299,
-        "priceEst": "₹299",
+        "price": 284,
+        "priceEst": "₹284",
         "currency": "₹",
         "size": "100ml",
         "image": "/images/products/minimalist-salicylic-cleanser.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "28,100+",
-        "reviewCount": "28,100+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "29,500+",
+        "reviewCount": "29,500+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.6,
@@ -858,7 +858,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Better for everyday maintenance when active pimples have cleared."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -881,15 +881,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21",
         "badge": "Best for Dry & Hypersensitive Skin",
-        "price": 335,
-        "priceEst": "₹335",
+        "price": 351,
+        "priceEst": "₹351",
         "currency": "₹",
-        "size": "125ml",
+        "size": "118ml",
         "image": "/images/products/cetaphil-gentle-cleanser.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "38,900+",
-        "reviewCount": "38,900+",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "70,900+",
+        "reviewCount": "70,900+",
         "scoreBreakdown": {
             "formula": 9.3,
             "skinSuitability": 9.5,
@@ -953,7 +953,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Light foam that still respects sensitive skin."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.4,
@@ -976,15 +976,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21",
         "badge": "Best Korean Brightening Foam",
-        "price": 649,
-        "priceEst": "₹649",
+        "price": 674,
+        "priceEst": "₹674",
         "currency": "₹",
         "size": "150ml",
         "image": "/images/products/faceshop-rice-cleanser.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "12,800+",
-        "reviewCount": "12,800+",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "500+",
+        "reviewCount": "500+",
         "scoreBreakdown": {
             "formula": 9.1,
             "skinSuitability": 9,
@@ -1045,7 +1045,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Maintains an acidic 5.5 pH with ceramides."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.2,
@@ -1068,10 +1068,10 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21",
         "badge": "Best Budget Everyday Wash",
-        "price": 249,
-        "priceEst": "₹249",
+        "price": 384,
+        "priceEst": "₹384",
         "currency": "₹",
-        "size": "150ml",
+        "size": "250ml",
         "image": "/images/products/simple-refreshing-wash.jpg",
         "amazonRating": 4.6,
         "rating": 4.6,
@@ -1140,7 +1140,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds 2% Salicylic Acid for breakout-prone skin."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.4,
@@ -1159,19 +1159,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "brand": "Minimalist",
         "category": "serums",
         "subcategory": "Antioxidant Brightening Serum",
-        "asin": "B0HFRS79JS",
-        "amazonUrl": "https://www.amazon.in/dp/B0HFRS79JS?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B0HFRS79JS?tag=oraeskin-21",
+        "asin": "B08MVBF4P8",
+        "amazonUrl": "https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21",
         "badge": "Editor's Choice — Best Vitamin C",
-        "price": 699,
-        "priceEst": "₹699",
+        "price": 593,
+        "priceEst": "₹593",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-vitc-10.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "17,200+",
-        "reviewCount": "17,200+",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "25,000+",
+        "reviewCount": "25,000+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.5,
@@ -1235,7 +1235,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Features 15% concentration with Kakadu Plum for experienced users."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.6,
@@ -1258,15 +1258,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21",
         "badge": "Best High-Potency Vitamin C",
-        "price": 550,
-        "priceEst": "₹550",
+        "price": 447,
+        "priceEst": "₹447",
         "currency": "₹",
-        "size": "30ml",
+        "size": "20ml",
         "image": "/images/products/plum-vitc-mandarin.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "14,800+",
-        "reviewCount": "14,800+",
+        "amazonRating": 4.0,
+        "rating": 4.0,
+        "amazonReviews": "15,100+",
+        "reviewCount": "15,100+",
         "scoreBreakdown": {
             "formula": 9.4,
             "skinSuitability": 9.1,
@@ -1328,7 +1328,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Gentler 10% dose with Centella for sensitive skin."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.4,
@@ -1347,19 +1347,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "brand": "Minimalist",
         "category": "serums",
         "subcategory": "Sebum & Texture Serum",
-        "asin": "B0CW1M65YC",
-        "amazonUrl": "https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21",
+        "asin": "B08F9MF314",
+        "amazonUrl": "https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21",
         "badge": "Best for Open Pores & Oil Control",
-        "price": 599,
-        "priceEst": "₹599",
+        "price": 485,
+        "priceEst": "₹485",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-niacinamide-10.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "31,500+",
-        "reviewCount": "31,500+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "27,100+",
+        "reviewCount": "27,100+",
         "scoreBreakdown": {
             "formula": 9.8,
             "skinSuitability": 9.6,
@@ -1424,7 +1424,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds Centella Asiatica for extra redness calming."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.8,
@@ -1443,19 +1443,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "brand": "Minimalist",
         "category": "serums",
         "subcategory": "Pigmentation & Melasma Serum",
-        "asin": "B0GWN2JFFM",
-        "amazonUrl": "https://www.amazon.in/dp/B0GWN2JFFM?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B0GWN2JFFM?tag=oraeskin-21",
+        "asin": "B08GGDRRQ8",
+        "amazonUrl": "https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21",
         "badge": "Best for Stubborn Dark Marks & Melasma",
-        "price": 549,
-        "priceEst": "₹549",
+        "price": 466,
+        "priceEst": "₹466",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-alpha-arbutin.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "16,700+",
-        "reviewCount": "16,700+",
+        "amazonRating": 4.0,
+        "rating": 4.0,
+        "amazonReviews": "18,800+",
+        "reviewCount": "18,800+",
         "scoreBreakdown": {
             "formula": 9.6,
             "skinSuitability": 9.7,
@@ -1520,7 +1520,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Combines melanin reduction with collagen boosting."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.6,
@@ -1543,15 +1543,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21",
         "badge": "Best Soothing Texture Serum",
-        "price": 599,
-        "priceEst": "₹599",
+        "price": 490,
+        "priceEst": "₹490",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/dermaco-10-niacinamide.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "15,300+",
-        "reviewCount": "15,300+",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "16,700+",
+        "reviewCount": "16,700+",
         "scoreBreakdown": {
             "formula": 9.3,
             "skinSuitability": 9.5,
@@ -1613,7 +1613,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Features Swiss Lonza-grade Niacinamide for ultra-sensitive skin."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.4,
@@ -1627,102 +1627,118 @@ export const PRODUCTS: SkincareProduct[] = [
     },
     {
         "id": "dotkey-rice-ceramide-cream",
-        "name": "Rice Water & Ceramide Hydrating Cream",
-        "title": "Dot & Key Rice Water & Ceramide Deep Hydrating Moisturizer",
+        "name": "Barrier Repair Moisturizer",
+        "title": "Dot & Key Barrier Repair Moisturizer with 5 Ceramides, Hyaluronic & Rice Water",
         "brand": "Dot & Key",
         "category": "moisturizers",
-        "subcategory": "Barrier Repair Gel-Cream",
+        "subcategory": "Ceramide Barrier Cream",
         "asin": "B0BDVG99J5",
         "amazonUrl": "https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21",
-        "badge": "Best for Indian Glass Skin",
-        "price": 395,
-        "priceEst": "₹395",
+        "badge": "Best Budget Barrier Repair Cream",
+        "price": 328,
+        "priceEst": "₹328",
         "currency": "₹",
         "size": "100g",
-        "image": "/images/products/dotkey-rice-ceramide-cream.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "18,600+",
-        "reviewCount": "18,600+",
+        "image": "/images/products/dotkey-barrier-repair-moisturizer.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "16,100+",
+        "reviewCount": "16,100+",
         "scoreBreakdown": {
-            "formula": 9.4,
-            "skinSuitability": 9.6,
-            "evidence": 9.3,
-            "userFeedback": 9.5,
-            "value": 9.8,
-            "availability": 9.8
+            "formula": 8.4,
+            "skinSuitability": 8.6,
+            "evidence": 8.5,
+            "userFeedback": 8.6,
+            "value": 9.2,
+            "availability": 9.2
         },
         "skinType": [
             "Normal",
             "Dry",
-            "Combination"
+            "Combination",
+            "Sensitive"
         ],
         "concerns": [
             "Barrier Damage",
-            "Rough Texture",
             "Dehydration",
+            "Rough Texture",
             "Flakiness"
         ],
         "keyActives": [
-            "Fermented Japanese Rice Water",
-            "Ceramides (NP, AP, EOP)",
-            "Hyaluronic Acid"
+            "5 Ceramides (1, 2, 3, 4, 6-II)",
+            "Hyaluronic Acid",
+            "Japanese Rice Water"
         ],
         "keyIngredients": [
-            "Oryza Sativa (Rice) Bran Water",
             "Ceramide Complex",
-            "Sodium Hyaluronate",
-            "Probiotic Ferment"
+            "Hyaluronic Acid",
+            "Oryza Sativa (Rice) Bran Water",
+            "Polyglutamic Acid",
+            "Lactobacillus Ferment"
         ],
         "ingredients": [
             "Aqua",
-            "Rice Bran Water",
-            "Glycerin",
-            "Ceramide NP",
+            "Caprylic Capric Triglyceride",
+            "Glycerine",
+            "Glyceryl Stearate (and) PEG-100 Stearate",
+            "Cetyl Alcohol",
+            "Cetearyl Olivate (and) Sorbitan Olivate",
+            "Dimethicone (and) Dimethicone Crosspolymer",
+            "Cyclopentasiloxane",
             "Hyaluronic Acid",
-            "Shea Butter"
+            "Ceramide 1, 2, 3, 4, 6 II",
+            "Tocopheryl Acetate",
+            "Polyglutamic Acid",
+            "Lactobacillus (and) Maltodextrin",
+            "Oryza Sativa (Rice) Bran Water",
+            "Cocos Nucifera (Coconut) Oil",
+            "Olea Europaea (Olive) Fruit Oil",
+            "Simmondsia Chinensis (Jojoba) Seed Oil",
+            "Xanthan Gum",
+            "Benzyl Alcohol (and) Ethylhexylglycerin"
         ],
         "fragrance": "Fragrance-Free",
         "essentialOils": false,
         "alcoholFree": true,
-        "texture": "Pudding Gel-Cream",
-        "finish": "Luminous Plump Glow",
+        "texture": "Smooth Cream",
+        "finish": "Soft & Hydrated, Non-Greasy",
         "whiteCast": "Not Applicable",
-        "bestFor": "Rebuilding a damaged, compromised barrier while achieving a luminous dewy radiance.",
-        "avoidIf": "You have extremely oily skin in humid monsoons and prefer an oil-free water gel.",
-        "whyWeLikeIt": "Combines ancient Asian rice fermentation with cutting-edge ceramides at a high-value ₹395 price point.",
+        "bestFor": "Dry, normal or sensitive skin with a weakened barrier — tightness, flaking or stinging — that needs an affordable daily ceramide cream.",
+        "avoidIf": "Your skin is very oily or prone to clogging from coconut oil; try an oil-free gel moisturizer instead.",
+        "whyWeLikeIt": "Five ceramides with hyaluronic acid, polyglutamic acid and rice water in a fragrance-free cream for about ₹3 per gram. That's a strong barrier formula at a budget price.",
         "pros": [
-            "Ceramides rebuild the stratum corneum lipid barrier in 7 days",
-            "Fermented rice water tightens skin elasticity and softens rough texture",
-            "Decent 100g tub offers superior value per gram compared to competitors"
+            "Five ceramides plus hyaluronic and polyglutamic acid support a damaged barrier",
+            "Unscented, per the listing — suits sensitive skin",
+            "Generous 100g for around ₹330"
         ],
         "cons": [
-            "Tub packaging requires using clean fingertips or a cosmetic spatula"
+            "Contains coconut oil, which some acne-prone skin finds clogging",
+            "Tub packaging — use clean fingers or a spatula"
         ],
-        "verdict": "An incredible barrier-strengthening moisturizer that provides salon-level glass skin hydration.",
+        "verdict": "One of the best-value ceramide moisturizers on Amazon India for dry or sensitised skin. Oily, acne-prone skin may prefer a lighter gel.",
         "alternatives": [
             {
                 "label": "Oil-Free Alternative for Oily Skin",
                 "productId": "minimalist-b5-moisturizer",
-                "reason": "Ultra-lightweight oil-free formula with 10% Vitamin B5."
+                "reason": "Lightweight, oil-free gel with 10% Vitamin B5."
             },
             {
-                "label": "Ultra-Rich Medical Alternative",
+                "label": "Richer Ceramide Alternative",
                 "productId": "cerave-moisturizing-cream",
-                "reason": "Deeper occlusion for severely flaking skin."
+                "reason": "Thicker cream with 3 ceramides for very dry skin."
             }
         ],
-        "lastPriceChecked": "September 2026",
-        "lastEditorialReview": "September 2026",
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
         "inStock": true,
-        "oraeSkinScore": 9.5,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.4,
-            "weatherResilience": 9.6,
-            "texture": 9.6,
-            "value": 9.8,
-            "overall": 9.5
+            "formula": 8.4,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 9.2,
+            "overall": 8.7
         }
     },
     {
@@ -1732,19 +1748,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "brand": "CeraVe",
         "category": "moisturizers",
         "subcategory": "Intensive Barrier Cream",
-        "asin": "B00TTD9BRC",
-        "amazonUrl": "https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21",
+        "asin": "B07CH8F17Q",
+        "amazonUrl": "https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21",
         "badge": "Best for Severely Dry & Compromised Skin",
-        "price": 420,
-        "priceEst": "₹420",
+        "price": 344,
+        "priceEst": "₹344",
         "currency": "₹",
-        "size": "50g",
+        "size": "50ml",
         "image": "/images/products/cerave-moisturizing-cream.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "45,200+",
-        "reviewCount": "45,200+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "21,700+",
+        "reviewCount": "21,700+",
         "scoreBreakdown": {
             "formula": 9.9,
             "skinSuitability": 9.6,
@@ -1809,7 +1825,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Absorbs faster for day use."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -1832,15 +1848,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21",
         "badge": "Best for Oily & Acne-Prone Skin",
-        "price": 349,
-        "priceEst": "₹349",
+        "price": 237,
+        "priceEst": "₹237",
         "currency": "₹",
-        "size": "50g",
+        "size": "30g",
         "image": "/images/products/minimalist-b5-moisturizer.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "19,400+",
-        "reviewCount": "19,400+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "16,500+",
+        "reviewCount": "16,500+",
         "scoreBreakdown": {
             "formula": 9.6,
             "skinSuitability": 9.8,
@@ -1907,7 +1923,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Provides a more radiant finish with ceramides."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -1930,15 +1946,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21",
         "badge": "Best Medical Grade Barrier Rescue",
-        "price": 790,
-        "priceEst": "₹790",
+        "price": 472,
+        "priceEst": "₹472",
         "currency": "₹",
-        "size": "75ml",
+        "size": "45ml",
         "image": "/images/products/bioderma-atoderm-baume.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "11,200+",
-        "reviewCount": "11,200+",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "2,700+",
+        "reviewCount": "2,700+",
         "scoreBreakdown": {
             "formula": 9.9,
             "skinSuitability": 9.5,
@@ -2001,7 +2017,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "High efficacy at a lower price point."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.6,
@@ -2024,15 +2040,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21",
         "badge": "Best for Brightening & Rough Texture",
-        "price": 499,
-        "priceEst": "₹499",
+        "price": 474,
+        "priceEst": "₹474",
         "currency": "₹",
         "size": "150ml",
         "image": "/images/products/minimalist-glycolic-toner.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "13,500+",
-        "reviewCount": "13,500+",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "5,400+",
+        "reviewCount": "5,400+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.3,
@@ -2094,7 +2110,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Uses large-molecule PHA for zero irritation."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.6,
@@ -2117,15 +2133,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21",
         "badge": "Best Gentle Daily Pore Refiner",
-        "price": 390,
-        "priceEst": "₹390",
+        "price": 351,
+        "priceEst": "₹351",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/plum-greentea-toner.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "24,100+",
-        "reviewCount": "24,100+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "14,100+",
+        "reviewCount": "14,100+",
         "scoreBreakdown": {
             "formula": 9.2,
             "skinSuitability": 9.4,
@@ -2186,7 +2202,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Strictly fragrance-free with balancing prebiotics."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.4,
@@ -2209,15 +2225,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21",
         "badge": "Best for Sensitive Skin Exfoliation",
-        "price": 399,
-        "priceEst": "₹399",
+        "price": 338,
+        "priceEst": "₹338",
         "currency": "₹",
         "size": "150ml",
         "image": "/images/products/minimalist-pha-toner.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "11,400+",
-        "reviewCount": "11,400+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "9,500+",
+        "reviewCount": "9,500+",
         "scoreBreakdown": {
             "formula": 9.6,
             "skinSuitability": 9.8,
@@ -2279,7 +2295,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Stronger 8% AHA for resilient skin."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.6,
@@ -2374,7 +2390,7 @@ export const PRODUCTS: SkincareProduct[] = [
         ],
         "lastPriceChecked": "September 2026",
         "lastEditorialReview": "September 2026",
-        "inStock": true,
+        "inStock": false,
         "oraeSkinScore": 9.5,
         "scores": {
             "formula": 9.5,
@@ -2470,7 +2486,7 @@ export const PRODUCTS: SkincareProduct[] = [
         ],
         "lastPriceChecked": "September 2026",
         "lastEditorialReview": "September 2026",
-        "inStock": true,
+        "inStock": false,
         "oraeSkinScore": 9.7,
         "scores": {
             "formula": 9.8,
@@ -2482,96 +2498,105 @@ export const PRODUCTS: SkincareProduct[] = [
     },
     {
         "id": "minimalist-caffeine-eye-serum",
-        "name": "5% Caffeine Under-Eye Serum",
-        "title": "Minimalist 5% Caffeine Under-Eye Serum with EGCG & Peptides",
+        "name": "Vitamin K + Retinal 0.1% Under Eye Cream",
+        "title": "Minimalist Vitamin K + Retinal 0.1% Under Eye Cream with 3% Caffeine & Peptides",
         "brand": "Minimalist",
         "category": "eye-care",
-        "subcategory": "De-Puffing Eye Serum",
+        "subcategory": "Retinal Eye Cream",
         "asin": "B0CHYR58VF",
         "amazonUrl": "https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21",
-        "badge": "Best for Morning Puffiness & Screen Fatigue",
-        "price": 599,
-        "priceEst": "₹599",
+        "badge": "Best for Dark Circles & Fine Lines",
+        "price": 463,
+        "priceEst": "₹463",
         "currency": "₹",
-        "size": "30ml",
-        "image": "/images/products/minimalist-caffeine-eye-serum.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "14,300+",
-        "reviewCount": "14,300+",
+        "size": "14g",
+        "image": "/images/products/minimalist-vitk-retinal-eye-cream.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "4,000+",
+        "reviewCount": "4,000+",
         "scoreBreakdown": {
-            "formula": 9.6,
-            "skinSuitability": 9.6,
-            "evidence": 9.7,
-            "userFeedback": 9.3,
-            "value": 9.5,
-            "availability": 9.8
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 7.6,
+            "userFeedback": 8,
+            "value": 8,
+            "availability": 9
         },
         "skinType": [
             "All",
-            "Combination",
-            "Oily"
+            "Normal",
+            "Combination"
         ],
         "concerns": [
+            "Vascular Dark Circles",
             "Puffy Eyes",
-            "Late Night Fatigue",
-            "Vascular Dark Circles"
+            "Fine Lines",
+            "Crow's Feet"
         ],
         "keyActives": [
-            "5% High-Grade Caffeine",
-            "Green Tea EGCG",
-            "Matrixyl 3000 Peptide Complex"
+            "Vitamin K",
+            "Retinal 0.1%",
+            "3% Caffeine",
+            "Palmitoyl Tripeptide-1 & Tetrapeptide-7"
         ],
         "keyIngredients": [
+            "Vitamin K",
+            "Retinal",
             "Caffeine",
-            "Epigallocatechin Gallatyl Glucoside",
             "Palmitoyl Tripeptide-1",
-            "Hyaluronic Acid"
+            "Palmitoyl Tetrapeptide-7",
+            "Chrysin",
+            "Zerumbone"
         ],
         "ingredients": [
-            "Aqua",
+            "Vitamin K",
+            "Retinal",
             "Caffeine",
-            "Glycerin",
-            "Propanediol",
             "Palmitoyl Tripeptide-1",
-            "EGCG"
+            "Palmitoyl Tetrapeptide-7",
+            "Chrysin",
+            "N-Hydroxysuccinimide",
+            "Zerumbone"
         ],
         "fragrance": "Fragrance-Free",
         "essentialOils": false,
         "alcoholFree": true,
-        "texture": "Cooling Water Serum",
-        "finish": "Instantly Absorbed",
+        "texture": "Lightweight Eye Cream",
+        "finish": "Smooth, Non-Greasy",
         "whiteCast": "Not Applicable",
-        "bestFor": "De-puffing swollen eyelids from late screen nights and draining stagnant under-eye fluids.",
-        "avoidIf": "You need heavy occlusive hydration for severe flaky dryness around the orbital bone.",
-        "whyWeLikeIt": "Caffeine constricts dilated under-eye blood vessels within minutes, instantly reducing bluish vascular shadows.",
+        "bestFor": "Bluish or purplish dark circles and early fine lines, for anyone who can tolerate a gentle retinoid around the eyes.",
+        "avoidIf": "You are pregnant or breastfeeding (retinoids), or your under-eye skin is very sensitive or eczema-prone.",
+        "whyWeLikeIt": "It combines several approaches in one small tube: retinal for texture and fine lines, caffeine for puffiness, peptides for firmness, and vitamin K and chrysin for vascular discolouration.",
         "pros": [
-            "High 5% Caffeine acts as a vasoconstrictor to visibly reduce puffiness",
-            "Matrixyl 3000 peptides stimulate collagen to thicken thinning under-eye skin",
-            "Generous 30ml dropper bottle lasts over 6 months of daily use"
+            "Retinal (retinaldehyde) works faster than retinol on fine lines and texture",
+            "3% caffeine helps with morning puffiness",
+            "Fragrance-free and unscented"
         ],
         "cons": [
-            "Does not provide heavy moisture; dry skin should layer a moisturizer on top"
+            "Retinoid can sting or flake on sensitive under-eye skin — start every other night",
+            "Evidence for vitamin K and chrysin on dark circles is limited",
+            "Small 14g tube for the price"
         ],
-        "verdict": "The best targeted fluid serum for morning eye bags and digital eye strain in India.",
+        "verdict": "A well-rounded retinal eye cream for dark circles and early lines. Use it at night, introduce it slowly and always wear sunscreen.",
         "alternatives": [
             {
-                "label": "Moisturizing Cream Alternative",
-                "productId": "cerave-eye-repair",
-                "reason": "Adds deep ceramide lipids for dry orbital skin."
+                "label": "Retinoid-Free Caffeine Alternative",
+                "productId": "dermaco-5-caffeine-serum",
+                "reason": "5% caffeine serum for puffiness if you want to skip a stronger retinoid."
             }
         ],
-        "lastPriceChecked": "September 2026",
-        "lastEditorialReview": "September 2026",
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
         "inStock": true,
-        "oraeSkinScore": 9.6,
+        "oraeSkinScore": 8.2,
         "scores": {
-            "formula": 9.6,
-            "weatherResilience": 9.6,
-            "texture": 9.6,
-            "value": 9.5,
-            "overall": 9.6
+            "formula": 8.4,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8,
+            "overall": 8.2
         }
     },
     {
@@ -2581,19 +2606,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "brand": "The Derma Co",
         "category": "eye-care",
         "subcategory": "Cooling Roller Eye Serum",
-        "asin": "B0G6KTR337",
-        "amazonUrl": "https://www.amazon.in/dp/B0G6KTR337?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B0G6KTR337?tag=oraeskin-21",
+        "asin": "B08TTW5RJG",
+        "amazonUrl": "https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21",
         "badge": "Best Cooling Metal Roller Applicator",
-        "price": 599,
-        "priceEst": "₹599",
+        "price": 539,
+        "priceEst": "₹539",
         "currency": "₹",
         "size": "15ml",
         "image": "/images/products/dermaco-5-caffeine-serum.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "11,100+",
-        "reviewCount": "11,100+",
+        "amazonRating": 3.8,
+        "rating": 3.8,
+        "amazonReviews": "1,100+",
+        "reviewCount": "1,100+",
         "scoreBreakdown": {
             "formula": 9.3,
             "skinSuitability": 9.4,
@@ -2655,7 +2680,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Double the product (30ml) for the same price."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.3,
@@ -2678,15 +2703,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21",
         "badge": "Editor's Choice — Best Daily Lip SPF",
-        "price": 299,
-        "priceEst": "₹299",
+        "price": 264,
+        "priceEst": "₹264",
         "currency": "₹",
         "size": "8g",
         "image": "/images/products/minimalist-spf30-lipbalm.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "15,600+",
-        "reviewCount": "15,600+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "3,400+",
+        "reviewCount": "3,400+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.8,
@@ -2748,7 +2773,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Ultra-rich overnight hydration with Shea Butter and Vitamin C."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -2771,15 +2796,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21",
         "badge": "Best Overnight Chapped Lip Healer",
-        "price": 345,
-        "priceEst": "₹345",
+        "price": 194,
+        "priceEst": "₹194",
         "currency": "₹",
-        "size": "20g",
+        "size": "15ml",
         "image": "/images/products/dotkey-lip-mask.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "13,400+",
-        "reviewCount": "13,400+",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "7,200+",
+        "reviewCount": "7,200+",
         "scoreBreakdown": {
             "formula": 9.3,
             "skinSuitability": 9.5,
@@ -2842,7 +2867,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds SPF 30 protection for daytime sunlight."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.4,
@@ -2861,19 +2886,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "brand": "Minimalist",
         "category": "body-care",
         "subcategory": "Exfoliating Body Cleanser",
-        "asin": "B0C7VQNQ4B",
-        "amazonUrl": "https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21",
+        "asin": "B0BSN7LHC4",
+        "amazonUrl": "https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21",
         "badge": "Editor's Choice — Best for Bacne",
-        "price": 399,
-        "priceEst": "₹399",
+        "price": 296,
+        "priceEst": "₹296",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/minimalist-salicylic-bodywash.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "17,800+",
-        "reviewCount": "17,800+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "2,900+",
+        "reviewCount": "2,900+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.7,
@@ -2937,7 +2962,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Deep hydration with warm vanilla scent."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -2960,15 +2985,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21",
         "badge": "Best Long-Lasting Fragrance & Hydration",
-        "price": 380,
-        "priceEst": "₹380",
+        "price": 350,
+        "priceEst": "₹350",
         "currency": "₹",
-        "size": "200ml",
+        "size": "400ml",
         "image": "/images/products/plum-bodylovin-vanilla-lotion.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "19,200+",
-        "reviewCount": "19,200+",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "3,400+",
+        "reviewCount": "3,400+",
         "scoreBreakdown": {
             "formula": 9.1,
             "skinSuitability": 9.3,
@@ -3028,7 +3053,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Targets acne and rough texture instead of scent."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.3,
@@ -3051,15 +3076,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B006NVDWGE?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B006NVDWGE?tag=oraeskin-21",
         "badge": "Best Ayurvedic Botanical Value",
-        "price": 215,
-        "priceEst": "₹215",
+        "price": 171,
+        "priceEst": "₹171",
         "currency": "₹",
         "size": "190ml",
         "image": "/images/products/biotique-morning-nectar-lotion.jpg",
-        "amazonRating": 4.5,
-        "rating": 4.5,
-        "amazonReviews": "34,500+",
-        "reviewCount": "34,500+",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "52,200+",
+        "reviewCount": "52,200+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 9,
@@ -3119,7 +3144,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Focuses on active BHA exfoliation."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.1,
@@ -3133,87 +3158,109 @@ export const PRODUCTS: SkincareProduct[] = [
     },
     {
         "id": "dermaco-acne-patch",
-        "name": "100% Hydrocolloid Invisible Acne Patches",
-        "title": "The Derma Co 100% Hydrocolloid Invisible Acne Spot Patches",
+        "name": "Micro-Tip Salicylic Acid Pimple Patches",
+        "title": "The Derma Co Micro-Tip Salicylic Acid Acne Pimple Patches with Hydrocolloid",
         "brand": "The Derma Co",
         "category": "spot-treatments",
-        "subcategory": "Hydrocolloid Pimple Patch",
-        "asin": "B0H41PM947",
-        "amazonUrl": "https://www.amazon.in/dp/B0H41PM947?tag=oraeskin-21",
-        "affiliateUrl": "https://www.amazon.in/dp/B0H41PM947?tag=oraeskin-21",
-        "badge": "Best Overnight Emergency Patch",
-        "price": 349,
-        "priceEst": "₹349",
+        "subcategory": "Micro-Tip Hydrocolloid Patch",
+        "asin": "B09GGCWKR7",
+        "amazonUrl": "https://www.amazon.in/dp/B09GGCWKR7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09GGCWKR7?tag=oraeskin-21",
+        "badge": "Best Micro-Tip Patch for Early Pimples",
+        "price": 479,
+        "priceEst": "₹479",
         "currency": "₹",
         "size": "24 Patches",
-        "image": "/images/products/dermaco-acne-patch.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "16,200+",
-        "reviewCount": "16,200+",
+        "image": "/images/products/dermaco-microtip-acne-patch.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "400+",
+        "reviewCount": "400+",
         "scoreBreakdown": {
-            "formula": 9.8,
-            "skinSuitability": 9.9,
-            "evidence": 9.9,
-            "userFeedback": 9.7,
-            "value": 9.6,
-            "availability": 9.9
+            "formula": 7.4,
+            "skinSuitability": 7.8,
+            "evidence": 7.5,
+            "userFeedback": 8,
+            "value": 6.5,
+            "availability": 8.8
         },
         "skinType": [
-            "All"
+            "All",
+            "Acne-Prone"
         ],
         "concerns": [
-            "Pus-Filled Pimples",
+            "Active Pimples",
             "Whiteheads",
             "Skin Picking Urges"
         ],
         "keyActives": [
-            "Medical-Grade Hydrocolloid",
-            "Salicylic Acid Infusion"
+            "Hydrocolloid",
+            "Micro-Tip Actives (Willow Bark, Glycolic Acid)",
+            "Niacinamide"
         ],
         "keyIngredients": [
-            "Hydrocolloid Polymer",
-            "Salicylic Acid"
+            "Hydrocolloid",
+            "Willow Bark Extract",
+            "Glycolic Acid",
+            "Gluconolactone",
+            "Niacinamide",
+            "Allantoin"
         ],
         "ingredients": [
-            "Hydrocolloid Gel Matrix",
-            "Salicylic Acid"
+            "DM Water",
+            "Propylene Glycol",
+            "Glycolic Acid",
+            "Willow Bark Extract",
+            "Gluconolactone",
+            "Carbomer",
+            "Hydroxypropyl Methylcellulose",
+            "Allantoin",
+            "Aloe Vera Extract",
+            "Glycerin",
+            "Xanthan Gum",
+            "Niacinamide",
+            "DMDM Hydantoin",
+            "Methylchloroisothiazolinone (and) Methylisothiazolinone",
+            "Disodium EDTA",
+            "Sodium Hyaluronate"
         ],
         "fragrance": "Fragrance-Free",
         "essentialOils": false,
         "alcoholFree": true,
-        "texture": "Ultra-Thin Hydrocolloid Film",
-        "finish": "Invisible Matte Discretion",
+        "texture": "Clear Hydrocolloid Patch with Micro-Tips",
+        "finish": "Clear Matte, Blends In",
         "whiteCast": "Not Applicable",
-        "bestFor": "Flattening ripe, pus-filled whiteheads overnight and preventing fingernail picking scars.",
-        "avoidIf": "You are treating deep blind hormonal cystic bumps with no visible head (use Sebogel instead).",
-        "whyWeLikeIt": "Absorbs pus, oil, and wound exudate into a white gel matrix overnight while preventing bacterial contamination.",
+        "bestFor": "Early or surface pimples where you want to stop picking and deliver actives straight into the spot overnight.",
+        "avoidIf": "You react to the preservatives methylisothiazolinone or DMDM hydantoin, or you're treating deep cysts that need a dermatologist.",
+        "whyWeLikeIt": "A hydrocolloid patch that physically stops picking and absorbs fluid, with micro-tips that deliver exfoliating actives into the spot.",
         "pros": [
-            "Flattens ripe pimples overnight without drying surrounding skin",
-            "Ultra-thin beveled edge makes the patch virtually invisible on video calls",
-            "Physically blocks fingers from picking and causing permanent post-acne indentations"
+            "Hydrocolloid absorbs oil and pus and stops you picking",
+            "Micro-tips deliver actives directly into the pimple",
+            "Clear, tapered edge is discreet on most skin tones"
         ],
         "cons": [
-            "Not effective on deep, blind, non-pus cysts without a visible surface head"
+            "Around ₹20 per patch — plain hydrocolloid patches cost a fraction of that",
+            "Despite the 'salicylic acid' name, the listed ingredients show willow bark extract and glycolic acid rather than salicylic acid itself",
+            "Contains methylisothiazolinone, a preservative some people are allergic to"
         ],
-        "verdict": "An indispensable medicine cabinet essential that eliminates whiteheads cleanly without scarring.",
+        "verdict": "Handy for stubborn early spots, but pricey. For ripe whiteheads, a basic hydrocolloid patch does the job for less.",
         "alternatives": [
             {
-                "label": "Deep Cystic Gel Alternative",
+                "label": "Leave-On Gel Alternative",
                 "productId": "sebogel-spot-gel",
-                "reason": "Penetrates blind under-the-skin bumps with 2% Salicylic & Nicotinamide."
+                "reason": "Salicylic acid and nicotinamide gel for bumps without a visible head."
             }
         ],
-        "lastPriceChecked": "September 2026",
-        "lastEditorialReview": "September 2026",
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
         "inStock": true,
-        "oraeSkinScore": 9.8,
+        "oraeSkinScore": 7.6,
         "scores": {
-            "formula": 9.8,
-            "weatherResilience": 9.9,
-            "texture": 9.9,
-            "value": 9.6,
-            "overall": 9.8
+            "formula": 7.4,
+            "weatherResilience": 7.8,
+            "texture": 7.8,
+            "value": 6.5,
+            "overall": 7.6
         }
     },
     {
@@ -3227,15 +3274,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21",
         "badge": "Best Pharmacy Acne Gel under ₹300",
-        "price": 240,
-        "priceEst": "₹240",
+        "price": 200,
+        "priceEst": "₹200",
         "currency": "₹",
         "size": "30g",
         "image": "/images/products/sebogel-spot-gel.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "26,400+",
-        "reviewCount": "26,400+",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "5,300+",
+        "reviewCount": "5,300+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.5,
@@ -3296,7 +3343,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Better for ripe pus-filled pimples."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -3319,15 +3366,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21",
         "badge": "Editor's Choice — Best Beginner Retinol",
-        "price": 599,
-        "priceEst": "₹599",
+        "price": 539,
+        "priceEst": "₹539",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-retinol-03.jpg",
-        "amazonRating": 4.7,
-        "rating": 4.7,
-        "amazonReviews": "15,800+",
-        "reviewCount": "15,800+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "9,500+",
+        "reviewCount": "9,500+",
         "scoreBreakdown": {
             "formula": 9.8,
             "skinSuitability": 9.4,
@@ -3391,7 +3438,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Next-gen HPR ester with zero peeling or irritation."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -3414,15 +3461,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21",
         "badge": "Best for Sensitive Skin & Zero Purging",
-        "price": 699,
-        "priceEst": "₹699",
+        "price": 629,
+        "priceEst": "₹629",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-granactive-retinoid-2.jpg",
-        "amazonRating": 4.8,
-        "rating": 4.8,
-        "amazonReviews": "12,900+",
-        "reviewCount": "12,900+",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "4,700+",
+        "reviewCount": "4,700+",
         "scoreBreakdown": {
             "formula": 9.7,
             "skinSuitability": 9.8,
@@ -3483,7 +3530,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Proven traditional pure retinol in squalane."
             }
         ],
-        "lastPriceChecked": "September 2026",
+        "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 9.7,
@@ -3493,6 +3540,849 @@ export const PRODUCTS: SkincareProduct[] = [
             "texture": 9.8,
             "value": 9.4,
             "overall": 9.7
+        }
+    },
+    {
+        "id": "lrp-effaclar-purifying-gel",
+        "name": "Effaclar Purifying Foaming Gel",
+        "title": "La Roche-Posay Effaclar Purifying Foaming Gel Face Wash for Oily, Acne-Prone Skin",
+        "brand": "La Roche-Posay",
+        "category": "cleansers",
+        "subcategory": "Zinc Gel Cleanser",
+        "asin": "B002P3L99G",
+        "amazonUrl": "https://www.amazon.in/dp/B002P3L99G?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B002P3L99G?tag=oraeskin-21",
+        "badge": "Best Premium Gentle Wash for Oily Skin",
+        "price": 1400,
+        "priceEst": "₹1,400",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/lrp-effaclar-purifying-gel.jpg",
+        "amazonRating": 4.6,
+        "rating": 4.6,
+        "amazonReviews": "7,300+",
+        "reviewCount": "7,300+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 9,
+            "evidence": 8.5,
+            "userFeedback": 9.2,
+            "value": 7,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Oiliness",
+            "Active Pimples",
+            "Pore Cleansing",
+            "Shine Control"
+        ],
+        "keyActives": [
+            "Zinc PCA",
+            "La Roche-Posay Thermal Spring Water"
+        ],
+        "keyIngredients": [
+            "Zinc PCA",
+            "Thermal Spring Water",
+            "Coco-Betaine"
+        ],
+        "ingredients": [
+            "Aqua / Water",
+            "Sodium Laureth Sulfate",
+            "PEG-8",
+            "Coco-Betaine",
+            "Hexylene Glycol",
+            "Sodium Chloride",
+            "Zinc PCA",
+            "Parfum / Fragrance"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Clear Foaming Gel",
+        "finish": "Clean & Oil-Free without Squeaky Tightness",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily and acne-prone skin that wants a reliable daily foam without an exfoliating acid, especially alongside prescription or leave-on acne actives.",
+        "avoidIf": "You are on a tight budget, or your skin reacts to added fragrance.",
+        "whyWeLikeIt": "A deliberately simple, acid-free foaming gel with Zinc PCA for oil control. Because it does not exfoliate, it pairs safely with retinoids, benzoyl peroxide or salicylic serums.",
+        "pros": [
+            "Acid-free, so it layers safely under strong leave-on acne treatments",
+            "Zinc PCA helps keep midday shine down on oily T-zones",
+            "Can double as a body wash for chest and back breakouts",
+            "Strong Amazon India rating (4.6★ across 7,300+ ratings)"
+        ],
+        "cons": [
+            "Around ₹7 per ml — several times the price of Indian alternatives",
+            "Contains added fragrance and a sulfate surfactant, which some sensitive skin dislikes",
+            "Does not treat clogged pores by itself; you still need a BHA or retinoid for blackheads"
+        ],
+        "verdict": "A dependable, gentle foaming gel for oily skin and the safest partner for strong acne treatments, though you pay a premium for the brand.",
+        "alternatives": [
+            {
+                "label": "Budget Alternative",
+                "productId": "reequil-oil-control-facewash",
+                "reason": "Also built around Zinc PCA for oil control, at about a third of the price per ml."
+            },
+            {
+                "label": "Fragrance-Free Alternative",
+                "productId": "cerave-foaming-cleanser",
+                "reason": "Fragrance-free foaming cleanser with ceramides for oily skin with a weak barrier."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 9,
+            "texture": 8.8,
+            "value": 7,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "neutrogena-oilfree-acne-wash",
+        "name": "Oil-Free Acne Wash",
+        "title": "Neutrogena Oil-Free Acne Wash with 2% Salicylic Acid",
+        "brand": "Neutrogena",
+        "category": "cleansers",
+        "subcategory": "BHA Acne Cleanser",
+        "asin": "B006LXDMCS",
+        "amazonUrl": "https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21",
+        "badge": "Classic 2% Salicylic Acne Wash",
+        "price": 705,
+        "priceEst": "₹705",
+        "currency": "₹",
+        "size": "175ml",
+        "image": "/images/products/neutrogena-oilfree-acne-wash.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "10,900+",
+        "reviewCount": "10,900+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.5,
+            "evidence": 8.8,
+            "userFeedback": 8.4,
+            "value": 7.5,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Active Pimples",
+            "Blackheads",
+            "Whiteheads",
+            "Sebum Buildup"
+        ],
+        "keyActives": [
+            "2% Salicylic Acid (BHA)"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid",
+            "Sodium C14-16 Olefin Sulfonate",
+            "Cocamidopropyl Betaine"
+        ],
+        "ingredients": [
+            "Salicylic Acid 2% (active)",
+            "Water",
+            "Sodium C14-16 Olefin Sulfonate",
+            "Cocamidopropyl Betaine",
+            "Sodium Chloride",
+            "Fragrance"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Translucent Foaming Gel",
+        "finish": "Squeaky-Clean & Matte",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Very oily, breakout-prone skin that tolerates a strong foam and wants the maximum 2% salicylic acid in a cleanser.",
+        "avoidIf": "You have dry, sensitive or fragrance-reactive skin, or you already use a leave-on BHA or retinoid every night.",
+        "whyWeLikeIt": "One of the longest-running 2% salicylic acid washes, with decades of use behind it. A familiar choice for persistent oiliness and clogged pores.",
+        "pros": [
+            "Full 2% salicylic acid, the maximum commonly used in acne cleansers",
+            "Pump bottle makes daily dosing easy and hygienic",
+            "Rich lather that clears sunscreen and sweat well in humid weather"
+        ],
+        "cons": [
+            "Contains added fragrance — a common trigger for sensitive skin",
+            "Strong foam can feel drying if used twice daily, especially in winter or AC rooms",
+            "A rinse-off acid has short contact time; leave-on BHA works harder on stubborn blackheads"
+        ],
+        "verdict": "An effective 2% BHA wash for very oily, resilient skin. Sensitive or fragrance-averse skin will do better with the Minimalist or The Derma Co alternatives.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free BHA Alternative",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "2% salicylic acid with LHA and zinc, fragrance-free and under ₹300."
+            },
+            {
+                "label": "Gentler Budget Alternative",
+                "productId": "dermaco-1-salicylic-facewash",
+                "reason": "Milder 1% salicylic acid, easier to use twice daily."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.8,
+            "texture": 8.4,
+            "value": 7.5,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "dermaco-1-salicylic-facewash",
+        "name": "1% Salicylic Acid Gel Face Wash",
+        "title": "The Derma Co 1% Salicylic Acid Gel Face Wash with Witch Hazel",
+        "brand": "The Derma Co",
+        "category": "cleansers",
+        "subcategory": "BHA Gel Cleanser",
+        "asin": "B095J52W7P",
+        "amazonUrl": "https://www.amazon.in/dp/B095J52W7P?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B095J52W7P?tag=oraeskin-21",
+        "badge": "Best Budget Acne Face Wash",
+        "price": 217,
+        "priceEst": "₹217",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/dermaco-1-salicylic-facewash.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "8,900+",
+        "reviewCount": "8,900+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 8.3,
+            "userFeedback": 8.2,
+            "value": 9.6,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Active Pimples",
+            "Oiliness",
+            "Whiteheads",
+            "Pore Cleansing"
+        ],
+        "keyActives": [
+            "1% Salicylic Acid (BHA)",
+            "Willow Bark Extract",
+            "Witch Hazel Extract"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid",
+            "Salix Alba (Willow) Bark Extract",
+            "Hamamelis Virginiana (Witch Hazel) Extract",
+            "Glycerin"
+        ],
+        "ingredients": [
+            "Aqua (Water)",
+            "Sodium Alpha Olefin Sulfonate",
+            "Cocamidopropyl Betaine",
+            "Glycerin",
+            "Cocamide MEA",
+            "Sodium Lactate",
+            "Salicylic Acid",
+            "Salix Alba (Willow) Bark Extract",
+            "Hamamelis Virginiana (Witch Hazel) Extract",
+            "Coco-Glucoside",
+            "Glyceryl Oleate",
+            "PEG-120 Methyl Glucose Dioleate",
+            "Sodium Chloride",
+            "Phenoxyethanol",
+            "Triethylene Glycol",
+            "Disodium EDTA"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lightweight Clear Gel",
+        "finish": "Fresh & Lightly Matte",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Students and first-time acne routines that want a gentle, fragrance-free salicylic wash they can use twice a day without breaking the bank.",
+        "avoidIf": "You have very dry or eczema-prone skin, or you need a stronger 2% BHA for stubborn blackheads.",
+        "whyWeLikeIt": "A 1% salicylic acid level is gentle enough for twice-daily use, and at roughly ₹2 per ml it is one of the cheapest fragrance-free BHA washes on Amazon India.",
+        "pros": [
+            "Fragrance-free with a short, transparent ingredient list",
+            "1% BHA is easier to tolerate twice daily than 2% washes",
+            "Glycerin and glyceryl oleate soften the cleanse",
+            "About ₹2 per ml — excellent value"
+        ],
+        "cons": [
+            "Witch hazel extract can sting very reactive skin",
+            "Milder 1% strength may not be enough on its own for heavy blackhead congestion",
+            "Tube packaging makes it harder to judge how much is left"
+        ],
+        "verdict": "The best-value everyday salicylic face wash for oily, mildly acne-prone skin. Step up to a 2% wash only if breakouts persist.",
+        "alternatives": [
+            {
+                "label": "Stronger 2% BHA Alternative",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "2% salicylic acid with LHA for more stubborn blackheads."
+            },
+            {
+                "label": "Non-Acid Daily Alternative",
+                "productId": "reequil-oil-control-facewash",
+                "reason": "Zinc-based oil control without an exfoliating acid, for days your skin feels sensitised."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.8,
+            "texture": 8.5,
+            "value": 9.6,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "cetaphil-oily-skin-cleanser",
+        "name": "Oily Skin Cleanser",
+        "title": "Cetaphil Oily Skin Cleanser Foaming Face Wash for Oily, Acne-Prone Skin",
+        "brand": "Cetaphil",
+        "category": "cleansers",
+        "subcategory": "Gentle Foaming Cleanser",
+        "asin": "B01CCGW732",
+        "amazonUrl": "https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21",
+        "badge": "Best Gentle Foam for Oily Sensitive Skin",
+        "price": 579,
+        "priceEst": "₹579",
+        "currency": "₹",
+        "size": "118ml",
+        "image": "/images/products/cetaphil-oily-skin-cleanser.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "20,800+",
+        "reviewCount": "20,800+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.4,
+            "evidence": 7.8,
+            "userFeedback": 8.4,
+            "value": 8,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Sensitive",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Oiliness",
+            "Barrier Health",
+            "Pore Cleansing"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Sunflower Seed Oil",
+            "Shea Butter"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Caprylic/Capric Triglyceride",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Butyrospermum Parkii (Shea Butter)"
+        ],
+        "ingredients": [
+            "Purified Water",
+            "Glycerin",
+            "Caprylic/Capric Triglyceride",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Pentylene Glycol",
+            "Butyrospermum Parkii (Shea Butter)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Soft Foaming Gel",
+        "finish": "Clean & Comfortable, Not Stripped",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily or combination skin that is also sensitive — for example skin irritated by acne medication — and needs oil removal without tightness.",
+        "avoidIf": "You want an acne-treating active in your cleanser; this one contains no salicylic acid.",
+        "whyWeLikeIt": "An unscented, pH-balanced foam that cleans off oil while glycerin and plant lipids help the skin feel comfortable afterwards. Useful for oily skin that reacts to stronger washes.",
+        "pros": [
+            "Unscented and soap-free, per the listing",
+            "Glycerin, sunflower seed oil and shea butter help offset the drying effect of washing",
+            "Widely available at a mid-range price with 20,800+ Amazon India ratings"
+        ],
+        "cons": [
+            "No acne-treating active — breakouts need a separate BHA, benzoyl peroxide or retinoid",
+            "The Amazon listing shows only a partial ingredient list; check the pack for the full one",
+            "Small 118ml size for the price compared with Indian brands"
+        ],
+        "verdict": "A comfortable, fragrance-free daily foam for oily but sensitive skin. Pair it with a leave-on active if acne is the main concern.",
+        "alternatives": [
+            {
+                "label": "Ceramide Alternative",
+                "productId": "cerave-foaming-cleanser",
+                "reason": "Similar gentle foam with added ceramides and niacinamide."
+            },
+            {
+                "label": "Acne-Active Alternative",
+                "productId": "dermaco-1-salicylic-facewash",
+                "reason": "Adds 1% salicylic acid for active breakouts at a lower price."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.4,
+            "texture": 8.6,
+            "value": 8,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "reequil-oil-control-facewash",
+        "name": "Oil Control Face Wash",
+        "title": "Re'equil Oil Control Face Wash with Zinc PCA — Soap & Sulphate Free",
+        "brand": "Re'equil",
+        "category": "cleansers",
+        "subcategory": "Sulphate-Free Zinc Cleanser",
+        "asin": "B0GFTYW6P1",
+        "amazonUrl": "https://www.amazon.in/dp/B0GFTYW6P1?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GFTYW6P1?tag=oraeskin-21",
+        "badge": "Best Sulphate-Free Oil Control Under ₹300",
+        "price": 293,
+        "priceEst": "₹293",
+        "currency": "₹",
+        "size": "150ml",
+        "image": "/images/products/reequil-oil-control-facewash.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "2,900+",
+        "reviewCount": "2,900+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.6,
+            "evidence": 7.6,
+            "userFeedback": 8,
+            "value": 9.2,
+            "availability": 8.8
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Oiliness",
+            "Shine Control",
+            "Pore Cleansing"
+        ],
+        "keyActives": [
+            "Zinc PCA"
+        ],
+        "keyIngredients": [
+            "Zinc PCA",
+            "Gentle Non-Soap Surfactants"
+        ],
+        "ingredients": [
+            "Zinc PCA",
+            "Soap-free, sulphate-free surfactant base (full INCI on pack)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Clear Gel",
+        "finish": "Shine-Free & Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily, shine-prone skin that feels tight or red after sulphate foams and wants zinc-based oil control on a budget.",
+        "avoidIf": "You expect a single cleanser to clear active acne; there is no exfoliating acid here.",
+        "whyWeLikeIt": "Soap- and sulphate-free with Zinc PCA for sebum control, so it targets shine without the stripped feeling that drives rebound oiliness.",
+        "pros": [
+            "Soap- and sulphate-free, non-comedogenic and paraben-free per the brand",
+            "Zinc PCA helps regulate oil, the same approach as premium options",
+            "Generous 150ml for under ₹300"
+        ],
+        "cons": [
+            "No exfoliating acid, so blackheads need a separate BHA",
+            "Full ingredient list is not shown on the Amazon listing — check the pack",
+            "Low-foam gels can feel less 'clean' to people used to rich lathers"
+        ],
+        "verdict": "A smart budget pick for everyday oil control, especially if sulphate washes leave your skin tight. Add a leave-on BHA for acne.",
+        "alternatives": [
+            {
+                "label": "Premium Zinc Alternative",
+                "productId": "lrp-effaclar-purifying-gel",
+                "reason": "Similar Zinc PCA approach with a richer foam and a longer track record."
+            },
+            {
+                "label": "Acne-Active Alternative",
+                "productId": "dermaco-1-salicylic-facewash",
+                "reason": "Adds 1% salicylic acid for active pimples at a similar price."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.8,
+            "texture": 8.3,
+            "value": 9.2,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "theordinary-caffeine-egcg",
+        "name": "Caffeine Solution 5% + EGCG",
+        "title": "The Ordinary Caffeine Solution 5% + EGCG Depuffing Eye Serum",
+        "brand": "The Ordinary",
+        "category": "eye-care",
+        "subcategory": "Caffeine Eye Serum",
+        "asin": "B01MUZVE1C",
+        "amazonUrl": "https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21",
+        "badge": "Best for Morning Puffiness",
+        "price": 900,
+        "priceEst": "₹900",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/theordinary-caffeine-egcg.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "19,000+",
+        "reviewCount": "19,000+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.8,
+            "evidence": 8.2,
+            "userFeedback": 8.4,
+            "value": 8.2,
+            "availability": 9
+        },
+        "skinType": [
+            "All",
+            "Sensitive",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Puffy Eyes",
+            "Late Night Fatigue",
+            "Vascular Dark Circles"
+        ],
+        "keyActives": [
+            "5% Caffeine",
+            "EGCG (Green Tea)",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Caffeine",
+            "Epigallocatechin Gallatyl Glucoside",
+            "Hyaluronic Acid",
+            "Glycine Soja (Soybean) Seed Extract"
+        ],
+        "ingredients": [
+            "Aqua (Water)",
+            "Caffeine",
+            "Maltodextrin",
+            "Glycerin",
+            "Propanediol",
+            "Epigallocatechin Gallatyl Glucoside",
+            "Gallyl Glucoside",
+            "Hyaluronic Acid",
+            "Glycine Soja Seed Extract"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Water-Based Serum",
+        "finish": "Absorbs Quickly, Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Morning puffiness and tired-looking eyes, including sensitive or milia-prone skin and contact lens wearers who want a light, retinoid-free formula.",
+        "avoidIf": "Your main concern is fine lines or brown pigment-type dark circles; caffeine mainly helps puffiness and bluish shadows.",
+        "whyWeLikeIt": "A simple, fragrance-free water serum with a high 5% caffeine level and green tea EGCG. It's light enough to use morning and night without clogging the eye area.",
+        "pros": [
+            "High 5% caffeine for visible de-puffing",
+            "Fragrance-free, retinoid-free and lightweight — gentle on sensitive eyes",
+            "30ml lasts months at a rice-grain dose"
+        ],
+        "cons": [
+            "Can feel slightly tacky before it sinks in",
+            "Little effect on pigment-type (brown) dark circles",
+            "Not moisturising enough alone for very dry under-eyes"
+        ],
+        "verdict": "The most dependable caffeine eye serum on Amazon India for puffiness. Pair it with a moisturiser if your under-eyes are dry.",
+        "alternatives": [
+            {
+                "label": "Budget Caffeine Alternative",
+                "productId": "dermaco-5-caffeine-serum",
+                "reason": "Indian 5% caffeine serum with retinol and peptides at a lower price."
+            },
+            {
+                "label": "Retinal Alternative for Fine Lines",
+                "productId": "minimalist-caffeine-eye-serum",
+                "reason": "Retinal, vitamin K and 3% caffeine in one cream for lines and dark circles."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.2,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "boj-revive-eye-serum",
+        "name": "Revive Eye Serum: Ginseng + Retinal",
+        "title": "Beauty of Joseon Revive Eye Serum with Ginseng & Retinal",
+        "brand": "Beauty of Joseon",
+        "category": "eye-care",
+        "subcategory": "Gentle Retinal Eye Serum",
+        "asin": "B0B45LL4DD",
+        "amazonUrl": "https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21",
+        "badge": "Best Gentle Retinal for Sensitive Eyes",
+        "price": 1136,
+        "priceEst": "₹1,136",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/boj-revive-eye-serum.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "19,300+",
+        "reviewCount": "19,300+",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 8.6,
+            "evidence": 7.8,
+            "userFeedback": 8.2,
+            "value": 7.4,
+            "availability": 8.6
+        },
+        "skinType": [
+            "All",
+            "Dry",
+            "Sensitive",
+            "Normal"
+        ],
+        "concerns": [
+            "Fine Lines",
+            "Crow's Feet",
+            "Dehydration",
+            "Dark Circles"
+        ],
+        "keyActives": [
+            "Retinal (Liposomal)",
+            "Ginseng Root Extract",
+            "Niacinamide",
+            "Adenosine"
+        ],
+        "keyIngredients": [
+            "Retinal",
+            "Panax Ginseng Root Extract",
+            "Niacinamide",
+            "Adenosine",
+            "Ceramide NP",
+            "Palmitoyl Tripeptide-5",
+            "Sodium Hyaluronate"
+        ],
+        "ingredients": [
+            "Water",
+            "Glycerin",
+            "Dipropylene Glycol",
+            "Caprylic/Capric Triglyceride",
+            "1,2-Hexanediol",
+            "Niacinamide",
+            "Cetearyl Alcohol",
+            "Panax Ginseng Root Extract",
+            "Macadamia Ternifolia Seed Oil",
+            "Adenosine",
+            "Cholesterol",
+            "Retinal",
+            "Sodium Hyaluronate",
+            "Tocopherol",
+            "Ceramide NP",
+            "Palmitoyl Tripeptide-5"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Silky Serum-Cream",
+        "finish": "Soft & Hydrated, Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Early fine lines and dry, crinkly under-eyes, for people who want to try a retinoid around the eyes without much irritation.",
+        "avoidIf": "You are pregnant or breastfeeding (it contains retinal), or you want a fast, strong anti-ageing effect.",
+        "whyWeLikeIt": "A low dose of encapsulated retinal cushioned by ceramide, cholesterol, niacinamide and ginseng. That's a gentle way to bring a retinoid into an eye routine.",
+        "pros": [
+            "Gentle, encapsulated retinal with a supportive base of ceramide NP, cholesterol and hyaluronate",
+            "Fragrance-free; the brand reports a sensitive-skin patch test",
+            "Pump applicator keeps the formula hygienic"
+        ],
+        "cons": [
+            "Retinal is low in the ingredient list — results are gradual",
+            "Around ₹38 per ml, pricier than Indian options",
+            "Imported, so stock and price on Amazon India can fluctuate"
+        ],
+        "verdict": "A comfortable first retinoid for the eye area, especially for dry or sensitive skin. Pick Minimalist's retinal cream if you want more punch for less money.",
+        "alternatives": [
+            {
+                "label": "Stronger, Cheaper Retinal",
+                "productId": "minimalist-caffeine-eye-serum",
+                "reason": "Retinal 0.1% plus caffeine and vitamin K, under ₹500."
+            },
+            {
+                "label": "Retinoid-Free Alternative",
+                "productId": "theordinary-caffeine-egcg",
+                "reason": "Light caffeine serum for puffiness, safe if you're avoiding retinoids."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 7.4,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "cosrx-snail-96-essence",
+        "name": "Advanced Snail 96 Mucin Power Essence",
+        "title": "COSRX Advanced Snail 96 Mucin Power Essence",
+        "brand": "COSRX",
+        "category": "serums",
+        "subcategory": "Hydrating Essence",
+        "asin": "B00PBX3L7K",
+        "amazonUrl": "https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21",
+        "badge": "Best Korean Hydrating Essence",
+        "price": 1300,
+        "priceEst": "₹1,300",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/cosrx-snail-96-essence.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "103,400+",
+        "reviewCount": "103,400+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.8,
+            "evidence": 7.4,
+            "userFeedback": 8.6,
+            "value": 7.6,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All",
+            "Dry",
+            "Combination",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Barrier Damage",
+            "Dullness",
+            "Rough Texture"
+        ],
+        "keyActives": [
+            "96% Snail Secretion Filtrate",
+            "Sodium Hyaluronate",
+            "Panthenol",
+            "Allantoin"
+        ],
+        "keyIngredients": [
+            "Snail Secretion Filtrate",
+            "Betaine",
+            "Sodium Hyaluronate",
+            "Allantoin",
+            "Panthenol"
+        ],
+        "ingredients": [
+            "Snail Secretion Filtrate",
+            "Betaine",
+            "Butylene Glycol",
+            "1,2-Hexanediol",
+            "Sodium Polyacrylate",
+            "Phenoxyethanol",
+            "Sodium Hyaluronate",
+            "Allantoin",
+            "Ethyl Hexanediol",
+            "Carbomer",
+            "Panthenol",
+            "Arginine"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light, Stretchy Essence",
+        "finish": "Dewy & Plump",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dehydrated or sensitised skin that needs light, layerable hydration — a classic step in Korean 'glass skin' routines.",
+        "avoidIf": "You are vegan or avoid animal-derived ingredients, or you dislike a slightly slippery texture.",
+        "whyWeLikeIt": "A short, fragrance-free formula built around snail mucin with hyaluronate, panthenol and allantoin. It's an easy hydrating layer for almost every skin type, including oily skin in humid weather.",
+        "pros": [
+            "Very short, fragrance-free ingredient list",
+            "Light enough for oily skin in humid weather, layers under moisturiser",
+            "Huge Amazon India following (103,000+ ratings)"
+        ],
+        "cons": [
+            "Animal-derived — not suitable for vegans",
+            "Snail mucin's skin benefits have limited clinical evidence; it works mainly as a humectant",
+            "Imported pricing at around ₹13 per ml"
+        ],
+        "verdict": "The benchmark Korean hydrating essence: simple, gentle and easy to layer. It hydrates well, but don't expect it to treat acne or pigmentation.",
+        "alternatives": [
+            {
+                "label": "Budget Hydration Alternative",
+                "productId": "minimalist-b5-moisturizer",
+                "reason": "Oil-free Vitamin B5 gel moisturiser for under ₹250."
+            },
+            {
+                "label": "Gentle Exfoliating Toner",
+                "productId": "minimalist-pha-toner",
+                "reason": "PHA 3% toner for texture, if you wanted the exfoliating step instead."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 7.6,
+            "overall": 8.4
         }
     }
 ];
@@ -3506,22 +4396,62 @@ export function getProductById(id: string): SkincareProduct | undefined {
     return PRODUCTS.find(p => p.id === id);
 }
 
+// Products currently buyable on Amazon India; use for anything that shows product cards
+export const AVAILABLE_PRODUCTS = PRODUCTS.filter(p => p.inStock);
+
 export function getProductsByCategory(category: string): SkincareProduct[] {
-    return PRODUCTS.filter(p => p.category === category);
+    return AVAILABLE_PRODUCTS.filter(p => p.category === category);
 }
 
 export function getProductsByConcern(concern: string): SkincareProduct[] {
     const lower = concern.toLowerCase();
-    return PRODUCTS.filter(p => p.concerns.some(c => c.toLowerCase().includes(lower)));
+    return AVAILABLE_PRODUCTS.filter(p => p.concerns.some(c => c.toLowerCase().includes(lower)));
 }
 
 export function getProductsBySkinType(skinType: SkinType): SkincareProduct[] {
-    if (skinType === 'All') return PRODUCTS;
-    return PRODUCTS.filter(p => p.skinType.includes(skinType) || p.skinType.includes('All'));
+    if (skinType === 'All') return AVAILABLE_PRODUCTS;
+    return AVAILABLE_PRODUCTS.filter(p => p.skinType.includes(skinType) || p.skinType.includes('All'));
 }
 
 export function getTopPicks(limit = 6): SkincareProduct[] {
-    return [...PRODUCTS].sort((a, b) => b.oraeSkinScore - a.oraeSkinScore).slice(0, limit);
+    return [...AVAILABLE_PRODUCTS].sort((a, b) => b.oraeSkinScore - a.oraeSkinScore).slice(0, limit);
+}
+
+// Topic keywords in a guide's title/category/keywords → product categories
+const TOPIC_CATEGORY_RULES: [RegExp, string][] = [
+    [/sunscreen|spf|sun protection|uv\b/i, 'sunscreens'],
+    [/cleanser|face ?wash|facewash/i, 'cleansers'],
+    [/serum|vitamin c|niacinamide|arbutin|actives/i, 'serums'],
+    [/moisturi[sz]er|barrier|cream|hydrat/i, 'moisturizers'],
+    [/toner|exfoliat|peel|aha|bha|pha/i, 'toners'],
+    [/eye|dark circle|puff/i, 'eye-care'],
+    [/\blip/i, 'lip-care'],
+    [/body|bacne|underarm|thigh|knuckle|neck|chafing|lotion/i, 'body-care'],
+    [/spot|pimple|patch|breakout|acne/i, 'spot-treatments'],
+    [/retin|anti-?aging|wrinkle|fine lines|mature/i, 'anti-aging'],
+];
+
+/**
+ * Picks products to recommend at the end of a guide: products the guide links to
+ * (by ASIN) come first, then products from matching categories and concerns.
+ */
+export function getRelatedProducts(text: string, mentionedAsins: string[] = [], limit = 6): SkincareProduct[] {
+    const categories = TOPIC_CATEGORY_RULES.filter(([re]) => re.test(text)).map(([, c]) => c);
+    const lower = text.toLowerCase();
+    const scored = AVAILABLE_PRODUCTS.map(p => {
+        let score = 0;
+        const mentionIndex = mentionedAsins.indexOf(p.asin);
+        if (mentionIndex >= 0) score += 20 - Math.min(mentionIndex, 10);
+        const catIndex = categories.indexOf(p.category);
+        if (catIndex >= 0) score += 30 - catIndex * 3;
+        score += p.concerns.filter(c => lower.includes(c.toLowerCase())).length * 2;
+        if (lower.includes(p.brand.toLowerCase())) score += 1;
+        return { p, score };
+    });
+    return scored
+        .sort((a, b) => b.score - a.score || b.p.oraeSkinScore - a.p.oraeSkinScore)
+        .slice(0, limit)
+        .map(s => s.p);
 }
 
 export function getAlternativeProducts(productId: string): { product: SkincareProduct; label: string; reason: string }[] {
@@ -3530,7 +4460,7 @@ export function getAlternativeProducts(productId: string): { product: SkincarePr
     return p.alternatives
         .map(alt => {
             const target = getProductById(alt.productId);
-            if (!target) return null;
+            if (!target || !target.inStock) return null;
             return { product: target, label: alt.label, reason: alt.reason };
         })
         .filter((item): item is { product: SkincareProduct; label: string; reason: string } => item !== null);

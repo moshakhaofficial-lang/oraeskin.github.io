@@ -26,7 +26,7 @@ Fermentation breaks down complex botanical nutrients into micro-sized bio-availa
 | :--- | :--- | :--- | :--- | :--- |
 | **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Moringa Oil | Dull, Tanned Complexions Needing Glass Skin Foundation | ~₹649 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
 | **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Triple Ceramides & Hyaluronic Acid | Dehydrated Skin Seeking Bouncy Glass Skin Finish | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **Cosrx — AHA/BHA Clarifying Treatment Toner** | Willow Bark Water & Fermented Fruit Extracts | Uneven Texture & Post-Sun Dullness | ~₹990 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21) |
+| **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 
 ---
 
@@ -54,15 +54,19 @@ Our evaluation of **Dot & Key Rice Water & Ceramide Hydrating Cream** highlights
 
 ---
 
-## 3. Cosrx AHA/BHA Clarifying Treatment Toner — *Best K-Beauty Refining Partner*
+## 3. Minimalist PHA 3% Alcohol-Free Face Toner — *Best for Sensitive Skin Exfoliation*
 
-Our evaluation of **Cosrx AHA/BHA Clarifying Treatment Toner** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+PHAs have larger molecular structures that gently dissolve surface debris without penetrating deep enough to cause stinging.
 
-- **Preps Skin for Ferment Absorption**: Polishes away dead keratin so fermented actives penetrate deeper.
-- **Subtle Acid Refining**: Smooths rough bumpy texture without any stinging or peeling.
-- **Convenient Spray Format**: Hassle-free daily application morning and night.
+- **Key actives**: 3% Gluconolactone (PHA), Multi-Biotics (Pre & Probiotics), Polyglutamic Acid
+- **Texture & finish**: Hydrating Essence Water — plump dewy smoothness
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹338 for 150ml (₹2.3/ml) · 4.2★ from 9,500+ Amazon India ratings
+- **Skip it if**: you require aggressive pore-clearing for deep cystic acne nodules.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21)**
+**Pros:** Zero stinging or irritation even on rosacea-prone or eczema-prone skin. **Cons:** Exfoliates more gradually compared to strong 8% Glycolic acid.
+
+📖 **[Read our full Minimalist PHA 3% Alcohol-Free Face Toner review](/reviews/minimalist-pha-toner/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
 
 ---
 

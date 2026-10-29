@@ -1,7 +1,17 @@
 ---
 import { SITE_CONFIG } from '../config/site';
+import { PRODUCTS } from '../data/products';
 
 const amazonTag = SITE_CONFIG.amazon.tag;
+// Live price/rating/ASIN from the product database, applied over the catalog below
+const liveProducts = Object.fromEntries(PRODUCTS.map(p => [p.id, {
+    name: p.name,
+    brand: p.brand,
+    price: p.price,
+    asin: p.asin,
+    oraeSkinScore: p.oraeSkinScore,
+    rating: `${p.amazonRating.toFixed(1)} ★ (${p.amazonReviews} ratings)`
+}]));
 ---
 
 <section id="routine-finder" class="routine-finder-section">
@@ -183,7 +193,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
     </div>
 </section>
 
-<script is:inline define:vars={{ amazonTag }}>
+<script is:inline define:vars={{ amazonTag, liveProducts }}>
 (function() {
     const answers = {
         skinType: '',
@@ -223,7 +233,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                 oraeSkinScore: 9.6,
                 rating: '4.8 ★ (42k+ reviews)',
                 benefit: '3 Essential Ceramides + Niacinamide clear pollution without barrier tightness.',
-                asin: 'B003YMJJSK'
+                asin: 'B07C5SKVL7'
             },
             sensitive: {
                 id: 'simple-refreshing-wash',
@@ -349,7 +359,7 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                 oraeSkinScore: 9.6,
                 rating: '4.8 ★ (48k+ reviews)',
                 benefit: 'Patented MVE multi-vesicular delivery provides 24-hour continuous barrier lipids.',
-                asin: 'B00TTD9BRC'
+                asin: 'B07CH8F17Q'
             },
             'fragrance-free': {
                 id: 'cerave-moisturizing-cream',
@@ -359,10 +369,16 @@ const amazonTag = SITE_CONFIG.amazon.tag;
                 oraeSkinScore: 9.6,
                 rating: '4.8 ★ (48k+ reviews)',
                 benefit: 'Fragrance-free, hypoallergenic, clinically formulated for compromised skin.',
-                asin: 'B00TTD9BRC'
+                asin: 'B07CH8F17Q'
             }
         }
     };
+
+    Object.values(PRODUCTS_CATALOG).forEach(group => {
+        Object.values(group).forEach(prod => {
+            if (liveProducts[prod.id]) Object.assign(prod, liveProducts[prod.id]);
+        });
+    });
 
     function updateStep(step) {
         const fill = document.getElementById('quiz-progress-fill');
@@ -448,8 +464,8 @@ const amazonTag = SITE_CONFIG.amazon.tag;
 
         const container = document.getElementById('routine-products-container');
         const verifiedAsins = new Set([
-            'B09FPS9D5T', 'B0BVWDJTHF', 'B0BQN2YWN5', 'B003YMJJSK', 
-            'B0BDVG99J5', 'B00TTD9BRC', 'B00OZ63ODA', 'B096PJMGPL', 
+            'B09FPS9D5T', 'B0BVWDJTHF', 'B0BQN2YWN5', 'B07C5SKVL7', 
+            'B0BDVG99J5', 'B07CH8F17Q', 'B096PJMGPL', 
             'B01CCGW4OE', 'B006NVDWGE', 'B0CJJN6XNK'
         ]);
 

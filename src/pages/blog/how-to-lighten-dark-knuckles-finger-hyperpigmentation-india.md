@@ -24,7 +24,7 @@ Knuckle hypermelanosis—noticeable darkening of the skin over the interphalange
 | :--- | :--- | :--- | :--- | :--- |
 | **Minimalist — 8% Glycolic Acid Liquid** | 8% Pure Glycolic Acid + Bamboo Water | Dissolving Dense Compacted Keratin on Finger Joints | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
 | **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Sealing Repaired Skin & Halting Friction-Induced Melanin | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA | Inhibiting Melanosome Transfer to Finger Keratinocytes | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA | Inhibiting Melanosome Transfer to Finger Keratinocytes | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 
 ---
 
@@ -47,7 +47,7 @@ Hyperpigmentation on knuckles and finger joints is biologically distinct from fa
 - Gently swipe across your dark knuckles, elbows, and finger joints. Glycolic acid has the smallest molecular weight of all AHAs, allowing it to penetrate through the thick, compacted stratum corneum of finger joints and dissolve the intercellular adhesive bonds holding dark dead cells together.
 
 ### Step 2: Melanosome Inhibition (Daily Morning & Evening)
-- Apply 2 drops of [Minimalist 10% Niacinamide Face Serum](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) onto knuckles.
+- Apply 2 drops of [Minimalist 10% Niacinamide Face Serum](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) onto knuckles.
 - Niacinamide blocks the transfer of melanin packets (melanosomes) from melanocytes into surrounding keratinocytes, visibly evening out skin tone over 6 to 8 weeks.
 
 ### Step 3: Deep Occlusive Sealing (Every Night Before Sleep)
@@ -94,7 +94,7 @@ Friction on dry skin is the primary driver of knuckle darkening. Bioderma restor
 ### Minimalist 10% Niacinamide Face Serum
 - **Amazon Price**: ~₹599
 - **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy Minimalist 10% Niacinamide Face Serum on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21)
+- **Direct Amazon Link**: [Buy Minimalist 10% Niacinamide Face Serum on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)
 
 A high-purity Vitamin B3 serum that suppresses melanosome transport. When layered under a barrier balm on freshly exfoliated knuckles, it prevents new dark pigment from reaching surface skin cells.
 
@@ -104,7 +104,7 @@ A high-purity Vitamin B3 serum that suppresses melanosome transport. When layere
 - **Pro**: Lightweight, non-sticky water serum base
 - **Con**: Requires consistent twice-daily application for visible lightening
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21).
+> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21).
 
 
 ---

@@ -30,7 +30,7 @@ The remedy is **barrier restoration therapy**: replenishing the skin's lipid mat
 | Product | Key Barrier Actives | Texture & Finish | Best Suited For | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Dot & Key Rice Water Ceramide Cream** | 5 Ceramides + Fermented Rice | Gel-Cream (Dewy Glass) | Combination & Dehydrated Skin | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **CeraVe Moisturizing Cream** | 3 Ceramides + MVE Tech | Rich Cream (Velvet Matte) | Dry, Irritated & Eczema Skin | [Check Price on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21) |
+| **CeraVe Moisturizing Cream** | 3 Ceramides + MVE Tech | Rich Cream (Velvet Matte) | Dry, Irritated & Eczema Skin | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
 | **Minimalist Vitamin B5 10% Gel** | 10% Panthenol + Zinc | Oil-Free Gel (Matte) | Oily Acne-Prone Damaged Skin | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 
 ---
@@ -56,7 +56,7 @@ When your skin is burning, peeling, or reactive to everything, CeraVe is the der
 - **Accepted by the National Eczema Association**: 100% free of fragrance, essential oils, drying alcohols, and irritating parabens.
 - **Our Testing Verdict**: An emergency SOS treatment. Apply a thick layer overnight after overusing AHA peels or strong retinoids; redness visibly calms by the next morning.
 
-👉 **[View CeraVe Moisturizing Cream on Amazon India](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21)**
+👉 **[View CeraVe Moisturizing Cream on Amazon India](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21)**
 
 ---
 

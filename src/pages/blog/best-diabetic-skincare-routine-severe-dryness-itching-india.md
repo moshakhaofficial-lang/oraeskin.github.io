@@ -9,7 +9,7 @@ keywords: "diabetic skincare routine india, severe diabetic skin dryness itching
 description: "Living with diabetes in India and struggling with relentless skin itching, flaking, and deep cracks? Learn how high blood sugar alters skin physiology and discover the medical routine to restore barrier health."
 topPickTitle: "CeraVe Moisturizing Cream with Ceramides"
 topPickBrand: "CeraVe"
-topPickAsin: "B00TTD9BRC"
+topPickAsin: "B07CH8F17Q"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹420"
 ---
@@ -22,7 +22,7 @@ India is often referred to as the diabetes capital of the world, with over 100 m
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Continuous 24-Hour Deep Hydration for Diabetic Xerosis | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21) |
+| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Continuous 24-Hour Deep Hydration for Diabetic Xerosis | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
 | **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA (Palmitoylethanolamide) | Quenching Neuropathic Diabetic Itching & Healing Cracks | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 | **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Base + Glycerin + Niacinamide | Zero-Stripping, Fragrance-Free Cleansing for Thin Skin | ~₹335 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
@@ -48,7 +48,7 @@ Elevated systemic glucose levels cause profound biochemical changes throughout a
 
 ### 2. The 3-Minute Moisture Trap Rule
 - Never let skin air dry. Within 3 minutes of stepping out of the shower while skin is still slightly damp, apply your moisturizer.
-- **Daily Full-Body Emollient**: Smooth [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21) generously over arms, legs, abdomen, and back. Its patented MVE delivery technology slowly diffuses ceramides 1, 3, and 6-II into the skin over 24 hours.
+- **Daily Full-Body Emollient**: Smooth [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) generously over arms, legs, abdomen, and back. Its patented MVE delivery technology slowly diffuses ceramides 1, 3, and 6-II into the skin over 24 hours.
 
 ### 3. Targeted Diabetic Foot & Fissure Care
 - Inspect feet daily for micro-tears, redness, or blisters.
@@ -61,7 +61,7 @@ Elevated systemic glucose levels cause profound biochemical changes throughout a
 ### CeraVe Moisturizing Cream with Ceramides
 - **Amazon Price**: ~₹420
 - **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy CeraVe Moisturizing Cream with Ceramides on Amazon.in](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21)
+- **Direct Amazon Link**: [Buy CeraVe Moisturizing Cream with Ceramides on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21)
 
 The premier emollient cream for diabetic xerosis. Packed with 3 physiological ceramides and hyaluronic acid, its MVE sustained-release technology ensures continuous barrier hydration throughout the day without greasy residue.
 
@@ -71,7 +71,7 @@ The premier emollient cream for diabetic xerosis. Packed with 3 physiological ce
 - **Pro**: Non-comedogenic, fragrance-free, accepted by the National Eczema Association
 - **Con**: Thick texture requires thorough spreading onto damp skin
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21).
+> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21).
 
 ---
 

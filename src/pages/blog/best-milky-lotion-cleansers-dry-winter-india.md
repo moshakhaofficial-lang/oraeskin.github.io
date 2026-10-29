@@ -25,7 +25,7 @@ Winters in Northern and Central India (Delhi NCR, Punjab, Haryana, Uttar Pradesh
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol (Vitamin B5) & Niacinamide | Dry, Tight, Stinging & Eczema-Prone Winter Skin | ~₹335 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Hyaluronic Acid & Niacinamide | Combination Skin That Gets Dry Cheeks in Winter | ~₹650 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
+| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Hyaluronic Acid & Niacinamide | Combination Skin That Gets Dry Cheeks in Winter | ~₹650 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Triple Purified Water, Vitamin E & Pro-Vitamin B5 | Normal to Oily Skin in Mild Winter Weather | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
 ---
@@ -50,7 +50,7 @@ Our evaluation of **CeraVe Foaming Facial Cleanser** highlights its scientific f
 - **Lipid Barrier Defense**: Ceramides safeguard stratum corneum moisture against biting winter drafts.
 - **Non-Comedogenic Hydration**: Hyaluronic acid maintains suppleness without clogging pores.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
 
 ---
 
@@ -69,7 +69,7 @@ Our evaluation of **Simple Kind to Skin Refreshing Facial Wash** highlights its 
 ## Editorial Routine Tips for Indian Skin
 
 1. **Never Wash with Steaming Hot Water**: Scalding hot winter water melts natural skin lipids. Always wash your face with lukewarm water.
-2. **Apply Moisturizer While Skin is Dewy**: Within 60 seconds of patting dry, apply [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B00TTD9BRC?tag=oraeskin-21) to lock in winter hydration.
+2. **Apply Moisturizer While Skin is Dewy**: Within 60 seconds of patting dry, apply [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) to lock in winter hydration.
 3. **Don't Forget Winter Sunscreen**: Cold winter air still carries high levels of UVA radiation. Always protect your skin with [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
 
 ---

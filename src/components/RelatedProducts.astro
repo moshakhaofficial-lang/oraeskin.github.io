@@ -1,0 +1,358 @@
+---
+import { getAmazonAffiliateUrl } from '../config/site';
+import type { SkincareProduct } from '../data/products';
+
+interface Props {
+    products: SkincareProduct[];
+    heading?: string;
+    eyebrow?: string;
+}
+
+const { products, heading = 'Products We Recommend', eyebrow = 'Shop This Guide' } = Astro.props;
+---
+
+{products.length > 0 && (
+    <aside class="related-products" aria-labelledby="related-products-heading">
+        <div class="rp-header">
+            <span class="rp-eyebrow">{eyebrow}</span>
+            <h2 id="related-products-heading" class="rp-heading">{heading}</h2>
+            <p class="rp-sub">Picks from our reviews that suit this routine. Prices are on Amazon India.</p>
+        </div>
+
+        <div class="rp-grid">
+            {products.map(p => (
+                <article class="rp-card">
+                    <a href={`/reviews/${p.id}/`} class="rp-img-link" aria-label={`Read our ${p.brand} ${p.name} review`}>
+                        {p.badge && <span class="rp-badge">{p.badge.split('—')[0].trim()}</span>}
+                        <img src={p.image} alt={`${p.brand} ${p.name}`} loading="lazy" decoding="async" width="200" height="200" />
+                        <span class="rp-score" title="OraeSkin Score">{p.oraeSkinScore.toFixed(1)}</span>
+                    </a>
+                    <div class="rp-body">
+                        <span class="rp-brand">{p.brand}</span>
+                        <h3 class="rp-name"><a href={`/reviews/${p.id}/`}>{p.name}</a></h3>
+                        <div class="rp-meta">
+                            <span class="rp-stars" aria-label={`${p.amazonRating} out of 5 stars on Amazon`}>★ {p.amazonRating.toFixed(1)}</span>
+                            <span class="rp-count">({p.amazonReviews})</span>
+                        </div>
+                        <div class="rp-price-row">
+                            <span class="rp-price">{p.priceEst}</span>
+                            <span class="rp-size">{p.size}</span>
+                        </div>
+                        <a
+                            href={getAmazonAffiliateUrl(p.asin)}
+                            target="_blank"
+                            rel="nofollow sponsored noopener"
+                            class="rp-shop"
+                            data-product={p.id}
+                        >
+                            Shop on Amazon
+                            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+                                <path d="M5 12h14M13 6l6 6-6 6" />
+                            </svg>
+                        </a>
+                        <a href={`/reviews/${p.id}/`} class="rp-review">Read review</a>
+                    </div>
+                </article>
+            ))}
+        </div>
+
+        <p class="rp-disclosure">
+            As an Amazon Associate, OraeSkin earns from qualifying purchases at no extra cost to you. <a href="/disclosure/">How we earn</a>
+        </p>
+    </aside>
+)}
+
+<script>
+    document.querySelectorAll<HTMLAnchorElement>('.rp-shop').forEach(link => {
+        link.addEventListener('click', () => {
+            const w = window as unknown as { gtag?: (...args: unknown[]) => void };
+            w.gtag?.('event', 'affiliate_click', { placement: 'related_products', product_id: link.dataset.product });
+        });
+    });
+</script>
+
+<style>
+    .related-products {
+        margin-top: 48px;
+        padding: 32px 28px 24px;
+        background: linear-gradient(180deg, #fbf6ef 0%, #f6eee4 100%);
+        border: 1px solid #ede5da;
+        border-radius: 16px;
+    }
+
+    .rp-header {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+
+    .rp-eyebrow {
+        display: inline-block;
+        color: #c87a54;
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+        margin-bottom: 6px;
+    }
+
+    .rp-heading {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.75rem;
+        line-height: 1.25;
+        color: #2c2c2c;
+        margin: 0 0 6px;
+        border: none;
+        padding: 0;
+    }
+
+    .rp-sub {
+        color: #7a7068;
+        font-size: 0.92rem;
+        margin: 0;
+    }
+
+    .rp-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 16px;
+    }
+
+    .rp-card {
+        display: flex;
+        flex-direction: column;
+        background: #ffffff;
+        border: 1px solid #ede5da;
+        border-radius: 14px;
+        overflow: hidden;
+        transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+
+    .rp-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 28px rgba(120, 84, 52, 0.12);
+    }
+
+    .rp-img-link {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        aspect-ratio: 1 / 1;
+        background: #fdfaf6;
+        overflow: hidden;
+    }
+
+    .rp-img-link img {
+        position: absolute;
+        inset: 18px;
+        width: calc(100% - 36px);
+        height: calc(100% - 36px);
+        object-fit: contain;
+        mix-blend-mode: multiply;
+        transition: transform 0.35s ease;
+    }
+
+    .rp-card:hover .rp-img-link img {
+        transform: scale(1.05);
+    }
+
+    .rp-badge {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        right: 48px;
+        background: #2c2c2c;
+        color: #fff;
+        font-size: 0.66rem;
+        font-weight: 700;
+        letter-spacing: 0.3px;
+        line-height: 1.3;
+        padding: 4px 9px;
+        border-radius: 10px;
+        width: fit-content;
+        z-index: 1;
+    }
+
+    .rp-score {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 34px;
+        height: 34px;
+        border-radius: 50%;
+        background: #8a9a5b;
+        color: #fff;
+        font-size: 0.78rem;
+        font-weight: 700;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+        z-index: 1;
+    }
+
+    .rp-body {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        padding: 14px 14px 16px;
+    }
+
+    .rp-brand {
+        color: #9a8f86;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+    }
+
+    .rp-name {
+        font-family: 'Playfair Display', serif;
+        font-size: 1rem;
+        line-height: 1.3;
+        margin: 4px 0 8px;
+        border: none;
+        padding: 0;
+    }
+
+    .rp-name a {
+        color: #2c2c2c;
+        text-decoration: none;
+    }
+
+    .rp-name a:hover {
+        color: #c87a54;
+    }
+
+    .rp-meta {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        font-size: 0.8rem;
+        margin-bottom: 8px;
+    }
+
+    .rp-stars {
+        color: #d4a017;
+        font-weight: 700;
+    }
+
+    .rp-count {
+        color: #9a8f86;
+    }
+
+    .rp-price-row {
+        display: flex;
+        align-items: baseline;
+        gap: 6px;
+        margin-top: auto;
+        margin-bottom: 12px;
+    }
+
+    .rp-price {
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: #2c2c2c;
+    }
+
+    .rp-size {
+        font-size: 0.78rem;
+        color: #9a8f86;
+    }
+
+    .rp-shop {
+        display: inline-flex;
+        white-space: nowrap;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        background: linear-gradient(135deg, #e8863d, #c87a54);
+        color: #ffffff !important;
+        font-weight: 700;
+        font-size: 0.86rem;
+        padding: 11px 14px;
+        border-radius: 24px;
+        text-decoration: none !important;
+        box-shadow: 0 4px 12px rgba(200, 122, 84, 0.28);
+        transition: all 0.25s ease;
+    }
+
+    .rp-shop:hover {
+        background: linear-gradient(135deg, #d3732b, #b3633d);
+        box-shadow: 0 6px 18px rgba(200, 122, 84, 0.4);
+    }
+
+    .rp-shop svg {
+        transition: transform 0.2s ease;
+    }
+
+    .rp-shop:hover svg {
+        transform: translateX(3px);
+    }
+
+    .rp-review {
+        text-align: center;
+        margin-top: 8px;
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: #7a7068 !important;
+        text-decoration: none !important;
+    }
+
+    .rp-review:hover {
+        color: #c87a54 !important;
+    }
+
+    .rp-disclosure {
+        text-align: center;
+        font-size: 0.75rem;
+        color: #9a8f86;
+        margin: 20px 0 0;
+    }
+
+    .rp-disclosure a {
+        color: #c87a54;
+    }
+
+    @media (max-width: 768px) {
+        .related-products {
+            margin-left: -8px;
+            margin-right: -8px;
+            padding: 26px 0 20px;
+        }
+
+        .rp-header {
+            padding: 0 16px;
+        }
+
+        .rp-heading {
+            font-size: 1.45rem;
+        }
+
+        .rp-grid {
+            display: flex;
+            gap: 12px;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            padding: 4px 16px 10px;
+            scrollbar-width: none;
+        }
+
+        .rp-grid::-webkit-scrollbar {
+            display: none;
+        }
+
+        .rp-card {
+            flex: 0 0 62%;
+            scroll-snap-align: start;
+        }
+
+        .rp-card:hover {
+            transform: none;
+        }
+
+        .rp-disclosure {
+            padding: 0 16px;
+        }
+    }
+</style>

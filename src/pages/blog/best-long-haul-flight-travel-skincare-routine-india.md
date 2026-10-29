@@ -23,7 +23,7 @@ Whether you are flying from Delhi to London or Mumbai to San Francisco, long-hau
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice Water + 5 Essential Ceramides | Barrier Shielding Against Sub-15% Cabin Humidity | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **CeraVe — Eye Repair Cream** | 3 Essential Ceramides + Hyaluronic Acid + Marine Botanical | Preventing Puffy Dehydrated Under-Eye Hollows | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) |
+| **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ~₹900 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 | **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramides + Petrolatum + UV Filters | Locking Moisture into Fragile Chapped Lips | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
 
 ---
@@ -47,7 +47,7 @@ At cruising altitudes of 35,000 feet, cabin air is drawn from the freezing strat
 
 ### Mid-Flight Maintenance (Every 4–6 Hours):
 - **Barrier Re-Application**: Instead of watery face mists, gently press a small coin-sized amount of ceramide cream onto dry zones (cheeks and forehead).
-- **Shield Delicate Areas**: Pat [CeraVe Eye Repair Cream](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) around orbital bones to stop crow's feet from shriveling, and apply [Minimalist SPF 30 Lip Balm](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) generously.
+- **Shield Delicate Areas**: Pat [The Ordinary Caffeine Solution 5% + EGCG](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) around orbital bones to stop crow's feet from shriveling, and apply [Minimalist SPF 30 Lip Balm](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) generously.
 - **Oral Hydration**: Drink 250 ml of electrolyte water per hour; limit diuretic coffee and in-flight alcohol.
 
 ### Post-Landing Arrival Reset:
@@ -74,20 +74,19 @@ Combining Japanese fermented rice water with 5 physiological ceramides, this lus
 
 ---
 
-### CeraVe Eye Repair Cream
-- **Amazon Price**: ~₹399
-- **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy CeraVe Eye Repair Cream on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21)
+### The Ordinary Caffeine Solution 5% + EGCG — *Best for Morning Puffiness*
 
-The skin around the eyes is 10 times thinner than facial skin and dehydrates first on flights. CeraVe's patented MVE Delivery Technology slowly releases ceramides and marine extracts throughout long 12-hour hauls.
+A simple, fragrance-free water serum with a high 5% caffeine level and green tea EGCG. It's light enough to use morning and night without clogging the eye area.
 
-#### Why It Works:
-- **Pro**: MVE technology provides time-released hydration for 12+ hours
-- **Pro**: Ophthalmologist-tested and non-greasy
-- **Pro**: Eliminates in-cabin hollows and tired puffiness
-- **Con**: Requires a gentle patting technique; do not pull thin eyelid skin
+- **Key actives**: 5% Caffeine, EGCG (Green Tea), Hyaluronic Acid
+- **Texture & finish**: Light Water-Based Serum — absorbs quickly, non-greasy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹900 for 30ml (₹30.0/ml) · 4.2★ from 19,000+ Amazon India ratings
+- **Skip it if**: your main concern is fine lines or brown pigment-type dark circles; caffeine mainly helps puffiness and bluish shadows.
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21).
+**Pros:** High 5% caffeine for visible de-puffing. **Cons:** Can feel slightly tacky before it sinks in.
+
+📖 **[Read our full The Ordinary Caffeine Solution 5% + EGCG review](/reviews/theordinary-caffeine-egcg/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21)**
 
 ---
 

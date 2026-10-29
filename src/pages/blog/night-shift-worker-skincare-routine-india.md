@@ -5,7 +5,7 @@ image: "/images/products/plum-vitc-mandarin.jpg"
 date: "2026-09-22"
 category: "Daily Routine"
 rating: 4.7
-keywords: "night shift skincare routine india, bpo worker skin dullness, dark circles night shift it employees, plum vitamin c dull skin, cerave eye repair dark circles"
+keywords: "night shift skincare routine india, bpo worker skin dullness, dark circles night shift it employees, plum vitamin c dull skin, the ordinary caffeine eye serum"
 description: "Working night shifts in IT, BPO, or healthcare? Inverted sleep cycles cause chronic skin dullness, dark circles, and dehydrated barriers. Restore your glow with this reverse routine."
 topPickTitle: "Plum 15% Vitamin C Face Serum"
 topPickBrand: "Plum"
@@ -23,7 +23,7 @@ Millions of Indian professionals work non-standard nocturnal shifts—from IT su
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Japanese Mandarin | Waking Up Sallow, Fatigued Complexions & Fading Dark Spots | ~₹550 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
-| **CeraVe — Eye Repair Cream** | 3 Essential Ceramides + Marine Botanical Extract | De-Puffing & Brightening Venous Under-Eye Circles | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) |
+| **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ~₹900 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 | **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice + 5 Ceramides | Shielding Barrier Against 10-Hour Corporate AC Air | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
 ---
@@ -47,7 +47,7 @@ When you work under fluorescent lights all night in air-conditioned offices:
 - **Awaken & Cleanse**: Wash away daytime sleep sweat with a refreshing gentle cleanser.
 - **Antioxidant Shield**: Pat 3–4 drops of [Plum 15% Vitamin C Face Serum](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21). Vitamin C neutralizes free radicals caused by office lighting and monitor stress, instantly brightening dull skin.
 - **AC Barrier Defense**: Lock in hydration with [Dot & Key Rice Water & Ceramide Cream](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) to prevent dry office AC air from desiccating your skin.
-- **Eye Care**: Tap [CeraVe Eye Repair Cream](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) around orbital bones to reduce screen-time eye strain.
+- **Eye Care**: Tap [The Ordinary Caffeine Solution 5% + EGCG](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) around orbital bones to reduce screen-time eye strain.
 
 ### 2. Shift End Protocol (Morning ~7:00 AM – When Heading Home)
 - **Commute Sunscreen**: Sunlight is at its peak when you travel home in the morning. Even though you are heading to bed, UV exposure during your commute will undo all your skincare efforts. Apply a lightweight SPF 50 sunscreen.
@@ -77,20 +77,19 @@ Formulated with 15% Ethyl Ascorbic Acid (a highly stable, non-oxidizing Vitamin 
 
 ---
 
-### CeraVe Eye Repair Cream
-- **Amazon Price**: ~₹399
-- **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy CeraVe Eye Repair Cream on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21)
+### The Ordinary Caffeine Solution 5% + EGCG — *Best for Morning Puffiness*
 
-The ultimate antidote to monitor glare and nocturnal fluid pooling. Combines 3 essential ceramides, hyaluronic acid, and marine algae extract to improve microcirculation and reduce under-eye hollowness.
+A simple, fragrance-free water serum with a high 5% caffeine level and green tea EGCG. It's light enough to use morning and night without clogging the eye area.
 
-#### Why It Works:
-- **Pro**: Fades blue-black venous congestion under tired eyes
-- **Pro**: Deeply moisturizes without triggering milia bumps
-- **Pro**: Fragrance-free and hypoallergenic
-- **Con**: Takes 3 to 4 weeks of consistent twice-daily use for visible circle reduction
+- **Key actives**: 5% Caffeine, EGCG (Green Tea), Hyaluronic Acid
+- **Texture & finish**: Light Water-Based Serum — absorbs quickly, non-greasy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹900 for 30ml (₹30.0/ml) · 4.2★ from 19,000+ Amazon India ratings
+- **Skip it if**: your main concern is fine lines or brown pigment-type dark circles; caffeine mainly helps puffiness and bluish shadows.
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21).
+**Pros:** High 5% caffeine for visible de-puffing. **Cons:** Can feel slightly tacky before it sinks in.
+
+📖 **[Read our full The Ordinary Caffeine Solution 5% + EGCG review](/reviews/theordinary-caffeine-egcg/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21)**
 
 ---
 

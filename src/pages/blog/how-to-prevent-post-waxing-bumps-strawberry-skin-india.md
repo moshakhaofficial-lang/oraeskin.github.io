@@ -9,7 +9,7 @@ keywords: "post waxing bumps body care, strawberry skin keratosis pilaris india,
 description: "Get tiny red bumps after waxing or dark dots ('strawberry legs') on your arms and calves? Discover the clinical pre-and-post waxing protocol to keep body skin smooth and bump-free."
 topPickTitle: "Minimalist 2% Salicylic Acid Body Wash"
 topPickBrand: "Minimalist"
-topPickAsin: "B0C7VQNQ4B"
+topPickAsin: "B0BSN7LHC4"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹399"
 ---
@@ -22,7 +22,7 @@ Visiting the salon for a body wax (*rica* or normal sugar wax) or shaving your l
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid + Betaine + LHA | Clearing Open Follicles & Preventing Post-Wax Bumps | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid + Betaine + LHA | Clearing Open Follicles & Preventing Post-Wax Bumps | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
 | **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Soothing Post-Wax Trauma & Sealing Raw Body Skin | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 | **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid + Bamboo Water | Dissolving Keratin Plugs & Smoothing Strawberry Skin | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
 
@@ -40,7 +40,7 @@ Two distinct dermatological conditions cause rough, bumpy body skin:
 ## The Complete 72-Hour Pre- and Post-Waxing Protocol
 
 ### 24–48 Hours Before Waxing:
-- **Exfoliate Keratin Caps**: Shower using [Minimalist 2% Salicylic Acid Body Wash](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21). The lipid-soluble BHA softens keratin plugs around the hair base, allowing hairs to be extracted smoothly without snapping at the skin surface.
+- **Exfoliate Keratin Caps**: Shower using [Minimalist 2% Salicylic Acid Body Wash](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21). The lipid-soluble BHA softens keratin plugs around the hair base, allowing hairs to be extracted smoothly without snapping at the skin surface.
 
 ### Immediately Post-Waxing (First 24 Hours):
 - **Avoid Heat & Tight Clothing**: Skip hot showers, gym workouts, saunas, and tight synthetic clothing (like skinny jeans or nylon leggings) for 24 hours. Wear loose cotton clothes.
@@ -56,7 +56,7 @@ Two distinct dermatological conditions cause rough, bumpy body skin:
 ### Minimalist 2% Salicylic Acid Body Wash
 - **Amazon Price**: ~₹399
 - **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy Minimalist 2% Salicylic Acid Body Wash on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21)
+- **Direct Amazon Link**: [Buy Minimalist 2% Salicylic Acid Body Wash on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)
 
 A non-drying, sulfate-free body cleanser loaded with 2% Salicylic Acid and LHA. It clears dead skin and cleanses deep into pores across the arms, legs, and back, eliminating the bacteria that cause post-wax bumps.
 
@@ -66,7 +66,7 @@ A non-drying, sulfate-free body cleanser loaded with 2% Salicylic Acid and LHA. 
 - **Pro**: Generous 200ml bottle with long-lasting pump dispenser
 - **Con**: Do not use on open, bleeding, or severely scratched skin
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21).
+> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21).
 
 ---
 

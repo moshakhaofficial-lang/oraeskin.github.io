@@ -1,72 +1,89 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Best Vitamin C Eye Creams for Brightening Brown Periorbital Pigment"
-image: "/images/products/cerave-cleanser.jpg"
-date: "2026-03-02"
+title: "Best Under-Eye Creams for Brown, Pigmented Dark Circles in India"
+image: "/images/products/minimalist-vitk-retinal-eye-cream.jpg"
+date: "2026-10-29"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "vitamin c eye cream dark circles, brighten under eye skin, plum vitamin c eye cream"
-description: "Stabilized Vitamin C derivatives that safely lighten sun-induced and friction-induced dark eye contours."
-topPickTitle: "CeraVe Eye Repair Cream"
-topPickBrand: "CeraVe"
-topPickAsin: "B0GRW7P4YR"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹399"
+description: "Under-eye creams on Amazon India for brown, pigment-type dark circles common in Indian skin, compared by formula and price."
+topPickTitle: "Minimalist Vitamin K + Retinal 0.1% Under Eye Cream"
+topPickBrand: "Minimalist"
+topPickAsin: "B0CHYR58VF"
+topPickRating: "4 ★"
+topPickPrice: "~₹463"
 ---
 
-Stabilized Vitamin C derivatives that safely lighten sun-induced and friction-induced dark eye contours.
-
-In India's distinct tropical climate—characterized by intense UV radiation, high ambient humidity, and urban air pollution—selecting the right products for **under-eye treatments** requires careful consideration of active stability, formulation weight, and skin barrier compatibility.
-
----
-
-## Quick Comparison: Top Under-Eye Treatments Picks on Amazon India
-
-| Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **CeraVe — CeraVe Eye Repair Cream** | Evidence-Informed Active | All Indian Skin Types | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21) |
-| **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
-| **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+Brown under-eye circles are mostly pigment, and they respond slowly to topical care. Daily sunscreen, gentle retinoids and brightening ingredients like niacinamide help most. None of the eye products we've verified on Amazon India relies on vitamin C, so these are the picks we rate most highly for pigment-type dark circles.
 
 ---
 
-## 1. CeraVe — CeraVe Eye Repair Cream — *Editor's #1 Pick*
+## Quick Comparison
 
-Our top-ranked solution provides balanced, science-backed efficacy tailored for Indian skin textures and weather resilience.
+| Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹463 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
+| **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,136 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
+| **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ₹900 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 
-- **Fast-Absorbing Texture**: Formulated to sink in rapidly without leaving greasy films or clogging pores in hot, humid conditions.
-- **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
-- **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
-
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0GRW7P4YR?tag=oraeskin-21)**
-
----
-
-## 2. CeraVe Dermatological Solution — *Best for Sensitive Skin*
-
-Formulated with barrier-restoring active ingredients, this formulation replenishes essential lipids and calms reactive skin.
-
-- **Skin-Identical Ceramides**: Rebuilds the stratum corneum matrix to halt moisture evaporation caused by air conditioning.
-- **Fragrance-Free & Hypoallergenic**: Completely safe for easily irritated, stinging, or redness-prone complexions.
-
-👉 **[View on Amazon India](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
+*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
-## 3. Dot & Key Barrier Care — *Best for Hydration & Glow*
+## 1. Minimalist Vitamin K + Retinal 0.1% Under Eye Cream — *Best Overall for Dark Circles*
 
-Combining botanical brightness with modern skin barrier science for effortless daily radiance.
+Retinal to support even tone and texture, plus vitamin K and chrysin aimed at discolouration.
 
-- **Non-Sticky Finish**: Absorbs cleanly and layers smoothly under makeup or sunscreen.
-- **Deep Moisture Reservoir**: Sustains cell hydration for over 24 hours.
+- **Key actives**: Vitamin K, Retinal 0.1%, 3% Caffeine, Palmitoyl Tripeptide-1 & Tetrapeptide-7
+- **Texture & finish**: Lightweight Eye Cream — smooth, non-greasy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹463 for 14g (₹33.1/g) · 4★ from 4,000+ Amazon India ratings
+- **Skip it if**: you are pregnant or breastfeeding (retinoids), or your under-eye skin is very sensitive or eczema-prone.
 
-👉 **[Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
+**Pros:** Retinal (retinaldehyde) works faster than retinol on fine lines and texture. **Cons:** Retinoid can sting or flake on sensitive under-eye skin — start every other night.
+
+📖 **[Read our full Minimalist Vitamin K + Retinal 0.1% Under Eye Cream review](/reviews/minimalist-caffeine-eye-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21)**
+
+---
+
+## 2. Beauty of Joseon Revive Eye Serum: Ginseng + Retinal — *Best Gentle Brightening Option*
+
+Niacinamide and a low dose of retinal in a soothing ginseng base.
+
+- **Key actives**: Retinal (Liposomal), Ginseng Root Extract, Niacinamide, Adenosine
+- **Texture & finish**: Silky Serum-Cream — soft & hydrated, non-sticky
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹1,136 for 30ml (₹37.9/ml) · 4.1★ from 19,300+ Amazon India ratings
+- **Skip it if**: you are pregnant or breastfeeding (it contains retinal), or you want a fast, strong anti-ageing effect.
+
+**Pros:** Gentle, encapsulated retinal with a supportive base of ceramide NP, cholesterol and hyaluronate. **Cons:** Retinal is low in the ingredient list — results are gradual.
+
+📖 **[Read our full Beauty of Joseon Revive Eye Serum: Ginseng + Retinal review](/reviews/boj-revive-eye-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21)**
+
+---
+
+## 3. The Ordinary Caffeine Solution 5% + EGCG — *Best for Shadowy, Puffy Eyes*
+
+Better for bluish, puffy circles than brown pigment, but a good morning partner.
+
+- **Key actives**: 5% Caffeine, EGCG (Green Tea), Hyaluronic Acid
+- **Texture & finish**: Light Water-Based Serum — absorbs quickly, non-greasy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹900 for 30ml (₹30.0/ml) · 4.2★ from 19,000+ Amazon India ratings
+- **Skip it if**: your main concern is fine lines or brown pigment-type dark circles; caffeine mainly helps puffiness and bluish shadows.
+
+**Pros:** High 5% caffeine for visible de-puffing. **Cons:** Can feel slightly tacky before it sinks in.
+
+📖 **[Read our full The Ordinary Caffeine Solution 5% + EGCG review](/reviews/theordinary-caffeine-egcg/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21)**
+
+---
+**Most important step:** sunscreen. UV exposure darkens under-eye pigment, so tap a gentle SPF like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) up to the orbital bone every morning.
 
 ---
 
 ## Editorial Routine Tips for Indian Skin
 
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21).
+1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
 2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
 3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
 

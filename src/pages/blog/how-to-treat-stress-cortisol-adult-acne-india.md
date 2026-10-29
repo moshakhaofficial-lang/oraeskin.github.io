@@ -9,7 +9,7 @@ keywords: "stress acne adult women india, cortisol breakouts jawline cheeks, wor
 description: "Working demanding hours in corporate India and breaking out in deep, painful blemishes despite leaving teenage years behind? Learn the science of cortisol-induced adult acne."
 topPickTitle: "Minimalist 10% Niacinamide Face Serum"
 topPickBrand: "Minimalist"
-topPickAsin: "B0CW1M65YC"
+topPickAsin: "B08F9MF314"
 topPickRating: "4.8 ★"
 topPickPrice: "~₹599"
 ---
@@ -22,7 +22,7 @@ In India's fast-paced corporate hubs, competitive exam coaching centers, and hig
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA + Matmarine | Regulating Cortisol-Driven Sebum & Calming Neuro-Redness | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA + Matmarine | Regulating Cortisol-Driven Sebum & Calming Neuro-Redness | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 | **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Emergency Flattening of Deep Tender Stress Nodules | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 | **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA + Magnesium | Restoring Cortisol-Depleted Skin Barrier Without Heavy Oils | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 
@@ -43,7 +43,7 @@ The skin and the nervous system share an embryonic origin (both develop from the
 
 ### Morning (AM): Regulate, Soothe & Shield
 - **Gentle Non-Stripping Wash**: Cleanse with a mild soap-free cleanser to remove nocturnal sweat without stripping surface ceramides.
-- **Neuro-Soothe Sebum Control**: Apply 2 to 3 drops of [Minimalist 10% Niacinamide Face Serum](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21). Niacinamide downregulates sebum production, inhibits inflammatory cytokine cascades, and reinforces epidermal ceramide synthesis.
+- **Neuro-Soothe Sebum Control**: Apply 2 to 3 drops of [Minimalist 10% Niacinamide Face Serum](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21). Niacinamide downregulates sebum production, inhibits inflammatory cytokine cascades, and reinforces epidermal ceramide synthesis.
 - **Weightless Barrier Hydration**: Smooth a pump of [Minimalist Vitamin B5 10% Moisturizer](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) to replenish moisture lost to high cortisol levels.
 - **Broad-Spectrum Sun Protection**: UV light oxidizes squalene in sebum, making stress acne worse. Apply an invisible SPF 50 sunscreen.
 
@@ -59,7 +59,7 @@ The skin and the nervous system share an embryonic origin (both develop from the
 ### Minimalist 10% Niacinamide Face Serum
 - **Amazon Price**: ~₹599
 - **Customer Rating**: 4.8 ★ (Amazon India)
-- **Direct Amazon Link**: [Buy Minimalist 10% Niacinamide Face Serum on Amazon.in](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21)
+- **Direct Amazon Link**: [Buy Minimalist 10% Niacinamide Face Serum on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)
 
 The ultimate multi-tasking daily serum for adult stress acne. Formulated with high-purity Vitamin B3, Zinc PCA, and biotechnology marine extracts, it directly targets cortisol-stimulated sebum while calming inflammatory redness.
 
@@ -69,7 +69,7 @@ The ultimate multi-tasking daily serum for adult stress acne. Formulated with hi
 - **Pro**: Fades post-acne dark marks and strengthens fragile barriers
 - **Con**: If new to niacinamide, patch test on the jawline first
 
-> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B0CW1M65YC?tag=oraeskin-21).
+> **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21).
 
 ---
 

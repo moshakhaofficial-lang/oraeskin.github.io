@@ -4,6 +4,9 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import AffiliateDisclaimer from '../components/AffiliateDisclaimer.astro';
 import MobileStickyBar from '../components/MobileStickyBar.astro';
+import RelatedProducts from '../components/RelatedProducts.astro';
+import { getRelatedProducts } from '../data/products';
+import fs from 'node:fs';
 
 const { frontmatter } = Astro.props;
 const siteUrl = 'https://www.oraeskin.in';
@@ -11,6 +14,12 @@ const currentUrl = `${siteUrl}${Astro.url.pathname}`;
 const articleImage = frontmatter.image?.startsWith('http') 
     ? frontmatter.image 
     : `${siteUrl}${frontmatter.image || '/images/Oraeskin_FBCover.png'}`;
+
+// Products linked in the article body come first, then topic matches
+const rawContent = Astro.props.file ? fs.readFileSync(Astro.props.file, 'utf8') : '';
+const mentionedAsins = [...new Set([...rawContent.matchAll(/amazon\.in\/dp\/([A-Z0-9]{10})/gi)].map(m => m[1]))];
+const topicText = [frontmatter.title, frontmatter.category, frontmatter.keywords, frontmatter.description].filter(Boolean).join(' ');
+const relatedProducts = getRelatedProducts(topicText, mentionedAsins);
 
 const rawDate = frontmatter.date;
 const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
@@ -87,6 +96,8 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
             <div class="article-content">
                 <slot />
             </div>
+
+            <RelatedProducts products={relatedProducts} />
 
             <footer class="article-bottom-bar">
                 <div class="author-bio-card">

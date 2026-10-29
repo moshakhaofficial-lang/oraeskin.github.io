@@ -25,7 +25,7 @@ A dark neck is one of the most common dermatological complaints in India. Many p
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Thick Velvety Neck Creases & Sun-Tanned Necklines | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA), Betaine & Menthol | Neck Pores, Shirt Collar Friction & Sweat Buildup | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA), Betaine & Menthol | Neck Pores, Shirt Collar Friction & Sweat Buildup | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
 | **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids & PEA | Post-Exfoliation Moisture & Anti-Friction Cushion | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 ---
@@ -50,7 +50,7 @@ Our evaluation of **Minimalist 2% Salicylic Acid Body Wash** highlights its scie
 - **Gentle Daily Wash**: Replaces abrasive soaps that worsen friction hyperpigmentation.
 - **Cooling Cleanse**: Relieves collar heat and itching during humid days.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0C7VQNQ4B?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
 
 ---
 

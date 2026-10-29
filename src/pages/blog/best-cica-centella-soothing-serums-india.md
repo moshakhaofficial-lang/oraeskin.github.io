@@ -9,7 +9,7 @@ keywords: "cica serum india, centella asiatica serum benefits, soothe sunburn he
 description: "Soothe intense summer heat rashes, calm post-sun burning, and accelerate skin healing with high-purity Centella Asiatica (Cica) and Vitamin B5 formulations."
 topPickTitle: "Minimalist 10% Vitamin C Face Serum with Centella"
 topPickBrand: "Minimalist"
-topPickAsin: "B0HFRS79JS"
+topPickAsin: "B08MVBF4P8"
 topPickRating: "4.7 ★"
 topPickPrice: "~₹699"
 ---
@@ -24,7 +24,7 @@ Centella Asiatica (Tiger Grass / Gotu Kola) is an ancient Ayurvedic botanical cl
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 10% Vitamin C Face Serum** | 1% Pure Centella Asiatica Extract & 10% Ethyl Ascorbic Acid | Sunburned, Reddened & Heat-Stressed Complexions | ~₹699 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0HFRS79JS?tag=oraeskin-21) |
+| **Minimalist — 10% Vitamin C Face Serum** | 1% Pure Centella Asiatica Extract & 10% Ethyl Ascorbic Acid | Sunburned, Reddened & Heat-Stressed Complexions | ~₹699 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
 | **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper Gluconate | Prickly Heat Rashes & Inflamed Active Breakouts | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 | **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract, Hyaluronic Acid & UV Filters | Daily Sun Defense for Reactive Sunburned Skin | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
 
@@ -38,7 +38,7 @@ Our evaluation of **Minimalist 10% Vitamin C Face Serum** highlights its scienti
 - **Antioxidant Sun Damage Recovery**: Ethyl Ascorbic Acid repairs solar free radical damage without stinging.
 - **Ultra-Stable Water Base**: Remains crystal clear without oxidizing in hot Indian room temperatures.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0HFRS79JS?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21)**
 
 ---
 
@@ -68,7 +68,7 @@ Our evaluation of **Aqualogica Radiance+ Dewy Sunscreen SPF 50+** highlights its
 
 ## Editorial Routine Tips for Indian Skin
 
-1. **Store in Refrigerator**: Keep your [Minimalist Centella-infused Serum](https://www.amazon.in/dp/B0HFRS79JS?tag=oraeskin-21) in the fridge during summer for an extra-soothing vasoconstrictive effect on flushed skin.
+1. **Store in Refrigerator**: Keep your [Minimalist Centella-infused Serum](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) in the fridge during summer for an extra-soothing vasoconstrictive effect on flushed skin.
 2. **Apply Post-Sun Exposure**: Pat gently onto freshly cleansed skin after spending extended time in hot outdoor sun.
 3. **Follow with a Barrier Gel**: Seal the active botanicals with [Minimalist B5 Moisturizer](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21).
 

@@ -25,7 +25,7 @@ In major Indian cities like Bengaluru, Chennai, Hyderabad, and Delhi NCR, tap wa
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Disodium EDTA (Chelating Agent), Pro-Vitamin B5 & Purified Water | All Skin Types Battling High TDS Hard Municipal Water | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Niacinamide & Hyaluronic Acid | Oily & Sensitive Skin Experiencing Hard Water Irritation | ~₹650 | [Check Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21) |
+| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Niacinamide & Hyaluronic Acid | Oily & Sensitive Skin Experiencing Hard Water Irritation | ~₹650 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Severely Reactive Skin Damaged by Hard Tap Water | ~₹335 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
 ---
@@ -50,7 +50,7 @@ Our evaluation of **CeraVe Foaming Facial Cleanser** highlights its scientific f
 - **Non-Alkaline Physiological pH**: Maintains skin acidity around pH 5.5 despite exposure to high pH hard tap water.
 - **Niacinamide Soothing**: Calms redness and micro-vascular inflammation caused by hard water friction.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B003YMJJSK?tag=oraeskin-21)**
+👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
 
 ---
 

@@ -32,18 +32,23 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B0B3MNVPDV', // Aqualogica Radiance+ Dewy Sunscreen
     'B0DVB9CGDS', // Dr. Sheth's Ceramide & Vitamin C Sunscreen
     'B07VP5JFRB', // Re'equil Ultra Matte Dry Touch Sunscreen
-    'B003YMJJSK', // CeraVe Foaming Facial Cleanser
+    'B07C5SKVL7', // CeraVe Foaming Facial Cleanser
     'B096PJMGPL', // Minimalist 2% Salicylic Acid Face Wash
+    'B002P3L99G', // La Roche-Posay Effaclar Purifying Foaming Gel
+    'B006LXDMCS', // Neutrogena Oil-Free Acne Wash
+    'B095J52W7P', // The Derma Co 1% Salicylic Acid Gel Face Wash
+    'B01CCGW732', // Cetaphil Oily Skin Cleanser
+    'B0GFTYW6P1', // Re'equil Oil Control Face Wash
     'B01CCGW4OE', // Cetaphil Gentle Skin Hydrating Cleanser
     'B0DRYQ6274', // The Face Shop Rice Water Bright Cleanser
     'B0FJMB2NZM', // Simple Kind to Skin Refreshing Facial Wash
-    'B0HFRS79JS', // Minimalist 10% Vitamin C Face Serum
+    'B08MVBF4P8', // Minimalist 10% Vitamin C Face Serum
     'B095PRGHDX', // Plum 15% Vitamin C Face Serum
-    'B0CW1M65YC', // Minimalist 10% Niacinamide Face Serum
-    'B0GWN2JFFM', // Minimalist 2% Alpha Arbutin Face Serum
+    'B08F9MF314', // Minimalist 10% Niacinamide Face Serum
+    'B08GGDRRQ8', // Minimalist 2% Alpha Arbutin Face Serum
     'B08TQGMWT1', // The Derma Co 10% Niacinamide Serum
     'B0BDVG99J5', // Dot & Key Rice Water & Ceramide Cream
-    'B00TTD9BRC', // CeraVe Moisturizing Cream
+    'B07CH8F17Q', // CeraVe Moisturizing Cream
     'B0F6Y86BSD', // Minimalist Vitamin B5 10% Moisturizer
     'B07SGC46XW', // Bioderma Atoderm Intensive Baume
     'B0BNBXWVY3', // Minimalist 8% Glycolic Acid Exfoliating Liquid
@@ -52,21 +57,24 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B00OZ63ODA', // Cosrx AHA/BHA Clarifying Treatment Toner
     'B0GRW7P4YR', // CeraVe Eye Repair Cream
     'B0CHYR58VF', // Minimalist 5% Caffeine Under-Eye Serum
-    'B0G6KTR337', // The Derma Co 5% Caffeine Under-Eye Serum
+    'B08TTW5RJG', // The Derma Co 5% Caffeine Under-Eye Serum
     'B0BJ6XPC77', // Minimalist SPF 30 Lip Balm with Ceramides
     'B08RX6S5D1', // Dot & Key Vitamin C+E Lip Sleeping Mask
-    'B0C7VQNQ4B', // Minimalist 2% Salicylic Acid Body Wash
+    'B0BSN7LHC4', // Minimalist 2% Salicylic Acid Body Wash
     'B0CJJN6XNK', // Plum BodyLovin Vanilla Caramello Body Lotion
     'B006NVDWGE', // Biotique Morning Nectar Lotion
-    'B0H41PM947', // The Derma Co 100% Hydrocolloid Acne Patches
     'B00U7CRJ00', // Sebogel Salicylic Acid & Nicotinamide Blemish Gel
     'B091JG3GJ5', // Minimalist 0.3% Retinol Face Serum
     'B08F8W91F8', // Minimalist Granactive Retinoid 2%
+    'B01MUZVE1C', // The Ordinary Caffeine Solution 5% + EGCG
+    'B0B45LL4DD', // Beauty of Joseon Revive Eye Serum
+    'B096MNYLWS', // The Derma Co 10% Vitamin C + 5% Niacinamide Serum
+    'B00PBX3L7K', // COSRX Advanced Snail 96 Mucin Power Essence
+    'B09GGCWKR7', // The Derma Co Micro-Tip Pimple Patches
 ]);
 
 // Map of legacy/dead ASINs to verified direct ASINs
 export const PRODUCT_SEARCH_FALLBACKS: Record<string, string> = {
-    'B07C5SKVL7': 'B003YMJJSK', // CeraVe Foaming Cleanser
     'B07MGB563Q': 'B01CCGW4OE', // Cetaphil Cleanser
     'B096VDR2BC': 'B096PJMGPL', // Minimalist Salicylic Cleanser
     'B08Z4J8JWD': 'B0CJJN6XNK', // Plum BodyLovin Lotion
@@ -77,22 +85,20 @@ export const PRODUCT_SEARCH_FALLBACKS: Record<string, string> = {
     'B0DFPZVTWZ': 'B0DRYQ6274', // The Face Shop Rice Water Cleanser
     'B07N9CCXN9': 'B0FJMB2NZM', // Simple Refreshing Facial Wash
     'B07C3M2RL2': 'B0FJMB2NZM', // Simple Refreshing Facial Wash
-    'B08F9V7T7T': 'B0HFRS79JS', // Minimalist 10% Vitamin C
-    'B096VJ969J': 'B0HFRS79JS', // Minimalist 10% Vitamin C
+    'B08F9V7T7T': 'B08MVBF4P8', // Minimalist 10% Vitamin C
+    'B096VJ969J': 'B08MVBF4P8', // Minimalist 10% Vitamin C
     'B097Z77D3D': 'B095PRGHDX', // Plum 15% Vitamin C
     'B094R9TDRW': 'B095PRGHDX', // Plum 15% Vitamin C
     'B0HG9T9T28': 'B095PRGHDX', // Plum 15% Vitamin C
-    'B08DFL3M9K': 'B0HFRS79JS', // Vitamin C Serum
-    'B08F9WPM24': 'B0CW1M65YC', // Minimalist 10% Niacinamide
-    'B0FYHFR32Q': 'B0CW1M65YC', // Minimalist 10% Niacinamide
-    'B08F9TNQ8L': 'B0GWN2JFFM', // Minimalist 2% Alpha Arbutin
-    'B08F9W9WCR': 'B0GWN2JFFM', // Minimalist 2% Alpha Arbutin
+    'B08DFL3M9K': 'B08MVBF4P8', // Vitamin C Serum
+    'B08F9WPM24': 'B08F9MF314', // Minimalist 10% Niacinamide
+    'B0FYHFR32Q': 'B08F9MF314', // Minimalist 10% Niacinamide
+    'B08F9TNQ8L': 'B08GGDRRQ8', // Minimalist 2% Alpha Arbutin
+    'B08F9W9WCR': 'B08GGDRRQ8', // Minimalist 2% Alpha Arbutin
     'B08K3S6P2G': 'B08TQGMWT1', // The Derma Co 10% Niacinamide
-    'B0DMTDN158': 'B08TQGMWT1', // The Derma Co 10% Niacinamide
     'B096VD6J8K': 'B0F6Y86BSD', // Minimalist Vitamin B5
     'B094R9TFQ2': 'B0F6Y86BSD', // Minimalist Vitamin B5
     'B00U3U408K': 'B07SGC46XW', // Bioderma Atoderm Intensive Baume
-    'B07CH8F17Q': 'B07SGC46XW', // Bioderma Atoderm Intensive Baume
     'B0B39LTVP4': 'B0BNBXWVY3', // Minimalist 8% Glycolic Acid
     'B0D4K7R9S5': 'B0BNBXWVY3', // Minimalist 8% Glycolic Acid
     'B08F9V7T7U': 'B08S581RXJ', // Minimalist PHA 3% Toner
@@ -102,13 +108,13 @@ export const PRODUCT_SEARCH_FALLBACKS: Record<string, string> = {
     'B00BFZ744K': 'B0GRW7P4YR', // CeraVe Eye Repair Cream
     'B096VD6J8M': 'B0CHYR58VF', // Minimalist 5% Caffeine Serum
     'B095S6Q8S5': 'B0CHYR58VF', // Minimalist 5% Caffeine Serum
-    'B0BVWDJTHG': 'B0G6KTR337', // The Derma Co 5% Caffeine Serum
-    'B08GGBW1K8': 'B0G6KTR337', // The Derma Co 5% Caffeine Serum
+    'B0BVWDJTHG': 'B08TTW5RJG', // The Derma Co 5% Caffeine Serum
+    'B08GGBW1K8': 'B08TTW5RJG', // The Derma Co 5% Caffeine Serum
     'B09SK854F9': 'B0BJ6XPC77', // Minimalist SPF 30 Lip Balm
     'B08L7V7D3V': 'B08RX6S5D1', // Dot & Key Lip Mask
-    'B0B941K5H7': 'B0C7VQNQ4B', // Minimalist 2% Salicylic Body Wash
-    'B09R1T6W12': 'B0H41PM947', // The Derma Co Acne Patches
-    'B09B3CPDSJ': 'B0H41PM947', // The Derma Co Acne Patches
+    'B0B941K5H7': 'B0BSN7LHC4', // Minimalist 2% Salicylic Body Wash
+    'B09R1T6W12': 'B09GGCWKR7', // The Derma Co Acne Patches
+    'B09B3CPDSJ': 'B09GGCWKR7', // The Derma Co Acne Patches
     'B08K3N7H9R': 'B091JG3GJ5', // Minimalist 0.3% Retinol
     'B08F9VMT4X': 'B091JG3GJ5', // Minimalist 0.3% Retinol
     'B0789NX2ZV': 'B091JG3GJ5', // Minimalist 0.3% Retinol

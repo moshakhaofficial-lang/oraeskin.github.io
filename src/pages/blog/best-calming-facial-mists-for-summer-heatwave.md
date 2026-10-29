@@ -1,17 +1,17 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "Best Refreshing Facial Mists for Tropical Indian Heatwaves & Travel"
-image: "/images/products/cosrx-ahabha-toner.jpg"
+image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-09-10"
 category: "Toners"
 rating: 4.7
 keywords: "facial mist for summer heatwave india, cooling face spray travel, cosrx clarifying mist review, plum green tea mist, instant skin cooling"
 description: "Relieve suffocating 40°C heat, restore trans-epidermal hydration, and cool flushed skin on the go. The best refreshing facial mists and toners in India."
-topPickTitle: "Cosrx AHA/BHA Clarifying Treatment Toner Mist"
-topPickBrand: "Cosrx"
-topPickAsin: "B00OZ63ODA"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹990"
+topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
+topPickBrand: "Minimalist"
+topPickAsin: "B0BNBXWVY3"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹474"
 ---
 
 Relieve suffocating 40°C heat, restore trans-epidermal hydration, and cool flushed skin on the go. The best refreshing facial mists and toners in India.
@@ -24,21 +24,25 @@ During severe Indian summer heatwaves, ambient temperatures often soar past 42°
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Cosrx — AHA/BHA Clarifying Treatment Toner** | Mineral Water Base, Willow Bark & Apple Fruit Water | Hot Weather Travel, Commuters & Midday Oiliness | ~₹990 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21) |
+| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
 | **Plum — Green Tea Alcohol-Free Toner** | Green Tea Extracts, Glycolic Acid & Glycerin | Oily, Acne-Prone Skin in Humid Heatwaves | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
 | **Minimalist — PHA 3% Alcohol-Free Face Toner** | 3% Gluconolactone (PHA), Polyglutamic Acid & Niacinamide | Dry, Flushed Skin Exposed to Harsh Air Conditioning | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 
 ---
 
-## 1. Cosrx AHA/BHA Clarifying Treatment Toner — *Editor's #1 All-Day Refreshing Mist*
+## 1. Minimalist 8% Glycolic Acid Exfoliating Liquid — *Best for Brightening & Rough Texture*
 
-Our evaluation of **Cosrx AHA/BHA Clarifying Treatment Toner** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Formulated with small-molecule AHA at effective free-acid level buffered with soothing bamboo water.
 
-- **Ultra-Fine Spray Nozzle**: Delivers a cloud-like mist that cools skin instantly without ruining daylight makeup or sunscreen.
-- **Natural Mineral Water Base**: Infuses skin with volcanic mineral ions to balance moisture levels during dry heatwaves.
-- **Gentle Micro-Exfoliation**: Keeps pore openings clear of sweat and dead keratin while commuting.
+- **Key actives**: 8% Pure Glycolic Acid (AHA), Bamboo Water, Chamomile Extract
+- **Texture & finish**: Water Liquid — smooth glow
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹474 for 150ml (₹3.2/ml) · 4.3★ from 5,400+ Amazon India ratings
+- **Skip it if**: you have sensitive, broken, or actively stinging skin.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21)**
+**Pros:** 8% Glycolic Acid dissolves cemented dead skin cells on surface layer. **Cons:** Potent AHA formulation requires wearing daily sunscreen to prevent photosensitivity.
+
+📖 **[Read our full Minimalist 8% Glycolic Acid Exfoliating Liquid review](/reviews/minimalist-glycolic-toner/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21)**
 
 ---
 
@@ -68,7 +72,7 @@ Our evaluation of **Minimalist PHA 3% Alcohol-Free Face Toner** highlights its s
 
 ## Editorial Routine Tips for Indian Skin
 
-1. **Keep a Bottle in Your Bag**: Decant [Cosrx AHA/BHA Mist](https://www.amazon.in/dp/B00OZ63ODA?tag=oraeskin-21) into a portable spray bottle to spritz your face during long traffic jams or flights.
+1. **Keep a Bottle in Your Bag**: Decant [Minimalist 8% Glycolic Acid Exfoliating Liquid](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) into a portable spray bottle to spritz your face during long traffic jams or flights.
 2. **Hold 8 Inches Away**: Mist from a comfortable distance to allow an even micro-veil to settle on the skin without forming heavy water droplets.
 3. **Reapply Sunscreen After Misting**: Once the mist absorbs, tap on your sunscreen or stick to ensure continuous UV defense.
 

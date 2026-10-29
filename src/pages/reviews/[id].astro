@@ -57,7 +57,7 @@ const productSchema = {
         "priceCurrency": "INR",
         "price": product.price.toString(),
         "availability": product.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-        "url": affiliateUrl
+        ...(product.inStock ? { "url": affiliateUrl } : {})
     },
     "review": {
         "@type": "Review",
@@ -194,17 +194,25 @@ const faqSchema = {
                     </div>
 
                     <div class="affiliate-action-box">
-                        <a 
-                            href={affiliateUrl} 
-                            target="_blank" 
-                            rel="nofollow sponsored noopener" 
-                            class="btn-primary-amazon"
-                        >
-                            <span>Check Price on Amazon →</span>
-                        </a>
-                        <p class="affiliate-disclosure-note">
-                            Affiliate link · We may earn a commission at no extra cost to you.
-                        </p>
+                        {product.inStock ? (
+                            <>
+                                <a 
+                                    href={affiliateUrl} 
+                                    target="_blank" 
+                                    rel="nofollow sponsored noopener" 
+                                    class="btn-primary-amazon"
+                                >
+                                    <span>Check Price on Amazon →</span>
+                                </a>
+                                <p class="affiliate-disclosure-note">
+                                    Affiliate link · We may earn a commission at no extra cost to you.
+                                </p>
+                            </>
+                        ) : (
+                            <p class="affiliate-disclosure-note">
+                                Not currently available on Amazon India. See the alternatives below.
+                            </p>
+                        )}
                     </div>
                 </div>
 
@@ -489,14 +497,16 @@ const faqSchema = {
                             <span>Score: <strong>{product.oraeSkinScore.toFixed(1)}/10</strong></span>
                             <span class="sticky-price">₹{product.price}</span>
                         </div>
-                        <a 
-                            href={affiliateUrl} 
-                            target="_blank" 
-                            rel="nofollow sponsored noopener" 
-                            class="sticky-btn"
-                        >
-                            Check Price on Amazon →
-                        </a>
+                        {product.inStock && (
+                            <a 
+                                href={affiliateUrl} 
+                                target="_blank" 
+                                rel="nofollow sponsored noopener" 
+                                class="sticky-btn"
+                            >
+                                Check Price on Amazon →
+                            </a>
+                        )}
                     </div>
                 </div>
             </div>
