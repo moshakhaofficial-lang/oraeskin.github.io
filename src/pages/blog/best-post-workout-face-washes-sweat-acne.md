@@ -10,8 +10,8 @@ description: "Prevent workout breakouts, unclog sweat-trapped sebum, and sanitiz
 topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹299"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹284"
 ---
 
 Prevent workout breakouts, unclog sweat-trapped sebum, and sanitize gym bacteria. The top post-workout facial and body cleansers on Amazon India.
@@ -24,9 +24,9 @@ During high-intensity workouts, sweat glides across gym equipment, towels, and s
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid (BHA), LHA & Zinc PCA | Gym Enthusiasts, Crossfitters & Hot Yoga Practitioners | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5, Vitamin E & Pure Water | Cardio Runners with Red, Sensitive Skin | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid, Betaine & Menthol | Post-Workout Body Acne Across Shoulders & Back | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid (BHA), LHA & Zinc PCA | Gym Enthusiasts, Crossfitters & Hot Yoga Practitioners | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5, Vitamin E & Pure Water | Cardio Runners with Red, Sensitive Skin | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid, Betaine & Menthol | Post-Workout Body Acne Across Shoulders & Back | ~₹296 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
 
 ---
 

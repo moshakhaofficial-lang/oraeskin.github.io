@@ -10,8 +10,8 @@ description: "Spending 8+ hours in air-conditioned cubicles dehydrates skin whil
 topPickTitle: "Dot & Key Rice Water & Ceramide Hydrating Cream"
 topPickBrand: "Dot & Key"
 topPickAsin: "B0BDVG99J5"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹395"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹328"
 ---
 
 Spending 8+ hours in air-conditioned cubicles dehydrates skin while causing an afternoon oil slick. Discover the ultimate desk-side skincare protocol.
@@ -24,8 +24,8 @@ Corporate workers in Indian tech hubs (Bengaluru, Gurgaon, Hyderabad, Pune, Mumb
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water & Triple Ceramides | All-Day Air-Conditioned Cubicle Dehydration | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **The Derma Co — 1% Hyaluronic Sunscreen Aqua Gel** | 1% Hyaluronic Acid & Blue Light Protection Filters | Dual Monitors, Laptops & Desk Glare Defense | ~₹449 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
+| **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water & Triple Ceramides | All-Day Air-Conditioned Cubicle Dehydration | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+| **The Derma Co — 1% Hyaluronic Sunscreen Aqua Gel** | 1% Hyaluronic Acid & Blue Light Protection Filters | Dual Monitors, Laptops & Desk Glare Defense | ~₹479 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ~₹900 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 
 ---

@@ -10,8 +10,8 @@ description: "Puberty and school stress trigger sudden forehead breakouts and oi
 topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹299"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹284"
 ---
 
 Puberty and school stress trigger sudden forehead breakouts and oily T-zones. Discover a simple, dermatologist-approved 3-step routine designed for Indian teenagers.
@@ -24,9 +24,9 @@ During adolescence, surges in circulating androgen hormones stimulate facial seb
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid (BHA), LHA & Zinc PCA | Oily T-Zones, Forehead Pimples & Blackheads | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol (Pro-Vitamin B5), Zinc & Copper | Acne-Prone Skin That Hates Sticky Creams | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & Photostable UV Filters | Daily Commutes, Sports & Outdoor Assemblies | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid (BHA), LHA & Zinc PCA | Oily T-Zones, Forehead Pimples & Blackheads | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol (Pro-Vitamin B5), Zinc & Copper | Acne-Prone Skin That Hates Sticky Creams | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & Photostable UV Filters | Daily Commutes, Sports & Outdoor Assemblies | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

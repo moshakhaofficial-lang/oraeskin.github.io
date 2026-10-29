@@ -10,8 +10,8 @@ description: "Dealing with clusters of tiny, intensely itchy, uniform bumps on y
 topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹299"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹284"
 ---
 
 Every year, as the Indian monsoon sweeps across the subcontinent, dermatologists see a massive surge in patients complaining of sudden, stubborn breakouts. Patients describe clusters of tiny, uniform, dome-shaped bumps across their forehead, temples, and jawline that itch persistently—especially when sweating. If your standard acne treatments (like benzoyl peroxide or clindamycin) are completely useless, you are likely not dealing with regular bacterial acne, but *Malassezia folliculitis* (commonly called 'fungal acne'). Here is the clinical protocol to eradicate it.
@@ -22,9 +22,9 @@ Every year, as the Indian monsoon sweeps across the subcontinent, dermatologists
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid + LHA + Zinc | Dissolving Fungal Biofilms & Unclogging Yeast Follicles | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA (Fungal Acne Safe) | 100% Lipid-Free Hydration That Starves Malassezia Yeast | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Calming Inflamed Itchy Papules & Stopping Fungal Spread | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid + LHA + Zinc | Dissolving Fungal Biofilms & Unclogging Yeast Follicles | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA (Fungal Acne Safe) | 100% Lipid-Free Hydration That Starves Malassezia Yeast | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Calming Inflamed Itchy Papules & Stopping Fungal Spread | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---
 

@@ -41,17 +41,13 @@ const productSchema = {
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": `${product.brand} ${product.name}`,
-    "image": product.image,
+    "image": `${SITE_CONFIG.url}${product.image}`,
     "description": product.whyWeLikeIt,
     "brand": {
         "@type": "Brand",
         "name": product.brand
     },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": product.rating.toString(),
-        "reviewCount": product.reviewCount.replace(/[^0-9]/g, '') || "500"
-    },
+    // No aggregateRating: Amazon's star ratings aren't reviews collected on this site
     "offers": {
         "@type": "Offer",
         "priceCurrency": "INR",
@@ -64,7 +60,8 @@ const productSchema = {
         "reviewRating": {
             "@type": "Rating",
             "ratingValue": product.oraeSkinScore.toString(),
-            "bestRating": "10"
+            "bestRating": "10",
+            "worstRating": "1"
         },
         "author": {
             "@type": "Organization",

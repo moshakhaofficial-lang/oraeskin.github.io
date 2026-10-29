@@ -69,6 +69,13 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B01MUZVE1C', // The Ordinary Caffeine Solution 5% + EGCG
     'B0B45LL4DD', // Beauty of Joseon Revive Eye Serum
     'B096MNYLWS', // The Derma Co 10% Vitamin C + 5% Niacinamide Serum
+    'B0B45RB1RV', // Deconstruct Gel Sunscreen SPF 50
+    'B0C3CP6B5Y', // Foxtale Glow Sunscreen SPF 50
+    'B08GG9M863', // Minimalist 2% Salicylic Acid Serum
+    'B0C61Q7DM7', // The Derma Co 2% Salicylic Acid Serum
+    'B0C3PCJ6SD', // The Ordinary Salicylic Acid 2% Solution
+    'B0D2ZVYLSS', // Nua Pimple Patch
+    'B0GDZJN3MK', // Deconstruct Pimple Patches
     'B00PBX3L7K', // COSRX Advanced Snail 96 Mucin Power Essence
     'B09GGCWKR7', // The Derma Co Micro-Tip Pimple Patches
 ]);

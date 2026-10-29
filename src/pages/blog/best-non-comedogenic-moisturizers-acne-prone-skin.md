@@ -1,69 +1,65 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Best Non-Comedogenic Moisturizers That Will Never Clog Your Pores"
-image: "/images/products/dotkey-rice-cream.jpg"
-date: "2026-03-02"
+title: "Best Non-Comedogenic Moisturizers for Acne-Prone Skin in India"
+image: "/images/products/minimalist-b5-moisturizer.jpg"
+date: "2026-10-29"
 category: "Moisturizers & Barrier Creams"
 rating: 4.8
 keywords: "non comedogenic moisturizer india, will not clog pores, best acne friendly cream amazon"
-description: "Clinically tested oil-free lotions that hydrate without silicone congestion or heavy mineral waxes for acne-prone skin."
-topPickTitle: "Dot & Key Rice Water & Ceramide Cream"
-topPickBrand: "Dot & Key"
-topPickAsin: "B0BDVG99J5"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹395"
+description: "Non-comedogenic moisturisers on Amazon India that hydrate oily, acne-prone skin without heaviness, compared by formula and price."
+topPickTitle: "Minimalist Vitamin B5 10% Moisturizer"
+topPickBrand: "Minimalist"
+topPickAsin: "B0F6Y86BSD"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹237"
 ---
 
-Clinically tested oil-free lotions that hydrate without silicone congestion or heavy mineral waxes for acne-prone skin.
-
-In India's distinct tropical climate—characterized by intense UV radiation, high ambient humidity, and urban air pollution—selecting the right products for **moisturizers & barrier creams** requires careful consideration of active stability, formulation weight, and skin barrier compatibility.
-
----
-
-## Quick Comparison: Top Moisturizers & Barrier Creams Picks on Amazon India
-
-| Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Dot & Key — Dot & Key Rice Water & Ceramide Cream** | Evidence-Informed Active | All Indian Skin Types | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+Skipping moisturiser often makes oily, acne-prone skin worse, especially if you use drying acne treatments. The key is a formula that hydrates without heavy oils. These are the two non-comedogenic picks on Amazon India we rate most highly for acne-prone skin.
 
 ---
 
-## 1. Dot & Key — Dot & Key Rice Water & Ceramide Cream — *Editor's #1 Pick*
+## Quick Comparison
 
-Our top-ranked solution provides balanced, science-backed efficacy tailored for Indian skin textures and weather resilience.
+| Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹237 (30g) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **[CeraVe Moisturizing Cream with Ceramides](/reviews/cerave-moisturizing-cream/)** | 3 Essential Ceramides (1, 3, 6-II) + Hyaluronic Acid | Severe Dryness, Eczema | ₹344 (50ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
 
-- **Fast-Absorbing Texture**: Formulated to sink in rapidly without leaving greasy films or clogging pores in hot, humid conditions.
-- **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
-- **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
-
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
-
----
-
-## 2. CeraVe Dermatological Solution — *Best for Sensitive Skin*
-
-Formulated with barrier-restoring active ingredients, this formulation replenishes essential lipids and calms reactive skin.
-
-- **Skin-Identical Ceramides**: Rebuilds the stratum corneum matrix to halt moisture evaporation caused by air conditioning.
-- **Fragrance-Free & Hypoallergenic**: Completely safe for easily irritated, stinging, or redness-prone complexions.
-
-👉 **[View on Amazon India](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
-## 3. Dot & Key Barrier Care — *Best for Hydration & Glow*
+## 1. Minimalist Vitamin B5 10% Moisturizer — *Best for Oily, Acne-Prone Skin*
 
-Combining botanical brightness with modern skin barrier science for effortless daily radiance.
+An oil-free gel with vitamin B5 and zinc that hydrates without heaviness.
 
-- **Non-Sticky Finish**: Absorbs cleanly and layers smoothly under makeup or sunscreen.
-- **Deep Moisture Reservoir**: Sustains cell hydration for over 24 hours.
+- **Key actives**: 10% Vitamin B5 (Panthenol), Zinc Gluconate, Copper Gluconate, Magnesium Aspartate
+- **Texture & finish**: Featherlight Gel Cream — matte clean hydration
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹237 for 30g (₹7.9/g) · 4.2★ from 16,500+ Amazon India ratings
+- **Skip it if**: you suffer from severely cracked skin and need thick occlusive waxes.
 
-👉 **[Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
+**Pros:** 100% oil-free formulation that will not trigger acne breakouts. **Cons:** May feel insufficient in severe winter conditions for dry cheek zones.
+
+📖 **[Read our full Minimalist Vitamin B5 10% Moisturizer review](/reviews/minimalist-b5-moisturizer/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)**
 
 ---
 
+## 2. CeraVe Moisturizing Cream with Ceramides — *Best When Acne Treatments Dry You Out*
+
+A fragrance-free, non-comedogenic ceramide cream to repair dryness from retinoids or benzoyl peroxide.
+
+- **Key actives**: 3 Essential Ceramides (1, 3, 6-II), Hyaluronic Acid, MVE Delivery Technology
+- **Texture & finish**: Rich Velvety Cream — comforting non-greasy shield
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹344 for 50ml (₹6.9/ml) · 4.2★ from 21,700+ Amazon India ratings
+- **Skip it if**: you have heavily congested oily skin prone to sebaceous filaments in hot weather.
+
+**Pros:** Replenishes the exact 3:1:1 lipid ratio found naturally in healthy skin. **Cons:** Too rich for daytime use on combination skin during hot summer months.
+
+📖 **[Read our full CeraVe Moisturizing Cream with Ceramides review](/reviews/cerave-moisturizing-cream/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21)**
+
+---
 ## Editorial Routine Tips for Indian Skin
 
 1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).

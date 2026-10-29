@@ -10,8 +10,8 @@ description: "Over-exfoliated skin? Redness and burning? Discover the best barri
 topPickTitle: "Dot & Key Rice Water & Ceramide Deep Hydrating Moisturizer"
 topPickBrand: "Dot & Key"
 topPickAsin: "B0BDVG99J5"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹395"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹328"
 ---
 
 With the explosion of chemical exfoliants, retinoids, and exfoliating face washes, a damaged skin barrier has become the single most common dermatological complaint in India.

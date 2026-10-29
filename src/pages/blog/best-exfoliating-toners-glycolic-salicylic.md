@@ -10,8 +10,8 @@ description: "A comprehensive guide to AHA, BHA, and PHA exfoliating toners on A
 topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid Toner"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹499"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹474"
 ---
 
 Physical facial scrubs with walnut shells and apricot kernels can cause microscopic epidermal tears and worsen hyperpigmentation. Dermatologists instead recommend **chemical exfoliating toners** formulated with Alpha Hydroxy Acids (AHAs), Beta Hydroxy Acids (BHAs), or Polyhydroxy Acids (PHAs).

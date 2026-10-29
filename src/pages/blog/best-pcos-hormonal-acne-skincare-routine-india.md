@@ -10,8 +10,8 @@ description: "Struggling with painful jawline cysts and hormonal breakouts from 
 topPickTitle: "Sebogel Salicylic Acid & Nicotinamide Blemish Gel"
 topPickBrand: "Sebogel"
 topPickAsin: "B00U7CRJ00"
-topPickRating: "4.6 ★"
-topPickPrice: "~₹240"
+topPickRating: "4.1 ★"
+topPickPrice: "~₹200"
 ---
 
 PCOS-driven hormonal acne is one of the most stubborn dermatological challenges for Indian women. Characterized by deep, tender cystic bumps along the lower third of the face—the jawline, chin, and neck—hormonal acne cannot simply be 'scrubbed away'. Here is a clinically proven routine to regulate follicular congestion and curb hormonal inflammation without stripping your epidermal barrier.
@@ -22,9 +22,9 @@ PCOS-driven hormonal acne is one of the most stubborn dermatological challenges 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Deep Inflamed Cysts & Fast Spot Treatment | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Matmarine + Zinc PCA | Regulating Hormonal Sebum & Fading Jawline PIH | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated Salicylic Acid + LHA + Zinc | Daily Deep-Pore Cleansing Without Irritation | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Deep Inflamed Cysts & Fast Spot Treatment | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Matmarine + Zinc PCA | Regulating Hormonal Sebum & Fading Jawline PIH | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated Salicylic Acid + LHA + Zinc | Daily Deep-Pore Cleansing Without Irritation | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 
 ---
 

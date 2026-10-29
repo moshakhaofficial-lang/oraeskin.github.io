@@ -25,8 +25,8 @@ During severe Indian summer heatwaves, ambient temperatures often soar past 42°
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Plum — Green Tea Alcohol-Free Toner** | Green Tea Extracts, Glycolic Acid & Glycerin | Oily, Acne-Prone Skin in Humid Heatwaves | ~₹390 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
-| **Minimalist — PHA 3% Alcohol-Free Face Toner** | 3% Gluconolactone (PHA), Polyglutamic Acid & Niacinamide | Dry, Flushed Skin Exposed to Harsh Air Conditioning | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
+| **Plum — Green Tea Alcohol-Free Toner** | Green Tea Extracts, Glycolic Acid & Glycerin | Oily, Acne-Prone Skin in Humid Heatwaves | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
+| **Minimalist — PHA 3% Alcohol-Free Face Toner** | 3% Gluconolactone (PHA), Polyglutamic Acid & Niacinamide | Dry, Flushed Skin Exposed to Harsh Air Conditioning | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 
 ---
 

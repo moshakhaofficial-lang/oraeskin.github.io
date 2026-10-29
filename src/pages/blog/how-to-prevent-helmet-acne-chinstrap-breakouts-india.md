@@ -10,8 +10,8 @@ description: "Riding a motorcycle or scooter daily in Indian traffic and getting
 topPickTitle: "Sebogel Salicylic Acid & Nicotinamide Blemish Gel"
 topPickBrand: "Sebogel"
 topPickAsin: "B00U7CRJ00"
-topPickRating: "4.6 ★"
-topPickPrice: "~₹240"
+topPickRating: "4.1 ★"
+topPickPrice: "~₹200"
 ---
 
 Millions of Indian commuters navigate bustling city traffic daily on motorcycles and scooters. While wearing a certified helmet is non-negotiable for road safety, daily riders often struggle with clusters of painful, inflamed acne along their jawline, chin, and temples. This dermatological condition—termed 'Acne Mechanica'—is triggered by the combined assault of helmet friction, trapped perspiration, traffic particulate soot, and unwashed foam padding. Here is your evidence-based protocol to ride safely while keeping your jawline completely clear.
@@ -22,9 +22,9 @@ Millions of Indian commuters navigate bustling city traffic daily on motorcycles
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Emergency Flattening of Inflamed Chinstrap Pustules | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated BHA + LHA + Zinc | Dissolving Commute Soot & Sebum Deep Inside Pores | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Gentle Morning Pre-Ride Cleansing Without Stripping | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Emergency Flattening of Inflamed Chinstrap Pustules | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated BHA + LHA + Zinc | Dissolving Commute Soot & Sebum Deep Inside Pores | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Gentle Morning Pre-Ride Cleansing Without Stripping | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
 ---
 

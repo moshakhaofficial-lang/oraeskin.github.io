@@ -11,7 +11,7 @@ topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
 topPickRating: "4.6 ★"
-topPickPrice: "~₹249"
+topPickPrice: "~₹384"
 ---
 
 Hard municipal tap water leaves mineral deposits that clog pores and degrade skin barriers. Discover chelating, pH-balanced cleansers that neutralize hard water damage.
@@ -24,9 +24,9 @@ In major Indian cities like Bengaluru, Chennai, Hyderabad, and Delhi NCR, tap wa
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Disodium EDTA (Chelating Agent), Pro-Vitamin B5 & Purified Water | All Skin Types Battling High TDS Hard Municipal Water | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Niacinamide & Hyaluronic Acid | Oily & Sensitive Skin Experiencing Hard Water Irritation | ~₹650 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Severely Reactive Skin Damaged by Hard Tap Water | ~₹335 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Disodium EDTA (Chelating Agent), Pro-Vitamin B5 & Purified Water | All Skin Types Battling High TDS Hard Municipal Water | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Niacinamide & Hyaluronic Acid | Oily & Sensitive Skin Experiencing Hard Water Irritation | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Severely Reactive Skin Damaged by Hard Tap Water | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
 ---
 

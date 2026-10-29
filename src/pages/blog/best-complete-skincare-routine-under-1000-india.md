@@ -11,7 +11,7 @@ topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
 topPickRating: "4.6 ★"
-topPickPrice: "~₹249"
+topPickPrice: "~₹384"
 ---
 
 You don't need to spend thousands on luxury brands for glowing skin. Build a complete, dermatologist-approved 3-step routine for under ₹1,000 total on Amazon India.
@@ -24,9 +24,9 @@ The Indian beauty market is filled with celebrity-endorsed brands charging ₹1,
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5, Vitamin E & Pure Water | Step 1: Daily Gentle pH-Balanced Cleansing | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper | Step 2: Oil-Free Barrier Hydration (AM & PM) | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Step 3: Daily Morning Sun Protection | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5, Vitamin E & Pure Water | Step 1: Daily Gentle pH-Balanced Cleansing | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper | Step 2: Oil-Free Barrier Hydration (AM & PM) | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Step 3: Daily Morning Sun Protection | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

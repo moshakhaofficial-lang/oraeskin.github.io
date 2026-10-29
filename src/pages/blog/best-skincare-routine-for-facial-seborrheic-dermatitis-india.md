@@ -11,7 +11,7 @@ topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
 topPickRating: "4.6 ★"
-topPickPrice: "~₹249"
+topPickPrice: "~₹384"
 ---
 
 Struggling with itchy, red, greasy flakes around your nose folds, eyebrows, and ears? Discover a Malassezia-safe dermatological routine for facial seborrheic dermatitis.
@@ -24,9 +24,9 @@ Facial seborrheic dermatitis is a chronic inflammatory dermatosis caused by an a
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 & Gentle Surfactants | Flaking Nose Creases, Red Eyebrows & Reactive Skin | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper | Dehydrated Skin Needing Yeast-Safe Moisture | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid & 6% Nicotinamide | Persistent Crusty Yellow Flakes on Nose & Eyebrows | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 & Gentle Surfactants | Flaking Nose Creases, Red Eyebrows & Reactive Skin | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper | Dehydrated Skin Needing Yeast-Safe Moisture | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid & 6% Nicotinamide | Persistent Crusty Yellow Flakes on Nose & Eyebrows | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---
 

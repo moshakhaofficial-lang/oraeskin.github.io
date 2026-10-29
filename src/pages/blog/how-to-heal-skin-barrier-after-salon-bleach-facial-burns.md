@@ -10,8 +10,8 @@ description: "Did a neighbourhood salon facial or bleaching session leave your f
 topPickTitle: "Bioderma Atoderm Intensive Baume"
 topPickBrand: "Bioderma"
 topPickAsin: "B07SGC46XW"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹790"
+topPickRating: "4.4 ★"
+topPickPrice: "~₹472"
 ---
 
 Did a neighbourhood salon facial or bleaching session leave your face red, burning, and peeling? Discover the emergency dermatologist-approved barrier recovery protocol.
@@ -24,9 +24,9 @@ In neighbourhood beauty parlours across India, commercial facial bleach formulat
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Raw, Burning, Stinging & Chemically Peeling Facial Skin | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Ultra-Gentle Cleansing When Water Stings Face | ~₹335 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Gentle UV Filters | Mandatory Daytime Shield Against Post-Burn Hyperpigmentation | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Raw, Burning, Stinging & Chemically Peeling Facial Skin | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Ultra-Gentle Cleansing When Water Stings Face | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Gentle UV Filters | Mandatory Daytime Shield Against Post-Burn Hyperpigmentation | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
 

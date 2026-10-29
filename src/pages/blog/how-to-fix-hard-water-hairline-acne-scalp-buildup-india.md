@@ -10,8 +10,8 @@ description: "Living in Bengaluru, Chennai, or Hyderabad and breaking out along 
 topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹299"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹284"
 ---
 
 Rapid urbanization across major Indian tech hubs like Bengaluru, Chennai, Hyderabad, and Pune has forced apartment complexes and residential societies to rely heavily on deep borewell groundwater. This water is notoriously 'hard', with Total Dissolved Solids (TDS) frequently exceeding 800 to 1,500 ppm. While many residents notice dry hair and hair fall, few realize that hard water mineral salts accumulate heavily along the anterior hairline, temples, and nape of the neck—triggering stubborn hairline comedones and itchy follicular bumps. Here is how to conquer hard water hairline acne.
@@ -22,9 +22,9 @@ Rapid urbanization across major Indian tech hubs like Bengaluru, Chennai, Hydera
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid + LHA + Zinc | Dissolving Hard Water Mineral Salts & Hairline Plugs | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Purified Water Base | Zero-Residue Hairline Cleansing That Won't Form Scum | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% BHA + 6% Nicotinamide | Flattening Red Inflamed Hairline Pores Overnight | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid + LHA + Zinc | Dissolving Hard Water Mineral Salts & Hairline Plugs | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Purified Water Base | Zero-Residue Hairline Cleansing That Won't Form Scum | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% BHA + 6% Nicotinamide | Flattening Red Inflamed Hairline Pores Overnight | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---
 

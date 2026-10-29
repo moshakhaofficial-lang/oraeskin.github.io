@@ -1,69 +1,65 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Best Non-Foaming Gentle Cleansers for Dry & Dehydrated Skin"
-image: "/images/products/cerave-cleanser.jpg"
-date: "2026-03-02"
+title: "Best Gentle Cleansers for Dry Skin in India"
+image: "/images/products/cetaphil-gentle-cleanser.jpg"
+date: "2026-10-29"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "gentle cleanser dry skin india, cetaphil hydrating cleanser amazon, best non foaming face wash"
 description: "No more tight, stretched skin after washing. Creamy hydrating cleansers packed with glycerin and ceramides that respect your lipid barrier."
-topPickTitle: "CeraVe Foaming Facial Cleanser"
-topPickBrand: "CeraVe"
-topPickAsin: "B07C5SKVL7"
-topPickRating: "4.4 ★"
-topPickPrice: "~₹1,061"
+topPickTitle: "Cetaphil Gentle Skin Hydrating Cleanser"
+topPickBrand: "Cetaphil"
+topPickAsin: "B01CCGW4OE"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹351"
 ---
 
-No more tight, stretched skin after washing. Creamy hydrating cleansers packed with glycerin and ceramides that respect your lipid barrier.
-
-In India's distinct tropical climate—characterized by intense UV radiation, high ambient humidity, and urban air pollution—selecting the right products for **facial cleansers** requires careful consideration of active stability, formulation weight, and skin barrier compatibility.
-
----
-
-## Quick Comparison: Top Facial Cleansers Picks on Amazon India
-
-| Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **CeraVe — CeraVe Foaming Facial Cleanser** | Evidence-Informed Active | All Indian Skin Types | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+Dry skin needs a cleanser that cleans without stripping the lipids it's already short on. Low-foam, hydrating formulas work best. These are the two gentle cleansers on Amazon India we rate most highly for dry skin.
 
 ---
 
-## 1. CeraVe — CeraVe Foaming Facial Cleanser — *Editor's #1 Pick*
+## Quick Comparison
 
-Our top-ranked solution provides balanced, science-backed efficacy tailored for Indian skin textures and weather resilience.
+| Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹351 (118ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/)** | Pro-Vitamin B5 + Vitamin E | Daily Cleansing, Redness | ₹384 (250ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
-- **Fast-Absorbing Texture**: Formulated to sink in rapidly without leaving greasy films or clogging pores in hot, humid conditions.
-- **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
-- **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
-
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
-
----
-
-## 2. CeraVe Dermatological Solution — *Best for Sensitive Skin*
-
-Formulated with barrier-restoring active ingredients, this formulation replenishes essential lipids and calms reactive skin.
-
-- **Skin-Identical Ceramides**: Rebuilds the stratum corneum matrix to halt moisture evaporation caused by air conditioning.
-- **Fragrance-Free & Hypoallergenic**: Completely safe for easily irritated, stinging, or redness-prone complexions.
-
-👉 **[View on Amazon India](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
-## 3. Dot & Key Barrier Care — *Best for Hydration & Glow*
+## 1. Cetaphil Gentle Skin Hydrating Cleanser — *Best Overall for Dry Skin*
 
-Combining botanical brightness with modern skin barrier science for effortless daily radiance.
+A soap-free, sulphate-free hydrating cleanser with niacinamide and vitamin B5.
 
-- **Non-Sticky Finish**: Absorbs cleanly and layers smoothly under makeup or sunscreen.
-- **Deep Moisture Reservoir**: Sustains cell hydration for over 24 hours.
+- **Key actives**: Niacinamide (Vitamin B3), Panthenol (Pro-Vitamin B5), Glycerin
+- **Texture & finish**: Non-Foaming Cream Lotion — ultra soft & calmed
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹351 for 118ml (₹3.0/ml) · 4.3★ from 70,900+ Amazon India ratings
+- **Skip it if**: you want a squeaky clean foaming feeling to remove heavy grease.
 
-👉 **[Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
+**Pros:** Zero harsh sulfates; completely non-foaming and non-stripping. **Cons:** Cannot remove heavy waterproof silicone sunscreens on its own.
+
+📖 **[Read our full Cetaphil Gentle Skin Hydrating Cleanser review](/reviews/cetaphil-gentle-cleanser/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21)**
 
 ---
 
+## 2. Simple Kind to Skin Refreshing Facial Wash — *Best Budget Pick*
+
+A mild, soap-free gel with glycerin and vitamin E, in a large 250ml bottle.
+
+- **Key actives**: Pro-Vitamin B5, Vitamin E, Triple Purified Water
+- **Texture & finish**: Crystal Clear Gel — pure clean refreshment
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹384 for 250ml (₹1.5/ml) · 4.6★ from 22,400+ Amazon India ratings
+- **Skip it if**: you need strong active chemical exfoliation for deep stubborn cysts.
+
+**Pros:** 100% soap-free gentle cleansing base that does not irritate eyes. **Cons:** Does not contain active exfoliating acids for targeted acne treatment.
+
+📖 **[Read our full Simple Kind to Skin Refreshing Facial Wash review](/reviews/simple-refreshing-wash/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
+
+---
 ## Editorial Routine Tips for Indian Skin
 
 1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).

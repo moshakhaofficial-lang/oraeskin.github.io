@@ -10,8 +10,8 @@ description: "Avoid last-minute salon chemical burns and breakout panics. Follow
 topPickTitle: "Plum 15% Vitamin C Face Serum with Mandarin"
 topPickBrand: "Plum"
 topPickAsin: "B095PRGHDX"
-topPickRating: "4.6 ★"
-topPickPrice: "~₹550"
+topPickRating: "4 ★"
+topPickPrice: "~₹447"
 ---
 
 Avoid last-minute salon chemical burns and breakout panics. Follow this verified 3-month dermatologist timeline to achieve flawless bridal glass skin on Amazon India.
@@ -24,9 +24,9 @@ Indian weddings involve multiple functions (Haldi, Mehendi, Sangeet, Reception) 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | Month 1-3: Fading Sun Tanning & Boosting Radiance | ~₹550 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
-| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Moringa Oil | Daily Cleansing & Heavy Makeup Removal | ~₹649 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Photostable UV Filters | Outdoor Pre-Wedding Shoots & Daytime Functions | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | Month 1-3: Fading Sun Tanning & Boosting Radiance | ~₹447 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Moringa Oil | Daily Cleansing & Heavy Makeup Removal | ~₹674 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Photostable UV Filters | Outdoor Pre-Wedding Shoots & Daytime Functions | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
 

@@ -10,8 +10,8 @@ description: "Living with diabetes in India and struggling with relentless skin 
 topPickTitle: "CeraVe Moisturizing Cream with Ceramides"
 topPickBrand: "CeraVe"
 topPickAsin: "B07CH8F17Q"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹420"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹344"
 ---
 
 India is often referred to as the diabetes capital of the world, with over 100 million individuals managing Type 2 diabetes. While blood sugar monitoring and dietary management receive primary attention, diabetic cutaneous manifestations—severe generalized xerosis (dryness), relentless itching (pruritus), impaired wound healing, and cracked heel fissures—greatly diminish daily quality of life. Here is the clinical dermatological guide to soothing, repairing, and shielding diabetic skin.
@@ -22,9 +22,9 @@ India is often referred to as the diabetes capital of the world, with over 100 m
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Continuous 24-Hour Deep Hydration for Diabetic Xerosis | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA (Palmitoylethanolamide) | Quenching Neuropathic Diabetic Itching & Healing Cracks | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Base + Glycerin + Niacinamide | Zero-Stripping, Fragrance-Free Cleansing for Thin Skin | ~₹335 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Continuous 24-Hour Deep Hydration for Diabetic Xerosis | ~₹344 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA (Palmitoylethanolamide) | Quenching Neuropathic Diabetic Itching & Healing Cracks | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Base + Glycerin + Niacinamide | Zero-Stripping, Fragrance-Free Cleansing for Thin Skin | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
 ---
 

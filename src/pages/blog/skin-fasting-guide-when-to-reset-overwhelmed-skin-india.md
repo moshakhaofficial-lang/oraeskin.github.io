@@ -10,8 +10,8 @@ description: "Using too many active serums and now your face is red, burning, an
 topPickTitle: "Cetaphil Gentle Skin Hydrating Cleanser"
 topPickBrand: "Cetaphil"
 topPickAsin: "B01CCGW4OE"
-topPickRating: "4.6 ★"
-topPickPrice: "~₹335"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹351"
 ---
 
 In today's social-media-driven skincare culture, it is remarkably easy to overdo it. Combining 10% niacinamide, 2% salicylic acid, retinol, vitamin C, and AHA peeling solutions often leaves the skin barrier stripped, burning, rough, and suddenly reactive to even basic tap water. If your skin is angry and overwhelmed, it is time for a 'Skin Fast'. Here is the clinical guide on how and when to reset your skin.
@@ -22,9 +22,9 @@ In today's social-media-driven skincare culture, it is remarkably easy to overdo
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Cleansing + Niacinamide + Panthenol | Zero-Surfactant Stripping for Raw, Sensitized Skin | ~₹335 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA + Copper | Repairing Intercellular Lipid Mortar Without Clogging | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Broad Spectrum UVA/UVB + Soothing Actives | Non-Stinging Physical Sun Protection During Fasting | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Cleansing + Niacinamide + Panthenol | Zero-Surfactant Stripping for Raw, Sensitized Skin | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA + Copper | Repairing Intercellular Lipid Mortar Without Clogging | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Broad Spectrum UVA/UVB + Soothing Actives | Non-Stinging Physical Sun Protection During Fasting | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

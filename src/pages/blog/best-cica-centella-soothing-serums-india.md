@@ -10,8 +10,8 @@ description: "Soothe intense summer heat rashes, calm post-sun burning, and acce
 topPickTitle: "Minimalist 10% Vitamin C Face Serum with Centella"
 topPickBrand: "Minimalist"
 topPickAsin: "B08MVBF4P8"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹699"
+topPickRating: "4.1 ★"
+topPickPrice: "~₹593"
 ---
 
 Soothe intense summer heat rashes, calm post-sun burning, and accelerate skin healing with high-purity Centella Asiatica (Cica) and Vitamin B5 formulations.
@@ -24,9 +24,9 @@ Centella Asiatica (Tiger Grass / Gotu Kola) is an ancient Ayurvedic botanical cl
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 10% Vitamin C Face Serum** | 1% Pure Centella Asiatica Extract & 10% Ethyl Ascorbic Acid | Sunburned, Reddened & Heat-Stressed Complexions | ~₹699 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper Gluconate | Prickly Heat Rashes & Inflamed Active Breakouts | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract, Hyaluronic Acid & UV Filters | Daily Sun Defense for Reactive Sunburned Skin | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
+| **Minimalist — 10% Vitamin C Face Serum** | 1% Pure Centella Asiatica Extract & 10% Ethyl Ascorbic Acid | Sunburned, Reddened & Heat-Stressed Complexions | ~₹593 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper Gluconate | Prickly Heat Rashes & Inflamed Active Breakouts | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract, Hyaluronic Acid & UV Filters | Daily Sun Defense for Reactive Sunburned Skin | ~₹382 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
 
 ---
 

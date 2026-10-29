@@ -10,8 +10,8 @@ description: "High-concentration AHA/BHA chemical peeling solutions can cause se
 topPickTitle: "Minimalist PHA 3% Alcohol-Free Face Toner"
 topPickBrand: "Minimalist"
 topPickAsin: "B08S581RXJ"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹399"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹338"
 ---
 
 High-concentration AHA/BHA chemical peeling solutions can cause severe burns on melanin-rich skin. Learn the clinical safety rules for weekly exfoliation.
@@ -24,9 +24,9 @@ Viral social media trends often encourage beginners to slather 25%-30% AHA chemi
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — PHA 3% Alcohol-Free Face Toner** | 3% Gluconolactone (PHA), Polyglutamic Acid & Niacinamide | Sensitive, Reactive Indian Skin Seeking Safe Exfoliation | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
-| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Experienced Users, Dull Complexions & Body Exfoliation | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Lipids & PEA | Immediate Post-Exfoliation Barrier Repair | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — PHA 3% Alcohol-Free Face Toner** | 3% Gluconolactone (PHA), Polyglutamic Acid & Niacinamide | Sensitive, Reactive Indian Skin Seeking Safe Exfoliation | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Experienced Users, Dull Complexions & Body Exfoliation | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Lipids & PEA | Immediate Post-Exfoliation Barrier Repair | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 ---
 

@@ -10,8 +10,8 @@ description: "Love your weekly hair oil champi but waking up with small, stubbor
 topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹299"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹284"
 ---
 
 A relaxing weekend oil massage (*champi*) with coconut, castor, almond, or bhringraj oil is an integral part of Indian hair care. However, if you notice clusters of uniform, closed comedones along your hairline, upper forehead, and temples, your hair oil is likely triggering 'pomade acne'. Here is how to enjoy your hair care rituals while keeping your forehead crystal clear.
@@ -22,9 +22,9 @@ A relaxing weekend oil massage (*champi*) with coconut, castor, almond, or bhrin
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% BHA + LHA + Zinc | Dissolving Comedogenic Hair Oil Residue in Pores | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Gentle Post-Shampoo Hairline & Forehead Cleansing | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid + 6% Nicotinamide | Flattening Red Inflamed Hairline Pustules | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% BHA + LHA + Zinc | Dissolving Comedogenic Hair Oil Residue in Pores | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Gentle Post-Shampoo Hairline & Forehead Cleansing | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid + 6% Nicotinamide | Flattening Red Inflamed Hairline Pustules | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---
 

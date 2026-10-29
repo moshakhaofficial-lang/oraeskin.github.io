@@ -11,7 +11,7 @@ topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
 topPickRating: "4.6 ★"
-topPickPrice: "~₹249"
+topPickPrice: "~₹384"
 ---
 
 Transitioning to college life in a hostel or paying guest (PG) accommodation across India is an exciting milestone. But within weeks, many students find their skin spiraling: painful breakouts, sudden dullness, persistent oiliness, and rough texture. Between high-TDS hard borewell water, greasy mess food, late-night exam stress, and shared washrooms, hostel life tests your skin barrier. Here is an airtight, budget-friendly 3-step skincare survival routine under ₹1,000.
@@ -22,9 +22,9 @@ Transitioning to college life in a hostel or paying guest (PG) accommodation acr
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Counteracting Hard Water Mineral Scum Without Stripping | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA | Oil-Free, Sweat-Proof Barrier Repair for Hot Dorms | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Broad Spectrum UVA/UVB + Niacinamide + Vitamin B5 | Campus Sun Protection & Tanning Prevention | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Counteracting Hard Water Mineral Scum Without Stripping | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA | Oil-Free, Sweat-Proof Barrier Repair for Hot Dorms | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Broad Spectrum UVA/UVB + Niacinamide + Vitamin B5 | Campus Sun Protection & Tanning Prevention | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

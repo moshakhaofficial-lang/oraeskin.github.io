@@ -10,8 +10,8 @@ description: "Throw away stinging alcohol aftershaves. Discover dermatologist-ap
 topPickTitle: "Minimalist Vitamin B5 10% Moisturizer"
 topPickBrand: "Minimalist"
 topPickAsin: "B0F6Y86BSD"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹349"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹237"
 ---
 
 Throw away stinging alcohol aftershaves. Discover dermatologist-approved soothing moisturizers that eliminate razor burn, folliculitis, and ingrown bumps.
@@ -24,9 +24,9 @@ Traditional men's aftershaves are typically 70% denatured alcohol with heavy syn
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol (Pro-Vitamin B5), Zinc PCA & Copper | Men Battling Post-Shave Stinging, Redness & Dry Tightness | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid & 6% Nicotinamide | Painful Red Razor Bumps & Trapped Ingrown Hairs on the Neck | ~₹240 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 & Triple Purified Water | Pre-Shave Cleansing to Soften Stubble | ~₹249 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol (Pro-Vitamin B5), Zinc PCA & Copper | Men Battling Post-Shave Stinging, Redness & Dry Tightness | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid & 6% Nicotinamide | Painful Red Razor Bumps & Trapped Ingrown Hairs on the Neck | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 & Triple Purified Water | Pre-Shave Cleansing to Soften Stubble | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
 ---
 

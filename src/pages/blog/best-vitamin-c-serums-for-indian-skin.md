@@ -6,12 +6,12 @@ date: "2026-03-01"
 category: "Serums & Actives"
 rating: 4.8
 keywords: "best vitamin c serum for indian skin, minimalist vitamin c serum review amazon, plum 15 vitamin c serum, ethyl ascorbic acid vs l ascorbic acid india, dark spots serum amazon india"
-description: "We tested the top Vitamin C serums on Amazon India for hyperpigmentation, stability in Indian heat, and skin brightening. Complete comparison with pros, cons, and recommendations."
+description: "We compared the top Vitamin C serums on Amazon India for hyperpigmentation, stability in Indian heat, and skin brightening. Complete comparison with pros, cons, and recommendations."
 topPickTitle: "Minimalist 10% Vitamin C Face Serum with Centella"
 topPickBrand: "Minimalist"
 topPickAsin: "B08MVBF4P8"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹699"
+topPickRating: "4.1 ★"
+topPickPrice: "~₹593"
 ---
 
 Vitamin C is universally acknowledged by dermatologists as the premier antioxidant for morning skin defense. However, for melanin-rich Indian skin (Fitzpatrick skin types III through V), choosing a Vitamin C serum comes with unique challenges:

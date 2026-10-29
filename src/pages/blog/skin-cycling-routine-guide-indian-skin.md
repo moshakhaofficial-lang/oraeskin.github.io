@@ -10,8 +10,8 @@ description: "Prevent barrier damage, peeling, and chemical burns. Master the de
 topPickTitle: "Minimalist Granactive Retinoid 2% (0.2% HPR)"
 topPickBrand: "Minimalist"
 topPickAsin: "B08F8W91F8"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹699"
+topPickRating: "4.1 ★"
+topPickPrice: "~₹629"
 ---
 
 Prevent barrier damage, peeling, and chemical burns. Master the dermatologist-designed 4-night skin cycling schedule tailored for melanin-rich Indian skin.
@@ -24,9 +24,9 @@ The biggest mistake Indian skincare enthusiasts make is applying potent active i
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Granactive Retinoid 2% (0.2% HPR)** | 2% Granactive Retinoid (Hydroxypinacolone Retinoate) in Squalane | Night 2: Cellular Renewal & Collagen Boosting | ~₹699 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
+| **Minimalist — Granactive Retinoid 2% (0.2% HPR)** | 2% Granactive Retinoid (Hydroxypinacolone Retinoate) in Squalane | Night 2: Cellular Renewal & Collagen Boosting | ~₹629 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
 | **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
-| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides, Hyaluronic Acid & MVE Delivery | Nights 3 & 4: Replenishing Barrier Lipids | ~₹420 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
+| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides, Hyaluronic Acid & MVE Delivery | Nights 3 & 4: Replenishing Barrier Lipids | ~₹344 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
 
 ---
 

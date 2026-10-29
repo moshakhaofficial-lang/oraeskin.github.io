@@ -10,8 +10,8 @@ description: "Struggling with dark velvety skin or tanning around your neck? Lea
 topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹499"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹474"
 ---
 
 Struggling with dark velvety skin or tanning around your neck? Learn the clinical difference between Acanthosis Nigricans and sun damage, and the right treatment protocol.
@@ -24,9 +24,9 @@ A dark neck is one of the most common dermatological complaints in India. Many p
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Thick Velvety Neck Creases & Sun-Tanned Necklines | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA), Betaine & Menthol | Neck Pores, Shirt Collar Friction & Sweat Buildup | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids & PEA | Post-Exfoliation Moisture & Anti-Friction Cushion | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Thick Velvety Neck Creases & Sun-Tanned Necklines | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA), Betaine & Menthol | Neck Pores, Shirt Collar Friction & Sweat Buildup | ~₹296 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids & PEA | Post-Exfoliation Moisture & Anti-Friction Cushion | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 ---
 

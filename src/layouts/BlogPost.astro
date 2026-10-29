@@ -33,6 +33,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
     image={articleImage}
     keywords={frontmatter.keywords || "skincare reviews, amazon india skincare, best skincare products, indian skin routines, OraeSkin"}
     ogType="article"
+    noindex={frontmatter.noindex === true}
 >
     <!-- Structured Data (JSON-LD) -->
     <script is:inline type="application/ld+json" slot="head" set:html={JSON.stringify({
@@ -117,13 +118,15 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
             </footer>
         </article>
     </main>
-    <MobileStickyBar 
-        title={frontmatter.topPickTitle || "Minimalist SPF 50 Multi-Vitamin Sunscreen"}
-        brand={frontmatter.topPickBrand || "Minimalist"}
-        asinOrUrl={frontmatter.topPickAsin || "B09FPS9D5T"}
-        rating={frontmatter.topPickRating || "4.8 ★"}
-        priceEst={frontmatter.topPickPrice || "~₹399"}
-    />
+    {frontmatter.noindex !== true && (
+        <MobileStickyBar 
+            title={frontmatter.topPickTitle || "Minimalist SPF 50 Multi-Vitamin Sunscreen"}
+            brand={frontmatter.topPickBrand || "Minimalist"}
+            asinOrUrl={frontmatter.topPickAsin || "B09FPS9D5T"}
+            rating={frontmatter.topPickRating || "4.8 ★"}
+            priceEst={frontmatter.topPickPrice || "~₹399"}
+        />
+    )}
     <Footer />
 </Layout>
 
@@ -247,6 +250,22 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
         border-collapse: collapse;
         margin: 28px 0;
         font-size: 0.95rem;
+    }
+
+    /* Wide comparison tables scroll inside themselves instead of widening the page */
+    @media (max-width: 768px) {
+        .article-content :global(table) {
+            display: block;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            font-size: 0.88rem;
+        }
+
+        .article-content :global(th),
+        .article-content :global(td) {
+            min-width: 120px;
+            padding: 10px 12px;
+        }
     }
 
     .article-content :global(th) {

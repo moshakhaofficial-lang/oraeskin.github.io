@@ -4384,6 +4384,711 @@ export const PRODUCTS: SkincareProduct[] = [
             "value": 7.6,
             "overall": 8.4
         }
+    },
+    {
+        "id": "deconstruct-gel-sunscreen-spf50",
+        "name": "Gel Sunscreen SPF 50 PA++++",
+        "title": "Deconstruct Gel Sunscreen SPF 50 PA++++ for Oily Skin",
+        "brand": "Deconstruct",
+        "category": "sunscreens",
+        "subcategory": "New-Gen Filter Gel Sunscreen",
+        "asin": "B0B45RB1RV",
+        "amazonUrl": "https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21",
+        "badge": "Best Gel Sunscreen for Oily Skin",
+        "price": 367,
+        "priceEst": "₹367",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/deconstruct-gel-sunscreen-spf50.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "18,600+",
+        "reviewCount": "18,600+",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 9,
+            "evidence": 8.6,
+            "userFeedback": 8.4,
+            "value": 9,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Sun Protection",
+            "Tanning",
+            "Oiliness",
+            "UV Damage"
+        ],
+        "keyActives": [
+            "DHHB (Uvinul A Plus)",
+            "Ethylhexyl Triazone",
+            "Bemotrizinol",
+            "Bisoctrizole (MBBT)"
+        ],
+        "keyIngredients": [
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Ethylhexyl Triazone",
+            "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+            "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+            "Glycerin",
+            "Squalane"
+        ],
+        "ingredients": [
+            "Aqua",
+            "C12-C15 Alkyl Benzoate",
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Ethylhexyl Triazone",
+            "Bis Ethylhexyloxyphenol Methoxyphenyl Triazine",
+            "Phospholipids",
+            "Polysorbate 80",
+            "Butylene Glycol",
+            "Glycerin",
+            "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+            "Decyl Glucoside",
+            "Xanthan Gum",
+            "Octyl Salicylate",
+            "Squalane",
+            "Butyloctyl Salicylate",
+            "Phenoxyethanol (and) Ethylhexylglycerin"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lightweight Gel",
+        "finish": "Non-Greasy, Natural",
+        "whiteCast": "Zero",
+        "bestFor": "Oily and combination skin that wants a light, photostable daily sunscreen with modern UV filters at a budget price.",
+        "avoidIf": "Your skin is very dry and needs a richer, moisturising sunscreen.",
+        "whyWeLikeIt": "Four new-generation, photostable UV filters (including Uvinul A Plus and Tinosorb S) in a fragrance-free gel under ₹400. That's a filter line-up usually found in pricier sunscreens.",
+        "pros": [
+            "Four modern, photostable UV filters for broad UVA/UVB coverage",
+            "Unscented, lightweight gel with no white cast",
+            "Under ₹400 for 50g"
+        ],
+        "cons": [
+            "Not very moisturising — dry skin will need a moisturiser underneath",
+            "Gel sunscreens can pill if layered over heavy creams"
+        ],
+        "verdict": "One of the best-value sunscreens for oily skin on Amazon India, with a genuinely modern filter system.",
+        "alternatives": [
+            {
+                "label": "Ultra-Matte Alternative",
+                "productId": "reequil-ultra-matte-spf50",
+                "reason": "Drier, more mattifying finish for very oily skin."
+            },
+            {
+                "label": "Hydrating Alternative",
+                "productId": "dermaco-hyaluronic-spf50",
+                "reason": "Hyaluronic aqua gel with a little more hydration."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.8,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 9,
+            "texture": 9,
+            "value": 9,
+            "overall": 8.8
+        }
+    },
+    {
+        "id": "foxtale-glow-sunscreen-spf50",
+        "name": "Glow Sunscreen SPF 50 PA++++",
+        "title": "Foxtale Glow Sunscreen SPF 50 PA++++ with Vitamin C & Niacinamide",
+        "brand": "Foxtale",
+        "category": "sunscreens",
+        "subcategory": "Dewy Glow Sunscreen",
+        "asin": "B0C3CP6B5Y",
+        "amazonUrl": "https://www.amazon.in/dp/B0C3CP6B5Y?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0C3CP6B5Y?tag=oraeskin-21",
+        "badge": "Best Dewy Glow Sunscreen Under ₹350",
+        "price": 318,
+        "priceEst": "₹318",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/foxtale-glow-sunscreen-spf50.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "9,900+",
+        "reviewCount": "9,900+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 8.4,
+            "userFeedback": 8.4,
+            "value": 9.2,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Sun Protection",
+            "Dullness",
+            "Tanning",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "New-Gen UV Filters (DHHB, Ethylhexyl Triazone, Tris-Biphenyl Triazine)",
+            "Niacinamide",
+            "Ethyl Ascorbic Acid (Vitamin C)"
+        ],
+        "keyIngredients": [
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Ethylhexyl Triazone",
+            "Tris-Biphenyl Triazine",
+            "Niacinamide",
+            "Ethyl Ascorbic Acid",
+            "Tocopherol"
+        ],
+        "ingredients": [
+            "Aqua",
+            "C12-15 Alkyl Benzoate",
+            "Propylene Glycol",
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Dimethicone",
+            "Cetearyl Olivate (and) Sorbitan Olivate",
+            "Ethylhexyl Triazone",
+            "Glyceryl Monostearate",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Niacinamide",
+            "Tris-Biphenyl Triazine",
+            "Ethyl Ascorbic Acid",
+            "Tocopherol",
+            "Disodium EDTA",
+            "Fragrance (allergen-free)"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lightweight Lotion",
+        "finish": "Dewy Glow",
+        "whiteCast": "Zero",
+        "bestFor": "Normal to dry skin that wants a radiant, dewy finish and a little brightening support from niacinamide and vitamin C.",
+        "avoidIf": "You have very oily skin that dislikes glow, or you avoid fragrance.",
+        "whyWeLikeIt": "Modern UV filters including Tinosorb A2B, with niacinamide and a stable vitamin C derivative, for a glowy finish at a low price.",
+        "pros": [
+            "New-gen UV filters with a radiant finish and no white cast",
+            "Niacinamide and ethyl ascorbic acid support even tone",
+            "Very good value at around ₹6 per ml"
+        ],
+        "cons": [
+            "Contains added fragrance (labelled allergen-free)",
+            "The glow finish can look shiny on oily skin by midday"
+        ],
+        "verdict": "A great budget pick for dull, normal-to-dry skin that wants a glow. Oily or fragrance-sensitive skin should choose a gel instead.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free Dewy Alternative",
+                "productId": "aqualogica-radiance-spf50",
+                "reason": "Dewy gel sunscreen with watermelon and niacinamide."
+            },
+            {
+                "label": "Gel Alternative for Oily Skin",
+                "productId": "deconstruct-gel-sunscreen-spf50",
+                "reason": "Unscented, non-greasy gel with four modern filters."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 9.2,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "minimalist-salicylic-serum-2",
+        "name": "2% Salicylic Acid Serum",
+        "title": "Minimalist 2% Salicylic Acid Serum for Acne & Blackheads",
+        "brand": "Minimalist",
+        "category": "serums",
+        "subcategory": "BHA Exfoliating Serum",
+        "asin": "B08GG9M863",
+        "amazonUrl": "https://www.amazon.in/dp/B08GG9M863?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08GG9M863?tag=oraeskin-21",
+        "badge": "Best Overall Salicylic Acid Serum",
+        "price": 483,
+        "priceEst": "₹483",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/minimalist-salicylic-serum-2.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "26,800+",
+        "reviewCount": "26,800+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.6,
+            "evidence": 9,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9.4
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Whiteheads",
+            "Active Pimples",
+            "Pore Cleansing"
+        ],
+        "keyActives": [
+            "2% Salicylic Acid (BHA)"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid"
+        ],
+        "ingredients": [
+            "Salicylic Acid 2% (full ingredient list on the pack)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Serum",
+        "finish": "Clean, Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily, acne-prone skin with blackheads, whiteheads and clogged pores that needs a leave-on BHA.",
+        "avoidIf": "You have dry or sensitised skin, or already use another strong exfoliant or retinoid every night.",
+        "whyWeLikeIt": "A leave-on 2% salicylic acid works much harder on clogged pores than a face wash, and Minimalist's version is fragrance-free and widely trusted.",
+        "pros": [
+            "Full 2% salicylic acid in a leave-on serum for blackheads and whiteheads",
+            "Fragrance-free",
+            "Strong track record (26,800+ Amazon India ratings)"
+        ],
+        "cons": [
+            "Can dry or irritate if used daily from the start — begin every other night",
+            "Amazon listing doesn't show the full ingredient list"
+        ],
+        "verdict": "The best all-round leave-on BHA for most oily, acne-prone skin in India.",
+        "alternatives": [
+            {
+                "label": "Budget Alternative",
+                "productId": "dermaco-salicylic-serum-2",
+                "reason": "2% salicylic serum with witch hazel in a small, cheap 10ml bottle."
+            },
+            {
+                "label": "Gentler Squalane-Based Alternative",
+                "productId": "theordinary-salicylic-solution-2",
+                "reason": "Oil-based 2% solution that releases BHA more gradually."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.7,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.6,
+            "overall": 8.7
+        }
+    },
+    {
+        "id": "dermaco-salicylic-serum-2",
+        "name": "2% Salicylic Acid Face Serum",
+        "title": "The Derma Co 2% Salicylic Acid Face Serum with Witch Hazel",
+        "brand": "The Derma Co",
+        "category": "serums",
+        "subcategory": "BHA Exfoliating Serum",
+        "asin": "B0C61Q7DM7",
+        "amazonUrl": "https://www.amazon.in/dp/B0C61Q7DM7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0C61Q7DM7?tag=oraeskin-21",
+        "badge": "Best Budget Salicylic Acid Serum",
+        "price": 182,
+        "priceEst": "₹182",
+        "currency": "₹",
+        "size": "10ml",
+        "image": "/images/products/dermaco-salicylic-serum-2.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "14,400+",
+        "reviewCount": "14,400+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.4,
+            "evidence": 8.8,
+            "userFeedback": 8.2,
+            "value": 8,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Active Pimples",
+            "Oiliness",
+            "Pore Cleansing"
+        ],
+        "keyActives": [
+            "2% Salicylic Acid (BHA)",
+            "Witch Hazel Extract",
+            "Willow Bark Extract",
+            "Sodium Hyaluronate"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid",
+            "Hamamelis Virginiana (Witch Hazel) Extract",
+            "Salix Alba (Willow) Bark Extract",
+            "Sodium Hyaluronate",
+            "Glycerin"
+        ],
+        "ingredients": [
+            "Aqua (Water)",
+            "Propanediol",
+            "Ethoxydiglycol",
+            "Salicylic Acid",
+            "Methylpropanediol",
+            "Glycerin",
+            "Pentylene Glycol",
+            "Hamamelis Virginiana (Witch Hazel) Extract",
+            "Salix Alba (Willow) Bark Extract",
+            "Sodium Hyaluronate",
+            "Dimethyl Isosorbide",
+            "Sclerotium Gum",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Sodium Benzoate",
+            "Potassium Sorbate"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Watery Serum",
+        "finish": "Light & Matte",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Trying a leave-on BHA for the first time on a budget, or spot-using it on oily, congested areas.",
+        "avoidIf": "Your skin stings easily (witch hazel can irritate), or you want a large bottle for full-face daily use.",
+        "whyWeLikeIt": "A water-based 2% salicylic serum with hyaluronate and glycerin to offset dryness, at a very low entry price.",
+        "pros": [
+            "2% salicylic acid with a transparent full ingredient list",
+            "Hyaluronate and glycerin help reduce dryness",
+            "Cheap way to test whether BHA suits you"
+        ],
+        "cons": [
+            "Only 10ml — about ₹18 per ml, more than Minimalist's 30ml",
+            "Witch hazel can sting sensitive skin"
+        ],
+        "verdict": "A low-risk way to try a leave-on BHA. Move to a bigger bottle once you know it works for you.",
+        "alternatives": [
+            {
+                "label": "Better-Value Bottle",
+                "productId": "minimalist-salicylic-serum-2",
+                "reason": "Same 2% strength in a 30ml bottle."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "theordinary-salicylic-solution-2",
+        "name": "Salicylic Acid 2% Solution",
+        "title": "The Ordinary Salicylic Acid 2% Solution (Squalane Base)",
+        "brand": "The Ordinary",
+        "category": "serums",
+        "subcategory": "Anhydrous BHA Solution",
+        "asin": "B0C3PCJ6SD",
+        "amazonUrl": "https://www.amazon.in/dp/B0C3PCJ6SD?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0C3PCJ6SD?tag=oraeskin-21",
+        "badge": "Best Gentle, Oil-Based BHA",
+        "price": 600,
+        "priceEst": "₹600",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/theordinary-salicylic-solution-2.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "14,800+",
+        "reviewCount": "14,800+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.4,
+            "evidence": 9,
+            "userFeedback": 8.6,
+            "value": 7.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Combination",
+            "Normal",
+            "Acne-Prone",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Rough Texture",
+            "Pore Cleansing",
+            "Active Pimples"
+        ],
+        "keyActives": [
+            "2% Salicylic Acid (BHA)",
+            "Squalane Base",
+            "Hydrating Polyglycerides"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid",
+            "Squalane",
+            "Polyglycerides"
+        ],
+        "ingredients": [
+            "Squalane",
+            "Salicylic Acid",
+            "Polyglyceryl esters (full ingredient list on the pack)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Oil-Serum",
+        "finish": "Soft, Slightly Silky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Combination or acne-prone skin that finds water-based BHA serums drying, and wants a gentler, gradual exfoliation.",
+        "avoidIf": "You have very oily skin and dislike any oil-based texture.",
+        "whyWeLikeIt": "Dissolving 2% salicylic acid in a squalane base releases the acid more gradually, which many people find less drying than water-based BHA serums.",
+        "pros": [
+            "Squalane base makes 2% BHA feel less drying",
+            "Fragrance-free and simple",
+            "Highest Amazon rating of the three serums we compared (4.3★)"
+        ],
+        "cons": [
+            "Most expensive of the three per ml",
+            "Oily texture may feel heavy on very oily skin in summer"
+        ],
+        "verdict": "The gentlest way to use a full-strength BHA, if your skin finds other serums drying.",
+        "alternatives": [
+            {
+                "label": "Water-Based Alternative",
+                "productId": "minimalist-salicylic-serum-2",
+                "reason": "Lighter, non-oily 2% BHA serum for very oily skin."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 7.8,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "nua-pimple-patch",
+        "name": "Pimple Patch (Hydrocolloid + Salicylic Acid)",
+        "title": "Nua Pimple Patch — 36 Hydrocolloid & Salicylic Acid Patches",
+        "brand": "Nua",
+        "category": "spot-treatments",
+        "subcategory": "Hydrocolloid Pimple Patch",
+        "asin": "B0D2ZVYLSS",
+        "amazonUrl": "https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21",
+        "badge": "Best Budget Pimple Patch",
+        "price": 135,
+        "priceEst": "₹135",
+        "currency": "₹",
+        "size": "36 Patches",
+        "image": "/images/products/nua-pimple-patch.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "2,400+",
+        "reviewCount": "2,400+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.6,
+            "evidence": 8.2,
+            "userFeedback": 8,
+            "value": 9.6,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Whiteheads",
+            "Pus-Filled Pimples",
+            "Skin Picking Urges"
+        ],
+        "keyActives": [
+            "Hydrocolloid",
+            "Salicylic Acid"
+        ],
+        "keyIngredients": [
+            "Hydrocolloid",
+            "Salicylic Acid"
+        ],
+        "ingredients": [
+            "Hydrocolloid",
+            "Salicylic Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Thin Hydrocolloid Patch",
+        "finish": "Discreet",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Ripe, pus-filled whiteheads overnight, and stopping yourself from picking.",
+        "avoidIf": "You're treating deep cysts with no visible head — patches can't reach them.",
+        "whyWeLikeIt": "Hydrocolloid patches with salicylic acid at under ₹4 each. That's the cheapest sensible way to stop picking and flatten ripe spots overnight.",
+        "pros": [
+            "Under ₹4 per patch — excellent value",
+            "Hydrocolloid absorbs fluid and blocks picking",
+            "Unscented"
+        ],
+        "cons": [
+            "Works on surface whiteheads, not deep or blind pimples",
+            "Listing doesn't state the salicylic acid strength"
+        ],
+        "verdict": "The best-value pimple patch on Amazon India for whiteheads. Buy these before pricier micro-tip patches.",
+        "alternatives": [
+            {
+                "label": "Leave-On Gel Alternative",
+                "productId": "sebogel-spot-gel",
+                "reason": "Salicylic and nicotinamide gel for bumps without a visible head."
+            },
+            {
+                "label": "Branded Alternative",
+                "productId": "deconstruct-pimple-patch",
+                "reason": "Salicylic acid patches in three sizes with strong adhesion."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 9.6,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "deconstruct-pimple-patch",
+        "name": "Pimple Patches (Salicylic Acid)",
+        "title": "Deconstruct Pimple Patches — 36 Patches in 3 Sizes",
+        "brand": "Deconstruct",
+        "category": "spot-treatments",
+        "subcategory": "Hydrocolloid Pimple Patch",
+        "asin": "B0GDZJN3MK",
+        "amazonUrl": "https://www.amazon.in/dp/B0GDZJN3MK?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GDZJN3MK?tag=oraeskin-21",
+        "badge": "Best Multi-Size Pimple Patch",
+        "price": 275,
+        "priceEst": "₹275",
+        "currency": "₹",
+        "size": "36 Patches",
+        "image": "/images/products/deconstruct-pimple-patch.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "400+",
+        "reviewCount": "400+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 8.4,
+            "availability": 8.6
+        },
+        "skinType": [
+            "All",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Whiteheads",
+            "Active Pimples",
+            "Skin Picking Urges"
+        ],
+        "keyActives": [
+            "Hydrocolloid (Carboxymethyl Cellulose)",
+            "Salicylic Acid"
+        ],
+        "keyIngredients": [
+            "Carboxymethyl Cellulose",
+            "Salicylic Acid"
+        ],
+        "ingredients": [
+            "Carboxymethyl Cellulose",
+            "Homopolymer",
+            "Petroleum Resins",
+            "Styrene Butadiene Copolymer",
+            "Mineral Oil",
+            "Polyurethane",
+            "Pentaerythritol Tetrakis",
+            "Salicylic Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hydrocolloid Patch (3 Sizes)",
+        "finish": "Discreet",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Whiteheads and small inflamed spots of different sizes, when you want patches that stay put overnight.",
+        "avoidIf": "You have cystic acne — the brand itself says these aren't formulated for cysts.",
+        "whyWeLikeIt": "Three patch sizes in one pack and strong adhesion, with salicylic acid in the hydrocolloid.",
+        "pros": [
+            "Three sizes cover tiny to larger spots",
+            "Strong adhesion for overnight wear",
+            "Unscented"
+        ],
+        "cons": [
+            "The title says 1% niacinamide, but the listed ingredients don't include niacinamide",
+            "About twice the price per patch of Nua"
+        ],
+        "verdict": "A solid patch if you want multiple sizes, but Nua does the basic job for less.",
+        "alternatives": [
+            {
+                "label": "Budget Alternative",
+                "productId": "nua-pimple-patch",
+                "reason": "Hydrocolloid and salicylic patches at under ₹4 each."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.4,
+            "overall": 8.2
+        }
     }
 ];
 

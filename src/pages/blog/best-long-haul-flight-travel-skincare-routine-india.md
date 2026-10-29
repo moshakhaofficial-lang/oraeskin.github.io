@@ -10,8 +10,8 @@ description: "Flying long-haul from India? Airplane cabin humidity drops below 1
 topPickTitle: "Dot & Key Rice Water & Ceramide Hydrating Cream"
 topPickBrand: "Dot & Key"
 topPickAsin: "B0BDVG99J5"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹395"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹328"
 ---
 
 Whether you are flying from Delhi to London or Mumbai to San Francisco, long-haul flights subject your skin to extreme environmental stress. Commercial airplane cabins maintain an artificial relative humidity of just 10% to 15%—drier than the Sahara Desert. Discover how to protect your skin barrier, prevent in-flight transepidermal water loss (TEWL), and land with glowing, dewy skin.
@@ -22,9 +22,9 @@ Whether you are flying from Delhi to London or Mumbai to San Francisco, long-hau
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice Water + 5 Essential Ceramides | Barrier Shielding Against Sub-15% Cabin Humidity | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+| **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice Water + 5 Essential Ceramides | Barrier Shielding Against Sub-15% Cabin Humidity | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ~₹900 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
-| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramides + Petrolatum + UV Filters | Locking Moisture into Fragile Chapped Lips | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
+| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramides + Petrolatum + UV Filters | Locking Moisture into Fragile Chapped Lips | ~₹264 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
 
 ---
 

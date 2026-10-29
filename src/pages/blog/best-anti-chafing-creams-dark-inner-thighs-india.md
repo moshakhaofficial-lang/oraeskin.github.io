@@ -6,12 +6,12 @@ date: "2026-09-10"
 category: "Body Care"
 rating: 4.8
 keywords: "anti chafing cream india, dark inner thighs friction treatment, bioderma atoderm baume chafing, minimalist glycolic acid inner thighs, prevent chub rub"
-description: "Stop painful summer thigh chafing ('chub rub') and fade persistent friction hyperpigmentation. Tested clinical barrier creams and gentle AHA exfoliants."
+description: "Stop painful summer thigh chafing ('chub rub') and fade persistent friction hyperpigmentation. Clinical barrier creams and gentle AHA exfoliants."
 topPickTitle: "Bioderma Atoderm Intensive Baume"
 topPickBrand: "Bioderma"
 topPickAsin: "B07SGC46XW"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹790"
+topPickRating: "4.4 ★"
+topPickPrice: "~₹472"
 ---
 
 Stop painful summer thigh chafing ('chub rub') and fade persistent friction hyperpigmentation. Tested clinical barrier creams and gentle AHA exfoliants.
@@ -24,9 +24,9 @@ In India's hot and humid tropical climate, wearing traditional attire, shorts, o
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Lipids & PEA | Raw Chafed Thighs, Walking Friction & Severe Stinging | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Dark Brown Pigmented Inner Thighs from Chronic Friction | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Plum BodyLovin — BodyLovin Vanilla Caramello Body Lotion** | Shea Butter & Vitamin B5 | Daily Body Moisture & Post-Shower Elasticity | ~₹380 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Lipids & PEA | Raw Chafed Thighs, Walking Friction & Severe Stinging | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Dark Brown Pigmented Inner Thighs from Chronic Friction | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Plum BodyLovin — BodyLovin Vanilla Caramello Body Lotion** | Shea Butter & Vitamin B5 | Daily Body Moisture & Post-Shower Elasticity | ~₹350 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21) |
 
 ---
 

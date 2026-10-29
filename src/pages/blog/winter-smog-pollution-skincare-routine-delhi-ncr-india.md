@@ -10,8 +10,8 @@ description: "Facing hazardous AQI levels (400-900+) in Delhi-NCR and North Indi
 topPickTitle: "Plum 15% Vitamin C Face Serum"
 topPickBrand: "Plum"
 topPickAsin: "B095PRGHDX"
-topPickRating: "4.6 ★"
-topPickPrice: "~₹550"
+topPickRating: "4 ★"
+topPickPrice: "~₹447"
 ---
 
 Every winter, northern India—encompassing Delhi-NCR, Haryana, Punjab, and Uttar Pradesh—is engulfed in a dense blanket of toxic smog. Air Quality Index (AQI) readings frequently breach 'Severe' and 'Hazardous' thresholds (400 to 900+). While the respiratory consequences of air pollution are widely discussed, your skin is your body's primary direct contact barrier with this toxic air. Microscopic particulate matter penetrates deep into pores, causing dullness, premature wrinkles, and severe barrier inflammation. Here is your medical survival guide for winter smog.
@@ -22,9 +22,9 @@ Every winter, northern India—encompassing Delhi-NCR, Haryana, Punjab, and Utta
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Mandarin Extract | Neutralizing Free Radicals & Halting AhR Pigmentation | ~₹550 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
-| **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice + 5 Physiological Ceramides | Physical & Lipid Shielding Against Fine Smog Particles | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides + Hybrid UV/Pollution Shield Filters | Defending Melanin from Combined UV & Smog Stress | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Mandarin Extract | Neutralizing Free Radicals & Halting AhR Pigmentation | ~₹447 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice + 5 Physiological Ceramides | Physical & Lipid Shielding Against Fine Smog Particles | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides + Hybrid UV/Pollution Shield Filters | Defending Melanin from Combined UV & Smog Stress | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
 

@@ -10,8 +10,8 @@ description: "Protect recovering skin from post-inflammatory hyperpigmentation a
 topPickTitle: "Dr. Sheth's Ceramide & Vitamin C Sunscreen"
 topPickBrand: "Dr. Sheth's"
 topPickAsin: "B0DVB9CGDS"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹499"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹369"
 ---
 
 Protect recovering skin from post-inflammatory hyperpigmentation after in-clinic chemical peels, microneedling, and laser toning. Gentle, non-stinging sunscreens.
@@ -24,9 +24,9 @@ In-clinic dermatological treatments—such as Glycolic/Salicylic acid peels, Q-s
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Ethyl Ascorbic Acid & Gentle UV Filters | Post-Peel, Post-Laser & Post-Microneedling Recovery | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids & PEA | Severely Peeling & Raw Sensitized Skin (PM Routine) | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract & Hyaluronic Acid | Mild Peels & Surface Exfoliation Recovery | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Ethyl Ascorbic Acid & Gentle UV Filters | Post-Peel, Post-Laser & Post-Microneedling Recovery | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids & PEA | Severely Peeling & Raw Sensitized Skin (PM Routine) | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract & Hyaluronic Acid | Mild Peels & Surface Exfoliation Recovery | ~₹382 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
 
 ---
 

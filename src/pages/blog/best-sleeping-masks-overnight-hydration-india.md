@@ -10,8 +10,8 @@ description: "Sleeping with air conditioning drops ambient humidity to desert le
 topPickTitle: "Dot & Key Rice Water & Ceramide Hydrating Cream"
 topPickBrand: "Dot & Key"
 topPickAsin: "B0BDVG99J5"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹395"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹328"
 ---
 
 Sleeping with air conditioning drops ambient humidity to desert levels (under 30%), causing severe morning tightness. Discover lightweight overnight sleeping packs.
@@ -24,9 +24,9 @@ During hot Indian summers and monsoons, sleeping with air conditioning is essent
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Ceramides & Hyaluronic Acid | Waking Up with Dry, Tight Skin from Overnight AC | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **Dot & Key — Vitamin C+E Lip Sleeping Mask** | Vitamin C, Vitamin E, Shea Butter & Lingonberry | Dry, Peeling Lips Damaged by Air Conditioning | ~₹345 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Very Dry, Stinging Skin That Cracks in AC Rooms | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Ceramides & Hyaluronic Acid | Waking Up with Dry, Tight Skin from Overnight AC | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+| **Dot & Key — Vitamin C+E Lip Sleeping Mask** | Vitamin C, Vitamin E, Shea Butter & Lingonberry | Dry, Peeling Lips Damaged by Air Conditioning | ~₹194 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Very Dry, Stinging Skin That Cracks in AC Rooms | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 ---
 

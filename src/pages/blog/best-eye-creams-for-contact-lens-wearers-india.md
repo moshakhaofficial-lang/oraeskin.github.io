@@ -6,7 +6,7 @@ date: "2026-10-29"
 category: "Eye Care"
 rating: 4.8
 keywords: "eye cream contact lens wearers india, non migrating eye cream, the ordinary caffeine eye serum, dark circles eye cream sensitive eyes, prevent cloudy lenses"
-description: "Tired of eye creams migrating into your eyes, stinging, and blurring your contact lenses? Discover ophthalmologist-tested, non-creeping periorbital treatments."
+description: "Lightweight, fragrance-free eye serums on Amazon India that are less likely to migrate into your eyes or blur contact lenses."
 topPickTitle: "The Ordinary Caffeine Solution 5% + EGCG"
 topPickBrand: "The Ordinary"
 topPickAsin: "B01MUZVE1C"

@@ -10,8 +10,8 @@ description: "Oral Isotretinoin (Accutane) causes debilitating cheilitis, deep b
 topPickTitle: "Bioderma Atoderm Intensive Baume"
 topPickBrand: "Bioderma"
 topPickAsin: "B07SGC46XW"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹790"
+topPickRating: "4.4 ★"
+topPickPrice: "~₹472"
 ---
 
 Oral Isotretinoin (Accutane) causes debilitating cheilitis, deep bleeding fissures, and raw lips. Discover heavy-duty ceramide and medical-grade lip treatments.
@@ -24,9 +24,9 @@ Oral Isotretinoin (commonly prescribed under brands like Sotret, Tretiva, or Acc
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids, PEA & Zinc Gluconate | Accutane Patients with Severe Bleeding Lip Fissures | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramide NP, Hyaluronic Acid & Modern UV Filters | Daytime Sun Protection During Oral Retinoid Therapy | ~₹299 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
-| **Dot & Key — Vitamin C+E Lip Sleeping Mask** | Vitamin C, Shea Butter & Antioxidant Berry Complex | Overnight Deep Moisture Glaze for Flaking Lips | ~₹345 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids, PEA & Zinc Gluconate | Accutane Patients with Severe Bleeding Lip Fissures | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramide NP, Hyaluronic Acid & Modern UV Filters | Daytime Sun Protection During Oral Retinoid Therapy | ~₹264 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
+| **Dot & Key — Vitamin C+E Lip Sleeping Mask** | Vitamin C, Shea Butter & Antioxidant Berry Complex | Overnight Deep Moisture Glaze for Flaking Lips | ~₹194 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21) |
 
 ---
 

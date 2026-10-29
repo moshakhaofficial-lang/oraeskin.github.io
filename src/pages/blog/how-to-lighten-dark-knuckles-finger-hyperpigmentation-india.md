@@ -10,8 +10,8 @@ description: "Struggling with noticeably darker knuckles, elbows, and finger joi
 topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹499"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹474"
 ---
 
 Knuckle hypermelanosis—noticeable darkening of the skin over the interphalangeal joints of the fingers—is an extremely common and frustrating dermatological concern among individuals with melanin-rich South Asian skin. Many people resort to aggressive lemon rubbing, baking soda scrubs, or unregulated bleaching creams, which inevitably backfire and make knuckles even darker. Here is a scientifically backed dermatological routine to safely exfoliate thickened keratin and fade knuckle hyperpigmentation.
@@ -22,9 +22,9 @@ Knuckle hypermelanosis—noticeable darkening of the skin over the interphalange
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 8% Glycolic Acid Liquid** | 8% Pure Glycolic Acid + Bamboo Water | Dissolving Dense Compacted Keratin on Finger Joints | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Sealing Repaired Skin & Halting Friction-Induced Melanin | ~₹790 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA | Inhibiting Melanosome Transfer to Finger Keratinocytes | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Liquid** | 8% Pure Glycolic Acid + Bamboo Water | Dissolving Dense Compacted Keratin on Finger Joints | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Sealing Repaired Skin & Halting Friction-Induced Melanin | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA | Inhibiting Melanosome Transfer to Finger Keratinocytes | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 
 ---
 

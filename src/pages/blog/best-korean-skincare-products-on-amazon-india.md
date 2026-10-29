@@ -10,8 +10,8 @@ description: "Achieve radiant, hydrated glass skin with verified K-beauty essent
 topPickTitle: "The Face Shop Rice Water Bright Foaming Cleanser"
 topPickBrand: "The Face Shop"
 topPickAsin: "B0DRYQ6274"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹649"
+topPickRating: "4.5 ★"
+topPickPrice: "~₹674"
 ---
 
 Achieve radiant, hydrated glass skin with verified K-beauty essentials available on Amazon India with fast Prime delivery and guaranteed authenticity.
@@ -24,9 +24,9 @@ Korean skincare routines have revolutionized global dermatology through hydratio
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Jojoba Oil | Dull Skin, Makeup Wearers & Combination Skin | ~₹649 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
+| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Jojoba Oil | Dull Skin, Makeup Wearers & Combination Skin | ~₹674 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
 | **[COSRX Advanced Snail 96 Mucin Power Essence](/reviews/cosrx-snail-96-essence/)** | 96% Snail Secretion Filtrate + Sodium Hyaluronate | Dehydration, Barrier Damage | ~₹1,300 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21) |
-| **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Ceramides & Hyaluronic Acid | Dehydrated, Stressed & Compromised Skin | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+| **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Ceramides & Hyaluronic Acid | Dehydrated, Stressed & Compromised Skin | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
 ---
 

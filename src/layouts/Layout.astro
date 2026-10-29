@@ -9,6 +9,7 @@ export interface Props {
     image?: string;
     keywords?: string;
     ogType?: string;
+    noindex?: boolean;
 }
 
 const { 
@@ -16,7 +17,8 @@ const {
     description = SITE_CONFIG.description,
     image = '/images/Oraeskin_FBCover.png',
     keywords = "skincare reviews, best sunscreen for indian skin, amazon india skincare, facewash for acne, niacinamide serum, affordable skincare india, OraeSkin",
-    ogType = 'website'
+    ogType = 'website',
+    noindex = false
 } = Astro.props;
 
 const canonicalUrl = `https://www.oraeskin.in${Astro.url.pathname}`;
@@ -59,6 +61,7 @@ const fullImageUrl = image.startsWith('http') ? image : `https://www.oraeskin.in
         <!-- SEO & Meta -->
         <meta name="google-site-verification" content="google00fd83d7197d0bb6" />
         <meta name="description" content={description} />
+        {noindex && <meta name="robots" content="noindex, follow" />}
         <meta name="keywords" content={keywords} />
         <meta name="author" content="OraeSkin Skincare Editorial" />
         

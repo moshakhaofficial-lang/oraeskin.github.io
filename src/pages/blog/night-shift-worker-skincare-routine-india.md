@@ -10,8 +10,8 @@ description: "Working night shifts in IT, BPO, or healthcare? Inverted sleep cyc
 topPickTitle: "Plum 15% Vitamin C Face Serum"
 topPickBrand: "Plum"
 topPickAsin: "B095PRGHDX"
-topPickRating: "4.6 ★"
-topPickPrice: "~₹550"
+topPickRating: "4 ★"
+topPickPrice: "~₹447"
 ---
 
 Millions of Indian professionals work non-standard nocturnal shifts—from IT support and BPO operations in Bengaluru, Gurugram, and Pune, to healthcare workers and flight crews. However, working through the night and sleeping by day causes a severe mismatch in your skin's natural circadian rhythm. The result? Sallow, lifeless skin, persistent dark under-eye hollows, and sudden barrier dehydration. Here is your tailored 'Reverse Skincare Routine' to maintain vibrant, luminous skin.
@@ -22,9 +22,9 @@ Millions of Indian professionals work non-standard nocturnal shifts—from IT su
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Japanese Mandarin | Waking Up Sallow, Fatigued Complexions & Fading Dark Spots | ~₹550 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid + Japanese Mandarin | Waking Up Sallow, Fatigued Complexions & Fading Dark Spots | ~₹447 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ~₹900 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
-| **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice + 5 Ceramides | Shielding Barrier Against 10-Hour Corporate AC Air | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+| **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice + 5 Ceramides | Shielding Barrier Against 10-Hour Corporate AC Air | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
 ---
 

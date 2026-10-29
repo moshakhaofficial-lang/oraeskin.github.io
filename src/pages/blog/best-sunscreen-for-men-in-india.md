@@ -6,12 +6,12 @@ date: "2026-09-10"
 category: "Sunscreens"
 rating: 4.8
 keywords: "best sunscreen for men in india, men sweat resistant sunscreen, minimalist spf 50 men review, non sticky sunscreen men, reequil ultra matte men"
-description: "Tired of greasy films, chalky beard residue, and stinging eyes? Discover the top sweat-resistant, non-greasy SPF 50 sunscreens tested for Indian men."
+description: "Tired of greasy films, chalky beard residue, and stinging eyes? Discover the top sweat-resistant, non-greasy SPF 50 sunscreens for Indian men."
 topPickTitle: "Minimalist SPF 50 Multi-Vitamin Sunscreen"
 topPickBrand: "Minimalist"
 topPickAsin: "B09FPS9D5T"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹399"
+topPickRating: "4.1 ★"
+topPickPrice: "~₹346"
 ---
 
 Tired of greasy films, chalky beard residue, and stinging eyes? Discover the top sweat-resistant, non-greasy SPF 50 sunscreens tested for Indian men.
@@ -24,9 +24,9 @@ Indian men face unique grooming challenges when selecting daily sun protection: 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Uvinul T 150, Avobenzone & Vitamin F/B5 Complex | Oily, Normal & Shaved Skin | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
-| **Re'equil — Ultra Matte Dry Touch Sunscreen Gel** | Anhydrous Silicone Elastomers & Advanced UV Filters | Extremely Oily, Sweaty & Outdoor Athletes | ~₹780 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21) |
-| **The Derma Co — 1% Hyaluronic Sunscreen Aqua Gel** | 1% Hyaluronic Acid & 1% Vitamin E | Combination & Acne-Prone Male Skin | ~₹449 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Uvinul T 150, Avobenzone & Vitamin F/B5 Complex | Oily, Normal & Shaved Skin | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Re'equil — Ultra Matte Dry Touch Sunscreen Gel** | Anhydrous Silicone Elastomers & Advanced UV Filters | Extremely Oily, Sweaty & Outdoor Athletes | ~₹580 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21) |
+| **The Derma Co — 1% Hyaluronic Sunscreen Aqua Gel** | 1% Hyaluronic Acid & 1% Vitamin E | Combination & Acne-Prone Male Skin | ~₹479 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
 
 ---
 

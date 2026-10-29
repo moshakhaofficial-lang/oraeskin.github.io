@@ -10,8 +10,8 @@ description: "Guard your skin against high AQI, toxic PM2.5 particulate matter, 
 topPickTitle: "Plum 15% Vitamin C Face Serum with Mandarin"
 topPickBrand: "Plum"
 topPickAsin: "B095PRGHDX"
-topPickRating: "4.6 ★"
-topPickPrice: "~₹550"
+topPickRating: "4 ★"
+topPickPrice: "~₹447"
 ---
 
 Guard your skin against high AQI, toxic PM2.5 particulate matter, and urban smog. Discover potent antioxidant serums that neutralize environmental pollution.
@@ -24,9 +24,9 @@ Indian mega-cities like Delhi NCR, Mumbai, Kolkata, and Kanpur regularly experie
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | City Dwellers Exposed to High AQI Smog & Exhaust Fumes | ~₹550 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & 1% Zinc PCA | Smoggy Cities + Oily/Acne-Prone Skin | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Mandatory Daytime Shield Against UV + Smog Synergy | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | City Dwellers Exposed to High AQI Smog & Exhaust Fumes | ~₹447 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & 1% Zinc PCA | Smoggy Cities + Oily/Acne-Prone Skin | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Mandatory Daytime Shield Against UV + Smog Synergy | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

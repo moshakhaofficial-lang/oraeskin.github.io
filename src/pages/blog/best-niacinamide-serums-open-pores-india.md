@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Top Niacinamide Serums in India for Minimizing Open Pores & Oil"
-image: "/images/products/minimalist-spf50.jpg"
-date: "2026-03-02"
+title: "Best Niacinamide Serums for Open Pores & Oil Control in India"
+image: "/images/products/minimalist-niacinamide-10.jpg"
+date: "2026-10-29"
 category: "Serums & Actives"
 rating: 4.8
 keywords: "niacinamide serum open pores india, minimalist 10 niacinamide review amazon, derma co niacinamide"
@@ -10,60 +10,56 @@ description: "5% vs 10% Niacinamide: Which concentration tightens enlarged pores
 topPickTitle: "Minimalist 10% Niacinamide Face Serum"
 topPickBrand: "Minimalist"
 topPickAsin: "B08F9MF314"
-topPickRating: "4.8 ★"
-topPickPrice: "~₹599"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹485"
 ---
 
-5% vs 10% Niacinamide: Which concentration tightens enlarged pores and strengthens your moisture barrier without causing a flushing reaction?
-
-In India's distinct tropical climate—characterized by intense UV radiation, high ambient humidity, and urban air pollution—selecting the right products for **serums & actives** requires careful consideration of active stability, formulation weight, and skin barrier compatibility.
-
----
-
-## Quick Comparison: Top Serums & Actives Picks on Amazon India
-
-| Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Minimalist 10% Niacinamide Face Serum** | Evidence-Informed Active | All Indian Skin Types | ~₹599 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **CeraVe Restorative Formula** | 3 Essential Ceramides | Sensitive & Compromised Skin | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **Dot & Key Barrier Care** | Probiotics & Hydrating Botanicals | Daily Maintenance | ~₹395 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
+Niacinamide (vitamin B3) is a gentle multi-tasker: it can help with oiliness, the look of enlarged pores, acne marks and uneven tone. These are the two 10% niacinamide serums on Amazon India we rate most highly.
 
 ---
 
-## 1. Minimalist — Minimalist 10% Niacinamide Face Serum — *Editor's #1 Pick*
+## Quick Comparison
 
-Our top-ranked solution provides balanced, science-backed efficacy tailored for Indian skin textures and weather resilience.
+| Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/)** | 10% Pure Niacinamide (Vitamin B3) + 1% Zinc PCA | Enlarged Pores, Midday Greasiness | ₹485 (30ml) | 9.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **[The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/)** | 10% Niacinamide + Zinc PCA | Pore Texture, Acne Redness | ₹490 (30ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21) |
 
-- **Fast-Absorbing Texture**: Formulated to sink in rapidly without leaving greasy films or clogging pores in hot, humid conditions.
-- **Barrier-Supportive Actives**: Enriched with calming agents that preserve your skin's acid mantle and resist pollution-induced free radicals.
-- **Amazon India Verified**: Backed by thousands of authentic 5-star customer reviews from buyers across India.
-
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
-
----
-
-## 2. CeraVe Dermatological Solution — *Best for Sensitive Skin*
-
-Formulated with barrier-restoring active ingredients, this formulation replenishes essential lipids and calms reactive skin.
-
-- **Skin-Identical Ceramides**: Rebuilds the stratum corneum matrix to halt moisture evaporation caused by air conditioning.
-- **Fragrance-Free & Hypoallergenic**: Completely safe for easily irritated, stinging, or redness-prone complexions.
-
-👉 **[View on Amazon India](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
-## 3. Dot & Key Barrier Care — *Best for Hydration & Glow*
+## 1. Minimalist 10% Niacinamide Face Serum — *Best Overall*
 
-Combining botanical brightness with modern skin barrier science for effortless daily radiance.
+10% niacinamide with zinc in a 30ml bottle, a reliable oil-control serum.
 
-- **Non-Sticky Finish**: Absorbs cleanly and layers smoothly under makeup or sunscreen.
-- **Deep Moisture Reservoir**: Sustains cell hydration for over 24 hours.
+- **Key actives**: 10% Pure Niacinamide (Vitamin B3), 1% Zinc PCA, EUGROL G
+- **Texture & finish**: Water Gel Fluid — non-sticky clean
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹485 for 30ml (₹16.2/ml) · 4.2★ from 27,100+ Amazon India ratings
+- **Skip it if**: your skin experiences temporary flushing from high-strength Vitamin B3 (start with 5% if sensitive).
 
-👉 **[Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
+**Pros:** Clinically balances oil secretion without stripping essential hydration. **Cons:** 10% active concentration can cause mild flushing on ultra-dry, irritated skin.
+
+📖 **[Read our full Minimalist 10% Niacinamide Face Serum review](/reviews/minimalist-niacinamide-10/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
 
 ---
 
+## 2. The Derma Co 10% Niacinamide Serum with Zinc — *Best Alternative*
+
+10% niacinamide with 2% zinc, for oily skin with acne marks.
+
+- **Key actives**: 10% Niacinamide, Zinc PCA, Centella Asiatica
+- **Texture & finish**: Fluid Gel — smooth matte
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹490 for 30ml (₹16.3/ml) · 4.1★ from 16,700+ Amazon India ratings
+- **Skip it if**: you are allergic to Vitamin B3 complexes.
+
+**Pros:** Centella Asiatica calms irritation while Niacinamide balances sebum. **Cons:** Dropper can occasionally dispense too much product due to fluid viscosity.
+
+📖 **[Read our full The Derma Co 10% Niacinamide Serum with Zinc review](/reviews/dermaco-10-niacinamide/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21)**
+
+---
 ## Editorial Routine Tips for Indian Skin
 
 1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).

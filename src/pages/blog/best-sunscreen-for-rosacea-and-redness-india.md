@@ -10,8 +10,8 @@ description: "Calm facial flushing, prevent heat-induced capillary dilation, and
 topPickTitle: "Dr. Sheth's Ceramide & Vitamin C Sunscreen"
 topPickBrand: "Dr. Sheth's"
 topPickAsin: "B0DVB9CGDS"
-topPickRating: "4.7 ★"
-topPickPrice: "~₹499"
+topPickRating: "4.2 ★"
+topPickPrice: "~₹369"
 ---
 
 Calm facial flushing, prevent heat-induced capillary dilation, and shield reactive skin without burning. Top dermatologist-approved calming sunscreens in India.
@@ -24,9 +24,9 @@ Rosacea, facial erythema, and chronic flushing are triggered primarily by solar 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | 1% Ceramide Complex & Ethyl Ascorbic Acid | Flushing-Prone, Rosacea & Heat-Sensitive Skin | ~₹499 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
-| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract & Hyaluronic Acid | Dehydrated Red Skin Needing Temperature Reduction | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamin B5, F & Photostable Filters | Ultra-Sensitive Complexions Needing Pure Formulations | ~₹399 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | 1% Ceramide Complex & Ethyl Ascorbic Acid | Flushing-Prone, Rosacea & Heat-Sensitive Skin | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract & Hyaluronic Acid | Dehydrated Red Skin Needing Temperature Reduction | ~₹382 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamin B5, F & Photostable Filters | Ultra-Sensitive Complexions Needing Pure Formulations | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

@@ -19,7 +19,10 @@ const CATEGORY_SLUGS = [
     'anti-aging'
 ];
 
-const blogFiles = fs.readdirSync(BLOG_DIR).filter(f => f.endsWith('.md'));
+// Posts marked `noindex: true` are being rewritten and stay out of the sitemap
+const blogFiles = fs.readdirSync(BLOG_DIR)
+    .filter(f => f.endsWith('.md'))
+    .filter(f => !/^noindex:\s*true\s*$/m.test(fs.readFileSync(path.join(BLOG_DIR, f), 'utf8')));
 
 const today = new Date().toISOString().split('T')[0];
 

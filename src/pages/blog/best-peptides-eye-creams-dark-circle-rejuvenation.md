@@ -6,7 +6,7 @@ date: "2026-10-29"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "peptide eye cream india, haloxyl dark circles, plump under eye hollows"
-description: "Matrixyl 3000 and Haloxyl: Clinically tested peptide complexes that strengthen translucent periorbital skin."
+description: "Peptide eye creams and serums on Amazon India for firmer, smoother under-eyes, compared by actives, texture and price."
 topPickTitle: "Minimalist Vitamin K + Retinal 0.1% Under Eye Cream"
 topPickBrand: "Minimalist"
 topPickAsin: "B0CHYR58VF"
