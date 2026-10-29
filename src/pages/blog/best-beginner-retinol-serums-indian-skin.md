@@ -22,8 +22,8 @@ Retinoids are the best-studied ingredients for fine lines, texture and acne mark
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/)** | 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate) + Dimethyl Isosorbide | Crow's Feet, Dull Tone | ₹629 (30ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
-| **[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/)** | 0.3% Pure Retinol + Plant-Derived Squalane | Fine Lines, Loss of Firmness | ₹539 (30ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21) |
+| **[Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/)** | 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate) + Dimethyl Isosorbide | Crow's Feet, Dull Tone | ₹629 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
+| **[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/)** | 0.3% Pure Retinol + Plant-Derived Squalane | Fine Lines, Loss of Firmness | ₹539 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

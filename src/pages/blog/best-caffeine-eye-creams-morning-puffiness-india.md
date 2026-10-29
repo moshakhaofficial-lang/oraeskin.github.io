@@ -23,7 +23,7 @@ Caffeine is the go-to ingredient for morning puffiness: applied to the skin, it 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ₹900 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
-| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 9.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
+| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
 | **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹463 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*

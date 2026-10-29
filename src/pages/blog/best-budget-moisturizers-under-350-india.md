@@ -22,10 +22,10 @@ A good moisturiser doesn't need to be expensive. Every pick below is under ₹35
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹237 (30g) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹237 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 | **[Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/)** | 5 Ceramides (1, 2, 3, 4, 6-II) + Hyaluronic Acid | Barrier Damage, Dehydration | ₹328 (100g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **[CeraVe Moisturizing Cream with Ceramides](/reviews/cerave-moisturizing-cream/)** | 3 Essential Ceramides (1, 3, 6-II) + Hyaluronic Acid | Severe Dryness, Eczema | ₹344 (50ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
-| **[Biotique Morning Nectar Nourishing Lotion](/reviews/biotique-morning-nectar-lotion/)** | Pure Honey + Wheatgerm Oil | Dryness, Daily Body Care | ₹171 (190ml) | 9.1/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B006NVDWGE?tag=oraeskin-21) |
+| **[CeraVe Moisturizing Cream with Ceramides](/reviews/cerave-moisturizing-cream/)** | 3 Essential Ceramides (1, 3, 6-II) + Hyaluronic Acid | Severe Dryness, Eczema | ₹344 (50ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
+| **[Biotique Morning Nectar Nourishing Lotion](/reviews/biotique-morning-nectar-lotion/)** | Pure Honey + Wheatgerm Oil | Dryness, Daily Body Care | ₹171 (190ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B006NVDWGE?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

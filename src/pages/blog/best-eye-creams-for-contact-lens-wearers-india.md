@@ -23,7 +23,7 @@ If you wear contact lenses, heavy, oily eye creams can migrate into the eye and 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ₹900 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
-| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 9.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
+| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
 | **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,136 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*

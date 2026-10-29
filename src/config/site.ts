@@ -76,6 +76,15 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B0C3PCJ6SD', // The Ordinary Salicylic Acid 2% Solution
     'B0D2ZVYLSS', // Nua Pimple Patch
     'B0GDZJN3MK', // Deconstruct Pimple Patches
+    'B0BPC8KG73', // Laneige Lip Sleeping Mask
+    'B0CND4C95T', // WishCare Lip Balm SPF 50 (Untinted)
+    'B0CND1VF2W', // WishCare Tinted Lip Balm SPF 50
+    'B0DCBCL72R', // Dot & Key Barrier Repair Hydrating Lip Balm SPF 50
+    'B0BV34LQRP', // Deconstruct Brightening Lip Balm SPF 50
+    'B08TMFC5BN', // Re'equil Sheer Zinc Tinted Sunscreen SPF 50
+    'B07G8J6ZD4', // La Shield Fisico Mineral Sunscreen SPF 50+
+    'B085T374WK', // Lakmē Sun Expert Tinted Sunscreen SPF 50
+    'B0CX1YQ764', // Dot & Key Strawberry Dew Tinted Sunscreen SPF 50+
     'B00PBX3L7K', // COSRX Advanced Snail 96 Mucin Power Essence
     'B09GGCWKR7', // The Derma Co Micro-Tip Pimple Patches
 ]);

@@ -22,8 +22,8 @@ A small emergency kit means you can act the moment a breakout starts: a BHA clea
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Blackheads, Whiteheads | ₹284 (100ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Blackheads, Whiteheads | ₹284 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 | **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹135 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
 | **[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/)** | 2% Salicylic Acid (BHA) | Blackheads, Whiteheads | ₹483 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GG9M863?tag=oraeskin-21) |
 

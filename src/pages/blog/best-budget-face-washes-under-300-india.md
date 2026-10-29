@@ -24,7 +24,7 @@ You don't need to spend more than ₹300 on a good face wash. These are the pick
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/)** | 1% Salicylic Acid (BHA) + Willow Bark Extract | Oily, Combination | ₹217 (100ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095J52W7P?tag=oraeskin-21) |
 | **[Re'equil Oil Control Face Wash](/reviews/reequil-oil-control-facewash/)** | Zinc PCA | Oily, Combination | ₹293 (150ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GFTYW6P1?tag=oraeskin-21) |
-| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹284 (100ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹284 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

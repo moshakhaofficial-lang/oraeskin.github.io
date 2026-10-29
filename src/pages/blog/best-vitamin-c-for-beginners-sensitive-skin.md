@@ -22,8 +22,8 @@ Pure vitamin C (L-ascorbic acid) is effective but can sting. Beginners and sensi
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/)** | 10% Ethyl Ascorbic Acid + 1% Centella Asiatica Extract | Dark Spots, Dullness | ₹593 (30ml) | 9.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
-| **[Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/)** | 15% Ethyl Ascorbic Acid + Kakadu Plum Extract | Stubborn Sun Spots, Uneven Pigmentation | ₹447 (20ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/)** | 10% Ethyl Ascorbic Acid + 1% Centella Asiatica Extract | Dark Spots, Dullness | ₹593 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
+| **[Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/)** | 15% Ethyl Ascorbic Acid + Kakadu Plum Extract | Stubborn Sun Spots, Uneven Pigmentation | ₹447 (20ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

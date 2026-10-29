@@ -24,7 +24,7 @@ Peptides are small protein fragments used to support firmness and smoothness, an
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹463 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
 | **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,136 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
-| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 9.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
+| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

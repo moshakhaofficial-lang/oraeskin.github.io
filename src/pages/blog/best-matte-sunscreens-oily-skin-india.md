@@ -22,9 +22,9 @@ If sunscreen leaves your face shiny by noon, the formula is the problem, not you
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/)** | Zinc Oxide + Titanium Dioxide | Heavy Sweating, Water Resistance | ₹580 (50g) | 9.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21) |
+| **[Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/)** | Zinc Oxide + Titanium Dioxide | Heavy Sweating, Water Resistance | ₹580 (50g) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21) |
 | **[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/)** | DHHB (Uvinul A Plus) + Ethylhexyl Triazone | Sun Protection, Tanning | ₹367 (50g) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21) |
-| **[The Derma Co 1% Hyaluronic Sunscreen Aqua Gel](/reviews/dermaco-hyaluronic-spf50/)** | 1% Hyaluronic Acid + Vitamin E | Clogged Pores, Midday Shine | ₹479 (50g) | 9.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
+| **[The Derma Co 1% Hyaluronic Sunscreen Aqua Gel](/reviews/dermaco-hyaluronic-spf50/)** | 1% Hyaluronic Acid + Vitamin E | Clogged Pores, Midday Shine | ₹479 (50g) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

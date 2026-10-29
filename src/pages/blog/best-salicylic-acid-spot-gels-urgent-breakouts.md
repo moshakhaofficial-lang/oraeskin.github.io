@@ -22,7 +22,7 @@ When a pimple appears before an event, a targeted salicylic acid treatment can c
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
+| **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 | **[The Derma Co 2% Salicylic Acid Face Serum](/reviews/dermaco-salicylic-serum-2/)** | 2% Salicylic Acid (BHA) + Witch Hazel Extract | Blackheads, Active Pimples | ₹182 (10ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0C61Q7DM7?tag=oraeskin-21) |
 | **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹135 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
 

@@ -22,8 +22,8 @@ Dry skin needs a cleanser that cleans without stripping the lipids it's already 
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹351 (118ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/)** | Pro-Vitamin B5 + Vitamin E | Daily Cleansing, Redness | ₹384 (250ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹351 (118ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/)** | Pro-Vitamin B5 + Vitamin E | Daily Cleansing, Redness | ₹384 (250ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

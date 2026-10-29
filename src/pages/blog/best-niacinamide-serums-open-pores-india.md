@@ -22,8 +22,8 @@ Niacinamide (vitamin B3) is a gentle multi-tasker: it can help with oiliness, th
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/)** | 10% Pure Niacinamide (Vitamin B3) + 1% Zinc PCA | Enlarged Pores, Midday Greasiness | ₹485 (30ml) | 9.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **[The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/)** | 10% Niacinamide + Zinc PCA | Pore Texture, Acne Redness | ₹490 (30ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21) |
+| **[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/)** | 10% Pure Niacinamide (Vitamin B3) + 1% Zinc PCA | Enlarged Pores, Midday Greasiness | ₹485 (30ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **[The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/)** | 10% Niacinamide + Zinc PCA | Pore Texture, Acne Redness | ₹490 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

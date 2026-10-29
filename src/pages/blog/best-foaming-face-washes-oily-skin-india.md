@@ -22,7 +22,7 @@ A good foaming wash for oily skin removes sweat, sebum and sunscreen in one pass
 
 | Face Wash | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oily, Sensitive | ₹1,061 (236ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oily, Sensitive | ₹1,061 (236ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **[La Roche-Posay Effaclar Purifying Foaming Gel](/reviews/lrp-effaclar-purifying-gel/)** | Zinc PCA + La Roche-Posay Thermal Spring Water | Oily, Combination | ₹1,400 (200ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B002P3L99G?tag=oraeskin-21) |
 | **[Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/)** | Glycerin + Sunflower Seed Oil | Oily, Combination | ₹579 (118ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21) |
 | **[Re'equil Oil Control Face Wash](/reviews/reequil-oil-control-facewash/)** | Zinc PCA | Oily, Combination | ₹293 (150ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GFTYW6P1?tag=oraeskin-21) |

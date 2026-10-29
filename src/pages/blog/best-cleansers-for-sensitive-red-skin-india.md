@@ -22,10 +22,10 @@ Sensitive, redness-prone skin needs a cleanser that removes sunscreen and grime 
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹351 (118ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oiliness, City Pollution | ₹1,061 (236ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹351 (118ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oiliness, City Pollution | ₹1,061 (236ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **[Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/)** | Glycerin + Sunflower Seed Oil | Oiliness, Barrier Health | ₹579 (118ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21) |
-| **[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/)** | Pro-Vitamin B5 + Vitamin E | Daily Cleansing, Redness | ₹384 (250ml) | 9.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/)** | Pro-Vitamin B5 + Vitamin E | Daily Cleansing, Redness | ₹384 (250ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

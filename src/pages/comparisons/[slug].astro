@@ -32,6 +32,19 @@ if (!productA || !productB) {
 const affiliateUrlA = getAmazonAffiliateUrl(productA.amazonUrl || productA.affiliateUrl || productA.asin);
 const affiliateUrlB = getAmazonAffiliateUrl(productB.amazonUrl || productB.affiliateUrl || productB.asin);
 
+// Value verdict from live prices so it never goes stale
+function unitPrice(p: SkincareProduct) {
+    const m = p.size.match(/(\d+(?:\.\d+)?)\s*(ml|g)/i);
+    return m ? { per: p.price / parseFloat(m[1]), unit: m[2].toLowerCase() } : null;
+}
+const unitA = unitPrice(productA);
+const unitB = unitPrice(productB);
+const describe = (p: SkincareProduct, u: ReturnType<typeof unitPrice>) =>
+    `${p.brand} at ${p.priceEst} for ${p.size}${u ? ` (₹${u.per.toFixed(1)}/${u.unit})` : ''}`;
+const valueVerdict = unitA && unitB && unitA.unit === unitB.unit
+    ? `${describe(productA, unitA)} vs ${describe(productB, unitB)}: ${Math.abs(unitA.per - unitB.per) < 0.5 ? 'roughly the same value per ' + unitA.unit : (unitA.per < unitB.per ? productA.brand : productB.brand) + ' is cheaper per ' + unitA.unit}. Prices checked on Amazon.in in ${productA.lastPriceChecked}.`
+    : `${describe(productA, unitA)} vs ${describe(productB, unitB)}. Prices checked on Amazon.in in ${productA.lastPriceChecked}.`;
+
 const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -283,7 +296,7 @@ const breadcrumbSchema = {
             <section class="comp-section">
                 <h2>Price-to-Value Economics</h2>
                 <div class="analysis-box">
-                    <p>{comp.valueVerdict}</p>
+                    <p>{valueVerdict}</p>
                 </div>
             </section>
 

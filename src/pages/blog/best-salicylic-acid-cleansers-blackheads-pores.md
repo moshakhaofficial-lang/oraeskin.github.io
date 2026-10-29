@@ -22,7 +22,7 @@ Salicylic acid (BHA) is oil-soluble, so it can work inside pores where sebum and
 
 | Face Wash | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹284 (100ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹284 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 | **[The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/)** | 1% Salicylic Acid (BHA) + Willow Bark Extract | Oily, Combination | ₹217 (100ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095J52W7P?tag=oraeskin-21) |
 | **[Neutrogena Oil-Free Acne Wash](/reviews/neutrogena-oilfree-acne-wash/)** | 2% Salicylic Acid (BHA) | Oily, Acne-Prone | ₹705 (175ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21) |
 

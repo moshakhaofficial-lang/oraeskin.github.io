@@ -23,11 +23,11 @@ Daily sunscreen is the single most effective anti-tanning and anti-ageing step, 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/)** | DHHB (Uvinul A Plus) + Ethylhexyl Triazone | Sun Protection, Tanning | ₹367 (50g) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21) |
-| **[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/)** | Uvinul A Plus + Avobenzone | Sun Protection, Tanning | ₹346 (50g) | 9.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
-| **[Dr. Sheth's Ceramide & Vitamin C Sunscreen](/reviews/drsheths-ceramide-vitc-spf50/)** | 1% Ceramide Complex + 2% Vitamin C (Ascorbyl Glucoside) | Barrier Damage, Pigmentation | ₹369 (50g) | 9.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/)** | Uvinul A Plus + Avobenzone | Sun Protection, Tanning | ₹346 (50g) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **[Dr. Sheth's Ceramide & Vitamin C Sunscreen](/reviews/drsheths-ceramide-vitc-spf50/)** | 1% Ceramide Complex + 2% Vitamin C (Ascorbyl Glucoside) | Barrier Damage, Pigmentation | ₹369 (50g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 | **[Foxtale Glow Sunscreen SPF 50 PA++++](/reviews/foxtale-glow-sunscreen-spf50/)** | New-Gen UV Filters (DHHB, Ethylhexyl Triazone, Tris-Biphenyl Triazine) + Niacinamide | Sun Protection, Dullness | ₹318 (50ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0C3CP6B5Y?tag=oraeskin-21) |
-| **[Aqualogica Radiance+ Dewy Sunscreen SPF 50+](/reviews/aqualogica-radiance-spf50/)** | Watermelon Extract + Niacinamide | Dullness, Dry Patches | ₹382 (50g) | 9.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
-| **[Dot & Key Watermelon Hyaluronic Cooling Sunscreen](/reviews/dotkey-watermelon-spf50/)** | Watermelon Extract + Hyaluronic Acid | Dullness, Heat Flush | ₹387 (50g) | 9.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BQN2YWN5?tag=oraeskin-21) |
+| **[Aqualogica Radiance+ Dewy Sunscreen SPF 50+](/reviews/aqualogica-radiance-spf50/)** | Watermelon Extract + Niacinamide | Dullness, Dry Patches | ₹382 (50g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
+| **[Dot & Key Watermelon Hyaluronic Cooling Sunscreen](/reviews/dotkey-watermelon-spf50/)** | Watermelon Extract + Hyaluronic Acid | Dullness, Heat Flush | ₹387 (50g) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BQN2YWN5?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 

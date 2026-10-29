@@ -108,12 +108,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "36,900+",
         "reviewCount": "36,900+",
         "scoreBreakdown": {
-            "formula": 9.6,
-            "skinSuitability": 9.5,
-            "evidence": 9.7,
-            "userFeedback": 9.4,
-            "value": 9.8,
-            "availability": 9.9
+            "formula": 8.6,
+            "skinSuitability": 8.5,
+            "evidence": 8.7,
+            "userFeedback": 8.2,
+            "value": 8.8,
+            "availability": 9.3
         },
         "skinType": [
             "All",
@@ -182,13 +182,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.6,
+        "oraeSkinScore": 8.6,
         "scores": {
-            "formula": 9.6,
-            "weatherResilience": 9.5,
-            "texture": 9.5,
-            "value": 9.8,
-            "overall": 9.6
+            "formula": 8.6,
+            "weatherResilience": 8.5,
+            "texture": 8.5,
+            "value": 8.8,
+            "overall": 8.6
         }
     },
     {
@@ -212,12 +212,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "43,000+",
         "reviewCount": "43,000+",
         "scoreBreakdown": {
-            "formula": 9.3,
-            "skinSuitability": 9.7,
-            "evidence": 9.4,
-            "userFeedback": 9.5,
-            "value": 9.1,
-            "availability": 9.8
+            "formula": 8.3,
+            "skinSuitability": 8.7,
+            "evidence": 8.4,
+            "userFeedback": 8.4,
+            "value": 8.1,
+            "availability": 9.2
         },
         "skinType": [
             "Oily",
@@ -283,13 +283,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.5,
+        "oraeSkinScore": 8.5,
         "scores": {
-            "formula": 9.3,
-            "weatherResilience": 9.7,
-            "texture": 9.7,
-            "value": 9.1,
-            "overall": 9.5
+            "formula": 8.3,
+            "weatherResilience": 8.7,
+            "texture": 8.7,
+            "value": 8.1,
+            "overall": 8.5
         }
     },
     {
@@ -313,12 +313,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "12,900+",
         "reviewCount": "12,900+",
         "scoreBreakdown": {
-            "formula": 9,
-            "skinSuitability": 9.2,
-            "evidence": 9.1,
-            "userFeedback": 9.3,
-            "value": 9.5,
-            "availability": 9.7
+            "formula": 8,
+            "skinSuitability": 8.2,
+            "evidence": 8.1,
+            "userFeedback": 8.6,
+            "value": 8.5,
+            "availability": 9.1
         },
         "skinType": [
             "Normal",
@@ -381,13 +381,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.2,
+        "oraeSkinScore": 8.3,
         "scores": {
-            "formula": 9,
-            "weatherResilience": 9.2,
-            "texture": 9.2,
-            "value": 9.5,
-            "overall": 9.2
+            "formula": 8,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.5,
+            "overall": 8.3
         }
     },
     {
@@ -411,12 +411,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "10,500+",
         "reviewCount": "10,500+",
         "scoreBreakdown": {
-            "formula": 9.1,
-            "skinSuitability": 9.2,
-            "evidence": 9,
-            "userFeedback": 9.3,
-            "value": 9.4,
-            "availability": 9.7
+            "formula": 8.1,
+            "skinSuitability": 8.2,
+            "evidence": 8,
+            "userFeedback": 8.2,
+            "value": 8.4,
+            "availability": 9.1
         },
         "skinType": [
             "Dry",
@@ -475,13 +475,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.2,
+        "oraeSkinScore": 8.2,
         "scores": {
-            "formula": 9.1,
-            "weatherResilience": 9.2,
-            "texture": 9.2,
-            "value": 9.4,
-            "overall": 9.2
+            "formula": 8.1,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.4,
+            "overall": 8.2
         }
     },
     {
@@ -505,12 +505,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "900+",
         "reviewCount": "900+",
         "scoreBreakdown": {
-            "formula": 9.4,
-            "skinSuitability": 9.3,
-            "evidence": 9.3,
-            "userFeedback": 9.4,
-            "value": 8.9,
-            "availability": 9.6
+            "formula": 8.4,
+            "skinSuitability": 8.3,
+            "evidence": 8.3,
+            "userFeedback": 8.4,
+            "value": 7.9,
+            "availability": 9
         },
         "skinType": [
             "Dry",
@@ -570,13 +570,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.3,
+        "oraeSkinScore": 8.4,
         "scores": {
-            "formula": 9.4,
-            "weatherResilience": 9.3,
-            "texture": 9.3,
-            "value": 8.9,
-            "overall": 9.3
+            "formula": 8.4,
+            "weatherResilience": 8.3,
+            "texture": 8.3,
+            "value": 7.9,
+            "overall": 8.4
         }
     },
     {
@@ -600,12 +600,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "11,800+",
         "reviewCount": "11,800+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.6,
-            "evidence": 9.6,
-            "userFeedback": 9.5,
-            "value": 8.6,
-            "availability": 9.7
+            "formula": 8.7,
+            "skinSuitability": 8.6,
+            "evidence": 8.6,
+            "userFeedback": 8.4,
+            "value": 7.6,
+            "availability": 9.1
         },
         "skinType": [
             "Oily",
@@ -665,13 +665,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.5,
+        "oraeSkinScore": 8.5,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.6,
-            "texture": 9.6,
-            "value": 8.6,
-            "overall": 9.5
+            "formula": 8.7,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 7.6,
+            "overall": 8.5
         }
     },
     {
@@ -695,12 +695,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "38,600+",
         "reviewCount": "38,600+",
         "scoreBreakdown": {
-            "formula": 9.8,
-            "skinSuitability": 9.7,
-            "evidence": 9.8,
-            "userFeedback": 9.6,
-            "value": 9.5,
-            "availability": 9.8
+            "formula": 8.8,
+            "skinSuitability": 8.7,
+            "evidence": 8.8,
+            "userFeedback": 8.8,
+            "value": 8.5,
+            "availability": 9.2
         },
         "skinType": [
             "Oily",
@@ -767,13 +767,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.8,
         "scores": {
-            "formula": 9.8,
-            "weatherResilience": 9.7,
-            "texture": 9.7,
-            "value": 9.5,
-            "overall": 9.7
+            "formula": 8.8,
+            "weatherResilience": 8.7,
+            "texture": 8.7,
+            "value": 8.5,
+            "overall": 8.8
         }
     },
     {
@@ -797,12 +797,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "29,500+",
         "reviewCount": "29,500+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.6,
-            "evidence": 9.7,
-            "userFeedback": 9.4,
-            "value": 9.9,
-            "availability": 9.9
+            "formula": 8.7,
+            "skinSuitability": 8.6,
+            "evidence": 8.7,
+            "userFeedback": 8.4,
+            "value": 8.9,
+            "availability": 9.3
         },
         "skinType": [
             "Oily",
@@ -861,13 +861,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.6,
-            "texture": 9.6,
-            "value": 9.9,
-            "overall": 9.7
+            "formula": 8.7,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.9,
+            "overall": 8.7
         }
     },
     {
@@ -891,12 +891,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "70,900+",
         "reviewCount": "70,900+",
         "scoreBreakdown": {
-            "formula": 9.3,
-            "skinSuitability": 9.5,
-            "evidence": 9.5,
-            "userFeedback": 9.2,
-            "value": 9.3,
-            "availability": 9.9
+            "formula": 8.3,
+            "skinSuitability": 8.5,
+            "evidence": 8.5,
+            "userFeedback": 8.6,
+            "value": 8.3,
+            "availability": 9.3
         },
         "skinType": [
             "Dry",
@@ -956,13 +956,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.4,
+        "oraeSkinScore": 8.5,
         "scores": {
-            "formula": 9.3,
-            "weatherResilience": 9.5,
-            "texture": 9.5,
-            "value": 9.3,
-            "overall": 9.4
+            "formula": 8.3,
+            "weatherResilience": 8.5,
+            "texture": 8.5,
+            "value": 8.3,
+            "overall": 8.5
         }
     },
     {
@@ -986,12 +986,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "500+",
         "reviewCount": "500+",
         "scoreBreakdown": {
-            "formula": 9.1,
-            "skinSuitability": 9,
-            "evidence": 9,
-            "userFeedback": 9.4,
-            "value": 9,
-            "availability": 9.7
+            "formula": 8.1,
+            "skinSuitability": 8,
+            "evidence": 8,
+            "userFeedback": 9,
+            "value": 8,
+            "availability": 9.1
         },
         "skinType": [
             "Normal",
@@ -1048,13 +1048,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.2,
+        "oraeSkinScore": 8.3,
         "scores": {
-            "formula": 9.1,
-            "weatherResilience": 9,
-            "texture": 9,
-            "value": 9,
-            "overall": 9.2
+            "formula": 8.1,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 8.3
         }
     },
     {
@@ -1078,12 +1078,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "22,400+",
         "reviewCount": "22,400+",
         "scoreBreakdown": {
-            "formula": 9.3,
-            "skinSuitability": 9.4,
-            "evidence": 9.2,
-            "userFeedback": 9.4,
-            "value": 9.9,
-            "availability": 9.9
+            "formula": 8.3,
+            "skinSuitability": 8.4,
+            "evidence": 8.2,
+            "userFeedback": 9.2,
+            "value": 8.9,
+            "availability": 9.3
         },
         "skinType": [
             "All",
@@ -1143,13 +1143,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.4,
+        "oraeSkinScore": 8.6,
         "scores": {
-            "formula": 9.3,
-            "weatherResilience": 9.4,
-            "texture": 9.4,
-            "value": 9.9,
-            "overall": 9.4
+            "formula": 8.3,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.9,
+            "overall": 8.6
         }
     },
     {
@@ -1173,12 +1173,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "25,000+",
         "reviewCount": "25,000+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.5,
-            "evidence": 9.8,
-            "userFeedback": 9.3,
-            "value": 9.4,
-            "availability": 9.8
+            "formula": 8.7,
+            "skinSuitability": 8.5,
+            "evidence": 8.8,
+            "userFeedback": 8.2,
+            "value": 8.4,
+            "availability": 9.2
         },
         "skinType": [
             "All",
@@ -1238,13 +1238,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.6,
+        "oraeSkinScore": 8.6,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.5,
-            "texture": 9.5,
-            "value": 9.4,
-            "overall": 9.6
+            "formula": 8.7,
+            "weatherResilience": 8.5,
+            "texture": 8.5,
+            "value": 8.4,
+            "overall": 8.6
         }
     },
     {
@@ -1263,17 +1263,17 @@ export const PRODUCTS: SkincareProduct[] = [
         "currency": "₹",
         "size": "20ml",
         "image": "/images/products/plum-vitc-mandarin.jpg",
-        "amazonRating": 4.0,
-        "rating": 4.0,
+        "amazonRating": 4,
+        "rating": 4,
         "amazonReviews": "15,100+",
         "reviewCount": "15,100+",
         "scoreBreakdown": {
-            "formula": 9.4,
-            "skinSuitability": 9.1,
-            "evidence": 9.6,
-            "userFeedback": 9.2,
-            "value": 9.5,
-            "availability": 9.8
+            "formula": 8.4,
+            "skinSuitability": 8.1,
+            "evidence": 8.6,
+            "userFeedback": 8,
+            "value": 8.5,
+            "availability": 9.2
         },
         "skinType": [
             "Normal",
@@ -1331,13 +1331,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.4,
+        "oraeSkinScore": 8.4,
         "scores": {
-            "formula": 9.4,
-            "weatherResilience": 9.1,
-            "texture": 9.1,
-            "value": 9.5,
-            "overall": 9.4
+            "formula": 8.4,
+            "weatherResilience": 8.1,
+            "texture": 8.1,
+            "value": 8.5,
+            "overall": 8.4
         }
     },
     {
@@ -1361,12 +1361,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "27,100+",
         "reviewCount": "27,100+",
         "scoreBreakdown": {
-            "formula": 9.8,
-            "skinSuitability": 9.6,
-            "evidence": 9.9,
-            "userFeedback": 9.6,
-            "value": 9.7,
-            "availability": 9.9
+            "formula": 8.8,
+            "skinSuitability": 8.6,
+            "evidence": 8.9,
+            "userFeedback": 8.4,
+            "value": 8.7,
+            "availability": 9.3
         },
         "skinType": [
             "Oily",
@@ -1427,13 +1427,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.8,
+        "oraeSkinScore": 8.8,
         "scores": {
-            "formula": 9.8,
-            "weatherResilience": 9.6,
-            "texture": 9.6,
-            "value": 9.7,
-            "overall": 9.8
+            "formula": 8.8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.7,
+            "overall": 8.8
         }
     },
     {
@@ -1452,17 +1452,17 @@ export const PRODUCTS: SkincareProduct[] = [
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-alpha-arbutin.jpg",
-        "amazonRating": 4.0,
-        "rating": 4.0,
+        "amazonRating": 4,
+        "rating": 4,
         "amazonReviews": "18,800+",
         "reviewCount": "18,800+",
         "scoreBreakdown": {
-            "formula": 9.6,
-            "skinSuitability": 9.7,
-            "evidence": 9.7,
-            "userFeedback": 9.3,
-            "value": 9.5,
-            "availability": 9.8
+            "formula": 8.6,
+            "skinSuitability": 8.7,
+            "evidence": 8.7,
+            "userFeedback": 8,
+            "value": 8.5,
+            "availability": 9.2
         },
         "skinType": [
             "All",
@@ -1523,13 +1523,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.6,
+        "oraeSkinScore": 8.6,
         "scores": {
-            "formula": 9.6,
-            "weatherResilience": 9.7,
-            "texture": 9.7,
-            "value": 9.5,
-            "overall": 9.6
+            "formula": 8.6,
+            "weatherResilience": 8.7,
+            "texture": 8.7,
+            "value": 8.5,
+            "overall": 8.6
         }
     },
     {
@@ -1553,12 +1553,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "16,700+",
         "reviewCount": "16,700+",
         "scoreBreakdown": {
-            "formula": 9.3,
-            "skinSuitability": 9.5,
-            "evidence": 9.6,
-            "userFeedback": 9.3,
-            "value": 9.2,
-            "availability": 9.8
+            "formula": 8.3,
+            "skinSuitability": 8.5,
+            "evidence": 8.6,
+            "userFeedback": 8.2,
+            "value": 8.2,
+            "availability": 9.2
         },
         "skinType": [
             "Oily",
@@ -1616,13 +1616,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.4,
+        "oraeSkinScore": 8.5,
         "scores": {
-            "formula": 9.3,
-            "weatherResilience": 9.5,
-            "texture": 9.5,
-            "value": 9.2,
-            "overall": 9.4
+            "formula": 8.3,
+            "weatherResilience": 8.5,
+            "texture": 8.5,
+            "value": 8.2,
+            "overall": 8.5
         }
     },
     {
@@ -1762,12 +1762,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "21,700+",
         "reviewCount": "21,700+",
         "scoreBreakdown": {
-            "formula": 9.9,
-            "skinSuitability": 9.6,
-            "evidence": 9.9,
-            "userFeedback": 9.7,
-            "value": 9.2,
-            "availability": 9.8
+            "formula": 8.9,
+            "skinSuitability": 8.6,
+            "evidence": 8.9,
+            "userFeedback": 8.4,
+            "value": 8.2,
+            "availability": 9.2
         },
         "skinType": [
             "Dry",
@@ -1828,13 +1828,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.9,
-            "weatherResilience": 9.6,
-            "texture": 9.6,
-            "value": 9.2,
-            "overall": 9.7
+            "formula": 8.9,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.2,
+            "overall": 8.7
         }
     },
     {
@@ -1858,12 +1858,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "16,500+",
         "reviewCount": "16,500+",
         "scoreBreakdown": {
-            "formula": 9.6,
-            "skinSuitability": 9.8,
-            "evidence": 9.7,
-            "userFeedback": 9.5,
-            "value": 9.7,
-            "availability": 9.9
+            "formula": 8.6,
+            "skinSuitability": 8.8,
+            "evidence": 8.7,
+            "userFeedback": 8.4,
+            "value": 8.7,
+            "availability": 9.3
         },
         "skinType": [
             "Oily",
@@ -1926,13 +1926,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.6,
-            "weatherResilience": 9.8,
-            "texture": 9.8,
-            "value": 9.7,
-            "overall": 9.7
+            "formula": 8.6,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.7,
+            "overall": 8.7
         }
     },
     {
@@ -1956,12 +1956,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "2,700+",
         "reviewCount": "2,700+",
         "scoreBreakdown": {
-            "formula": 9.9,
-            "skinSuitability": 9.5,
-            "evidence": 9.9,
-            "userFeedback": 9.6,
-            "value": 8.8,
-            "availability": 9.5
+            "formula": 8.9,
+            "skinSuitability": 8.5,
+            "evidence": 8.9,
+            "userFeedback": 8.8,
+            "value": 7.8,
+            "availability": 8.9
         },
         "skinType": [
             "Dry",
@@ -2020,13 +2020,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.6,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.9,
-            "weatherResilience": 9.5,
-            "texture": 9.5,
-            "value": 8.8,
-            "overall": 9.6
+            "formula": 8.9,
+            "weatherResilience": 8.5,
+            "texture": 8.5,
+            "value": 7.8,
+            "overall": 8.7
         }
     },
     {
@@ -2050,12 +2050,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "5,400+",
         "reviewCount": "5,400+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.3,
-            "evidence": 9.8,
-            "userFeedback": 9.4,
-            "value": 9.7,
-            "availability": 9.8
+            "formula": 8.7,
+            "skinSuitability": 8.3,
+            "evidence": 8.8,
+            "userFeedback": 8.6,
+            "value": 8.7,
+            "availability": 9.2
         },
         "skinType": [
             "Normal",
@@ -2113,13 +2113,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.6,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.3,
-            "texture": 9.3,
-            "value": 9.7,
-            "overall": 9.6
+            "formula": 8.7,
+            "weatherResilience": 8.3,
+            "texture": 8.3,
+            "value": 8.7,
+            "overall": 8.7
         }
     },
     {
@@ -2143,12 +2143,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "14,100+",
         "reviewCount": "14,100+",
         "scoreBreakdown": {
-            "formula": 9.2,
-            "skinSuitability": 9.4,
-            "evidence": 9.3,
-            "userFeedback": 9.4,
-            "value": 9.6,
-            "availability": 9.8
+            "formula": 8.2,
+            "skinSuitability": 8.4,
+            "evidence": 8.3,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9.2
         },
         "skinType": [
             "Oily",
@@ -2205,13 +2205,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.4,
+        "oraeSkinScore": 8.4,
         "scores": {
-            "formula": 9.2,
-            "weatherResilience": 9.4,
-            "texture": 9.4,
-            "value": 9.6,
-            "overall": 9.4
+            "formula": 8.2,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.6,
+            "overall": 8.4
         }
     },
     {
@@ -2235,12 +2235,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "9,500+",
         "reviewCount": "9,500+",
         "scoreBreakdown": {
-            "formula": 9.6,
-            "skinSuitability": 9.8,
-            "evidence": 9.6,
-            "userFeedback": 9.4,
-            "value": 9.6,
-            "availability": 9.8
+            "formula": 8.6,
+            "skinSuitability": 8.8,
+            "evidence": 8.6,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9.2
         },
         "skinType": [
             "Sensitive",
@@ -2298,13 +2298,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.6,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.6,
-            "weatherResilience": 9.8,
-            "texture": 9.8,
-            "value": 9.6,
-            "overall": 9.6
+            "formula": 8.6,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.6,
+            "overall": 8.7
         }
     },
     {
@@ -2328,12 +2328,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "19,800+",
         "reviewCount": "19,800+",
         "scoreBreakdown": {
-            "formula": 9.5,
-            "skinSuitability": 9.6,
-            "evidence": 9.5,
-            "userFeedback": 9.5,
-            "value": 8.8,
-            "availability": 9.6
+            "formula": 8.5,
+            "skinSuitability": 8.6,
+            "evidence": 8.5,
+            "userFeedback": 9.4,
+            "value": 7.8,
+            "availability": 9
         },
         "skinType": [
             "Combination",
@@ -2391,13 +2391,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "September 2026",
         "lastEditorialReview": "September 2026",
         "inStock": false,
-        "oraeSkinScore": 9.5,
+        "oraeSkinScore": 8.6,
         "scores": {
-            "formula": 9.5,
-            "weatherResilience": 9.6,
-            "texture": 9.6,
-            "value": 8.8,
-            "overall": 9.5
+            "formula": 8.5,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 7.8,
+            "overall": 8.6
         }
     },
     {
@@ -2421,12 +2421,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "38,200+",
         "reviewCount": "38,200+",
         "scoreBreakdown": {
-            "formula": 9.8,
-            "skinSuitability": 9.7,
-            "evidence": 9.8,
+            "formula": 8.8,
+            "skinSuitability": 8.7,
+            "evidence": 8.8,
             "userFeedback": 9.6,
-            "value": 9.7,
-            "availability": 9.8
+            "value": 8.7,
+            "availability": 9.2
         },
         "skinType": [
             "All",
@@ -2487,13 +2487,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "September 2026",
         "lastEditorialReview": "September 2026",
         "inStock": false,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.9,
         "scores": {
-            "formula": 9.8,
-            "weatherResilience": 9.7,
-            "texture": 9.7,
-            "value": 9.7,
-            "overall": 9.7
+            "formula": 8.8,
+            "weatherResilience": 8.7,
+            "texture": 8.7,
+            "value": 8.7,
+            "overall": 8.9
         }
     },
     {
@@ -2620,12 +2620,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "1,100+",
         "reviewCount": "1,100+",
         "scoreBreakdown": {
-            "formula": 9.3,
-            "skinSuitability": 9.4,
-            "evidence": 9.4,
-            "userFeedback": 9.2,
-            "value": 9.1,
-            "availability": 9.7
+            "formula": 8.3,
+            "skinSuitability": 8.4,
+            "evidence": 8.4,
+            "userFeedback": 7.6,
+            "value": 8.1,
+            "availability": 9.1
         },
         "skinType": [
             "All",
@@ -2683,13 +2683,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.3,
+        "oraeSkinScore": 8.3,
         "scores": {
-            "formula": 9.3,
-            "weatherResilience": 9.4,
-            "texture": 9.4,
-            "value": 9.1,
-            "overall": 9.3
+            "formula": 8.3,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.1,
+            "overall": 8.3
         }
     },
     {
@@ -2713,12 +2713,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "3,400+",
         "reviewCount": "3,400+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.8,
-            "evidence": 9.7,
-            "userFeedback": 9.5,
-            "value": 9.8,
-            "availability": 9.9
+            "formula": 8.7,
+            "skinSuitability": 8.8,
+            "evidence": 8.7,
+            "userFeedback": 8.4,
+            "value": 8.8,
+            "availability": 9.3
         },
         "skinType": [
             "All",
@@ -2776,13 +2776,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.8,
-            "texture": 9.8,
-            "value": 9.8,
-            "overall": 9.7
+            "formula": 8.7,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.8,
+            "overall": 8.7
         }
     },
     {
@@ -2806,12 +2806,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "7,200+",
         "reviewCount": "7,200+",
         "scoreBreakdown": {
-            "formula": 9.3,
-            "skinSuitability": 9.5,
-            "evidence": 9.2,
-            "userFeedback": 9.4,
-            "value": 9.6,
-            "availability": 9.8
+            "formula": 8.3,
+            "skinSuitability": 8.5,
+            "evidence": 8.2,
+            "userFeedback": 8.2,
+            "value": 8.6,
+            "availability": 9.2
         },
         "skinType": [
             "All",
@@ -2870,13 +2870,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.4,
+        "oraeSkinScore": 8.4,
         "scores": {
-            "formula": 9.3,
-            "weatherResilience": 9.5,
-            "texture": 9.5,
-            "value": 9.6,
-            "overall": 9.4
+            "formula": 8.3,
+            "weatherResilience": 8.5,
+            "texture": 8.5,
+            "value": 8.6,
+            "overall": 8.4
         }
     },
     {
@@ -2900,12 +2900,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "2,900+",
         "reviewCount": "2,900+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.7,
-            "evidence": 9.8,
-            "userFeedback": 9.6,
-            "value": 9.7,
-            "availability": 9.9
+            "formula": 8.7,
+            "skinSuitability": 8.7,
+            "evidence": 8.8,
+            "userFeedback": 8.4,
+            "value": 8.7,
+            "availability": 9.3
         },
         "skinType": [
             "Oily",
@@ -2965,13 +2965,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.7,
-            "texture": 9.7,
-            "value": 9.7,
-            "overall": 9.7
+            "formula": 8.7,
+            "weatherResilience": 8.7,
+            "texture": 8.7,
+            "value": 8.7,
+            "overall": 8.7
         }
     },
     {
@@ -2995,12 +2995,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "3,400+",
         "reviewCount": "3,400+",
         "scoreBreakdown": {
-            "formula": 9.1,
-            "skinSuitability": 9.3,
-            "evidence": 8.9,
-            "userFeedback": 9.6,
-            "value": 9.5,
-            "availability": 9.8
+            "formula": 8.1,
+            "skinSuitability": 8.3,
+            "evidence": 7.9,
+            "userFeedback": 8.8,
+            "value": 8.5,
+            "availability": 9.2
         },
         "skinType": [
             "Dry",
@@ -3056,13 +3056,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.3,
+        "oraeSkinScore": 8.4,
         "scores": {
-            "formula": 9.1,
-            "weatherResilience": 9.3,
-            "texture": 9.3,
-            "value": 9.5,
-            "overall": 9.3
+            "formula": 8.1,
+            "weatherResilience": 8.3,
+            "texture": 8.3,
+            "value": 8.5,
+            "overall": 8.4
         }
     },
     {
@@ -3086,12 +3086,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "52,200+",
         "reviewCount": "52,200+",
         "scoreBreakdown": {
-            "formula": 8.8,
-            "skinSuitability": 9,
-            "evidence": 8.7,
-            "userFeedback": 9.2,
-            "value": 9.9,
-            "availability": 9.9
+            "formula": 7.8,
+            "skinSuitability": 8,
+            "evidence": 7.7,
+            "userFeedback": 8.6,
+            "value": 8.9,
+            "availability": 9.3
         },
         "skinType": [
             "Normal",
@@ -3147,13 +3147,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.1,
+        "oraeSkinScore": 8.2,
         "scores": {
-            "formula": 8.8,
-            "weatherResilience": 9,
-            "texture": 9,
-            "value": 9.9,
-            "overall": 9.1
+            "formula": 7.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.9,
+            "overall": 8.2
         }
     },
     {
@@ -3284,12 +3284,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "5,300+",
         "reviewCount": "5,300+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.5,
-            "evidence": 9.8,
-            "userFeedback": 9.5,
-            "value": 9.9,
-            "availability": 9.9
+            "formula": 8.7,
+            "skinSuitability": 8.5,
+            "evidence": 8.8,
+            "userFeedback": 8.2,
+            "value": 8.9,
+            "availability": 9.3
         },
         "skinType": [
             "Oily",
@@ -3346,13 +3346,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.5,
-            "texture": 9.5,
-            "value": 9.9,
-            "overall": 9.7
+            "formula": 8.7,
+            "weatherResilience": 8.5,
+            "texture": 8.5,
+            "value": 8.9,
+            "overall": 8.7
         }
     },
     {
@@ -3376,12 +3376,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "9,500+",
         "reviewCount": "9,500+",
         "scoreBreakdown": {
-            "formula": 9.8,
-            "skinSuitability": 9.4,
-            "evidence": 9.9,
-            "userFeedback": 9.4,
-            "value": 9.6,
-            "availability": 9.8
+            "formula": 8.8,
+            "skinSuitability": 8.4,
+            "evidence": 8.9,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9.2
         },
         "skinType": [
             "All",
@@ -3441,13 +3441,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.7,
         "scores": {
-            "formula": 9.8,
-            "weatherResilience": 9.4,
-            "texture": 9.4,
-            "value": 9.6,
-            "overall": 9.7
+            "formula": 8.8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.6,
+            "overall": 8.7
         }
     },
     {
@@ -3471,12 +3471,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonReviews": "4,700+",
         "reviewCount": "4,700+",
         "scoreBreakdown": {
-            "formula": 9.7,
-            "skinSuitability": 9.8,
-            "evidence": 9.6,
-            "userFeedback": 9.5,
-            "value": 9.4,
-            "availability": 9.8
+            "formula": 8.7,
+            "skinSuitability": 8.8,
+            "evidence": 8.6,
+            "userFeedback": 8.2,
+            "value": 8.4,
+            "availability": 9.2
         },
         "skinType": [
             "Sensitive",
@@ -3533,13 +3533,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "lastPriceChecked": "October 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 9.7,
+        "oraeSkinScore": 8.6,
         "scores": {
-            "formula": 9.7,
-            "weatherResilience": 9.8,
-            "texture": 9.8,
-            "value": 9.4,
-            "overall": 9.7
+            "formula": 8.7,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.4,
+            "overall": 8.6
         }
     },
     {
@@ -5088,6 +5088,879 @@ export const PRODUCTS: SkincareProduct[] = [
             "texture": 8.4,
             "value": 8.4,
             "overall": 8.2
+        }
+    },
+    {
+        "id": "laneige-lip-sleeping-mask",
+        "name": "Lip Sleeping Mask",
+        "title": "Laneige Lip Sleeping Mask with Vitamin C & Shea Butter",
+        "brand": "Laneige",
+        "category": "lip-care",
+        "subcategory": "Overnight Lip Mask",
+        "asin": "B0BPC8KG73",
+        "amazonUrl": "https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21",
+        "badge": "Best Overnight Lip Mask",
+        "price": 510,
+        "priceEst": "₹510",
+        "currency": "₹",
+        "size": "8g",
+        "image": "/images/products/laneige-lip-sleeping-mask.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "16,000+",
+        "reviewCount": "16,000+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.8,
+            "evidence": 7.8,
+            "userFeedback": 9,
+            "value": 7,
+            "availability": 9
+        },
+        "skinType": [
+            "All",
+            "Dry"
+        ],
+        "concerns": [
+            "Chapped Lips",
+            "Dry Lips",
+            "Peeling Lips"
+        ],
+        "keyActives": [
+            "Shea Butter",
+            "Vitamin C",
+            "Berry Fruit Complex"
+        ],
+        "keyIngredients": [
+            "Shea Butter",
+            "Vitamin C",
+            "Berry Fruit Extracts"
+        ],
+        "ingredients": [
+            "Shea Butter",
+            "Vitamin C",
+            "Berry Fruit Complex",
+            "Fragrance (full ingredient list on the pack)"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Thick, Balmy Mask",
+        "finish": "Glossy Overnight Layer",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry, chapped or peeling lips that need a thick overnight treatment.",
+        "avoidIf": "Your lips react to fragrance or flavouring.",
+        "whyWeLikeIt": "A cult-favourite occlusive mask that seals moisture into lips overnight, so they wake up softer and smoother.",
+        "pros": [
+            "Thick texture seals in moisture overnight",
+            "Very high Amazon India rating (4.5★ from 16,000+)",
+            "A little goes a long way"
+        ],
+        "cons": [
+            "Only 8g for ₹510 — expensive per gram",
+            "Contains fragrance/flavouring",
+            "No SPF — not for daytime sun protection"
+        ],
+        "verdict": "The best overnight fix for chapped lips if you don't mind paying a premium. Pair it with an SPF balm by day.",
+        "alternatives": [
+            {
+                "label": "Budget Lip Mask",
+                "productId": "dotkey-lip-mask",
+                "reason": "Shea butter and vitamin C + E lip mask for under ₹200."
+            },
+            {
+                "label": "Daytime SPF Partner",
+                "productId": "wishcare-ceramide-lip-balm-spf50",
+                "reason": "SPF 50 balm for daytime protection."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 7,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "wishcare-ceramide-lip-balm-spf50",
+        "name": "Lip Balm SPF 50 (Untinted)",
+        "title": "WishCare Lip Balm SPF 50 PA++++ with Kojic Acid & Niacinamide (Untinted)",
+        "brand": "WishCare",
+        "category": "lip-care",
+        "subcategory": "SPF Lip Balm",
+        "asin": "B0CND4C95T",
+        "amazonUrl": "https://www.amazon.in/dp/B0CND4C95T?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CND4C95T?tag=oraeskin-21",
+        "badge": "Best Untinted SPF 50 Lip Balm",
+        "price": 239,
+        "priceEst": "₹239",
+        "currency": "₹",
+        "size": "5g",
+        "image": "/images/products/wishcare-ceramide-lip-balm-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "5,900+",
+        "reviewCount": "5,900+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Dark Lips",
+            "Sun Protection",
+            "Dry Lips"
+        ],
+        "keyActives": [
+            "SPF 50 PA++++",
+            "Kojic Acid",
+            "Niacinamide"
+        ],
+        "keyIngredients": [
+            "Kojic Acid",
+            "Niacinamide",
+            "UV Filters"
+        ],
+        "ingredients": [
+            "Kojic Acid",
+            "Niacinamide",
+            "UV Filters (full ingredient list on the pack)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Smooth Stick",
+        "finish": "Natural, Untinted",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Daily lip sun protection and gradual brightening for sun-darkened lips.",
+        "avoidIf": "You want a rich overnight treatment rather than a daytime balm.",
+        "whyWeLikeIt": "High SPF 50 PA++++ protection for lips, which darken easily in the sun, plus kojic acid and niacinamide for brightening.",
+        "pros": [
+            "SPF 50 PA++++ in a lip balm",
+            "Kojic acid and niacinamide for brightening",
+            "Untinted — works for everyone"
+        ],
+        "cons": [
+            "Despite the 'ceramide' product name, the listed ingredients mention only kojic acid and niacinamide",
+            "Needs reapplying after eating or drinking"
+        ],
+        "verdict": "A dependable daily SPF lip balm, and one of the best first steps for dark lips.",
+        "alternatives": [
+            {
+                "label": "Tinted Version",
+                "productId": "wishcare-tinted-lip-balm-spf50",
+                "reason": "Same SPF 50 formula with a natural pink tint."
+            },
+            {
+                "label": "Brightening Alternative",
+                "productId": "deconstruct-brightening-lip-balm-spf50",
+                "reason": "SPF 50 with vitamin C and resorcinol for dark lips."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.4,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "wishcare-tinted-lip-balm-spf50",
+        "name": "Tinted Lip Balm SPF 50",
+        "title": "WishCare Tinted Lip Balm SPF 50 PA++++ with Kojic Acid & Niacinamide",
+        "brand": "WishCare",
+        "category": "lip-care",
+        "subcategory": "Tinted SPF Lip Balm",
+        "asin": "B0CND1VF2W",
+        "amazonUrl": "https://www.amazon.in/dp/B0CND1VF2W?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CND1VF2W?tag=oraeskin-21",
+        "badge": "Best Tinted SPF Lip Balm",
+        "price": 239,
+        "priceEst": "₹239",
+        "currency": "₹",
+        "size": "5g",
+        "image": "/images/products/wishcare-tinted-lip-balm-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "15,500+",
+        "reviewCount": "15,500+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 8.4,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Dark Lips",
+            "Sun Protection",
+            "Dull Lips"
+        ],
+        "keyActives": [
+            "SPF 50 PA++++",
+            "Kojic Acid",
+            "Niacinamide"
+        ],
+        "keyIngredients": [
+            "Kojic Acid",
+            "Niacinamide",
+            "UV Filters"
+        ],
+        "ingredients": [
+            "Kojic Acid",
+            "Niacinamide",
+            "UV Filters",
+            "Watermelon flavour (full ingredient list on the pack)"
+        ],
+        "fragrance": "Subtle Natural Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Smooth Stick",
+        "finish": "Natural Pink Tint",
+        "whiteCast": "Not Applicable",
+        "bestFor": "College and office wear: a hint of colour with SPF 50 every day.",
+        "avoidIf": "Your lips react to flavoured balms.",
+        "whyWeLikeIt": "Combines a wearable tint with SPF 50 and brightening actives, so sun protection doesn't feel like an extra step.",
+        "pros": [
+            "Natural pink tint with SPF 50 PA++++",
+            "Kojic acid and niacinamide for dark lips",
+            "Very popular (15,500+ ratings)"
+        ],
+        "cons": [
+            "Watermelon flavouring",
+            "Tint may look different on very pigmented lips"
+        ],
+        "verdict": "The easiest way to wear SPF on your lips every day.",
+        "alternatives": [
+            {
+                "label": "Untinted Version",
+                "productId": "wishcare-ceramide-lip-balm-spf50",
+                "reason": "Same SPF 50 protection without tint."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.4,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "dotkey-barrier-repair-lip-balm-spf50",
+        "name": "Barrier Repair Hydrating Lip Balm SPF 50",
+        "title": "Dot & Key Barrier Repair Hydrating Lip Balm SPF 50 (Blueberry)",
+        "brand": "Dot & Key",
+        "category": "lip-care",
+        "subcategory": "SPF Lip Balm",
+        "asin": "B0DCBCL72R",
+        "amazonUrl": "https://www.amazon.in/dp/B0DCBCL72R?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DCBCL72R?tag=oraeskin-21",
+        "badge": "Best Budget SPF Lip Balm",
+        "price": 199,
+        "priceEst": "₹199",
+        "currency": "₹",
+        "size": "4.5g",
+        "image": "/images/products/dotkey-barrier-repair-lip-balm-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "3,700+",
+        "reviewCount": "3,700+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 8.8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All",
+            "Dry"
+        ],
+        "concerns": [
+            "Dry Lips",
+            "Sun Protection",
+            "Chapped Lips"
+        ],
+        "keyActives": [
+            "SPF 50 (Uvinul A Plus + Octinoxate)",
+            "Shea Butter",
+            "Avocado Oil",
+            "Petrolatum"
+        ],
+        "keyIngredients": [
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Octyl Methoxycinnamate",
+            "Shea Butter",
+            "Avocado Oil",
+            "Petrolatum",
+            "Tocopheryl Acetate"
+        ],
+        "ingredients": [
+            "Hydrogenated Polyisobutene",
+            "Petrolatum",
+            "Hydrogenated Castor Oil",
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Synthetic Wax",
+            "Microcrystalline Wax",
+            "Ozokerite",
+            "Paraffin Wax",
+            "Shea Butter",
+            "Caprylic/Capric Triglyceride",
+            "Octyl Methoxycinnamate",
+            "Mica",
+            "Tocopheryl Acetate",
+            "Avocado Oil",
+            "Flavor"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Waxy Stick",
+        "finish": "Natural, Non-Tinted",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Everyday SPF and moisture for dry lips on a tight budget.",
+        "avoidIf": "You prefer petrolatum-free or flavour-free lip care.",
+        "whyWeLikeIt": "Real UV filters (including Uvinul A Plus) in an occlusive, shea-and-avocado base that keeps lips from drying out.",
+        "pros": [
+            "SPF 50 with Uvinul A Plus for UVA",
+            "Petrolatum, shea butter and avocado oil seal in moisture",
+            "Under ₹200"
+        ],
+        "cons": [
+            "Contains petrolatum and flavouring",
+            "Despite the 'barrier repair' name, no ceramides are listed"
+        ],
+        "verdict": "A practical, cheap SPF lip balm for dry lips. Skip it if you avoid petrolatum.",
+        "alternatives": [
+            {
+                "label": "Flavour-Free SPF Alternative",
+                "productId": "wishcare-ceramide-lip-balm-spf50",
+                "reason": "Untinted SPF 50 balm with kojic acid and niacinamide."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "deconstruct-brightening-lip-balm-spf50",
+        "name": "Brightening Lip Balm SPF 50",
+        "title": "Deconstruct Brightening Lip Balm SPF 50 with Vitamin C & Resorcinol",
+        "brand": "Deconstruct",
+        "category": "lip-care",
+        "subcategory": "Brightening SPF Lip Balm",
+        "asin": "B0BV34LQRP",
+        "amazonUrl": "https://www.amazon.in/dp/B0BV34LQRP?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BV34LQRP?tag=oraeskin-21",
+        "badge": "Best for Dark, Pigmented Lips",
+        "price": 193,
+        "priceEst": "₹193",
+        "currency": "₹",
+        "size": "4.5g",
+        "image": "/images/products/deconstruct-brightening-lip-balm-spf50.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "9,000+",
+        "reviewCount": "9,000+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 8.2,
+            "userFeedback": 8,
+            "value": 8.8,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Dark Lips",
+            "Uneven Lip Tone",
+            "Sun Protection"
+        ],
+        "keyActives": [
+            "SPF 50",
+            "Vitamin C",
+            "Resorcinol",
+            "Murumuru & Cupuaçu Butter"
+        ],
+        "keyIngredients": [
+            "Vitamin C",
+            "Resorcinol",
+            "Murumuru Butter",
+            "Theobroma Grandiflorum Seed Butter",
+            "Vitamin E"
+        ],
+        "ingredients": [
+            "Vitamin C",
+            "Resorcinol",
+            "Murumuru Butter",
+            "Vitamin E",
+            "Theobroma Grandiflorum Seed Butter (full ingredient list on the pack)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Smooth Stick",
+        "finish": "Natural",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Sun-darkened or smoker's lips that need SPF plus active brightening.",
+        "avoidIf": "You are pregnant (the brand advises discretion) or your lips are cracked and stinging.",
+        "whyWeLikeIt": "Pairs SPF 50 with vitamin C and resorcinol, an ingredient used for pigmentation. It's unflavoured, with nourishing butters.",
+        "pros": [
+            "SPF 50 with brightening vitamin C and resorcinol",
+            "Unflavoured",
+            "Under ₹200"
+        ],
+        "cons": [
+            "Brightening is gradual — weeks of daily use",
+            "Resorcinol can irritate cracked lips"
+        ],
+        "verdict": "The best budget pick for dark lips: protection and brightening in one stick.",
+        "alternatives": [
+            {
+                "label": "Gentler SPF Alternative",
+                "productId": "wishcare-ceramide-lip-balm-spf50",
+                "reason": "SPF 50 with milder kojic acid and niacinamide."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.8,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "reequil-sheer-zinc-tinted-spf50",
+        "name": "Sheer Zinc Tinted Sunscreen SPF 50",
+        "title": "Re'equil Sheer Zinc Tinted Sunscreen — 100% Mineral SPF 50 PA++++",
+        "brand": "Re'equil",
+        "category": "sunscreens",
+        "subcategory": "Tinted Mineral Sunscreen",
+        "asin": "B08TMFC5BN",
+        "amazonUrl": "https://www.amazon.in/dp/B08TMFC5BN?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08TMFC5BN?tag=oraeskin-21",
+        "badge": "Best Tinted Mineral Sunscreen",
+        "price": 590,
+        "priceEst": "₹590",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/reequil-sheer-zinc-tinted-spf50.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "2,100+",
+        "reviewCount": "2,100+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.4,
+            "evidence": 8.8,
+            "userFeedback": 8.2,
+            "value": 7.8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Sun Protection",
+            "Melasma",
+            "Pigmentation",
+            "Sensitive Skin"
+        ],
+        "keyActives": [
+            "Zinc Oxide (100% mineral)",
+            "Tint"
+        ],
+        "keyIngredients": [
+            "Zinc Oxide"
+        ],
+        "ingredients": [
+            "Zinc Oxide (full ingredient list on the pack)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Tinted Cream",
+        "finish": "Sheer Tint, No White Cast",
+        "whiteCast": "Minimal (tinted)",
+        "bestFor": "Sensitive or melasma-prone skin that wants a filter-free mineral sunscreen without a white cast.",
+        "avoidIf": "Your skin is very deep and the single tint shade looks ashy, or you dislike any tint.",
+        "whyWeLikeIt": "Zinc oxide is gentle and broad-spectrum, and the tint hides the white cast mineral sunscreens usually leave on Indian skin.",
+        "pros": [
+            "100% mineral (zinc oxide) — ideal for sensitive skin",
+            "Tint offsets white cast",
+            "Water resistant"
+        ],
+        "cons": [
+            "One tint shade won't suit every skin tone",
+            "Pricier than chemical sunscreens",
+            "Amazon listing doesn't show the full ingredient list"
+        ],
+        "verdict": "The best mineral option for sensitive and pigment-prone Indian skin, if the tint suits you.",
+        "alternatives": [
+            {
+                "label": "Untinted Mineral Alternative",
+                "productId": "lashield-fisico-mineral-spf50",
+                "reason": "Matte, 100% mineral zinc oxide gel."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 7.8,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "lashield-fisico-mineral-spf50",
+        "name": "Fisico Mineral Sunscreen SPF 50+",
+        "title": "La Shield Fisico 100% Mineral Sunscreen SPF 50+ PA++++",
+        "brand": "La Shield",
+        "category": "sunscreens",
+        "subcategory": "Mineral Sunscreen Gel",
+        "asin": "B07G8J6ZD4",
+        "amazonUrl": "https://www.amazon.in/dp/B07G8J6ZD4?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07G8J6ZD4?tag=oraeskin-21",
+        "badge": "Best Matte Mineral Sunscreen",
+        "price": 600,
+        "priceEst": "₹600",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/lashield-fisico-mineral-spf50.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "7,400+",
+        "reviewCount": "7,400+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.2,
+            "evidence": 8.8,
+            "userFeedback": 7.8,
+            "value": 7.8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "Oily",
+            "Sensitive",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Sun Protection",
+            "Sensitive Skin",
+            "Oiliness"
+        ],
+        "keyActives": [
+            "Zinc Oxide (100% mineral)",
+            "Silicone Matte Base",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "Zinc Oxide",
+            "C12-15 Alkyl Benzoate",
+            "Cyclopentasiloxane",
+            "Dimethicone Crosspolymer",
+            "Tocopheryl Acetate"
+        ],
+        "ingredients": [
+            "Zinc Oxide",
+            "C12-15 Alkyl Benzoate",
+            "Isostearic Acid",
+            "Polyhydroxystearic Acid",
+            "Cyclopentasiloxane",
+            "Dimethicone Crosspolymer",
+            "Dimethicone/PPG-20 Crosspolymer",
+            "Tocopheryl Acetate"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Silicone Gel",
+        "finish": "Matte",
+        "whiteCast": "Mild",
+        "bestFor": "Oily, sensitive skin that reacts to chemical UV filters and wants a matte finish.",
+        "avoidIf": "You have deep skin and dislike any white cast, or very dry skin.",
+        "whyWeLikeIt": "A short, fragrance-free formula with zinc oxide as the only UV filter, in a silky silicone base that dries matte.",
+        "pros": [
+            "Zinc oxide is the only UV filter — gentle for reactive skin",
+            "Matte silicone finish suits oily skin",
+            "Short, fragrance-free ingredient list"
+        ],
+        "cons": [
+            "Can leave a mild white cast on deeper skin",
+            "Lower rating than most picks (3.9★)",
+            "Silicone base can pill over heavy creams"
+        ],
+        "verdict": "A solid untinted mineral sunscreen for oily, sensitive skin. Choose a tinted mineral if white cast bothers you.",
+        "alternatives": [
+            {
+                "label": "Tinted Mineral Alternative",
+                "productId": "reequil-sheer-zinc-tinted-spf50",
+                "reason": "Tinted zinc sunscreen that hides white cast."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 7.8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "lakme-tinted-sunscreen-spf50",
+        "name": "Sun Expert Tinted Sunscreen SPF 50",
+        "title": "Lakmē Sun Expert Tinted Sunscreen SPF 50 PA+++ with Niacinamide",
+        "brand": "Lakmē",
+        "category": "sunscreens",
+        "subcategory": "Tinted Sunscreen",
+        "asin": "B085T374WK",
+        "amazonUrl": "https://www.amazon.in/dp/B085T374WK?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B085T374WK?tag=oraeskin-21",
+        "badge": "Best Budget Tinted Sunscreen",
+        "price": 271,
+        "priceEst": "₹271",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/lakme-tinted-sunscreen-spf50.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "7,100+",
+        "reviewCount": "7,100+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8,
+            "evidence": 7.8,
+            "userFeedback": 8.2,
+            "value": 9.6,
+            "availability": 9.4
+        },
+        "skinType": [
+            "Normal",
+            "Combination",
+            "Oily"
+        ],
+        "concerns": [
+            "Sun Protection",
+            "Uneven Tone",
+            "Dullness"
+        ],
+        "keyActives": [
+            "Octinoxate + Zinc Oxide + Titanium Dioxide",
+            "Niacinamide",
+            "Tint"
+        ],
+        "keyIngredients": [
+            "Ethylhexyl Methoxycinnamate",
+            "Zinc Oxide",
+            "Phenylbenzimidazole Sulfonic Acid",
+            "Titanium Dioxide",
+            "Niacinamide"
+        ],
+        "ingredients": [
+            "Water",
+            "Cyclopentasiloxane",
+            "Glycerine",
+            "Ethylhexyl Methoxycinnamate",
+            "Zinc Oxide",
+            "Phenylbenzimidazole Sulfonic Acid",
+            "Dimethicone Crosspolymer",
+            "Caprylic Capric Triglyceride",
+            "Niacinamide",
+            "Perfume",
+            "Titanium Dioxide",
+            "DMDM Hydantoin"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Tinted Lotion",
+        "finish": "Even-Toned, Natural",
+        "whiteCast": "Zero (tinted)",
+        "bestFor": "Budget-friendly daily tinted protection that evens out skin tone for office or college.",
+        "avoidIf": "You have sensitive skin or avoid fragrance, or want strong, modern UVA filters.",
+        "whyWeLikeIt": "A huge 100ml tube at under ₹300 with a light tint and niacinamide. It's easy to apply generously, which matters more than anything for real-world protection.",
+        "pros": [
+            "100ml for under ₹300 — easy to use generously",
+            "Light tint evens tone",
+            "Widely available"
+        ],
+        "cons": [
+            "Contains perfume and an older filter mix (octinoxate)",
+            "PA+++ rather than PA++++"
+        ],
+        "verdict": "A practical budget tinted sunscreen. Sensitive or melasma-prone skin should choose a fragrance-free mineral tint instead.",
+        "alternatives": [
+            {
+                "label": "Modern-Filter Tinted Alternative",
+                "productId": "dotkey-strawberry-dew-tinted-spf50",
+                "reason": "New-gen filters with PA++++ and a beige tint."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.6,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "dotkey-strawberry-dew-tinted-spf50",
+        "name": "Strawberry Dew Tinted Sunscreen SPF 50+",
+        "title": "Dot & Key Strawberry Dew Tinted Sunscreen SPF 50+ PA++++",
+        "brand": "Dot & Key",
+        "category": "sunscreens",
+        "subcategory": "Tinted Sunscreen",
+        "asin": "B0CX1YQ764",
+        "amazonUrl": "https://www.amazon.in/dp/B0CX1YQ764?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CX1YQ764?tag=oraeskin-21",
+        "badge": "Best Modern-Filter Tinted Sunscreen",
+        "price": 489,
+        "priceEst": "₹489",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/dotkey-strawberry-dew-tinted-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "5,100+",
+        "reviewCount": "5,100+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.4,
+            "evidence": 8.6,
+            "userFeedback": 8.6,
+            "value": 8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Sun Protection",
+            "Uneven Tone",
+            "Dullness"
+        ],
+        "keyActives": [
+            "New-Gen Filters (DHHB, Ethylhexyl Triazone, Bemotrizinol)",
+            "Titanium Dioxide",
+            "Tint"
+        ],
+        "keyIngredients": [
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Ethylhexyl Triazone",
+            "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+            "Titanium Dioxide",
+            "Glycerin"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Ethylhexyl Triazone",
+            "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+            "Isododecane",
+            "Glycerin",
+            "Dimethicone",
+            "Phenyl Trimethicone",
+            "Titanium Dioxide"
+        ],
+        "fragrance": "Subtle Natural Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lightweight Tinted Fluid",
+        "finish": "Dewy, Even-Toned",
+        "whiteCast": "Zero (tinted)",
+        "bestFor": "Normal to dry skin that wants a dewy tint with strong, modern UVA/UVB protection.",
+        "avoidIf": "You have very oily skin that dislikes dewy finishes.",
+        "whyWeLikeIt": "Modern, photostable filters (including Tinosorb S) with a tint that adds visible-light coverage and evens tone.",
+        "pros": [
+            "New-gen filters with PA++++",
+            "Tint helps even tone and hides cast",
+            "Dewy, comfortable finish"
+        ],
+        "cons": [
+            "Single beige shade won't suit every tone",
+            "Dewy finish can look shiny on oily skin"
+        ],
+        "verdict": "The best tinted sunscreen here for strong UVA protection, if the shade works for you.",
+        "alternatives": [
+            {
+                "label": "Mineral Tinted Alternative",
+                "productId": "reequil-sheer-zinc-tinted-spf50",
+                "reason": "100% mineral tinted option for sensitive skin."
+            },
+            {
+                "label": "Budget Tinted Alternative",
+                "productId": "lakme-tinted-sunscreen-spf50",
+                "reason": "100ml tinted sunscreen for under ₹300."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8,
+            "overall": 8.5
         }
     }
 ];

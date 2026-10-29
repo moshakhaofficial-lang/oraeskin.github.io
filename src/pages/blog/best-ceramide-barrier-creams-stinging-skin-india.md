@@ -22,9 +22,9 @@ If your skin stings when you apply products, feels tight after washing, or flake
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[CeraVe Moisturizing Cream with Ceramides](/reviews/cerave-moisturizing-cream/)** | 3 Essential Ceramides (1, 3, 6-II) + Hyaluronic Acid | Severe Dryness, Eczema | ₹344 (50ml) | 9.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
+| **[CeraVe Moisturizing Cream with Ceramides](/reviews/cerave-moisturizing-cream/)** | 3 Essential Ceramides (1, 3, 6-II) + Hyaluronic Acid | Severe Dryness, Eczema | ₹344 (50ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
 | **[Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/)** | 5 Ceramides (1, 2, 3, 4, 6-II) + Hyaluronic Acid | Barrier Damage, Dehydration | ₹328 (100g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
-| **[Bioderma Atoderm Intensive Baume](/reviews/bioderma-atoderm-baume/)** | Lipigenium Complex + Skin Barrier Therapy Patent | Atopic Dermatitis, Extreme Itching | ₹472 (45ml) | 9.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **[Bioderma Atoderm Intensive Baume](/reviews/bioderma-atoderm-baume/)** | Lipigenium Complex + Skin Barrier Therapy Patent | Atopic Dermatitis, Extreme Itching | ₹472 (45ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 *Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
