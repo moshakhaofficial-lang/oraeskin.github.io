@@ -1,6 +1,7 @@
 {
   "published_products": [
     "aqualogica-radiance-spf50",
+    "bebodywise-lactic-5-lotion",
     "bioderma-atoderm-baume",
     "biotique-morning-nectar-lotion",
     "cerave-eye-repair",
@@ -40,6 +41,7 @@
     "avocado-cream-benefits",
     "best-aha-exfoliating-face-washes-dull-skin",
     "best-alcohol-free-toners-under-400-india",
+    "best-bha-toners-for-strawberry-pores-blackheads",
     "best-body-oils-for-glowing-skin-post-shower",
     "best-brightening-body-lotions-sun-tanned-arms",
     "best-budget-lip-balms-under-200-india",
@@ -755,6 +757,26 @@
       "type": "blog",
       "title": "Best Non-Foaming Gentle Cleansers for Dry & Dehydrated Skin",
       "date": "2026-10-29T14:50:23.524831+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "bebodywise-lactic-5-lotion",
+      "type": "product",
+      "title": "5% AHA Lactic Acid Body Lotion",
+      "date": "2026-10-30T10:56:51.765572+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-bha-toners-for-strawberry-pores-blackheads",
+      "type": "blog",
+      "title": "Best BHA (Salicylic Acid) Toners & Exfoliants for Blackheads in India",
+      "date": "2026-10-30T10:56:52.878988+00:00",
       "channels": [
         "twitter",
         "instagram"
