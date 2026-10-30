@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Mineral (Physical) Sunscreens in India for Sensitive Skin"
 image: "/images/products/reequil-sheer-zinc-tinted-spf50.jpg"
 date: "2026-10-29"
+updated: "2026-10-30"
 category: "Sunscreens & SPF"
 rating: 4.8
 keywords: "mineral sunscreen india, physical sunscreen sensitive skin amazon, zinc oxide sunscreen without white cast"
@@ -39,7 +40,7 @@ A zinc oxide sunscreen with a tint that hides the usual mineral white cast.
 - **Price**: ₹590 for 50g (₹11.8/g) · 4.1★ from 2,100+ Amazon India ratings
 - **Skip it if**: your skin is very deep and the single tint shade looks ashy, or you dislike any tint.
 
-**Pros:** 100% mineral (zinc oxide) — ideal for sensitive skin. **Cons:** One tint shade won't suit every skin tone.
+**Pros:** Mineral (zinc oxide) filters, often better tolerated by sensitive skin. **Cons:** One tint shade won't suit every skin tone.
 
 📖 **[Read our full Re'equil Sheer Zinc Tinted Sunscreen SPF 50 review](/reviews/reequil-sheer-zinc-tinted-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08TMFC5BN?tag=oraeskin-21)**
 
@@ -64,18 +65,19 @@ Zinc oxide as the only UV filter, in a fragrance-free silicone gel with a matte 
 
 ---
 
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/) works out cheapest at about ₹12 per g (₹580 for 50g). [Re'equil Sheer Zinc Tinted Sunscreen SPF 50](/reviews/reequil-sheer-zinc-tinted-spf50/) works out about the same. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[Re'equil Sheer Zinc Tinted Sunscreen SPF 50](/reviews/reequil-sheer-zinc-tinted-spf50/), [La Shield Fisico Mineral Sunscreen SPF 50+](/reviews/lashield-fisico-mineral-spf50/) and [Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[Re'equil Sheer Zinc Tinted Sunscreen SPF 50](/reviews/reequil-sheer-zinc-tinted-spf50/) and [La Shield Fisico Mineral Sunscreen SPF 50+](/reviews/lashield-fisico-mineral-spf50/) are the picks here that suit sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which suits oily or acne-prone skin?
+[La Shield Fisico Mineral Sunscreen SPF 50+](/reviews/lashield-fisico-mineral-spf50/) and [Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
+
+### Which is the most popular on Amazon India?
+[Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/) has the most ratings of these picks, with 11,800+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

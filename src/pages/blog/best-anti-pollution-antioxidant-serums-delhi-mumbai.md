@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Anti-Pollution Antioxidant Serums for High Smog Cities in India"
 image: "/images/products/plum-vitc-mandarin.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Serums"
 rating: 4.8
 keywords: "anti pollution serum india, air pollution skincare delhi mumbai, best antioxidant serum smog, plum 15 vitamin c review, pm2.5 skin defense"
@@ -66,7 +67,7 @@ Our evaluation of **Minimalist SPF 50 Multi-Vitamin Sunscreen** highlights its s
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Skin in Polluted Cities
 
 1. **Apply Antioxidants Every Morning**: Antioxidants act like invisible body armor against smog. Apply 3 drops of [Plum 15% Vitamin C](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) before your sunscreen.
 2. **Double Cleanse Every Evening**: Air pollution nanoparticles settle inside pores. Use [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) to thoroughly dissolve grime.

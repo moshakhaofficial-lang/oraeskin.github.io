@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "College Hostel & Dorm Skincare Routine: Surviving Hard Water & Mess Food Breakouts"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-22"
+updated: "2026-10-30"
 category: "Budget Skincare"
 rating: 4.8
 keywords: "hostel skincare routine india, college dorm acne hard water, simple refreshing wash hostel, minimalist b5 moisturizer college students, budget skincare under 1000 india"
@@ -51,7 +52,7 @@ College hostel environments create a unique storm of dermatological stressors fo
 
 ### Step 3: Shield During Campus Walks (AM Only)
 - Walking between lecture halls, labs, and the library exposes you to intense tropical UV rays.
-- Apply [Minimalist SPF 50 Multi-Vitamin Sunscreen](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) 15 minutes before leaving your room. It is lightweight, fragrance-free, leaves zero white cast, and prevents sun tanning.
+- Apply [Minimalist SPF 50 Multi-Vitamin Sunscreen](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) 15 minutes before leaving your room. It is lightweight, fragrance-free, leaves little or no white cast, and helps prevent tanning.
 
 ---
 
@@ -99,7 +100,7 @@ Formulated specifically for oily, acne-prone skin in warm climates. Zinc PCA sup
 Offers photostable broad-spectrum protection with modern UV filters (Uvinul A Plus, Tinosorb S) boosted with Niacinamide and Vitamins B5 and F. Completely white-cast free on all Indian skin tones.
 
 #### Why It Works:
-- **Pro**: Zero white cast; looks completely invisible on campus
+- **Pro**: Little or no white cast on most skin tones
 - **Pro**: Infused with niacinamide to fade acne marks while walking in the sun
 - **Pro**: Absorbs like a light moisturizer without heavy sweat melting
 - **Con**: Requires reapplication after heavy sports or outdoor activities

@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Prevent Post-Waxing Bumps & Strawberry Skin on Body in Indian Weather"
 image: "/images/products/minimalist-salicylic-bodywash.jpg"
 date: "2026-09-22"
+updated: "2026-10-30"
 category: "Body Care"
 rating: 4.8
 keywords: "post waxing bumps body care, strawberry skin keratosis pilaris india, minimalist salicylic body wash waxing, prevent waxing folliculitis arms legs, smooth body routine"
@@ -80,7 +81,7 @@ Freshly waxed skin is structurally compromised and inflamed. Bioderma's PEA-enri
 #### Why It Works:
 - **Pro**: Quenches immediate post-wax stinging, redness, and heat
 - **Pro**: Biomimetic lipids protect exposed follicles from bacterial irritation
-- **Pro**: Completely fragrance-free and hypoallergenic
+- **Pro**: Fragrance-free
 - **Con**: Rich texture; a small nickel-sized amount covers entire limbs
 
 > **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21).

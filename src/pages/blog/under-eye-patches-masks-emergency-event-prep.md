@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Hydrogel Under-Eye Patches for Quick Event & Makeup Prep"
 image: "/images/products/mizon-snail-gold-eye-patch.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "under eye patches india, hydrogel eye mask amazon, pre makeup eye prep"
@@ -104,18 +105,19 @@ A caffeine eye serum for longer-term care between events.
 📖 **[Read our full The Ordinary Caffeine Solution 5% + EGCG review](/reviews/theordinary-caffeine-egcg/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Dot & Key Watermelon Cooling Hydrogel Under Eye Patches](/reviews/dotkey-watermelon-eye-patches/) works out cheapest at about ₹10 per patch (₹623 for 60 patches). [mCaffeine Coffee Hydrogel Under Eye Patches](/reviews/mcaffeine-coffee-eye-patches/) is next at about ₹13 per patch. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) is fragrance-free. The listings for Mizon Snail Intensive Gold Eye Gel Patch, Dot & Key Watermelon Cooling Hydrogel Under Eye Patches and mCaffeine Coffee Hydrogel Under Eye Patches do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) is the pick here that suits sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which suits oily or acne-prone skin?
+[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
+
+### Which is the most popular on Amazon India?
+[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) has the most ratings of these picks, with 19,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

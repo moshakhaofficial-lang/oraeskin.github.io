@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Toners for Open Pores & Oily Skin in India"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Toners & Exfoliants"
 rating: 4.8
 keywords: "pore tightening toner india, reduce open pores face toner, oily skin toner amazon"
@@ -70,25 +71,20 @@ A green tea and glycolic acid toner for oily, acne-prone skin.
 - **Texture & finish**: Refreshing Water — clean matte tone
 - **Fragrance**: Subtle Natural Fragrance
 - **Price**: ₹351 for 200ml (₹1.8/ml) · 4.2★ from 14,100+ Amazon India ratings
-- **Skip it if**: you want a strictly 100% fragrance-free clinical formula.
+- **Skip it if**: you want a fragrance-free formula.
 
-**Pros:** 100% alcohol-free toner that will not dry out skin or cause rebound oiliness. **Cons:** Contains mild fragrance that very sensitive skin may prefer to avoid.
+**Pros:** Alcohol-free toner that does not leave skin tight or dry. **Cons:** Contains mild fragrance that very sensitive skin may prefer to avoid.
 
 📖 **[Read our full Plum Green Tea Alcohol-Free Toner review](/reviews/plum-greentea-toner/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) works out cheapest at about ₹1.8 per ml (₹351 for 200ml). [Plum 3% Niacinamide & Rice Water Toner](/reviews/plum-niacinamide-rice-toner/) is next at about ₹2.4 per ml. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/) is fragrance-free. The listings for Plum 3% Niacinamide & Rice Water Toner and Plum Green Tea Alcohol-Free Toner do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is the most popular on Amazon India?
+[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) has the most ratings of these picks, with 14,100+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

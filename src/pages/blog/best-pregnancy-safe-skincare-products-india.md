@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Pregnancy-Safe Skincare Products in India: Fighting Acne & Melasma Safely"
 image: "/images/products/minimalist-niacinamide-10.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Specialist Routines"
 rating: 4.8
 keywords: "pregnancy safe skincare india, pregnancy acne treatment safe, melasma pregnancy mask cream india, safe sunscreen pregnancy, minimalist niacinamide pregnancy"
@@ -66,7 +67,7 @@ Our evaluation of **Cetaphil Gentle Skin Hydrating Cleanser** highlights its sci
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Skincare Tips During Pregnancy
 
 1. **Avoid Retinoids Completely**: Immediately discontinue all forms of Retinol, Retinal, Tretinoin, Adapalene, and high-dose chemical peels upon confirmation of pregnancy.
 2. **Double Down on Morning Sun Protection**: Estrogen hyper-sensitizes melanocytes; wear broad-spectrum [Dr. Sheth's Ceramide Sunscreen](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) daily even when staying indoors.

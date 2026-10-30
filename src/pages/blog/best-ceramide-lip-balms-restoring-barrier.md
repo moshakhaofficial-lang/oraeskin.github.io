@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Lip Balms for Cracked Lips & Dry Mouth Corners in India"
 image: "/images/products/aquaphor-lip-repair.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Lip Care & SPF Balms"
 rating: 4.8
 keywords: "ceramide lip balm india, angular cheilitis treatment amazon, heal cracked lips fast"
@@ -105,18 +106,16 @@ A thick overnight layer while lips heal. It contains fragrance, so skip it if yo
 📖 **[Read our full Laneige Lip Sleeping Mask review](/reviews/laneige-lip-sleeping-mask/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/) works out cheapest at about ₹33 per g (₹264 for 8g). [WishCare Lip Balm SPF 50 (Untinted)](/reviews/wishcare-ceramide-lip-balm-spf50/) is next at about ₹48 per g. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/), [Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/) and [WishCare Lip Balm SPF 50 (Untinted)](/reviews/wishcare-ceramide-lip-balm-spf50/) are fragrance-free. [Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/) contains added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/) and [Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/) are the picks here that suit sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which is the most popular on Amazon India?
+[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/) has the most ratings of these picks, with 43,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

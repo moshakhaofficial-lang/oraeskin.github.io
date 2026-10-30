@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Foot Creams for Cracked Heels & Calluses in India (Urea & Lactic Acid)"
 image: "/images/products/bebodywise-urea-foot-roll-on.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "cracked heel cream india, best foot cream amazon, urea heel balm"
@@ -90,18 +91,13 @@ Lactic acid and shea butter, rated by 6,200+ buyers.
 📖 **[Read our full Cureskin 10% Urea Foot Cream review](/reviews/cureskin-urea-foot-cream/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0DTB638JZ?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Cureskin 10% Urea Foot Cream](/reviews/cureskin-urea-foot-cream/) works out cheapest at about ₹2.9 per g (₹145 for 50g). [Fixderma Foobetik Foot Cream](/reviews/fixderma-foobetik-cream/) is next at about ₹5.9 per g. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+None of these picks is confirmed fragrance-free. [Be Bodywise 20% Urea Foot Cream Roll-On](/reviews/bebodywise-urea-foot-roll-on/) contains added fragrance or flavour. [Fixderma Foobetik Foot Cream](/reviews/fixderma-foobetik-cream/) contains essential oils, which can also irritate. The listing for Cureskin 10% Urea Foot Cream does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is the most popular on Amazon India?
+[Fixderma Foobetik Foot Cream](/reviews/fixderma-foobetik-cream/) has the most ratings of these picks, with 6,200+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

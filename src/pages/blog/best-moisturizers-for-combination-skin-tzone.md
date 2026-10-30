@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Moisturizers for Combination Skin (Oily T-Zone, Dry Cheeks)"
 image: "/images/products/minimalist-b5-moisturizer.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Moisturizers & Barrier Creams"
 rating: 4.8
 keywords: "combination skin moisturizer india, balance tzone cheeks, lightweight cream amazon"
@@ -40,7 +41,7 @@ An oil-free B5 gel that won't make the T-zone shiny.
 - **Price**: ₹237 for 30g (₹7.9/g) · 4.2★ from 16,500+ Amazon India ratings
 - **Skip it if**: you suffer from severely cracked skin and need thick occlusive waxes.
 
-**Pros:** 100% oil-free formulation that will not trigger acne breakouts. **Cons:** May feel insufficient in severe winter conditions for dry cheek zones.
+**Pros:** Oil-free gel that suits most oily and acne-prone skin. **Cons:** May feel insufficient in severe winter conditions for dry cheek zones.
 
 📖 **[Read our full Minimalist Vitamin B5 10% Moisturizer review](/reviews/minimalist-b5-moisturizer/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)**
 
@@ -77,18 +78,19 @@ A ceramide cream to layer only on drier areas.
 📖 **[Read our full Dot & Key Barrier Repair Moisturizer review](/reviews/dotkey-rice-ceramide-cream/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/) works out cheapest at about ₹3.3 per g (₹328 for 100g). [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) is next at about ₹7.9 per g. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) and [Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/) are fragrance-free. [Dot & Key 72HR Hydrating Gel Moisturizer](/reviews/dotkey-72hr-hydrating-gel/) contains added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) and [Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/) are the picks here that suit sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which suits oily or acne-prone skin?
+[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) and [Dot & Key 72HR Hydrating Gel Moisturizer](/reviews/dotkey-72hr-hydrating-gel/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
+
+### Which is the most popular on Amazon India?
+[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) has the most ratings of these picks, with 16,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

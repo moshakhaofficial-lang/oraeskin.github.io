@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Office Skincare Routine for 9-to-5 Workers in India: Beating AC Dehydration & Screen Fatigue"
 image: "/images/products/dotkey-rice-ceramide-cream.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Routines & Guides"
 rating: 4.8
 keywords: "office skincare routine ac environment india, air conditioned office dry skin, blue light screen fatigue eyes, dot and key rice cream, the ordinary caffeine eye serum"
@@ -70,7 +71,7 @@ A simple, fragrance-free water serum with a high 5% caffeine level and green tea
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Skin in an Air-Conditioned Office
 
 1. **Hydrate Internally and Externally**: Keep a 1-liter water bottle at your desk. Indoor AC suppresses thirst, accelerating dehydration.
 2. **Apply Eye Cream in the AM**: Protect delicate periorbital tissue with [The Ordinary Caffeine Solution 5% + EGCG](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) before staring at dual monitors.

@@ -120,9 +120,11 @@ for (const c of COMPARISONS) {
 // Blog Buying Guides
 for (const file of blogFiles) {
     const slug = file.replace(/\.md$/, '');
+    const fm = fs.readFileSync(path.join(BLOG_DIR, file), 'utf8');
+    const lastmod = (fm.match(/^updated:\s*"?(\d{4}-\d{2}-\d{2})/m) || fm.match(/^date:\s*"?(\d{4}-\d{2}-\d{2})/m) || [])[1] || today;
     xml += `  <url>
     <loc>https://www.oraeskin.in/blog/${slug}/</loc>
-    <lastmod>${today}</lastmod>
+    <lastmod>${lastmod}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

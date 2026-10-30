@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "The Complete Skin Cycling Routine Guide for Indian Skin: 4-Night Protocol for Zero Irritation"
 image: "/images/products/minimalist-granactive-retinoid-2.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Routines & Guides"
 rating: 4.9
 keywords: "skin cycling routine indian skin, how to do skin cycling india, 4 night skincare protocol, minimalist granactive retinoid skin cycling, cerave barrier recovery"
@@ -52,7 +53,7 @@ PHAs have larger molecular structures that gently dissolve surface debris withou
 - **Price**: ₹338 for 150ml (₹2.3/ml) · 4.2★ from 9,500+ Amazon India ratings
 - **Skip it if**: you require aggressive pore-clearing for deep cystic acne nodules.
 
-**Pros:** Zero stinging or irritation even on rosacea-prone or eczema-prone skin. **Cons:** Exfoliates more gradually compared to strong 8% Glycolic acid.
+**Pros:** PHAs are among the gentlest acids, so stinging is less likely than with glycolic acid. **Cons:** Exfoliates more gradually compared to strong 8% Glycolic acid.
 
 📖 **[Read our full Minimalist PHA 3% Alcohol-Free Face Toner review](/reviews/minimalist-pha-toner/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
 
@@ -70,7 +71,7 @@ Our evaluation of **CeraVe Moisturizing Cream with Ceramides** highlights its sc
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Skin Cycling
 
 1. **Memorize the 4-Night Cycle**: Night 1: Exfoliate with [Minimalist PHA 3% Alcohol-Free Face Toner](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) ➔ Night 2: Treat with [Minimalist Granactive Retinoid](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) ➔ Nights 3 & 4: Pure barrier recovery with [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21).
 2. **Never Combine Night 1 and Night 2**: Never use chemical acids and retinoids on the same evening; this strips the barrier and causes severe redness on Indian skin.

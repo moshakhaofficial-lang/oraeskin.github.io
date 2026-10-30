@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "PIE vs PIH: How to Treat Red Acne Marks vs Dark Brown Spots on Indian Skin"
 image: "/images/products/minimalist-niacinamide-10.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Serums & Actives"
 rating: 4.8
 keywords: "pie vs pih acne marks india, treat red acne marks vs brown spots, post inflammatory erythema hyperpigmentation, minimalist niacinamide alpha arbutin"
@@ -66,7 +67,7 @@ Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highligh
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Fading Red and Brown Acne Marks
 
 1. **The Glass Test**: Press a clear glass cup firmly against the red mark. If it disappears temporarily (blanches), it is PIE (vascular). If it stays dark brown, it is PIH (melanin).
 2. **Target PIE with Niacinamide**: Apply [Minimalist 10% Niacinamide](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) twice daily to repair capillary inflammation.

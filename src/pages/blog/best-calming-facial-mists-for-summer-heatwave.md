@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Refreshing Facial Mists for Tropical Indian Heatwaves & Travel"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Toners"
 rating: 4.7
 keywords: "facial mist for summer heatwave india, cooling face spray travel, cosrx clarifying mist review, plum green tea mist, instant skin cooling"
@@ -70,7 +71,7 @@ Our evaluation of **Minimalist PHA 3% Alcohol-Free Face Toner** highlights its s
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Using Face Mists in a Heatwave
 
 1. **Keep a Bottle in Your Bag**: Decant [Minimalist 8% Glycolic Acid Exfoliating Liquid](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) into a portable spray bottle to spritz your face during long traffic jams or flights.
 2. **Hold 8 Inches Away**: Mist from a comfortable distance to allow an even micro-veil to settle on the skin without forming heavy water droplets.

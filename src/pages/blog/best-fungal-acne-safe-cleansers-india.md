@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Fungal Acne Safe Cleansers in India: Malassezia-Proof Facial Washes"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Cleansers"
 rating: 4.8
 keywords: "fungal acne safe cleanser india, best face wash for malassezia folliculitis, simple refreshing wash fungal acne, fungal acne safe skincare"
@@ -66,7 +67,7 @@ Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highligh
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Managing Fungal Acne
 
 1. **Check Every Product Ingredient**: Malassezia feeds on oils, shea butter, polysorbates, and esters. Stick strictly to gel cleansers like [Simple Refreshing Wash](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21).
 2. **Dry Skin Completely**: Fungi proliferate in moisture and sweat. Pat skin completely dry before applying lightweight fungal-safe serums.

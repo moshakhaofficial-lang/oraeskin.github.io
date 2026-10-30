@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Milky Lotion Cleansers for Dry Winter Mornings in North India"
 image: "/images/products/cetaphil-gentle-cleanser.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Cleansers"
 rating: 4.7
 keywords: "milky cleanser dry winter india, non foaming face wash north india winter, cetaphil gentle cleanser review, morning winter cleanser no tightness"
@@ -66,7 +67,7 @@ Our evaluation of **Simple Kind to Skin Refreshing Facial Wash** highlights its 
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Cleansing Dry Skin in Winter
 
 1. **Never Wash with Steaming Hot Water**: Scalding hot winter water melts natural skin lipids. Always wash your face with lukewarm water.
 2. **Apply Moisturizer While Skin is Dewy**: Within 60 seconds of patting dry, apply [CeraVe Moisturizing Cream](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) to lock in winter hydration.

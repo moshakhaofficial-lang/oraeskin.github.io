@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Complete 3-Step Skincare Routine Under ₹1,000 on Amazon India (Cleanser + Moisturizer + SPF)"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Budget Skincare"
 rating: 4.9
 keywords: "complete skincare routine under 1000 india, budget skincare routine amazon india, cleanser moisturizer sunscreen under 1000, minimalist simple budget routine"
@@ -66,7 +67,7 @@ Our evaluation of **Minimalist SPF 50 Multi-Vitamin Sunscreen** highlights its s
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for a Budget Routine
 
 1. **Total Routine Cost**: ₹249 (Cleanser) + ₹349 (Moisturizer) + ₹399 (Sunscreen) = **₹997 Total**! Free Prime shipping on Amazon India.
 2. **Morning Routine**: Wash with [Simple Refreshing Wash](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) ➔ Apply [Minimalist B5 Gel](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) ➔ Finish with [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).

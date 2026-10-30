@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Cica (Centella Asiatica) Serums in India for Calming Heat Rashes & Sunburn"
 image: "/images/products/minimalist-vitc-10.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Serums"
 rating: 4.7
 keywords: "cica serum india, centella asiatica serum benefits, soothe sunburn heat rash, minimalist centella serum review, calm irritated skin"
@@ -66,7 +67,7 @@ Our evaluation of **Aqualogica Radiance+ Dewy Sunscreen SPF 50+** highlights its
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Calming Irritated Skin
 
 1. **Store in Refrigerator**: Keep your [Minimalist Centella-infused Serum](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) in the fridge during summer for an extra-soothing vasoconstrictive effect on flushed skin.
 2. **Apply Post-Sun Exposure**: Pat gently onto freshly cleansed skin after spending extended time in hot outdoor sun.

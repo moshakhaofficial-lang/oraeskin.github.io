@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Cleansers for Hard Water Skin Damage in India: Combatting Calcium Buildup"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Cleansers"
 rating: 4.7
 keywords: "hard water skin damage cleanser india, best face wash for hard tap water, chelating cleanser india, simple refreshing wash review, prevent hard water acne"
@@ -66,7 +67,7 @@ Our evaluation of **Cetaphil Gentle Skin Hydrating Cleanser** highlights its sci
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Washing Your Face in Hard Water
 
 1. **Use Chelating Cleansers**: Ensure your cleanser contains Disodium EDTA (like [Simple Refreshing Wash](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)) to sequester metal cations before they settle into pores.
 2. **Rinse with Filtered RO Water**: If your tap water has extreme hardness (>600 ppm), splash your face with a cup of filtered drinking water for the final rinse.

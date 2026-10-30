@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Lightweight Eye Creams & Serums for Contact Lens Wearers in India"
 image: "/images/products/theordinary-caffeine-egcg.jpg"
 date: "2026-10-29"
+updated: "2026-10-30"
 category: "Eye Care"
 rating: 4.8
 keywords: "eye cream contact lens wearers india, non migrating eye cream, the ordinary caffeine eye serum, dark circles eye cream sensitive eyes, prevent cloudy lenses"
@@ -77,7 +78,7 @@ A richer but non-sticky option for dryness. Keep it on the orbital bone.
 📖 **[Read our full Beauty of Joseon Revive Eye Serum: Ginseng + Retinal review](/reviews/boj-revive-eye-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
+## Eye Care Tips for Contact Lens Wearers
 
 1. **Apply Eye Cream AFTER Inserting Lenses**: Insert your contact lenses first with clean, dry hands; then apply [The Ordinary Caffeine Solution 5% + EGCG](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) to the orbital bone.
 2. **Stay Along the Orbital Bone**: Never apply creams directly onto the water line or eyelid margins. Tap gently along the cheekbone ridge.

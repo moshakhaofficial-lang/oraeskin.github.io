@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Peptide Eye Creams & Serums in India for Firmer Under-Eyes"
 image: "/images/products/minimalist-vitk-retinal-eye-cream.jpg"
 date: "2026-10-29"
+updated: "2026-10-30"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "peptide eye cream india, haloxyl dark circles, plump under eye hollows"
@@ -77,18 +78,22 @@ A caffeine serum with a retinol-peptide blend and a cooling roller.
 📖 **[Read our full The Derma Co 5% Caffeine Under-Eye Serum with Roller review](/reviews/dermaco-5-caffeine-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Are peptide eye creams worth it?
+Peptides are gentle and well tolerated, so they suit sensitive eyes and can be used morning and night. The evidence for visible change is modest compared with retinoids, so think of them as a comfortable everyday option rather than a dramatic fix.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Which is the best value?
+[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/) works out cheapest at about ₹36 per ml (₹539 for 15ml). [Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) is next at about ₹38 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+
+### Are any of these fragrance-free?
+[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/), [Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) and [The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) is the pick here that suits sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which suits oily or acne-prone skin?
+[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
+
+### Which is the most popular on Amazon India?
+[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) has the most ratings of these picks, with 19,300+ at 4.1★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

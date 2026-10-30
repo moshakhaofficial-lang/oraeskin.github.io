@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Benzoyl Peroxide Face & Body Washes for Acne in India"
 image: "/images/products/dermaco-bpo-facewash.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "benzoyl peroxide wash india, short contact therapy acne, best acne wash amazon"
@@ -104,18 +105,13 @@ A salicylic acid body wash for bumpy, clogged skin on the back and arms.
 📖 **[Read our full Minimalist 2% Salicylic Acid Body Wash review](/reviews/minimalist-salicylic-bodywash/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/) works out cheapest at about ₹1.5 per ml (₹296 for 200ml). [The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash](/reviews/dermaco-bpo-facewash/) is next at about ₹2.5 per ml. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash](/reviews/dermaco-bpo-facewash/), [Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) and [Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/) are fragrance-free. The listing for Benzac AC 5% Gel Wash does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is the most popular on Amazon India?
+[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

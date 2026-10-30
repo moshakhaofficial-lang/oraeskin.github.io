@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Sunscreen for Men in India: Sweat-Resistant, Zero White Cast SPF 50 Picks"
 image: "/images/products/minimalist-spf50.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Sunscreens"
 rating: 4.8
 keywords: "best sunscreen for men in india, men sweat resistant sunscreen, minimalist spf 50 men review, non sticky sunscreen men, reequil ultra matte men"
@@ -66,7 +67,7 @@ Our evaluation of **The Derma Co 1% Hyaluronic Sunscreen Aqua Gel** highlights i
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Sunscreen Tips for Men
 
 1. **Cleanse Post-Workout**: After sweating or biking, wash off sunscreen and dirt with a gentle foaming wash like [Minimalist 2% Salicylic Face Wash](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) to prevent bacne and beard pimples.
 2. **Use the Two-Finger Rule**: Squeeze two full strips along your index and middle fingers for full face and neck coverage. Don't skip the back of the neck and ears.

@@ -18,10 +18,13 @@ const articleImage = frontmatter.image?.startsWith('http')
 // Products linked in the article body come first, then topic matches
 const rawContent = Astro.props.file ? fs.readFileSync(Astro.props.file, 'utf8') : '';
 const mentionedAsins = [...new Set([...rawContent.matchAll(/amazon\.in\/dp\/([A-Z0-9]{10})/gi)].map(m => m[1]))];
+// Reading time from the article body at ~200 words per minute
+const bodyText = rawContent.replace(/^---[\s\S]*?\n---\n/, '').replace(/\]\([^)]*\)/g, ']').replace(/[#*|>_`\-[\]]/g, ' ');
+const readMinutes = Math.max(2, Math.round(bodyText.split(/\s+/).filter(Boolean).length / 200));
 const topicText = [frontmatter.title, frontmatter.category, frontmatter.keywords, frontmatter.description].filter(Boolean).join(' ');
 const relatedProducts = getRelatedProducts(topicText, mentionedAsins);
 
-const rawDate = frontmatter.date;
+const rawDate = frontmatter.updated || frontmatter.date;
 const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
     ? new Date(rawDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
     : (rawDate || 'September 2026');
@@ -42,7 +45,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
         "headline": frontmatter.title,
         "image": [articleImage],
         "datePublished": frontmatter.date || "2026-01-01",
-        "dateModified": frontmatter.date || "2026-03-01",
+        "dateModified": frontmatter.updated || frontmatter.date || "2026-03-01",
         "author": {
             "@type": "Organization",
             "name": "OraeSkin Editorial Team",
@@ -82,7 +85,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
                     <span class="meta-sep">•</span>
                     <span class="date-label">Updated {displayDate}</span>
                     <span class="meta-sep">•</span>
-                    <span class="read-time">5 Min Read</span>
+                    <span class="read-time">{readMinutes} Min Read</span>
                 </div>
 
                 <AffiliateDisclaimer compact={true} />

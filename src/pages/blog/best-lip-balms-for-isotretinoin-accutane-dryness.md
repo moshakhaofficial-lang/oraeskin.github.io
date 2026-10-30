@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Heavy-Duty Lip Balms for Accutane & Isotretinoin Severe Peeling in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Lip Care"
 rating: 4.9
 keywords: "accutane lip balm india, best lip balm for isotretinoin peeling, cure severe cracked bleeding lips, bioderma atoderm baume lips, minimalist spf 30 lip balm"
@@ -66,7 +67,7 @@ Our evaluation of **Dot & Key Vitamin C+E Lip Sleeping Mask** highlights its sci
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Lip Care Tips While on Isotretinoin
 
 1. **Never Pick Peeling Flakes**: Peeling lip flakes on Isotretinoin tears live dermis, causing bleeding and permanent scarring. Soften with [Bioderma Baume](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) and let them slough naturally.
 2. **Reapply Hourly**: Keep [Minimalist SPF 30 Lip Balm](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) in your pocket and apply every single hour of the day.

@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Heal Damaged Skin After Salon Bleach & Aggressive Facial Burns in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Sensitive & Compromised Skin"
 rating: 4.9
 keywords: "heal skin barrier after salon bleach burn, facial bleach burn recovery india, bioderma atoderm baume burns, cetaphil gentle cleanser burns, repair stinging skin"
@@ -66,7 +67,7 @@ Our evaluation of **Dr. Sheth's Ceramide & Vitamin C Sunscreen** highlights its 
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Healing After a Bleach Burn
 
 1. **Stop All Active Skincare Immediately**: Discontinue all Vitamin C, AHAs, BHAs, Retinoids, and foaming cleansers for a minimum of 14 days.
 2. **Use Cold Compresses**: Place a clean cloth soaked in cold filtered water over burning areas for 10 minutes to reduce acute inflammation.

@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Skin Fasting Guide: When & How to Reset Overwhelmed, Sensitized Indian Skin"
 image: "/images/products/cetaphil-gentle-cleanser.jpg"
 date: "2026-09-22"
+updated: "2026-10-30"
 category: "Barrier Repair"
 rating: 4.9
 keywords: "skin fasting guide india, reset sensitized overwhelmed skin, damaged skin barrier from too many products, cetaphil gentle cleanser skin fasting, minimalist b5 moisturizer reset"
@@ -104,7 +105,7 @@ A compromised barrier is highly vulnerable to UV radiation and thermal flushing.
 
 #### Why It Works:
 - **Pro**: Free of irritating drying alcohols and artificial fragrances
-- **Pro**: Leaves zero white cast on all Indian skin tones
+- **Pro**: Little or no white cast on most Indian skin tones
 - **Pro**: Enriched with Vitamin B5 and Niacinamide to soothe while protecting
 - **Con**: Wash off gently in the evening to prevent pore congestion
 

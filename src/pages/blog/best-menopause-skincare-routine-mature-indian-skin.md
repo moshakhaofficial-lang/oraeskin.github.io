@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Menopause Skincare Routine: Treating Dryness & Collagen Loss in Indian Skin"
 image: "/images/products/minimalist-granactive-retinoid-2.jpg"
 date: "2026-09-22"
+updated: "2026-10-30"
 category: "Anti-Aging"
 rating: 4.8
 keywords: "menopause skincare routine india, mature indian skin dryness, minimalist granactive retinoid mature skin, cerave moisturizing cream menopause, collagen loss indian women 50s"
@@ -98,7 +99,7 @@ Gold standard emollient cream that replenishes the exact 3 physiological ceramid
 Mature Indian skin is prone to solar elastosis and persistent melasma. This sunscreen provides high broad-spectrum UV protection alongside ceramides to soothe age-induced inflammation.
 
 #### Why It Works:
-- **Pro**: Leaves zero white cast on mature, textured complexions
+- **Pro**: Little or no white cast, and does not settle into texture
 - **Pro**: Hydrating dewy finish without being sticky or heavy
 - **Pro**: Strengthens barrier defenses while blocking UV aging
 - **Con**: Reapply if outdoors or near bright open windows

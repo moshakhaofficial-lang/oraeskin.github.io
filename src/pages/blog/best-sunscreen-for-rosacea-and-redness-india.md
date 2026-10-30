@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Calming Sunscreens for Rosacea, Facial Flushing & Heat Sensitivity in India"
 image: "/images/products/drsheths-ceramide-vitc-spf50.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Sunscreens"
 rating: 4.8
 keywords: "sunscreen for rosacea india, best sunscreen for facial redness flushing, dr sheths ceramide sunscreen review, calming sunscreen sensitive skin"
@@ -66,7 +67,7 @@ Our evaluation of **Minimalist SPF 50 Multi-Vitamin Sunscreen** highlights its s
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Sunscreen Tips for Rosacea and Redness
 
 1. **Avoid Rubbing**: Never aggressively massage sunscreen into redness-prone areas. Gently pat [Dr. Sheth's Ceramide Sunscreen](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) onto cheeks with fingertips.
 2. **Store in a Cool Area**: Keep your sunscreen tube away from hot rooms to ensure it delivers a soothing, cooling sensation upon application.

@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Winter Smog & PM2.5 Pollution Skincare: Protecting Your Skin Barrier in Delhi-NCR & North India"
 image: "/images/products/plum-vitc-mandarin.jpg"
 date: "2026-09-30"
+updated: "2026-10-30"
 category: "Daily Routine"
 rating: 4.8
 keywords: "winter smog skincare delhi ncr, pm2.5 air pollution skin damage india, plum vitamin c pollution defense, dot and key rice ceramide smog, protect skin toxic aqi north india"
@@ -98,7 +99,7 @@ Smog strips natural stratum corneum lipids rapidly. This cream combines Japanese
 Sunlight interacting with smog creates ground-level ozone, amplifying dermal oxidative stress. This hybrid sunscreen offers broad-spectrum SPF 50 PA++++ protection fortified with ceramides to pacify pollution redness.
 
 #### Why It Works:
-- **Pro**: Zero white cast and absorbs seamlessly under makeup
+- **Pro**: Little or no white cast, and sits well under makeup
 - **Pro**: Ceramide-infused to soothe irritated winter skin
 - **Pro**: Forms an invisible defensive film against airborne particles
 - **Con**: Must be cleansed off thoroughly in the evening

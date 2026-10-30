@@ -3,7 +3,7 @@
 // Single Source of Truth for Products, Reviews, Comparisons & Routine Finder
 // ============================================================================
 
-export type SkinType = 'All' | 'Oily' | 'Dry' | 'Combination' | 'Sensitive' | 'Normal' | 'Acne-Prone';
+export type SkinType = 'All' | 'All Skin Types' | 'Oily' | 'Dry' | 'Very Dry' | 'Dehydrated' | 'Combination' | 'Sensitive' | 'Normal' | 'Acne-Prone';
 
 export interface ProductScoreBreakdown {
     formula: number;          // /10 (Weight 25%) - Stability, absence of drying alcohols & potential irritants
@@ -56,7 +56,15 @@ export interface SkincareProduct {
     keyActives: string[];
     keyIngredients: string[]; // Backward compatibility
     ingredients: string[];
-    fragrance: 'Fragrance-Free' | 'Subtle Natural Fragrance' | 'Added Fragrance';
+    fragrance:
+        | 'Fragrance-Free'
+        | 'Subtle Natural Fragrance'
+        | 'Added Fragrance'
+        | `Added Fragrance (${string})`
+        | 'Added Flavour'
+        | `No ${string}`
+        | `Essential Oil (${string})`
+        | 'Not Disclosed on Listing';
     essentialOils: boolean;
     alcoholFree: boolean;
     texture: string;
@@ -154,19 +162,19 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Lightweight Lotion",
         "finish": "Natural Dewy",
-        "whiteCast": "None (Fitzpatrick III-V Safe)",
-        "bestFor": "Daily indoor/outdoor UV protection for normal to combination skin with zero white cast.",
-        "avoidIf": "You have extremely oily skin in 85%+ humidity and require an ultra-matte powdery dry touch.",
+        "whiteCast": "Minimal",
+        "bestFor": "Daily UV protection for normal to combination skin, with little or no white cast.",
+        "avoidIf": "You have very oily skin and want an ultra-matte, powdery finish.",
         "whyWeLikeIt": "Combines photostable European UV filters with barrier-repairing B-vitamins without leaving a white ghost cast on melanin-rich Indian skin.",
         "pros": [
-            "Zero white cast on Indian skin tones (Fitzpatrick III to V)",
+            "Little or no white cast on most Indian skin tones",
             "Photostable broad-spectrum protection certified with PA++++ rating",
             "Infused with 4 active vitamins (B3, B5, F, E) for antioxidant defense"
         ],
         "cons": [
             "Dewy finish can feel slightly heavy on extremely oily skin in humid monsoons"
         ],
-        "verdict": "The benchmark everyday sunscreen in the Indian market. Reliable photostability, clean formulation, and unmatched value under ₹400.",
+        "verdict": "A reliable everyday sunscreen with a modern filter system and very good value under ₹400.",
         "alternatives": [
             {
                 "label": "Matte Alternative for Oily Skin",
@@ -255,14 +263,14 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Water-Burst Gel",
         "finish": "Weightless Semi-Matte",
-        "whiteCast": "None (Fitzpatrick III-V Safe)",
+        "whiteCast": "Minimal",
         "bestFor": "Oily and acne-prone skin that breaks out or feels suffocated by traditional lotion sunscreens.",
         "avoidIf": "You have severely compromised dry skin needing rich lipid barrier restoration.",
-        "whyWeLikeIt": "Melts on contact with skin like a splash of water, leaving virtually zero weight or greasy shine.",
+        "whyWeLikeIt": "A watery gel that spreads easily and feels light, with little greasy shine.",
         "pros": [
             "Ultra-light water gel texture that absorbs in under 10 seconds",
-            "Non-comedogenic with zero pore-clogging heavy waxes",
-            "Zero eye-stinging even when sweating outdoors"
+            "Light gel base without heavy waxes",
+            "Less likely to sting eyes than many chemical sunscreens, though sweat can still carry any sunscreen into the eyes"
         ],
         "cons": [
             "May require a separate hydrating moisturizer underneath on dry skin patches"
@@ -353,10 +361,10 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Fluid Gel Cream",
         "finish": "Dewy Luminous",
-        "whiteCast": "None (Fitzpatrick III-V Safe)",
+        "whiteCast": "Minimal",
         "bestFor": "Dull, parched skin needing daytime luminosity and an instant cooling burst in hot weather.",
         "avoidIf": "You are hyper-reactive to subtle fruit scents or prefer a strictly flat matte finish.",
-        "whyWeLikeIt": "Leaves an instant glass-skin radiance under makeup with zero chalky residue.",
+        "whyWeLikeIt": "Leaves a dewy finish that sits well under makeup without a chalky residue.",
         "pros": [
             "Instant cooling sensation upon application on warm summer days",
             "Provides a luminous glass-skin glow without greasy oils",
@@ -452,10 +460,10 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Hydrating Emulsion",
         "finish": "Radiant Luminous",
-        "whiteCast": "None (Fitzpatrick III-V Safe)",
+        "whiteCast": "Minimal",
         "bestFor": "Dry to normal skin looking for a lit-from-within glow without feeling greasy.",
         "avoidIf": "You have very active acne or extremely congested pores.",
-        "whyWeLikeIt": "Gives an immediate plump bounce to tired morning skin with proven PA++++ photostability.",
+        "whyWeLikeIt": "A hydrating, dewy sunscreen with a PA++++ rating for UVA protection.",
         "pros": [
             "Delivers a luminous glass-skin glow without glitter or greasy oils",
             "Lightweight water-burst texture",
@@ -547,13 +555,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Lotion Cream",
         "finish": "Natural Satin",
-        "whiteCast": "None (Fitzpatrick III-V Safe)",
+        "whiteCast": "Minimal",
         "bestFor": "Sensitive or damaged skin needing barrier lipids alongside strong sun defense.",
-        "avoidIf": "You prefer a completely silicone-powder dry touch.",
+        "avoidIf": "You prefer a powdery, matte dry-touch finish.",
         "whyWeLikeIt": "Pairs essential skin-identical ceramides with stable Vitamin C for dual barrier repair and UV defense.",
         "pros": [
             "Ceramide complex rebuilds the lipid barrier during sun exposure",
-            "Zero white cast on dark Indian complexions",
+            "Little or no white cast on deeper Indian skin tones",
             "Fragrance-free formula ideal for reactive, stinging skin"
         ],
         "cons": [
@@ -642,10 +650,10 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Anhydrous Velvet Gel",
         "finish": "Ultra Matte Powder Finish",
-        "whiteCast": "Minimal/Sheer (Blends Clear in 30s)",
+        "whiteCast": "Minimal",
         "bestFor": "Outdoor workouts, humid monsoon commuting, and intense oily breakthrough on the T-zone.",
         "avoidIf": "You dislike silicone-primer textures or have severely dry, flaky skin.",
-        "whyWeLikeIt": "The ultimate sweat-proof shield. Water droplets slide right off without melting or dripping into eyes.",
+        "whyWeLikeIt": "A matte, dry-touch sunscreen that holds up well in heat and sweat. Reapply after heavy sweating.",
         "pros": [
             "Certified water and sweat resistant for up to 80 minutes",
             "Doubles as a smoothing makeup primer that blurs enlarged pores",
@@ -745,7 +753,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "whyWeLikeIt": "Clean formulation philosophy at its peak: removes excess sebum while simultaneously depositing ceramides.",
         "pros": [
             "Contains 3 skin-identical ceramides that prevent moisture loss during washing",
-            "Non-comedogenic and completely fragrance-free",
+            "Non-comedogenic and fragrance-free",
             "Gentle foaming action removes waterproof sunscreen residues cleanly"
         ],
         "cons": [
@@ -845,12 +853,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "pros": [
             "2% Salicylic Acid dissolves stubborn oxidized sebum and dead keratin plugs",
             "Zinc PCA reduces surface oiliness and calms bacterial inflammation",
-            "Unmatched value under ₹300 for a clinical-grade BHA face wash"
+            "Very good value under ₹300 for a 2% salicylic acid face wash"
         ],
         "cons": [
             "Daily 2x usage can be drying for combination skin; best used once daily at night"
         ],
-        "verdict": "The most cost-effective and clinically sound acne cleanser available on Amazon India.",
+        "verdict": "One of the best-value salicylic acid cleansers on Amazon India.",
         "alternatives": [
             {
                 "label": "Gentler Non-Exfoliating Alternative",
@@ -936,16 +944,16 @@ export const PRODUCTS: SkincareProduct[] = [
         "whiteCast": "Not Applicable",
         "bestFor": "Dry, eczema-prone, or post-procedure skin that burns from regular surfactants.",
         "avoidIf": "You want a squeaky clean foaming feeling to remove heavy grease.",
-        "whyWeLikeIt": "Decades of clinical pedigree backed by a modern reformulated blend of Niacinamide and Panthenol.",
+        "whyWeLikeIt": "A long-trusted gentle cleanser, now with niacinamide and panthenol.",
         "pros": [
-            "Zero harsh sulfates; completely non-foaming and non-stripping",
+            "Sulphate-free, low-foaming and non-stripping",
             "Hydrates continuously as it cleanses",
-            "Safe for use even without water using a cotton pad"
+            "Can also be wiped off with a cotton pad when water is not handy"
         ],
         "cons": [
             "Cannot remove heavy waterproof silicone sunscreens on its own"
         ],
-        "verdict": "The ultimate comforting rescue wash for irritated, dehydrated, or inflamed skin.",
+        "verdict": "A comfortable, gentle wash for irritated or dehydrated skin.",
         "alternatives": [
             {
                 "label": "Foaming Sensitive Alternative",
@@ -1037,7 +1045,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "cons": [
             "Slightly alkaline pH means dry skin should follow up quickly with toner"
         ],
-        "verdict": "A lavish K-beauty favorite that delivers sparkling clean skin with proven radiance.",
+        "verdict": "A popular Korean foaming cleanser that leaves skin feeling clean and fresh.",
         "alternatives": [
             {
                 "label": "Barrier-First Alternative",
@@ -1123,16 +1131,16 @@ export const PRODUCTS: SkincareProduct[] = [
         "whiteCast": "Not Applicable",
         "bestFor": "College students and budget-conscious buyers seeking an honest, no-fuss daily face wash.",
         "avoidIf": "You need strong active chemical exfoliation for deep stubborn cysts.",
-        "whyWeLikeIt": "100% soap-free, zero perfume, zero colorants — simplicity executed with perfection under ₹250.",
+        "whyWeLikeIt": "Soap-free, with no added perfume or colourants, for under ₹250.",
         "pros": [
-            "100% soap-free gentle cleansing base that does not irritate eyes",
-            "Zero artificial perfumes, harsh chemicals, or drying alcohols",
+            "Soap-free, gentle cleansing base",
+            "No added perfume or drying alcohol",
             "Affordable 150ml tube that lasts 2-3 months of daily use"
         ],
         "cons": [
             "Does not contain active exfoliating acids for targeted acne treatment"
         ],
-        "verdict": "The ultimate budget-friendly daily cleanser for anyone wanting honest, irritation-free cleansing.",
+        "verdict": "A good budget daily cleanser for anyone who wants a simple, gentle wash.",
         "alternatives": [
             {
                 "label": "Acne-Targeting Alternative",
@@ -1222,7 +1230,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "pros": [
             "86% pure Vitamin C content in a thermally stable, non-oxidizing molecule",
             "Centella Asiatica calms redness and soothes reactive skin",
-            "Zero tingling or purging commonly triggered by unstable pure L-Ascorbic acid"
+            "Usually gentler than pure L-ascorbic acid, with less tingling"
         ],
         "cons": [
             "Takes 4-6 weeks of consistent morning use to see noticeable fading of deep dark marks"
@@ -1409,14 +1417,14 @@ export const PRODUCTS: SkincareProduct[] = [
         "avoidIf": "Your skin experiences temporary flushing from high-strength Vitamin B3 (start with 5% if sensitive).",
         "whyWeLikeIt": "Uses pure Lonza (Switzerland) grade Niacinamide with minimal residual nicotinic acid to prevent flushing.",
         "pros": [
-            "Clinically balances oil secretion without stripping essential hydration",
+            "Helps reduce oiliness without drying the skin",
             "Strengthens the stratum corneum barrier by boosting ceramide synthesis",
             "Zinc PCA inhibits acne-causing bacteria"
         ],
         "cons": [
             "10% active concentration can cause mild flushing on ultra-dry, irritated skin"
         ],
-        "verdict": "The single most versatile, multi-tasking serum for Indian skin dealing with humidity and pores.",
+        "verdict": "A versatile serum for oily skin, visible pores and uneven tone.",
         "alternatives": [
             {
                 "label": "Derma Co Niacinamide Alternative",
@@ -1501,9 +1509,9 @@ export const PRODUCTS: SkincareProduct[] = [
         "texture": "Featherlight Serum",
         "finish": "Bare-Skin Hydrated",
         "whiteCast": "Not Applicable",
-        "bestFor": "Targeting stubborn dark melanin deposits, dark acne marks, and hormonal melasma patches safely.",
+        "bestFor": "Fading dark acne marks and uneven pigmentation, alongside daily sunscreen.",
         "avoidIf": "You are looking for active exfoliation or pore unclogging (use Salicylic Acid instead).",
-        "whyWeLikeIt": "Alpha Arbutin safely suppresses tyrosinase enzyme activity without the cytotoxicity or rebound pigmentation risks of hydroquinone.",
+        "whyWeLikeIt": "Alpha arbutin is a gentle option for fading pigmentation, and it is generally better tolerated than stronger lighteners such as hydroquinone.",
         "pros": [
             "One of the safest, most effective dark spot ingredients for melanin-rich skin",
             "Formulated at optimal pH (4.5 - 5.5) to prevent arbutin degradation",
@@ -1806,13 +1814,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "texture": "Rich Velvety Cream",
         "finish": "Comforting Non-Greasy Shield",
         "whiteCast": "Not Applicable",
-        "bestFor": "Night-time slugging, healing retinol burns, dry winter patches, and eczema flare-ups.",
+        "bestFor": "Very dry skin, dry winter patches, comfort while using retinoids, and eczema-prone skin.",
         "avoidIf": "You have heavily congested oily skin prone to sebaceous filaments in hot weather.",
         "whyWeLikeIt": "Patented MultiVesicular Emulsion (MVE) technology releases moisture continuously over 24 hours.",
         "pros": [
-            "Replenishes the exact 3:1:1 lipid ratio found naturally in healthy skin",
+            "Contains three ceramides plus cholesterol and fatty acids, the lipids found in healthy skin",
             "Non-comedogenic despite its rich, deeply occlusive barrier texture",
-            "Completely fragrance-free and hypoallergenic"
+            "Fragrance-free"
         ],
         "cons": [
             "Too rich for daytime use on combination skin during hot summer months"
@@ -1906,11 +1914,11 @@ export const PRODUCTS: SkincareProduct[] = [
         "whiteCast": "Not Applicable",
         "bestFor": "Hydrating acne-prone skin without feeding fungal acne or clogging sebaceous glands.",
         "avoidIf": "You suffer from severely cracked skin and need thick occlusive waxes.",
-        "whyWeLikeIt": "High 10% Panthenol concentration reduces transepidermal water loss while Zinc and Copper heal inflammation.",
+        "whyWeLikeIt": "10% panthenol helps skin hold on to water, in a light gel with zinc and copper.",
         "pros": [
-            "100% oil-free formulation that will not trigger acne breakouts",
-            "High 10% Panthenol actively speeds up post-acne wound healing",
-            "Lightweight gel consistency absorbs instantly without shine"
+            "Oil-free gel that suits most oily and acne-prone skin",
+            "10% panthenol helps soothe and support the skin barrier",
+            "Light gel that absorbs quickly with little shine"
         ],
         "cons": [
             "May feel insufficient in severe winter conditions for dry cheek zones"
@@ -1945,7 +1953,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "asin": "B07SGC46XW",
         "amazonUrl": "https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21",
-        "badge": "Best Medical Grade Barrier Rescue",
+        "badge": "Best Rich Barrier Balm",
         "price": 472,
         "priceEst": "₹472",
         "currency": "₹",
@@ -2002,12 +2010,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "avoidIf": "You have acne-prone oily skin; the heavy emollient base will clog pores.",
         "whyWeLikeIt": "Biological approach that biologically stimulates lipid synthesis and relieves intense itching sensation within minutes.",
         "pros": [
-            "Clinically soothes severe skin itching and reduces scratching urges",
+            "Soothing balm that helps with itchy, very dry skin",
             "Reconstructs a durable moisture shield against allergens and air pollution",
-            "Safe for infants, children, and extreme sensitive skin types"
+            "Suitable for very dry and sensitive skin, including children, per the brand"
         ],
         "cons": [
-            "Premium pricing reflects imported European clinical manufacturing"
+            "Pricier than local barrier creams, as it is imported"
         ],
         "verdict": "The gold standard medical rescue balm for cracked, stinging, or chronically dry skin.",
         "alternatives": [
@@ -2102,7 +2110,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "cons": [
             "Potent AHA formulation requires wearing daily sunscreen to prevent photosensitivity"
         ],
-        "verdict": "The most versatile, high-potency chemical exfoliating toner in India. Unmatched for full-body radiance.",
+        "verdict": "A strong, versatile glycolic acid toner that works on the face and body.",
         "alternatives": [
             {
                 "label": "Gentle Sensitive Skin Alternative",
@@ -2184,10 +2192,10 @@ export const PRODUCTS: SkincareProduct[] = [
         "finish": "Clean Matte Tone",
         "whiteCast": "Not Applicable",
         "bestFor": "Daily morning/evening pore clarifying for teenagers and oily skin types.",
-        "avoidIf": "You want a strictly 100% fragrance-free clinical formula.",
+        "avoidIf": "You want a fragrance-free formula.",
         "whyWeLikeIt": "Green tea polyphenols combat acne bacteria while a gentle 0.5% dose of glycolic acid prevents clogged pores.",
         "pros": [
-            "100% alcohol-free toner that will not dry out skin or cause rebound oiliness",
+            "Alcohol-free toner that does not leave skin tight or dry",
             "Rich in green tea epigallocatechin gallate (EGCG) antioxidants",
             "Very affordable large 200ml bottle"
         ],
@@ -2280,8 +2288,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "avoidIf": "You require aggressive pore-clearing for deep cystic acne nodules.",
         "whyWeLikeIt": "PHAs have larger molecular structures that gently dissolve surface debris without penetrating deep enough to cause stinging.",
         "pros": [
-            "Zero stinging or irritation even on rosacea-prone or eczema-prone skin",
-            "Prebiotics and probiotics nourish the healthy skin microbiome",
+            "PHAs are among the gentlest acids, so stinging is less likely than with glycolic acid",
+            "Includes prebiotic ingredients",
             "Acts as a humectant that draws ambient moisture directly into skin"
         ],
         "cons": [
@@ -2371,10 +2379,10 @@ export const PRODUCTS: SkincareProduct[] = [
         "whiteCast": "Not Applicable",
         "bestFor": "Daily maintenance between cleansing and serums to keep pores continuously unclogged.",
         "avoidIf": "You expect rapid overnight clearing of deep cystic acne.",
-        "whyWeLikeIt": "The convenient spray nozzle allows zero-friction application without requiring disposable cotton pads.",
+        "whyWeLikeIt": "The spray bottle means you can apply it without cotton pads.",
         "pros": [
             "Very mild daily exfoliating percentage suitable for twice-daily application",
-            "Hygienic mist bottle eliminates wasteful friction from cotton pads",
+            "Mist bottle, so no cotton pads needed",
             "Natural botanical waters soothe active inflammation"
         ],
         "cons": [
@@ -2467,7 +2475,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "whiteCast": "Not Applicable",
         "bestFor": "Treating thinning under-eye skin, morning puffiness, and chronic dark shadow circles.",
         "avoidIf": "Your dark circles are purely caused by deep genetic bone hollows.",
-        "whyWeLikeIt": "Ophthalmologist-tested and hypoallergenic, safe for sensitive contact lens wearers with zero milia risk.",
+        "whyWeLikeIt": "Ophthalmologist-tested according to the brand, fragrance-free and gentle enough for most sensitive eyes.",
         "pros": [
             "Contains 3 essential ceramides that strengthen fragile under-eye tissue",
             "Marine and botanical complex helps reduce fluid retention puffiness",
@@ -2661,7 +2669,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "texture": "Fluid Gel",
         "finish": "Cooling Fresh",
         "whiteCast": "Not Applicable",
-        "bestFor": "Those who love a cooling lymphatic drainage massage applicator to instantly revive tired eyes.",
+        "bestFor": "Anyone who likes a cooling roller applicator for tired, puffy eyes.",
         "avoidIf": "You prefer using clean ring fingers or have broken skin around the eye.",
         "whyWeLikeIt": "The stainless steel roller ball cools on contact, physically boosting lymphatic micro-circulation.",
         "pros": [
@@ -2753,14 +2761,14 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Non-Sticky Butter Balm",
         "finish": "Natural Sheen",
-        "whiteCast": "None (Fitzpatrick III-V Safe)",
+        "whiteCast": "Minimal",
         "bestFor": "Preventing and reversing dark lip pigmentation caused by chronic UV exposure and smoking.",
         "avoidIf": "You strictly prefer sweet flavored or strongly tinted colored lip glosses.",
         "whyWeLikeIt": "Addresses the #1 cause of dark lips in India (unprotected UV rays) without bad chemical taste or stickiness.",
         "pros": [
             "Certified SPF 30 broad spectrum UV protection specifically for lips",
-            "Ceramides and Hyaluronic acid heal deep cracked peeling fissures",
-            "Completely fragrance-free and neutral taste (no bitter sunscreen flavor)"
+            "Ceramides and hyaluronic acid help soothe dry, peeling lips",
+            "Fragrance-free with a neutral taste"
         ],
         "cons": [
             "Requires reapplication every 2 hours if drinking hot beverages"
@@ -2795,7 +2803,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "asin": "B08RX6S5D1",
         "amazonUrl": "https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21",
-        "badge": "Best Overnight Chapped Lip Healer",
+        "badge": "Best Budget Overnight Lip Mask",
         "price": 194,
         "priceEst": "₹194",
         "currency": "₹",
@@ -2852,7 +2860,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "avoidIf": "You want a daytime matte balm that sits flat under matte liquid lipstick.",
         "whyWeLikeIt": "Creates an intensive occlusive moisture blanket that seals in vitamins throughout 8 hours of sleep.",
         "pros": [
-            "Thick nourishing blanket eliminates morning lip flaking after one night",
+            "A thick overnight layer that leaves lips softer by morning",
             "Vitamin C gently promotes brighter, pinker natural lip tone",
             "Generous 20g jar lasts over 6 months of daily bedtime use"
         ],
@@ -2943,9 +2951,9 @@ export const PRODUCTS: SkincareProduct[] = [
         "texture": "Silky Foaming Gel",
         "finish": "Smooth & Decongested",
         "whiteCast": "Not Applicable",
-        "bestFor": "Eliminating stubborn back and chest acne breakouts and smoothing rough follicular dots on thighs and arms.",
+        "bestFor": "Back and chest acne, and rough, bumpy skin on the arms and thighs.",
         "avoidIf": "You have severely compromised eczema plaques on your body.",
-        "whyWeLikeIt": "Clinical-grade facial actives (2% BHA and Zinc) brought to an affordable, fragrance-free body wash format.",
+        "whyWeLikeIt": "2% salicylic acid with zinc in an affordable, fragrance-free body wash.",
         "pros": [
             "Clears active back and chest breakouts within 2-3 weeks of regular use",
             "Smooths keratosis pilaris (strawberry legs) on arms and thighs",
@@ -2954,7 +2962,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "cons": [
             "Must be left on the body for 60 seconds before rinsing for optimal BHA penetration"
         ],
-        "verdict": "The most effective, dermatologist-recognized active body wash for conquering body acne in India.",
+        "verdict": "One of the best-value salicylic acid body washes for body acne in India.",
         "alternatives": [
             {
                 "label": "Nourishing Fragrance Alternative",
@@ -3129,14 +3137,14 @@ export const PRODUCTS: SkincareProduct[] = [
         "avoidIf": "You have active fungal acne or are allergic to essential botanical oils.",
         "whyWeLikeIt": "A trusted staple in millions of Indian households delivering smooth skin under ₹220 for 190ml.",
         "pros": [
-            "Time-tested Ayurvedic formulation with pure honey and wheatgerm oil",
+            "Long-running Ayurvedic formula with honey and wheatgerm oil",
             "Ultra-affordable price point accessible for entire family use",
             "Light fluid texture spreads easily over large body areas"
         ],
         "cons": [
             "Botanical extracts may not suit reactive, allergy-prone skin profiles"
         ],
-        "verdict": "The ultimate budget-friendly daily body lotion with deep cultural trust across India.",
+        "verdict": "A long-popular budget body lotion for everyday use.",
         "alternatives": [
             {
                 "label": "Clinical Treatment Alternative",
@@ -3326,7 +3334,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "whiteCast": "Not Applicable",
         "bestFor": "Drying out emerging red blemishes and treating stubborn under-the-skin blind pimples.",
         "avoidIf": "You plan to slather it across the entire face like a regular moisturizer.",
-        "whyWeLikeIt": "The dermatologist pharmacy classic: 6% Nicotinamide dramatically suppresses redness while 2% BHA clears the canal.",
+        "whyWeLikeIt": "A long-standing pharmacy gel: 6% nicotinamide helps calm redness while 2% salicylic acid clears pores.",
         "pros": [
             "High 6% Nicotinamide concentration quickly subdues inflammatory redness",
             "2% Salicylic Acid unclogs deep follicular plugs",
@@ -3335,7 +3343,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "cons": [
             "Can cause localized flaking if applied too aggressively more than twice daily"
         ],
-        "verdict": "The ultimate pharmacy secret weapon for urgent blemish control at rock-bottom price.",
+        "verdict": "A cheap, effective pharmacy gel for spot-treating blemishes.",
         "alternatives": [
             {
                 "label": "Surface Whitehead Patch",
@@ -3419,12 +3427,12 @@ export const PRODUCTS: SkincareProduct[] = [
         "texture": "Waterless Squalane Oil",
         "finish": "Silky Nourished Glow",
         "whiteCast": "Not Applicable",
-        "bestFor": "Those in their mid-20s or 30s starting their first clinical anti-aging and cell turnover journey.",
+        "bestFor": "People in their mid-20s or 30s starting their first retinol.",
         "avoidIf": "You are currently pregnant or nursing (retinoids are strictly contraindicated).",
-        "whyWeLikeIt": "Formulated in water-free squalane to prevent retinol degradation from oxidation while dramatically buffering irritation.",
+        "whyWeLikeIt": "Retinol in a water-free squalane base, which helps keep it stable and makes it more comfortable to use.",
         "pros": [
             "Waterless squalane base provides continuous lipid hydration to prevent peeling",
-            "0.3% pure retinol is clinically proven to boost collagen synthesis",
+            "0.3% retinol, a well-studied strength for fine lines and texture",
             "Antioxidant CoQ10 shields cells from oxidative free radical damage"
         ],
         "cons": [
@@ -3460,7 +3468,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "asin": "B08F8W91F8",
         "amazonUrl": "https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21",
-        "badge": "Best for Sensitive Skin & Zero Purging",
+        "badge": "Best Gentle Retinoid for Sensitive Skin",
         "price": 629,
         "priceEst": "₹629",
         "currency": "₹",
@@ -3516,13 +3524,13 @@ export const PRODUCTS: SkincareProduct[] = [
         "whyWeLikeIt": "Hydroxypinacolone Retinoate (HPR) binds directly to retinoid receptors without requiring enzymatic conversion.",
         "pros": [
             "Bypasses the enzymatic conversion cascade, binding directly to cellular receptors",
-            "Virtual zero incidence of peeling, redness, stinging, or purging",
-            "Safe for regular every-other-night usage much sooner than traditional retinol"
+            "Usually causes less peeling and redness than retinol",
+            "Many people can use it every other night sooner than they could with retinol"
         ],
         "cons": [
             "Slightly higher price point than basic entry retinol serums"
         ],
-        "verdict": "The modern technological marvel for anti-aging with virtually zero downtime or peeling.",
+        "verdict": "A gentle retinoid that most people can use with little peeling or downtime.",
         "alternatives": [
             {
                 "label": "Classic Pure Retinol Alternative",
@@ -4462,7 +4470,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Lightweight Gel",
         "finish": "Non-Greasy, Natural",
-        "whiteCast": "Zero",
+        "whiteCast": "Minimal",
         "bestFor": "Oily and combination skin that wants a light, photostable daily sunscreen with modern UV filters at a budget price.",
         "avoidIf": "Your skin is very dry and needs a richer, moisturising sunscreen.",
         "whyWeLikeIt": "Four new-generation, photostable UV filters (including Uvinul A Plus and Tinosorb S) in a fragrance-free gel under ₹400. That's a filter line-up usually found in pricier sunscreens.",
@@ -4575,7 +4583,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Lightweight Lotion",
         "finish": "Dewy Glow",
-        "whiteCast": "Zero",
+        "whiteCast": "Minimal",
         "bestFor": "Normal to dry skin that wants a radiant, dewy finish and a little brightening support from niacinamide and vitamin C.",
         "avoidIf": "You have very oily skin that dislikes glow, or you avoid fragrance.",
         "whyWeLikeIt": "Modern UV filters including Tinosorb A2B, with niacinamide and a stable vitamin C derivative, for a glowy finish at a low price.",
@@ -5629,7 +5637,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "avoidIf": "Your skin is very deep and the single tint shade looks ashy, or you dislike any tint.",
         "whyWeLikeIt": "Zinc oxide is gentle and broad-spectrum, and the tint hides the white cast mineral sunscreens usually leave on Indian skin.",
         "pros": [
-            "100% mineral (zinc oxide) — ideal for sensitive skin",
+            "Mineral (zinc oxide) filters, often better tolerated by sensitive skin",
             "Tint offsets white cast",
             "Water resistant"
         ],
@@ -5826,7 +5834,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Light Tinted Lotion",
         "finish": "Even-Toned, Natural",
-        "whiteCast": "Zero (tinted)",
+        "whiteCast": "None (tinted)",
         "bestFor": "Budget-friendly daily tinted protection that evens out skin tone for office or college.",
         "avoidIf": "You have sensitive skin or avoid fragrance, or want strong, modern UVA filters.",
         "whyWeLikeIt": "A huge 100ml tube at under ₹300 with a light tint and niacinamide. It's easy to apply generously, which matters more than anything for real-world protection.",
@@ -5925,7 +5933,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "alcoholFree": true,
         "texture": "Lightweight Tinted Fluid",
         "finish": "Dewy, Even-Toned",
-        "whiteCast": "Zero (tinted)",
+        "whiteCast": "None (tinted)",
         "bestFor": "Normal to dry skin that wants a dewy tint with strong, modern UVA/UVB protection.",
         "avoidIf": "You have very oily skin that dislikes dewy finishes.",
         "whyWeLikeIt": "Modern, photostable filters (including Tinosorb S) with a tint that adds visible-light coverage and evens tone.",
@@ -15243,7 +15251,7 @@ export function getProductsByConcern(concern: string): SkincareProduct[] {
 
 export function getProductsBySkinType(skinType: SkinType): SkincareProduct[] {
     if (skinType === 'All') return AVAILABLE_PRODUCTS;
-    return AVAILABLE_PRODUCTS.filter(p => p.skinType.includes(skinType) || p.skinType.includes('All'));
+    return AVAILABLE_PRODUCTS.filter(p => p.skinType.includes(skinType) || p.skinType.includes('All') || p.skinType.includes('All Skin Types'));
 }
 
 export function getTopPicks(limit = 6): SkincareProduct[] {

@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Gentle Lip Exfoliators for Dry, Flaky Lips in India"
 image: "/images/products/the-ordinary-pha-lip-serum.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Lip Care & SPF Balms"
 rating: 4.8
 keywords: "chemical lip exfoliant, gentle lip peel india, smooth peeling lips"
@@ -97,23 +98,21 @@ A shea butter and castor oil overnight lip mask for under ₹200.
 - **Price**: ₹194 for 15ml (₹12.9/ml) · 4.1★ from 7,200+ Amazon India ratings
 - **Skip it if**: you want a daytime matte balm that sits flat under matte liquid lipstick.
 
-**Pros:** Thick nourishing blanket eliminates morning lip flaking after one night. **Cons:** Rich buttery consistency is too thick for daytime outdoor use.
+**Pros:** A thick overnight layer that leaves lips softer by morning. **Cons:** Rich buttery consistency is too thick for daytime outdoor use.
 
 📖 **[Read our full Dot & Key Vitamin C+E Lip Sleeping Mask review](/reviews/dotkey-lip-mask/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Dot & Key Vitamin C+E Lip Sleeping Mask](/reviews/dotkey-lip-mask/) works out cheapest at about ₹13 per ml (₹194 for 15ml). [The Ordinary PHA 5% Exfoliating Lip Serum](/reviews/the-ordinary-pha-lip-serum/) is next at about ₹50 per ml. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+None of these picks is confirmed fragrance-free. [e.l.f. Lip Exfoliator](/reviews/elf-lip-exfoliator/) and [Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/) contain added fragrance or flavour. The listings for The Ordinary PHA 5% Exfoliating Lip Serum and Dot & Key Vitamin C+E Lip Sleeping Mask do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[Dot & Key Vitamin C+E Lip Sleeping Mask](/reviews/dotkey-lip-mask/) is the pick here that suits sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which is the most popular on Amazon India?
+[Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/) has the most ratings of these picks, with 16,000+ at 4.5★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

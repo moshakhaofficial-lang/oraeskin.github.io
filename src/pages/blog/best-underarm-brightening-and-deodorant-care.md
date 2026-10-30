@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Underarm Brightening & Odor Control Routine for Indian Weather"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Body Care"
 rating: 4.8
 keywords: "underarm brightening routine india, glycolic acid for dark underarms, eliminate body odor chemical exfoliation, minimalist glycolic toner review"
@@ -66,7 +67,7 @@ Our evaluation of **Minimalist 10% Niacinamide Face Serum** highlights its scien
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Underarm Care Tips
 
 1. **Use Glycolic Acid 2x Weekly Only**: Apply [Minimalist 8% Glycolic Acid](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) on a cotton pad to clean, completely dry underarms at night twice a week. Do not overuse.
 2. **Wait 48 Hours After Shaving or Waxing**: Never apply exfoliating acids directly to newly shaved or waxed underarms to prevent severe chemical irritation.

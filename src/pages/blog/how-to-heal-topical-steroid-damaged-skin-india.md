@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Heal Topical Steroid-Damaged Skin (TSDF) from Fairness Creams in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
 date: "2026-09-22"
+updated: "2026-10-30"
 category: "Barrier Repair"
 rating: 4.9
 keywords: "topical steroid damaged skin india, heal steroid damaged face tsdf, betnovate skin damage recovery, bioderma atoderm baume steroid skin, fair and lovely steroid cream fix"
@@ -100,7 +101,7 @@ Clinically proven to cleanse without disrupting the skin's natural moisture barr
 Formulated specifically for sensitive Indian skin, this hybrid sunscreen incorporates 1% Ceramide Complex to reinforce the lipid barrier while shielding hyper-reactive, sun-intolerant steroid-damaged skin from UVA/UVB rays.
 
 #### Why It Works:
-- **Pro**: Zero white cast on Indian skin tones
+- **Pro**: Little or no white cast on most Indian skin tones
 - **Pro**: Ceramide-infused to soothe redness and irritation
 - **Pro**: Non-greasy, cosmetically elegant hydration
 - **Con**: Must be washed off thoroughly in the evening with a gentle wash

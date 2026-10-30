@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Pre-Wedding Skincare Routine Timeline: 3-Month Protocol for Radiant Skin on Amazon India"
 image: "/images/products/plum-vitc-mandarin.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Routines & Guides"
 rating: 4.9
 keywords: "pre wedding skincare routine indian brides, 3 month bridal skincare timeline, wedding glow skincare amazon india, plum vitamin c bridal, the face shop rice cleanser"
@@ -66,7 +67,7 @@ Our evaluation of **Dr. Sheth's Ceramide & Vitamin C Sunscreen** highlights its 
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Pre-Wedding Skincare Tips
 
 1. **Month 3 (90 Days Out)**: Start active treatment for acne marks and tanning using [Plum 15% Vitamin C](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) and [The Face Shop Rice Cleanser](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21).
 2. **Month 1 (30 Days Out)**: Stop experimenting with any new products. Focus 100% on hydration and barrier preservation with [Dr. Sheth's Ceramide Sunscreen](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21).

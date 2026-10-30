@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Post-Workout Face Washes for Gym Sweat Acne & Congestion in India"
 image: "/images/products/minimalist-salicylic-cleanser.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Cleansers"
 rating: 4.8
 keywords: "post workout face wash gym acne india, best cleanser for sweat pimples, minimalist salicylic acid cleanser gym, clear post workout congestion"
@@ -66,7 +67,7 @@ Our evaluation of **Minimalist 2% Salicylic Acid Body Wash** highlights its scie
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Post-Workout Skin Care Tips
 
 1. **Wash Within 15 Minutes**: Never drive home or sit in traffic in sweaty workout clothes. Wash your face with [Minimalist 2% Salicylic Cleanser](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) immediately in the locker room.
 2. **Never Wipe Sweat with Hands or Dirty Towels**: Gym towels accumulate bacterial strains from equipment. Pat skin gently with single-use tissues or clean microfiber cloths.

@@ -99,17 +99,26 @@ const breadcrumbSchema = {
     ]
 };
 
+// Only claim "free of" when the listing gives enough to know
+const fragranceUnknown = product.fragrance === 'Not Disclosed on Listing';
+const fragranceClass = product.fragrance === 'Fragrance-Free' ? 'good' : /^(Added|Essential)/.test(product.fragrance) ? 'warn' : '';
+const isRich = /cream|balm|butter|ointment|baume/i.test(product.texture) && !/gel/i.test(product.texture);
+const isLight = /gel|fluid|water|watery|mist|liquid|lotion|serum|essence|toner|oil/i.test(product.texture);
+const bestSeasons = isRich
+    ? 'Best in dry winters and air-conditioned rooms'
+    : isLight ? 'Year-round; comfortable in summer and monsoon' : 'Year-round';
+
+const hasWhiteCast = product.whiteCast && product.whiteCast !== 'Not Applicable';
+
 const faqs = [
     {
         q: `Is ${product.brand} ${product.name} suitable for Indian weather?`,
-        a: `Yes. In our formulation analysis, its ${product.texture.toLowerCase()} texture and ${product.finish.toLowerCase()} finish perform reliably in Indian heat and humidity without feeling suffocating or heavy.`
+        a: `It has a ${product.texture.toLowerCase()} texture with a ${product.finish.toLowerCase()} finish. Lighter textures usually feel more comfortable in heat and humidity, while richer ones suit dry winters and air-conditioned rooms. Check the "Best for" and "Skip it if" notes above for your skin type.`
     },
-    {
+    ...(hasWhiteCast ? [{
         q: `Does this leave any white cast on deeper Indian skin tones?`,
-        a: product.whiteCast === 'Zero' 
-            ? `No. This formulation has zero white cast and blends invisibly on Fitzpatrick skin types III through VI.`
-            : `It has ${product.whiteCast.toLowerCase()} white cast. On deeper skin tones, give it 60–90 seconds to absorb or blend with a light moisturizer.`
-    },
+        a: `Going by its formula and listing, the white cast is ${product.whiteCast.toLowerCase()}. How it looks varies with skin tone and how much you apply, so let it absorb for a minute and blend well, especially on deeper skin tones.`
+    }] : []),
     {
         q: `Who should avoid using ${product.brand} ${product.name}?`,
         a: product.avoidIf 
@@ -170,7 +179,7 @@ const faqSchema = {
                     <span class="sep-dot">•</span>
                     <span>🏷️ Price Checked: <strong>{product.lastPriceChecked}</strong></span>
                     <span class="sep-dot">•</span>
-                    <span>🇮🇳 Fitzpatrick Types III–VI Compatible</span>
+                    <span>🇮🇳 Researched for Indian skin</span>
                 </div>
             </header>
 
@@ -224,7 +233,7 @@ const faqSchema = {
                                 <span class="score-denom">/10</span>
                             </div>
                             <span class="score-rating-stars">★★★★★</span>
-                            <span class="score-desc">Weighted formulation & climate audit</span>
+                            <span class="score-desc">Weighted score from our review method</span>
                         </div>
 
                         <div class="score-column amazon-rating-col">
@@ -334,15 +343,14 @@ const faqSchema = {
                 <section class="review-section">
                     <h2>1. Active Ingredients & Formulation Analysis</h2>
                     <p>
-                        To understand why {product.brand} {product.name} performs the way it does, we audited its full ingredient list (INCI) and active concentrations:
+                        To understand why {product.brand} {product.name} performs the way it does, we looked at its listed ingredients and key actives:
                     </p>
 
                     <div class="actives-grid">
                         {product.keyActives.map(active => (
                             <div class="active-card">
-                                <span class="active-badge">Hero Active</span>
+                                <span class="active-badge">Key Active</span>
                                 <h4>{active}</h4>
-                                <p>Evaluated for stability, skin penetration, and barrier compatibility in high-humidity climates.</p>
                             </div>
                         ))}
                     </div>
@@ -350,25 +358,25 @@ const faqSchema = {
                     <div class="formulation-check-matrix">
                         <div class="matrix-item">
                             <span class="matrix-title">Fragrance</span>
-                            <span class={`matrix-val ${product.fragrance ? 'warn' : 'good'}`}>
-                                {product.fragrance ? 'Contains Added Fragrance' : 'Fragrance-Free ✓'}
+                            <span class={`matrix-val ${fragranceClass}`}>
+                                {product.fragrance === 'Fragrance-Free' ? 'Fragrance-Free ✓' : product.fragrance}
                             </span>
                         </div>
                         <div class="matrix-item">
                             <span class="matrix-title">Essential Oils</span>
-                            <span class={`matrix-val ${product.essentialOils ? 'warn' : 'good'}`}>
-                                {product.essentialOils ? 'Contains Essential Oils' : 'Essential-Oil Free ✓'}
+                            <span class={`matrix-val ${product.essentialOils ? 'warn' : fragranceUnknown ? '' : 'good'}`}>
+                                {product.essentialOils ? 'Contains Essential Oils' : fragranceUnknown ? 'Not Disclosed on Listing' : 'None Listed ✓'}
                             </span>
                         </div>
                         <div class="matrix-item">
                             <span class="matrix-title">Drying Alcohols</span>
-                            <span class={`matrix-val ${product.alcoholFree ? 'good' : 'warn'}`}>
-                                {product.alcoholFree ? 'Alcohol-Free ✓' : 'Contains Alcohol'}
+                            <span class={`matrix-val ${!product.alcoholFree ? 'warn' : fragranceUnknown ? '' : 'good'}`}>
+                                {!product.alcoholFree ? 'Contains Alcohol' : fragranceUnknown ? 'Not Disclosed on Listing' : 'None Listed ✓'}
                             </span>
                         </div>
                         <div class="matrix-item">
                             <span class="matrix-title">White Cast</span>
-                            <span class="matrix-val good">
+                            <span class="matrix-val">
                                 {product.whiteCast}
                             </span>
                         </div>
@@ -396,7 +404,7 @@ const faqSchema = {
                         </div>
                         <div class="climate-stat">
                             <span class="c-label">Best Seasons:</span>
-                            <span class="c-val">Year-round / Summer & Monsoon Friendly</span>
+                            <span class="c-val">{bestSeasons}</span>
                         </div>
                     </div>
                 </section>
@@ -439,7 +447,7 @@ const faqSchema = {
                 {alternatives.length > 0 && (
                     <section class="review-section">
                         <h2>5. If You Don't Like This One: Verified Alternatives</h2>
-                        <p>Not every product suits every skin type. If {product.brand} {product.name} isn't the right match, consider these peer-evaluated options:</p>
+                        <p>Not every product suits every skin type. If {product.brand} {product.name} isn't the right match, consider these alternatives:</p>
 
                         <div class="alternatives-grid">
                             {alternatives.map(alt => (

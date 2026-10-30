@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Swimming Pool Skincare Routine: Healing Chlorine Rash & Severe Dryness in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
 date: "2026-09-30"
+updated: "2026-10-30"
 category: "Barrier Repair"
 rating: 4.8
 keywords: "swimming pool skincare routine india, heal chlorine rash dry skin, swimmers barrier repair cream, bioderma atoderm baume chlorine, prevent pool chemical irritation"
@@ -100,7 +101,7 @@ Standard soaps make chlorine damage worse by further raising skin pH. Cetaphil u
 Essential for outdoor pools where water reflections amplify UV radiation. Formulated with 1% Ceramide Complex, it shields delicate swimmer's skin from solar erythema while reinforcing surface moisture.
 
 #### Why It Works:
-- **Pro**: Zero white cast and absorbs easily into damp or dry skin
+- **Pro**: Little or no white cast, and absorbs easily into damp or dry skin
 - **Pro**: Contains ceramides to soothe chlorine-induced redness
 - **Pro**: Provides photostable broad-spectrum SPF 50 PA++++ protection
 - **Con**: Must be reapplied if swimming continuously for over 80 minutes

@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Gentle Sunscreens After Chemical Peels & Laser Treatments in India"
 image: "/images/products/drsheths-ceramide-vitc-spf50.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Sunscreens"
 rating: 4.8
 keywords: "sunscreen after chemical peel india, post laser sunscreen india, gentle healing sunscreen, dr sheths ceramide sunscreen, protect post procedure skin"
@@ -66,7 +67,7 @@ Our evaluation of **Aqualogica Radiance+ Dewy Sunscreen SPF 50+** highlights its
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Sun Care Tips After a Skin Procedure
 
 1. **Avoid Direct Sun for 72 Hours**: Even with SPF, avoid direct sun exposure for 3 full days following a chemical peel or laser session.
 2. **Reapply Without Rubbing**: Reapply [Dr. Sheth's Ceramide Sunscreen](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) every 2 hours by gently pressing it onto the skin with clean palms.

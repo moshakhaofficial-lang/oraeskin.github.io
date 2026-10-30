@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Cleansing Balms for Double Cleansing in India"
 image: "/images/products/plum-cleansing-balm.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "cleansing oil double cleansing india, best cleansing balm amazon, emulsifying oil cleanser"
@@ -66,18 +67,19 @@ A similar melt-to-oil balm with kokum and shea butter.
 
 ---
 
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/) works out cheapest at about ₹5.4 per g (₹488 for 90g). [Dot & Key Strawberry Dew Cleansing Balm](/reviews/dotkey-strawberry-cleansing-balm/) is next at about ₹6.1 per g. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) and [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) are fragrance-free. [Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/) and [Dot & Key Strawberry Dew Cleansing Balm](/reviews/dotkey-strawberry-cleansing-balm/) contain added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) and [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) are the picks here that suit sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which suits oily or acne-prone skin?
+[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
+
+### Which is the most popular on Amazon India?
+[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) has the most ratings of these picks, with 70,900+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

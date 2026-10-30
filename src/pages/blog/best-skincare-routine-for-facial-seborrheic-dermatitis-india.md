@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Skincare Routine for Facial Seborrheic Dermatitis: Calming Flaking Nose Creases & Eyebrows"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Sensitive & Compromised Skin"
 rating: 4.8
 keywords: "facial seborrheic dermatitis routine india, flaky eyebrows nose creases, simple refreshing wash seborrheic, minimalist b5 moisturizer, sebogel for seborrheic"
@@ -66,7 +67,7 @@ Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highligh
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Managing Seborrhoeic Dermatitis
 
 1. **Never Apply Coconut or Mustard Oil**: Applying traditional hair or face oils to flaky eyebrows feeds Malassezia yeast and creates severe inflammation.
 2. **Use Salicylic Acid on Flaky Folds**: Dab a tiny amount of [Sebogel](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) on nose creases twice a week to gently dissolve crusts.

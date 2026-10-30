@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Fermented Rice & Kombucha Toners for Glass Skin Radiance in India"
 image: "/images/products/faceshop-rice-cleanser.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Toners"
 rating: 4.8
 keywords: "fermented rice toner india, kombucha toner glass skin, the face shop rice water review, korean fermented skincare amazon india, translucent glow"
@@ -64,13 +65,13 @@ PHAs have larger molecular structures that gently dissolve surface debris withou
 - **Price**: ₹338 for 150ml (₹2.3/ml) · 4.2★ from 9,500+ Amazon India ratings
 - **Skip it if**: you require aggressive pore-clearing for deep cystic acne nodules.
 
-**Pros:** Zero stinging or irritation even on rosacea-prone or eczema-prone skin. **Cons:** Exfoliates more gradually compared to strong 8% Glycolic acid.
+**Pros:** PHAs are among the gentlest acids, so stinging is less likely than with glycolic acid. **Cons:** Exfoliates more gradually compared to strong 8% Glycolic acid.
 
 📖 **[Read our full Minimalist PHA 3% Alcohol-Free Face Toner review](/reviews/minimalist-pha-toner/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Using Fermented Toners
 
 1. **The 7-Skin Method**: Layer 2 to 3 thin splashes of fermented hydrating toners onto damp skin with your hands for intense glass-skin bounce.
 2. **Double Up on Rice**: Cleanse with [The Face Shop Rice Water](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) and seal with [Dot & Key Rice Ceramide Cream](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21).

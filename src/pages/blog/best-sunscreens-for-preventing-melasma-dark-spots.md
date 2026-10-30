@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Sunscreens for Preventing Melasma & Dark Spots in India"
 image: "/images/products/deconstruct-gel-sunscreen-spf50.jpg"
 date: "2026-10-29"
+updated: "2026-10-30"
 category: "Sunscreens & SPF"
 rating: 4.8
 keywords: "sunscreen for melasma india, prevent dark spots sunscreen, best uva sunscreen amazon"
@@ -55,9 +56,9 @@ Uvinul A Plus with niacinamide, which supports a more even tone over time.
 - **Texture & finish**: Lightweight Lotion — natural dewy
 - **Fragrance**: Fragrance-Free
 - **Price**: ₹346 for 50g (₹6.9/g) · 4.1★ from 36,900+ Amazon India ratings
-- **Skip it if**: you have extremely oily skin in 85%+ humidity and require an ultra-matte powdery dry touch.
+- **Skip it if**: you have very oily skin and want an ultra-matte, powdery finish.
 
-**Pros:** Zero white cast on Indian skin tones (Fitzpatrick III to V). **Cons:** Dewy finish can feel slightly heavy on extremely oily skin in humid monsoons.
+**Pros:** Little or no white cast on most Indian skin tones. **Cons:** Dewy finish can feel slightly heavy on extremely oily skin in humid monsoons.
 
 📖 **[Read our full Minimalist SPF 50 Multi-Vitamin Sunscreen review](/reviews/minimalist-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**
 
@@ -71,7 +72,7 @@ A vitamin C derivative and ceramides, fragrance-free for sensitive, pigment-pron
 - **Texture & finish**: Lotion Cream — natural satin
 - **Fragrance**: Fragrance-Free
 - **Price**: ₹369 for 50g (₹7.4/g) · 4.2★ from 900+ Amazon India ratings
-- **Skip it if**: you prefer a completely silicone-powder dry touch.
+- **Skip it if**: you prefer a powdery, matte dry-touch finish.
 
 **Pros:** Ceramide complex rebuilds the lipid barrier during sun exposure. **Cons:** Slightly higher price point compared to entry-level chemical sunscreens.
 
@@ -94,18 +95,19 @@ Niacinamide and ethyl ascorbic acid with new-gen filters. It contains added frag
 📖 **[Read our full Foxtale Glow Sunscreen SPF 50 PA++++ review](/reviews/foxtale-glow-sunscreen-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0C3CP6B5Y?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/) works out cheapest at about ₹6.9 per g (₹346 for 50g). [Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/) is next at about ₹7.3 per g. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/), [Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/) and [Dr. Sheth's Ceramide & Vitamin C Sunscreen](/reviews/drsheths-ceramide-vitc-spf50/) are fragrance-free. [Foxtale Glow Sunscreen SPF 50 PA++++](/reviews/foxtale-glow-sunscreen-spf50/) contains added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which is best for sensitive skin?
+[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/) and [Dr. Sheth's Ceramide & Vitamin C Sunscreen](/reviews/drsheths-ceramide-vitc-spf50/) are the picks here that suit sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
+
+### Which suits oily or acne-prone skin?
+[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
+
+### Which is the most popular on Amazon India?
+[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/) has the most ratings of these picks, with 36,900+ at 4.1★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Authentic Korean Skincare Products on Amazon India: Glass Skin Routine"
 image: "/images/products/faceshop-rice-cleanser.jpg"
 date: "2026-09-10"
+updated: "2026-10-30"
 category: "Korean Skincare"
 rating: 4.8
 keywords: "korean skincare amazon india, the face shop rice water cleanser review, cosrx snail mucin essence amazon india, k-beauty glass skin, authentic k-beauty india"
@@ -70,7 +71,7 @@ Our evaluation of **Dot & Key Rice Water & Ceramide Hydrating Cream** highlights
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Tips for Buying Korean Skincare in India
 
 1. **Double Cleansing Ritual**: Use a micellar water or oil wash followed by [The Face Shop Rice Water Cleanser](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) to ensure pores are 100% free of sunscreen residues.
 2. **Toner Layering Method**: Mist [COSRX Advanced Snail 96 Mucin Power Essence](https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21) onto damp skin or pat it in with your palms rather than wiping aggressively with cotton pads.

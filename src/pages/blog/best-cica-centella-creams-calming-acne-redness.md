@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Cica (Centella Asiatica) Creams & Serums for Redness in India"
 image: "/images/products/skin1004-centella-soothing-cream.jpg"
 date: "2026-10-30"
+updated: "2026-10-30"
 category: "Moisturizers & Barrier Creams"
 rating: 4.8
 keywords: "cica cream india, centella asiatica moisturizer amazon, calm acne redness"
@@ -93,23 +94,21 @@ A rich, fragrance-free balm when a light cream isn't enough.
 - **Price**: ₹472 for 45ml (₹10.5/ml) · 4.4★ from 2,700+ Amazon India ratings
 - **Skip it if**: you have acne-prone oily skin; the heavy emollient base will clog pores.
 
-**Pros:** Clinically soothes severe skin itching and reduces scratching urges. **Cons:** Premium pricing reflects imported European clinical manufacturing.
+**Pros:** Soothing balm that helps with itchy, very dry skin. **Cons:** Pricier than local barrier creams, as it is imported.
 
 📖 **[Read our full Bioderma Atoderm Intensive Baume review](/reviews/bioderma-atoderm-baume/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
 
 ---
-## Editorial Routine Tips for Indian Skin
-
-1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
-2. **Apply Actives to Appropriate Skin States**: Water-soluble humectants perform best on slightly damp skin, whereas active peeling acids and retinoids should only be applied to completely dry skin.
-3. **Never Skip Morning Sun Defense**: UV radiation degrades newly synthesized collagen and triggers pigment rebound. Always finish your morning routine with a broad-spectrum shield like [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21).
-
----
-
 ## Frequently Asked Questions
 
-### How long before I see noticeable results?
-Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
+### Which is the best value?
+[Bioderma Atoderm Intensive Baume](/reviews/bioderma-atoderm-baume/) works out cheapest at about ₹10 per ml (₹472 for 45ml). [SKIN1004 Madagascar Centella Soothing Cream](/reviews/skin1004-centella-soothing-cream/) is next at about ₹15 per ml. Prices were checked on Amazon.in in October 2026 and change often.
 
-### Will this cause breakouts in humid weather?
-Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
+### Are any of these fragrance-free?
+[SKIN1004 Madagascar Centella Soothing Cream](/reviews/skin1004-centella-soothing-cream/), [SKIN1004 Centella Probio-Cica Intensive Ampoule](/reviews/skin1004-probio-cica-ampoule/), [Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum](/reviews/anua-azelaic-10-serum/) and [Bioderma Atoderm Intensive Baume](/reviews/bioderma-atoderm-baume/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
+
+### Which suits oily or acne-prone skin?
+[Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum](/reviews/anua-azelaic-10-serum/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
+
+### Which is the most popular on Amazon India?
+[Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum](/reviews/anua-azelaic-10-serum/) has the most ratings of these picks, with 7,400+ at 4.5★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

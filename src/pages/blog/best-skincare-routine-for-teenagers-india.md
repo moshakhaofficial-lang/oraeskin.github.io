@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Simple Skincare Routine for Teenagers in India: Clearing Hormonal Acne on a Budget"
 image: "/images/products/minimalist-salicylic-cleanser.jpg"
 date: "2026-09-14"
+updated: "2026-10-30"
 category: "Routines & Guides"
 rating: 4.8
 keywords: "skincare routine for teenagers india, best teen acne routine budget, minimalist salicylic acid for teens, simple teenage skincare amazon india"
@@ -59,14 +60,14 @@ Our evaluation of **Minimalist Vitamin B5 10% Moisturizer** highlights its scien
 Our evaluation of **Minimalist SPF 50 Multi-Vitamin Sunscreen** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
 
 - **Stops Dark Acne Scars**: Prevents sunlight from turning fresh teenage pimples into permanent dark spots.
-- **Zero White Cast**: Completely invisible on all skin tones with no powdery residue.
+- **Little or No White Cast**: Hard to see on most skin tones with no powdery residue.
 - **Non-Stinging in Sweaty Weather**: Safe around eyes during outdoor PE classes and sports.
 
 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**
 
 ---
 
-## Editorial Routine Tips for Indian Skin
+## Skincare Tips for Teenagers
 
 1. **Stick to the 3-Step Rule**: Cleanse with [Minimalist 2% Salicylic Cleanser](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21), hydrate with [Minimalist B5 Gel](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21), and protect with [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21). Do not experiment with complex 10-step influencer routines.
 2. **Never Pop or Pick Pimples**: Squeezing pimples pushes bacteria deeper into the dermis, causing deep pitted scars that last into adulthood.
