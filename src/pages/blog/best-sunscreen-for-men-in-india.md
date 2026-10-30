@@ -33,37 +33,37 @@ Indian men face unique grooming challenges when selecting daily sun protection: 
 
 ## 1. Minimalist SPF 50 Multi-Vitamin Sunscreen — *Editor's #1 Overall Pick*
 
-Our evaluation of **Minimalist SPF 50 Multi-Vitamin Sunscreen** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Combines photostable European UV filters with barrier-repairing B-vitamins without leaving a white ghost cast on melanin-rich Indian skin.
 
 - **Zero Beard Clumping**: Lightweight lotion sinks straight into rougher skin textures without leaving telltale white streaks in facial hair or sideburns.
 - **Antioxidant Multi-Vitamin Shield**: Infused with Niacinamide and Vitamins B5 & F to calm razor burn and neutralize urban exhaust pollution.
 - **Non-Stinging & Sweat-Friendly**: Formulated without volatile aromatic fragrances, ensuring it won't burn the eyes during intense commutes or midday workouts.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**
+📖 **[Read our full Minimalist SPF 50 Multi-Vitamin Sunscreen review](/reviews/minimalist-spf50/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**
 
 ---
 
 ## 2. Re'equil Ultra Matte Dry Touch Sunscreen Gel — *Best for Heavy Sweat & Oily Foreheads*
 
-Our evaluation of **Re'equil Ultra Matte Dry Touch Sunscreen Gel** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A matte, dry-touch sunscreen that holds up well in heat and sweat. Reapply after heavy sweating.
 
 - **Velvet Primer Texture**: Glides over large pores and rough stubble to deliver a 100% shine-free, matte finish that resists high humidity.
 - **Certified Water & Sweat-Resistant**: Remains stable on skin for up to 80 minutes of sustained moisture and physical exertion.
 - **Dermatologically Tested Safety**: Non-comedogenic formulation prevents sweat-trapping comedones along the hairline.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21)**
+📖 **[Read our full Re'equil Ultra Matte Dry Touch Sunscreen Gel review](/reviews/reequil-ultra-matte-spf50/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21)**
 
 ---
 
 ## 3. The Derma Co 1% Hyaluronic Sunscreen Aqua Gel — *Best Ultra-Lightweight Cooling Gel*
 
-Our evaluation of **The Derma Co 1% Hyaluronic Sunscreen Aqua Gel** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A watery gel that spreads easily and feels light, with little greasy shine.
 
 - **Water-Burst Gel Matrix**: Dissolves upon contact with the skin into a refreshing watery veil that feels virtually weightless.
 - **Blue Light & Infrared Protection**: Guards against screen fatigue and high heat emissions during prolonged indoor and desk work.
 - **Quick Absorption**: Leaves no oily film, making morning application effortless and taking under 20 seconds before rushing out the door.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21)**
+📖 **[Read our full The Derma Co 1% Hyaluronic Sunscreen Aqua Gel review](/reviews/dermaco-hyaluronic-spf50/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21)**
 
 ---
 
@@ -71,7 +71,7 @@ Our evaluation of **The Derma Co 1% Hyaluronic Sunscreen Aqua Gel** highlights i
 
 1. **Cleanse Post-Workout**: After sweating or biking, wash off sunscreen and dirt with a gentle foaming wash like [Minimalist 2% Salicylic Face Wash](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) to prevent bacne and beard pimples.
 2. **Use the Two-Finger Rule**: Squeeze two full strips along your index and middle fingers for full face and neck coverage. Don't skip the back of the neck and ears.
-3. **Apply on Dry Skin**: Give your skin 3 minutes after shaving or washing before applying [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) to guarantee an even UV film.
+3. **Apply on Dry Skin**: Give your skin 3 minutes after shaving or washing before applying [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) so the sunscreen spreads into an even layer.
 
 ---
 

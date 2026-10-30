@@ -49,25 +49,25 @@ Formulated with small-molecule AHA at effective free-acid level buffered with so
 
 ## 2. Plum Green Tea Alcohol-Free Toner — *Best for Oily Skin Midday Shine*
 
-Our evaluation of **Plum Green Tea Alcohol-Free Toner** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Green tea polyphenols combat acne bacteria while a gentle 0.5% dose of glycolic acid prevents clogged pores.
 
 - **Green Tea Antioxidant Calm**: Instantly relieves the sensation of facial heat and neutralizes sun-induced oxidation.
 - **Alcohol-Free Soothing**: Refreshes tired complexions without any drying alcohol sting.
 - **Controls Afternoon Sebum**: Normalizes oil gland hyperactivity in hot afternoons.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21)**
+📖 **[Read our full Plum Green Tea Alcohol-Free Toner review](/reviews/plum-greentea-toner/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21)**
 
 ---
 
 ## 3. Minimalist PHA 3% Alcohol-Free Face Toner — *Best for Sensitive AC Dehydration*
 
-Our evaluation of **Minimalist PHA 3% Alcohol-Free Face Toner** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+PHAs have larger molecular structures that gently dissolve surface debris without penetrating deep enough to cause stinging.
 
 - **Multi-Level Humectant Hydration**: Polyglutamic acid holds 4x more water than hyaluronic acid, relieving AC tightness.
-- **Zero Irritation**: Alcohol-free, fragrance-free formula that is completely safe for stinging skin.
+- **Gentle Formula**: Alcohol-free and fragrance-free, so it is less likely to sting sensitive skin.
 - **Strengthens Skin Barrier**: Niacinamide supports resilience against indoor-outdoor temperature shocks.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
+📖 **[Read our full Minimalist PHA 3% Alcohol-Free Face Toner review](/reviews/minimalist-pha-toner/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
 
 ---
 

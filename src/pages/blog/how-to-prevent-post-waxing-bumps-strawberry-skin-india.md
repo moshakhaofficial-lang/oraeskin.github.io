@@ -118,7 +118,7 @@ Physical scrubs (like walnut or apricot shells) only scratch the surface of the 
 
 ### Q: Can I apply body oil right after waxing?
 
-No. Heavy body oils (like bio-oil, olive oil, or coconut oil) form an occlusive film over open, freshly waxed follicles. In warm Indian climates, this traps sweat, sebum, and environmental bacteria, almost guaranteeing pustular folliculitis.
+No. Heavy body oils (like bio-oil, olive oil, or coconut oil) form an occlusive film over open, freshly waxed follicles. In warm Indian climates, this traps sweat, sebum, and environmental bacteria, which makes pustular folliculitis (infected hair follicles) more likely.
 
 
 ---

@@ -1,7 +1,7 @@
 export const SITE_CONFIG = {
     name: 'OraeSkin',
     title: 'OraeSkin - India\'s Trusted Skincare Editorial, Reviews & Buying Guides',
-    description: 'Expert skincare reviews, dermatologist-approved routines, and top-rated skincare product guides on Amazon India tailored for Indian skin types and tropical weather.',
+    description: 'Ingredient-led skincare reviews, simple routines and buying guides for Amazon India, written for Indian skin types and tropical weather.',
     url: 'https://www.oraeskin.in',
     googleAnalyticsId: 'G-E978F44468',
     amazon: {
@@ -186,6 +186,7 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B08KSL2QNF', // Minimalist 100% Plant-Derived Squalane Face Oil (30ml)
     'B07PSKR85S', // The Ordinary Squalane Cleanser (50ml)
     'B0D8CXZKF3', // The Ordinary Squalane + Amino Acids Hydrating Lip Balm (15ml)
+    'B0DGGPFD1H', // WishCare Super Bright C16 10% Vitamin C Serum with Niacinamide & Kojic Acid (30ml)
 ]);
 
 // Map of legacy/dead ASINs to verified direct ASINs

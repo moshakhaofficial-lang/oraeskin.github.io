@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best PCOS & Hormonal Acne Skincare Routine for Indian Women"
 image: "/images/products/sebogel-spot-gel.jpg"
 date: "2026-09-22"
+updated: "2026-10-30"
 category: "Acne Care"
 rating: 4.8
 keywords: "pcos acne skincare routine india, hormonal jawline cystic acne, sebogel blemish gel pcos, minimalist niacinamide hormonal breakouts, cystic chin acne indian women"
@@ -14,7 +15,7 @@ topPickRating: "4.1 ★"
 topPickPrice: "~₹200"
 ---
 
-PCOS-driven hormonal acne is one of the most stubborn dermatological challenges for Indian women. Characterized by deep, tender cystic bumps along the lower third of the face—the jawline, chin, and neck—hormonal acne cannot simply be 'scrubbed away'. Here is a clinically proven routine to regulate follicular congestion and curb hormonal inflammation without stripping your epidermal barrier.
+PCOS-driven hormonal acne is one of the most stubborn dermatological challenges for Indian women. Characterized by deep, tender cystic bumps along the lower third of the face—the jawline, chin, and neck—hormonal acne cannot simply be 'scrubbed away'. Here is a gentle, evidence-informed routine to help keep pores clear and calm inflammation without stripping your epidermal barrier.
 
 ---
 

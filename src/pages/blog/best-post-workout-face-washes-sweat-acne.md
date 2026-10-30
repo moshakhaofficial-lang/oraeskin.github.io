@@ -33,37 +33,37 @@ During high-intensity workouts, sweat glides across gym equipment, towels, and s
 
 ## 1. Minimalist 2% Salicylic Acid Face Wash — *Editor's #1 Post-Workout Cleanser*
 
-Our evaluation of **Minimalist 2% Salicylic Acid Face Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Formulated at an optimal pH (3.5 - 4.0) ensuring the BHA penetrates deep into oily pores without drying alcohol.
 
 - **Unclogs Sweat-Trapped Follicles**: Lipid-soluble BHA rapidly dissolves hardened sebum plugs mixed with gym perspiration.
 - **Zinc Sebum Normalization**: Curtails reactive oil spikes triggered by post-exercise core body heat.
 - **Compact Gym-Bag Friendly**: Sturdy pump bottle that won't leak inside duffel bags or gym lockers.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 2% Salicylic Acid Face Wash review](/reviews/minimalist-salicylic-cleanser/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21)**
 
 ---
 
 ## 2. Simple Kind to Skin Refreshing Facial Wash — *Best for Sensitive Flushed Skin*
 
-Our evaluation of **Simple Kind to Skin Refreshing Facial Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Soap-free, with no added perfume or colourants, for under ₹250.
 
 - **Cools Vasodilated Complexions**: Cleanses away salty sweat without irritating intensely flushed capillaries.
 - **Zero Harsh Perfumes**: Free from stinging fragrances that burn active, heated sweat pores.
 - **Quick Rinsing**: Washes clean in seconds under locker room shower pressure.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
+📖 **[Read our full Simple Kind to Skin Refreshing Facial Wash review](/reviews/simple-refreshing-wash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
 
 ---
 
 ## 3. Minimalist 2% Salicylic Acid Body Wash — *Best for Gym Bacne & Chest Acne*
 
-Our evaluation of **Minimalist 2% Salicylic Acid Body Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+2% salicylic acid with zinc in an affordable, fragrance-free body wash.
 
 - **Stops Bacne at the Source**: Clears tight sports-bra friction breakouts and gym-tank sweat deposits.
 - **Cooling Shower Sensation**: Infused with mild menthol to lower elevated skin surface temperature.
 - **Broad Surface Exfoliation**: Generates rich lather to cover back and chest effectively.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 2% Salicylic Acid Body Wash review](/reviews/minimalist-salicylic-bodywash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
 
 ---
 

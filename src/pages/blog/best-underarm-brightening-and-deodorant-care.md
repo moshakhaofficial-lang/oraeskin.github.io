@@ -33,37 +33,37 @@ Dark underarms in Indian skin are typically caused by a combination of shaving f
 
 ## 1. Minimalist 8% Glycolic Acid Exfoliating Liquid — *Editor's #1 Underarm Brightener*
 
-Our evaluation of **Minimalist 8% Glycolic Acid Exfoliating Liquid** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Formulated with small-molecule AHA at effective free-acid level buffered with soothing bamboo water.
 
 - **Eliminates Body Odor at the Source**: Lowers underarm pH to 3.5, creating an acidic environment where odor-causing bacteria cannot survive.
 - **Fades Dark Friction Hyperpigmentation**: Exfoliates dead, melanin-loaded surface cells to gradually reveal lighter, smoother skin.
 - **Prevents Painful Ingrown Hairs**: Keeps hair follicle mouths free of keratin plugs after waxing or shaving.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 8% Glycolic Acid Exfoliating Liquid review](/reviews/minimalist-glycolic-toner/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21)**
 
 ---
 
 ## 2. Minimalist 2% Salicylic Acid Body Wash — *Best In-Shower Sweat Cleanse*
 
-Our evaluation of **Minimalist 2% Salicylic Acid Body Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+2% salicylic acid with zinc in an affordable, fragrance-free body wash.
 
 - **Dissolves Deodorant Buildup**: Lifts stubborn wax residues left behind by commercial antiperspirant sticks.
 - **Deep Follicular Cleansing**: Clears out apocrine sweat glands to prevent boil formation and bumps.
 - **Gentle Daily Formulation**: Safe for everyday shower use across all body zones.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 2% Salicylic Acid Body Wash review](/reviews/minimalist-salicylic-bodywash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
 
 ---
 
 ## 3. Minimalist 10% Niacinamide Face Serum — *Best for Post-Waxing Sensitivity*
 
-Our evaluation of **Minimalist 10% Niacinamide Face Serum** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Uses pure Lonza (Switzerland) grade Niacinamide with minimal residual nicotinic acid to prevent flushing.
 
 - **Blocks Melanin Pigment Transfer**: Prevents inflammatory post-waxing redness from turning into dark brown patches.
 - **Strengthens Underarm Barrier**: Rebuilds delicate skin often damaged by waxing strips.
 - **Zinc Sebum & Odor Control**: Naturally balances bacterial colonization.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 10% Niacinamide Face Serum review](/reviews/minimalist-niacinamide-10/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
 
 ---
 

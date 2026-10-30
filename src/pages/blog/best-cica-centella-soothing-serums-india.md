@@ -17,7 +17,7 @@ topPickPrice: "~₹593"
 
 Soothe intense summer heat rashes, calm post-sun burning, and accelerate skin healing with high-purity Centella Asiatica (Cica) and Vitamin B5 formulations.
 
-Centella Asiatica (Tiger Grass / Gotu Kola) is an ancient Ayurvedic botanical clinically validated by modern dermatology for its high concentrations of triterpenoids: Asiaticoside, Madecassoside, and Asiatic acid. In the peak of Indian summers (where temperatures surpass 42°C), heat rash, solar erythema, and sweat stinging become widespread. Cica accelerates cellular healing and cools inflamed dermal tissue.
+Centella Asiatica (Tiger Grass / Gotu Kola) is a traditional botanical that has been studied for its soothing compounds, called triterpenoids: Asiaticoside, Madecassoside, and Asiatic acid. In the peak of Indian summers (where temperatures surpass 42°C), heat rash, solar erythema, and sweat stinging become widespread. Cica accelerates cellular healing and cools inflamed dermal tissue.
 
 ---
 
@@ -33,37 +33,37 @@ Centella Asiatica (Tiger Grass / Gotu Kola) is an ancient Ayurvedic botanical cl
 
 ## 1. Minimalist 10% Vitamin C Serum with Centella — *Editor's #1 Cica Antioxidant*
 
-Our evaluation of **Minimalist 10% Vitamin C Face Serum** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Ethyl Ascorbic Acid is chemically stable against Indian room temperature heat and does not turn brown within weeks.
 
 - **1% High-Purity Centella Booster**: Rich in Asiaticoside and Madecassoside to neutralize burning and stinging sensations.
 - **Antioxidant Sun Damage Recovery**: Ethyl Ascorbic Acid repairs solar free radical damage without stinging.
 - **Ultra-Stable Water Base**: Remains crystal clear without oxidizing in hot Indian room temperatures.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 10% Vitamin C Face Serum review](/reviews/minimalist-vitc-10/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21)**
 
 ---
 
 ## 2. Minimalist Vitamin B5 10% Moisturizer — *Best Cooling Panthenol & Zinc Gel*
 
-Our evaluation of **Minimalist Vitamin B5 10% Moisturizer** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+10% panthenol helps skin hold on to water, in a light gel with zinc and copper.
 
 - **Anti-Inflammatory Mineral Synergy**: Zinc and copper calm thermal heat rashes and inhibit bacterial growth.
 - **Instant Thermal Quench**: Lightweight gel base lowers surface skin heat on contact.
 - **Zero Greasy Residue**: Absorbs fully in humid weather without trapping internal body heat.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)**
+📖 **[Read our full Minimalist Vitamin B5 10% Moisturizer review](/reviews/minimalist-b5-moisturizer/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)**
 
 ---
 
 ## 3. Aqualogica Radiance+ Dewy Sunscreen SPF 50+ — *Best Post-Sun Protective Fluid*
 
-Our evaluation of **Aqualogica Radiance+ Dewy Sunscreen SPF 50+** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A hydrating, dewy sunscreen with a PA++++ rating for UVA protection.
 
 - **Hydrating Watermelon Water**: Packed with citrulline and lycopene to soothe post-sun erythema.
 - **Prevents Secondary Peeling**: Hydrating barrier ensures sun-damaged skin doesn't dehydrate and crack.
 - **Non-Irritating Modern Filters**: Protects without aggravating heat-stressed dermal layers.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21)**
+📖 **[Read our full Aqualogica Radiance+ Dewy Sunscreen SPF 50+ review](/reviews/aqualogica-radiance-spf50/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21)**
 
 ---
 

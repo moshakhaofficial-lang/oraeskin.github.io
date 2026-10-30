@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Heal Perioral Dermatitis & Chronic Lip Margin Peeling in India"
 image: "/images/products/cetaphil-gentle-cleanser.jpg"
 date: "2026-09-30"
+updated: "2026-10-30"
 category: "Barrier Repair"
 rating: 4.9
 keywords: "perioral dermatitis routine india, red burning ring around mouth, chronic lip margin peeling, cetaphil gentle cleanser perioral, bioderma atoderm perioral rash"
@@ -66,7 +67,7 @@ Perioral dermatitis is a distinct inflammatory facial dermatosis closely related
 The undisputed gold standard medical cleanser for perioral dermatitis. Its soap-free, surfactant-gentle micellar base removes sweat and grime without stinging broken, burning skin around the mouth.
 
 #### Why It Works:
-- **Pro**: Guaranteed zero stinging on inflamed perioral rashes
+- **Pro**: Gentle, fragrance-free formula that is less likely to sting inflamed skin
 - **Pro**: Maintains the skin's protective acid mantle
 - **Pro**: Free of fragrances, parabens, and sulfates
 - **Con**: Does not remove heavy makeup (which should be avoided during flares anyway)

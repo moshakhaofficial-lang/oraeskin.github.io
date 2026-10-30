@@ -33,37 +33,37 @@ Malassezia folliculitis (commonly known as fungal acne) is an opportunistic yeas
 
 ## 1. Simple Kind to Skin Refreshing Facial Wash — *Editor's #1 Fungal Acne Safe Cleanser*
 
-Our evaluation of **Simple Kind to Skin Refreshing Facial Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Soap-free, with no added perfume or colourants, for under ₹250.
 
 - **100% Malassezia-Safe Ingredient Deck**: Free from lipid esters, fatty acids, polysorbates, and plant oils that feed fungal growth.
 - **Non-Stripping Surfactants**: Cleanses away excess sebum while respecting the acid mantle to inhibit yeast colonization.
 - **Affordable Pharmacy Pick**: Widely available on Amazon India under ₹250.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
+📖 **[Read our full Simple Kind to Skin Refreshing Facial Wash review](/reviews/simple-refreshing-wash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
 
 ---
 
 ## 2. CeraVe Foaming Facial Cleanser — *Best for Oily Fungal-Prone Barriers*
 
-Our evaluation of **CeraVe Foaming Facial Cleanser** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Clean formulation philosophy at its peak: removes excess sebum while simultaneously depositing ceramides.
 
 - **Biocompatible Ceramides**: Delivers barrier-reinforcing ceramides in an oil-free, non-greasy gel matrix.
 - **Soothes Pruritic Itching**: Niacinamide brings down inflammatory erythema associated with yeast flares.
 - **Gentle Daily Foam**: Clears excess sebum without stripping protective antimicrobial peptides.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+📖 **[Read our full CeraVe Foaming Facial Cleanser review](/reviews/cerave-foaming-cleanser/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
 
 ---
 
 ## 3. Sebogel Salicylic Acid & Nicotinamide Blemish Gel — *Best Fungal Spot Treatment*
 
-Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A long-standing pharmacy gel: 6% nicotinamide helps calm redness while 2% salicylic acid clears pores.
 
 - **Keratolytic Keratin Dissolution**: Dissolves the hyperkeratotic plug trapping the yeast inside the follicle.
 - **Fungal-Safe Gel Base**: Contains no oils, fatty alcohols, or esters, making it completely yeast-proof.
 - **Calms Itching & Redness**: Nicotinamide rapidly dampens the inflammatory allergic response to fungal metabolites.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21)**
+📖 **[Read our full Sebogel Salicylic Acid & Nicotinamide Blemish Gel review](/reviews/sebogel-spot-gel/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21)**
 
 ---
 
@@ -74,6 +74,10 @@ Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highligh
 3. **Sanitize Pillowcases**: Wash pillowcases twice weekly in hot water to eliminate fungal spores and prevent reinfection.
 
 ---
+
+## When to See a Doctor
+
+Fungal acne (*Malassezia* folliculitis) looks like small, itchy, uniform bumps, often on the forehead, chest and back, and it doesn't respond to normal acne treatments. Cleansers help, but it usually clears faster with an **antifungal**, such as a ketoconazole wash or, for widespread cases, an oral medicine your doctor prescribes. See a dermatologist to confirm it is fungal before treating it, especially if the bumps are painful, spreading, or not improving after 2–3 weeks.
 
 ## Frequently Asked Questions
 

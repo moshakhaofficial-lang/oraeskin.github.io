@@ -135,7 +135,7 @@ const liveProducts = Object.fromEntries(PRODUCTS.map(p => [p.id, {
                     <button type="button" class="option-btn" data-step="4" data-val="moderate">
                         <span class="opt-icon">⭐</span>
                         <span class="opt-title">Value Mid-Tier (₹450 – ₹750)</span>
-                        <span class="opt-desc">Optimal blend of clinical actives, European UV filters, and elegant textures</span>
+                        <span class="opt-desc">A balance of proven actives, modern UV filters and good textures</span>
                     </button>
                     <button type="button" class="option-btn" data-step="4" data-val="premium">
                         <span class="opt-icon">👑</span>
@@ -368,7 +368,7 @@ const liveProducts = Object.fromEntries(PRODUCTS.map(p => [p.id, {
                 price: 699,
                 oraeSkinScore: 9.6,
                 rating: '4.8 ★ (48k+ reviews)',
-                benefit: 'Fragrance-free, hypoallergenic, clinically formulated for compromised skin.',
+                benefit: 'Fragrance-free and gentle, made for sensitive or compromised skin.',
                 asin: 'B07CH8F17Q'
             }
         }
@@ -509,7 +509,7 @@ const liveProducts = Object.fromEntries(PRODUCTS.map(p => [p.id, {
             `;
         }
 
-        const budgetLabel = budget === 'budget' ? 'under ₹500 budget' : (budget === 'premium' ? 'premium clinical tier' : 'balanced value tier');
+        const budgetLabel = budget === 'budget' ? 'under ₹500 budget' : (budget === 'premium' ? 'premium tier' : 'balanced value tier');
         const whyCleanser = `Selected for ${skinType} skin and your ${budgetLabel}. This formula cleanses gently without compromising your stratum corneum lipid barrier.`;
         const whySerum = `Selected for ${concern} within your ${budgetLabel}. This active formulation delivers evidence-supported ingredients while remaining comfortable in Indian humidity.`;
         const whySunscreen = `Selected for your ${texture} finish preference and ${budgetLabel}. It delivers PA++++ broad-spectrum defense with little or no white cast.`;

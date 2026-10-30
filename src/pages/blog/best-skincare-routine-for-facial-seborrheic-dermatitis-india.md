@@ -33,37 +33,37 @@ Facial seborrheic dermatitis is a chronic inflammatory dermatosis caused by an a
 
 ## 1. Simple Kind to Skin Refreshing Facial Wash — *Editor's #1 Seborrheic Cleanser*
 
-Our evaluation of **Simple Kind to Skin Refreshing Facial Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Soap-free, with no added perfume or colourants, for under ₹250.
 
 - **100% Malassezia-Safe Cleanser**: Formulated without plant oils, lipid esters, or fatty acids that fuel yeast growth.
 - **Gently Dissolves Greasy Scales**: Cleanses away flaky epidermal crusts without stinging inflamed nasal folds.
 - **Maintains Physiological pH**: Preserves the skin's natural acidic defense against microbial proliferation.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
+📖 **[Read our full Simple Kind to Skin Refreshing Facial Wash review](/reviews/simple-refreshing-wash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
 
 ---
 
 ## 2. Minimalist Vitamin B5 10% Moisturizer — *Best Oil-Free Soothing Gel*
 
-Our evaluation of **Minimalist Vitamin B5 10% Moisturizer** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+10% panthenol helps skin hold on to water, in a light gel with zinc and copper.
 
 - **Pure Panthenol Barrier Repair**: Restores moisture without a single drop of fungal-feeding plant oils.
 - **Zinc Anti-Microbial Action**: Regulates excess sebum and calms localized erythema.
 - **Relieves Neurosensory Itching**: Extinguishes persistent itching and tightness in facial folds.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)**
+📖 **[Read our full Minimalist Vitamin B5 10% Moisturizer review](/reviews/minimalist-b5-moisturizer/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)**
 
 ---
 
 ## 3. Sebogel Salicylic Acid & Nicotinamide Blemish Gel — *Best Keratolytic Spot Scaler*
 
-Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A long-standing pharmacy gel: 6% nicotinamide helps calm redness while 2% salicylic acid clears pores.
 
 - **Keratolytic Scale Dissolution**: Gently dissolves greasy, hyperkeratotic crusts clinging to skin.
 - **Nicotinamide Anti-Inflammatory Shield**: Rapidly calms redness around nasolabial folds.
 - **Oil-Free Gel Base**: Safe from yeast-activating lipids.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21)**
+📖 **[Read our full Sebogel Salicylic Acid & Nicotinamide Blemish Gel review](/reviews/sebogel-spot-gel/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21)**
 
 ---
 
@@ -74,6 +74,10 @@ Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highligh
 3. **Keep Skincare Strictly Oil-Free**: Use [Simple Refreshing Wash](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) followed by [Minimalist B5 Gel](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21).
 
 ---
+
+## When to See a Doctor
+
+Seborrhoeic dermatitis is linked to *Malassezia* yeast, so gentle skincare alone often isn't enough. A doctor or dermatologist may suggest an **antifungal** such as a ketoconazole cream or wash, and sometimes a short course of a mild anti-inflammatory cream. See one if flaking and redness don't improve after 2–3 weeks of gentle care, if the rash spreads, or if it is very itchy or painful. Avoid using steroid creams from a pharmacy without advice, as they can make the condition rebound.
 
 ## Frequently Asked Questions
 

@@ -103,6 +103,11 @@ SPF 50 PA++++ for exposed arms, which does most of the anti-tan work.
 📖 **[Read our full WishCare Sunscreen Body Lotion SPF 50 PA++++ review](/reviews/wishcare-body-sunscreen-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0BG8W7PJ7?tag=oraeskin-21)**
 
 ---
+
+**Also worth a look:** [Be Bodywise 10% Niacinamide Brightening Body Lotion](/reviews/bebodywise-niacinamide-body-lotion/) has a higher niacinamide strength, which may help with marks left by body acne, though its listing names only niacinamide and aloe vera.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

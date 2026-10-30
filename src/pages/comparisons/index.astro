@@ -35,7 +35,7 @@ import { getProductById } from '../../data/products';
                             {productA && productB && (
                                 <div class="mini-vs-preview">
                                     <div class="mini-prod">
-                                        <img src={productA.image} alt={productA.name} width="56" height="56" />
+                                        <img src={productA.image} alt={productA.name} width="56" height="56" loading="lazy" decoding="async" />
                                         <div class="mini-meta">
                                             <strong>{productA.brand}</strong>
                                             <span>Score: {productA.oraeSkinScore.toFixed(1)}/10</span>
@@ -43,7 +43,7 @@ import { getProductById } from '../../data/products';
                                     </div>
                                     <span class="mini-vs-sep">VS</span>
                                     <div class="mini-prod">
-                                        <img src={productB.image} alt={productB.name} width="56" height="56" />
+                                        <img src={productB.image} alt={productB.name} width="56" height="56" loading="lazy" decoding="async" />
                                         <div class="mini-meta">
                                             <strong>{productB.brand}</strong>
                                             <span>Score: {productB.oraeSkinScore.toFixed(1)}/10</span>

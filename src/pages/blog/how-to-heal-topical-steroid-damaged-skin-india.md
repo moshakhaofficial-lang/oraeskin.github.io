@@ -81,12 +81,12 @@ The single most recommended dermatological balm for acute barrier crisis. Contai
 - **Customer Rating**: 4.6 ★ (Amazon India)
 - **Direct Amazon Link**: [Buy Cetaphil Gentle Skin Hydrating Cleanser on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21)
 
-Clinically proven to cleanse without disrupting the skin's natural moisture barrier. Formulated with glycerin, niacinamide, and panthenol to respect fragile, steroid-compromised epidermis.
+A gentle cleanser that cleans without stripping the skin's moisture barrier. Formulated with glycerin, niacinamide, and panthenol to respect fragile, steroid-compromised epidermis.
 
 #### Why It Works:
 - **Pro**: Soap-free, fragrance-free, paraben-free formulation
 - **Pro**: Can be wiped off with a soft tissue without requiring hard tap water
-- **Pro**: Zero stinging sensation on open or thinned skin
+- **Pro**: Gentle, low-irritation formula for thinned, sensitive skin
 - **Con**: Does not remove heavy makeup (which should not be worn during TSDF anyway)
 
 > **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21).

@@ -1,0 +1,168 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_CONFIG } from '../config/site';
+---
+
+<Layout
+    title="Privacy Policy | OraeSkin"
+    description="What data OraeSkin collects, how we use Google Analytics and cookies, how Amazon affiliate links work, and the choices you have."
+>
+    <Header />
+    <main style="padding-top: 130px; padding-bottom: 90px;">
+        <article class="container policy-article">
+            <header class="policy-header">
+                <span class="eyebrow">Your Privacy</span>
+                <h1>Privacy Policy</h1>
+                <p class="last-updated">Last Updated: October 2026</p>
+            </header>
+
+            <div class="policy-body">
+                <p>
+                    OraeSkin (www.oraeskin.in) is a skincare research and buying guide website. We do not ask you to create an account, and we do not sell your personal data. This page explains what information is collected when you use the site and the choices you have.
+                </p>
+
+                <h2>1. Information We Collect</h2>
+                <ul>
+                    <li><strong>Analytics (only if you accept cookies):</strong> We use Google Analytics to understand which pages are read and how visitors find us. It collects information such as pages viewed, approximate location (city or country), device and browser type, and how you arrived at the site. Analytics stays off until you click "Accept" on the cookie banner.</li>
+                    <li><strong>Information stored in your browser:</strong> We store your cookie choice in your browser's local storage so we don't ask again. The Routine Finder works entirely in your browser; your answers are not sent to us.</li>
+                    <li><strong>Hosting logs:</strong> Our host, GitHub Pages, may keep standard server logs such as IP addresses for security and reliability.</li>
+                </ul>
+                <p>We do not collect your name, email address, phone number or payment details on this website.</p>
+
+                <h2>2. Cookies and Your Choices</h2>
+                <p>
+                    When you first visit, a banner asks whether you accept analytics cookies. If you click "Decline", Google Analytics is not enabled. You can change your choice at any time by clearing this site's data in your browser settings, which will show the banner again.
+                </p>
+
+                <h2>3. Amazon Affiliate Links</h2>
+                <p>
+                    OraeSkin is a participant in the Amazon Associates India Programme. When you click a product link, you go to Amazon.in, and Amazon may set its own cookies to record that the visit came from us so we can earn a commission. Anything you do on Amazon, including purchases, is covered by <a href="https://www.amazon.in/gp/help/customer/display.html?nodeId=200534380" rel="nofollow noopener" target="_blank">Amazon's privacy notice</a>, not this policy. We never see your Amazon account or order details, only aggregated sales reports.
+                </p>
+
+                <h2>4. Third-Party Services</h2>
+                <ul>
+                    <li><strong>Google Analytics</strong> (Google LLC): traffic measurement, only with your consent. See <a href="https://policies.google.com/privacy" rel="nofollow noopener" target="_blank">Google's privacy policy</a>.</li>
+                    <li><strong>Google Fonts</strong>: our fonts load from Google's servers, which receive your IP address when fonts are requested.</li>
+                    <li><strong>GitHub Pages</strong>: hosts this website.</li>
+                </ul>
+
+                <h2>5. How We Use Information</h2>
+                <p>
+                    We use analytics data only to understand which guides are useful, fix problems and decide what to write next. We do not use it to identify you, and we do not sell or rent it to anyone.
+                </p>
+
+                <h2>6. Data Retention</h2>
+                <p>
+                    Google Analytics data is kept for the retention period set in our Google Analytics account, after which it is deleted automatically. Your cookie choice stays in your browser until you clear it.
+                </p>
+
+                <h2>7. Children</h2>
+                <p>
+                    This website is intended for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children.
+                </p>
+
+                <h2>8. Your Rights</h2>
+                <p>
+                    Under India's Digital Personal Data Protection Act, 2023 and similar laws, you can ask what personal data we hold about you and ask us to correct or delete it. Because we don't collect names or contact details, the main data is anonymous analytics. You can withdraw consent at any time by clearing this site's data in your browser.
+                </p>
+
+                <h2>9. Contact</h2>
+                <p>
+                    For privacy questions or requests, message us on <a href={SITE_CONFIG.social.instagram} rel="noopener" target="_blank">Instagram</a>. We aim to reply within 7 days.
+                </p>
+
+                <h2>10. Changes to This Policy</h2>
+                <p>
+                    If we change how we handle data, we will update this page and the "Last Updated" date above.
+                </p>
+            </div>
+        </article>
+    </main>
+    <Footer />
+</Layout>
+
+<style>
+    .policy-article {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .policy-header {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.82rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #c87a54;
+        letter-spacing: 1.5px;
+        margin-bottom: 8px;
+    }
+
+    .policy-header h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.6rem;
+        color: #2c2c2c;
+        margin: 0 0 12px 0;
+    }
+
+    .last-updated {
+        color: #888;
+        font-size: 0.9rem;
+    }
+
+    .policy-body {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: #3e3e3e;
+    }
+
+    .policy-body h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.5rem;
+        color: #2c2c2c;
+        margin-top: 36px;
+        margin-bottom: 14px;
+    }
+
+    .highlight-callout {
+        background: #fdfaf6;
+        border-left: 4px solid #c87a54;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 30px;
+        font-size: 0.98rem;
+    }
+
+    .highlight-callout strong {
+        color: #c87a54;
+        display: block;
+        margin-bottom: 6px;
+    }
+
+    .highlight-callout p {
+        margin: 0;
+        color: #4a4a4a;
+        font-style: italic;
+    }
+
+    .policy-body ul {
+        padding-left: 24px;
+        margin-bottom: 24px;
+    }
+
+    .policy-body li {
+        margin-bottom: 10px;
+    }
+
+    @media (max-width: 600px) {
+        .policy-header h1 {
+            font-size: 2rem;
+        }
+    }
+</style>

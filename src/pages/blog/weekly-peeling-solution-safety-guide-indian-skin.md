@@ -33,37 +33,37 @@ Viral social media trends often encourage beginners to slather 25%-30% AHA chemi
 
 ## 1. Minimalist PHA 3% Face Toner — *Editor's #1 Zero-Burn Exfoliator*
 
-Our evaluation of **Minimalist PHA 3% Alcohol-Free Face Toner** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+PHAs have larger molecular structures that gently dissolve surface debris without penetrating deep enough to cause stinging.
 
 - **Large-Molecule Gentle Penetration**: Polyhydroxy acid exfoliates strictly at the surface without penetrating deep enough to cause acid burns.
 - **Humectant Hydration**: Simultaneously attracts water molecules, leaving skin plump rather than dry and stripped.
 - **100% Alcohol & Fragrance-Free**: Completely avoids common salon chemical irritation.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
+📖 **[Read our full Minimalist PHA 3% Alcohol-Free Face Toner review](/reviews/minimalist-pha-toner/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21)**
 
 ---
 
 ## 2. Minimalist 8% Glycolic Acid Exfoliating Liquid — *Best Calibrated Intermediate AHA*
 
-Our evaluation of **Minimalist 8% Glycolic Acid Exfoliating Liquid** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Formulated with small-molecule AHA at effective free-acid level buffered with soothing bamboo water.
 
 - **Clinically Calibrated 8% Value**: Delivers professional-grade exfoliation without the high burn risk of 30% peels.
 - **Dissolves Melanin-Loaded Dead Keratin**: Sloughs off sun-tanned surface cells to reveal radiant skin.
 - **Bamboo Water Soothing Base**: Buffers acid activity to reduce tingling and post-peel redness.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 8% Glycolic Acid Exfoliating Liquid review](/reviews/minimalist-glycolic-toner/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21)**
 
 ---
 
 ## 3. Bioderma Atoderm Intensive Baume — *Mandatory Post-Peel Recovery Shield*
 
-Our evaluation of **Bioderma Atoderm Intensive Baume** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Biological approach that biologically stimulates lipid synthesis and relieves intense itching sensation within minutes.
 
 - **Immediately Extinguishes Acid Stinging**: PEA calms chemical tingling and prevents localized erythema.
 - **Reconstructs Stratum Corneum**: Floods newly exfoliated skin with essential ceramides and lipids.
-- **Medical Grade Safety**: Hypoallergenic and non-irritating to freshly treated skin.
+- **Gentle Formula**: PHA is the mildest type of acid, so it is less likely to irritate.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
+📖 **[Read our full Bioderma Atoderm Intensive Baume review](/reviews/bioderma-atoderm-baume/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
 
 ---
 

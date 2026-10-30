@@ -23,6 +23,10 @@ const {
 
 const canonicalUrl = `https://www.oraeskin.in${Astro.url.pathname}`;
 const fullImageUrl = image.startsWith('http') ? image : `https://www.oraeskin.in${image}`;
+// Search results show about 160 characters; trim longer descriptions at a word boundary
+const metaDescription = description.length > 160
+    ? description.slice(0, 157).replace(/\s+\S*$/, '').replace(/[,;:—-]$/, '') + '…'
+    : description;
 ---
 
 <!DOCTYPE html>
@@ -60,7 +64,7 @@ const fullImageUrl = image.startsWith('http') ? image : `https://www.oraeskin.in
 
         <!-- SEO & Meta -->
         <meta name="google-site-verification" content="google00fd83d7197d0bb6" />
-        <meta name="description" content={description} />
+        <meta name="description" content={metaDescription} />
         {noindex && <meta name="robots" content="noindex, follow" />}
         <meta name="keywords" content={keywords} />
         <meta name="author" content="OraeSkin Skincare Editorial" />
@@ -69,14 +73,14 @@ const fullImageUrl = image.startsWith('http') ? image : `https://www.oraeskin.in
         <meta property="og:type" content={ogType} />
         <meta property="og:url" content={canonicalUrl} />
         <meta property="og:title" content={title} />
-        <meta property="og:description" content={description} />
+        <meta property="og:description" content={metaDescription} />
         <meta property="og:image" content={fullImageUrl} />
         <meta property="og:site_name" content="OraeSkin" />
 
         <!-- Twitter Cards -->
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={description} />
+        <meta name="twitter:description" content={metaDescription} />
         <meta name="twitter:image" content={fullImageUrl} />
 
         <!-- Preconnect Critical Resources -->

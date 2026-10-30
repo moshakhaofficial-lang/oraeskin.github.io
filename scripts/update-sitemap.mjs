@@ -53,6 +53,12 @@ let xml = `<?xml version="1.0" encoding="UTF-8"?>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.oraeskin.in/privacy/</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://www.oraeskin.in/disclosure/</loc>
     <lastmod>${today}</lastmod>
     <changefreq>monthly</changefreq>
@@ -134,5 +140,5 @@ for (const file of blogFiles) {
 xml += `</urlset>\n`;
 
 fs.writeFileSync(SITEMAP_PATH, xml, 'utf8');
-const totalUrls = 9 + CATEGORY_SLUGS.length + PRODUCTS.length + COMPARISONS.length + blogFiles.length;
+const totalUrls = 10 + CATEGORY_SLUGS.length + PRODUCTS.length + COMPARISONS.length + blogFiles.length;
 console.log(`Updated sitemap.xml with ${totalUrls} verified URLs`);

@@ -5029,7 +5029,7 @@ export const PRODUCTS: SkincareProduct[] = [
             "formula": 7.8,
             "skinSuitability": 8.4,
             "evidence": 8,
-            "userFeedback": 8.4,
+            "userFeedback": 8.6,
             "value": 8.4,
             "availability": 8.6
         },
@@ -15224,6 +15224,209 @@ export const PRODUCTS: SkincareProduct[] = [
             "texture": 8,
             "value": 6.8,
             "overall": 8
+        }
+    },
+    {
+        "id": "dermaco-vitc-10",
+        "name": "10% Vitamin C Face Serum with 5% Niacinamide",
+        "title": "The Derma Co 10% Vitamin C Face Serum with 5% Niacinamide (30ml)",
+        "brand": "The Derma Co",
+        "category": "serums",
+        "subcategory": "Vitamin C Serum",
+        "asin": "B096MNYLWS",
+        "amazonUrl": "https://www.amazon.in/dp/B096MNYLWS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B096MNYLWS?tag=oraeskin-21",
+        "badge": "Best Vitamin C + Niacinamide Serum",
+        "price": 500,
+        "priceEst": "₹500",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/dermaco-vitc-10.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "15,200+",
+        "reviewCount": "15,200+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 8.2,
+            "userFeedback": 8,
+            "value": 8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dark Spots",
+            "Dullness",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Ethyl Ascorbic Acid (10% Vitamin C)",
+            "Niacinamide (5%)",
+            "Ferulic Acid",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Ethyl Ascorbic Acid (10% Vitamin C)",
+            "Niacinamide (5%)",
+            "Ferulic Acid",
+            "Hyaluronic Acid"
+        ],
+        "ingredients": [
+            "Aqua",
+            "3-O-Ethyl Ascorbic Acid",
+            "Propanediol",
+            "Ethoxydiglycol",
+            "Niacinamide",
+            "Pentylene Glycol",
+            "Methylpropanediol",
+            "Glycerin",
+            "Dimethyl Isosorbide",
+            "Ascorbic Acid",
+            "Sodium Hyaluronate",
+            "Ferulic Acid",
+            "Gluconolactone",
+            "Sodium Benzoate",
+            "Sodium Phytate",
+            "Sclerotium Gum"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Watery Serum",
+        "finish": "Light",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dull skin with dark spots and visible pores.",
+        "avoidIf": "Your skin is reactive to niacinamide or vitamin C.",
+        "whyWeLikeIt": "10% ethyl ascorbic acid, a stable vitamin C form, with 5% niacinamide and ferulic acid, with the ingredient list on the listing.",
+        "pros": [
+            "Stable vitamin C form plus niacinamide",
+            "Ferulic acid as an antioxidant booster",
+            "15,200+ ratings"
+        ],
+        "cons": [
+            "Fragrance status not stated on the listing",
+            "Results need 8–12 weeks with daily sunscreen"
+        ],
+        "verdict": "A well-formulated, good-value vitamin C serum.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "minimalist-vitc-10",
+                "reason": "A 10% ethyl ascorbic acid serum with centella."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "wishcare-c16-vitc-serum",
+        "name": "Super Bright C16 Vitamin C Serum",
+        "title": "WishCare Super Bright C16 10% Vitamin C Serum with Niacinamide & Kojic Acid (30ml)",
+        "brand": "WishCare",
+        "category": "serums",
+        "subcategory": "Vitamin C Serum",
+        "asin": "B0DGGPFD1H",
+        "amazonUrl": "https://www.amazon.in/dp/B0DGGPFD1H?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DGGPFD1H?tag=oraeskin-21",
+        "badge": "Best Multi-Active Brightening Serum",
+        "price": 573,
+        "priceEst": "₹573",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/wishcare-c16-vitc-serum.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "1,600+",
+        "reviewCount": "1,600+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 7.8,
+            "evidence": 7.8,
+            "userFeedback": 8.8,
+            "value": 7.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Combination",
+            "Oily"
+        ],
+        "concerns": [
+            "Dark Spots",
+            "Dullness",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Vitamin C (10%)",
+            "Niacinamide (4%)",
+            "Kojic Acid (1%)",
+            "Ferulic Acid (0.5%)",
+            "4-n-Butylresorcinol"
+        ],
+        "keyIngredients": [
+            "Vitamin C (10%)",
+            "Niacinamide (4%)",
+            "Kojic Acid (1%)",
+            "Ferulic Acid (0.5%)",
+            "4-n-Butylresorcinol"
+        ],
+        "ingredients": [
+            "Vitamin C (10%)",
+            "Niacinamide (4%)",
+            "Kojic Acid (1%)",
+            "Ferulic Acid (0.5%)",
+            "4-n-Butylresorcinol"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Serum",
+        "finish": "Light",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Stubborn dark spots where you want several brightening actives in one serum.",
+        "avoidIf": "You have sensitive skin; kojic acid and butylresorcinol can irritate.",
+        "whyWeLikeIt": "Combines vitamin C with niacinamide, kojic acid, ferulic acid and 4-n-butylresorcinol, a well-studied pigment inhibitor.",
+        "pros": [
+            "Several pigment-fighting actives",
+            "4.4★ from 1,600+ ratings",
+            "Percentages stated for most actives"
+        ],
+        "cons": [
+            "More actives means more chance of irritation",
+            "The listing does not give the full ingredient list or vitamin C form"
+        ],
+        "verdict": "A strong multi-active option for spots; patch-test first.",
+        "alternatives": [
+            {
+                "label": "Simpler Option",
+                "productId": "dermaco-vitc-10",
+                "reason": "Vitamin C and niacinamide with a full ingredient list."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.8,
+            "overall": 8.2
         }
     }
 ];

@@ -42,7 +42,7 @@ const { title = "Quick Comparison: Best Skincare Picks on Amazon India", product
                                 {item.badge && <span class="table-badge">{item.badge}</span>}
                                 <div class="product-cell-inner">
                                     {item.image && (
-                                        <img src={item.image} alt={item.name} class="table-img" loading="lazy" />
+                                        <img src={item.image} alt={item.name} class="table-img" loading="lazy" decoding="async" width="64" height="64" />
                                     )}
                                     <div>
                                         <span class="table-brand">{item.brand}</span>

@@ -33,37 +33,37 @@ A dark neck is one of the most common dermatological complaints in India. Many p
 
 ## 1. Minimalist 8% Glycolic Acid Exfoliating Liquid — *Editor's #1 Dark Neck Exfoliant*
 
-Our evaluation of **Minimalist 8% Glycolic Acid Exfoliating Liquid** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Formulated with small-molecule AHA at effective free-acid level buffered with soothing bamboo water.
 
 - **Dissolves Hyperkeratotic Skin**: Small-molecule AHA breaks down thickened, velvety epidermal layers on the back and sides of the neck.
 - **Fades Accumulated Melanin**: Sloughs away hyperpigmented dead cells without mechanical abrasion.
 - **Generous 150ml Bottle**: Perfectly sized for consistent 2x weekly neck and body application.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 8% Glycolic Acid Exfoliating Liquid review](/reviews/minimalist-glycolic-toner/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21)**
 
 ---
 
 ## 2. Minimalist 2% Salicylic Acid Body Wash — *Best In-Shower Follicular Cleanse*
 
-Our evaluation of **Minimalist 2% Salicylic Acid Body Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+2% salicylic acid with zinc in an affordable, fragrance-free body wash.
 
 - **Pore Decongestion**: Clears dead skin cells and sweat trapped under tight shirt collars and necklaces.
 - **Gentle Daily Wash**: Replaces abrasive soaps that worsen friction hyperpigmentation.
 - **Cooling Cleanse**: Relieves collar heat and itching during humid days.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 2% Salicylic Acid Body Wash review](/reviews/minimalist-salicylic-bodywash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21)**
 
 ---
 
 ## 3. Bioderma Atoderm Intensive Baume — *Best Barrier Restorative Seal*
 
-Our evaluation of **Bioderma Atoderm Intensive Baume** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Biological approach that biologically stimulates lipid synthesis and relieves intense itching sensation within minutes.
 
 - **Reduces Collar Friction**: Creates a smooth gliding barrier that prevents collar fabric from abrading delicate neck skin.
 - **Halts Stinging & Irritation**: Replenishes lipids to keep newly exfoliated neck tissue soft and supple.
-- **Dermatologist Approved**: Hypoallergenic formula safe for daily application.
+- **Gentle Formula**: Suitable for daily use once your skin is used to it.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
+📖 **[Read our full Bioderma Atoderm Intensive Baume review](/reviews/bioderma-atoderm-baume/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
 
 ---
 
@@ -74,6 +74,10 @@ Our evaluation of **Bioderma Atoderm Intensive Baume** highlights its scientific
 3. **Always Apply Sunscreen to the Neck**: When applying facial sunscreen, always extend [Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) down to your front, sides, and back of the neck.
 
 ---
+
+## When to See a Doctor
+
+Velvety, thickened dark skin on the neck, armpits or groin (acanthosis nigricans) is often a sign of **insulin resistance**, and can appear with PCOS, prediabetes or type 2 diabetes. It is worth asking your doctor for a **blood sugar check (such as HbA1c)**, especially if it appeared recently, is spreading, or you have a family history of diabetes. Treating the underlying cause is what makes the biggest difference; skincare can only improve the surface. See a doctor promptly if dark patches appear suddenly or spread quickly.
 
 ## Frequently Asked Questions
 

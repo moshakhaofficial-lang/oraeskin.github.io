@@ -146,7 +146,7 @@ const faqSchema = {
 ---
 
 <Layout 
-    title={`${product.brand} ${product.name} Review & Formulation Analysis | OraeSkin`}
+    title={`${product.brand} ${product.name} Review | OraeSkin`}
     description={`In-depth editorial review of ${product.brand} ${product.name}. OraeSkin Score: ${product.oraeSkinScore}/10. Formulation breakdown, texture in Indian humidity, pros, cons, and verified alternatives.`}
 >
     <!-- Structured Data -->
@@ -188,7 +188,7 @@ const faqSchema = {
                 <!-- Left: Product Media & Meta -->
                 <div class="hero-media-box">
                     <div class="product-img-frame">
-                        <img src={product.image} alt={`${product.brand} ${product.name}`} width="260" height="260" />
+                        <img src={product.image} alt={`${product.brand} ${product.name}`} width="260" height="260" fetchpriority="high" />
                     </div>
 
                     <div class="price-box">
@@ -249,10 +249,10 @@ const faqSchema = {
 
                     <!-- 6-Factor OraeSkin Breakdown Progress Bars -->
                     <div class="score-breakdown-panel">
-                        <h4 class="breakdown-title">
+                        <h2 class="breakdown-title">
                             <span>6-Pillar Score Breakdown</span>
                             <a href="/how-we-review/" class="methodology-link">Methodology Rubric →</a>
-                        </h4>
+                        </h2>
 
                         <div class="breakdown-bars">
                             <div class="bar-row">
@@ -350,7 +350,7 @@ const faqSchema = {
                         {product.keyActives.map(active => (
                             <div class="active-card">
                                 <span class="active-badge">Key Active</span>
-                                <h4>{active}</h4>
+                                <h3>{active}</h3>
                             </div>
                         ))}
                     </div>
@@ -453,11 +453,11 @@ const faqSchema = {
                             {alternatives.map(alt => (
                                 <div class="alt-card">
                                     <div class="alt-thumb">
-                                        <img src={alt.product.image} alt={`${alt.product.brand} ${alt.product.name}`} width="80" height="80" />
+                                        <img src={alt.product.image} alt={`${alt.product.brand} ${alt.product.name}`} width="80" height="80" loading="lazy" decoding="async" />
                                     </div>
                                     <div class="alt-info">
                                         <span class="alt-brand">{alt.product.brand}</span>
-                                        <h4 class="alt-name">{alt.product.name}</h4>
+                                        <h3 class="alt-name">{alt.product.name}</h3>
                                         <div class="alt-score">OraeSkin Score: <strong>{alt.product.oraeSkinScore.toFixed(1)}/10</strong></div>
                                         <p class="alt-best">Best for: {alt.product.bestFor}</p>
                                         <div class="alt-links">
@@ -944,7 +944,7 @@ const faqSchema = {
         letter-spacing: 0.6px;
     }
 
-    .active-card h4 {
+    .active-card h3 {
         margin: 2px 0 4px 0;
         font-size: 1rem;
         color: #2c2c2c;

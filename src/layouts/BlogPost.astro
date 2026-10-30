@@ -31,7 +31,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
 ---
 
 <Layout
-    title={`${frontmatter.title} | OraeSkin Reviews`}
+    title={`${frontmatter.title} | OraeSkin`}
     description={frontmatter.description}
     image={articleImage}
     keywords={frontmatter.keywords || "skincare reviews, amazon india skincare, best skincare products, indian skin routines, OraeSkin"}
@@ -92,7 +92,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
 
                 {frontmatter.image && (
                     <div class="hero-image-wrapper">
-                        <img src={frontmatter.image} alt={frontmatter.title} class="article-hero-img" />
+                        <img src={frontmatter.image} alt={frontmatter.title} class="article-hero-img" width="800" height="800" fetchpriority="high" />
                     </div>
                 )}
             </header>
@@ -106,7 +106,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
             <footer class="article-bottom-bar">
                 <div class="author-bio-card">
                     <div class="bio-avatar">
-                        <img src="/images/favicon-logo.png" alt="OraeSkin Editorial" width="48" height="48" />
+                        <img src="/images/favicon-logo.png" alt="OraeSkin Editorial" width="48" height="48" loading="lazy" />
                     </div>
                     <div class="bio-text">
                         <h4>OraeSkin Editorial Team</h4>

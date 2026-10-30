@@ -33,37 +33,37 @@ In major Indian cities like Bengaluru, Chennai, Hyderabad, and Delhi NCR, tap wa
 
 ## 1. Simple Kind to Skin Refreshing Facial Wash — *Editor's #1 Hard Water Chelating Wash*
 
-Our evaluation of **Simple Kind to Skin Refreshing Facial Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Soap-free, with no added perfume or colourants, for under ₹250.
 
 - **Chelating Mineral Defense**: Disodium EDTA binds free calcium and magnesium ions in tap water, preventing mineral precipitation inside pores.
 - **100% Soap-Free Gel**: Will not react with hard water salts to form pore-clogging film residues on the stratum corneum.
 - **Barrier-Friendly Hydration**: Pro-Vitamin B5 shields skin from post-wash dryness and mineral tightness.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
+📖 **[Read our full Simple Kind to Skin Refreshing Facial Wash review](/reviews/simple-refreshing-wash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
 
 ---
 
 ## 2. CeraVe Foaming Facial Cleanser — *Best for Hard Water Barrier Repair*
 
-Our evaluation of **CeraVe Foaming Facial Cleanser** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Clean formulation philosophy at its peak: removes excess sebum while simultaneously depositing ceramides.
 
 - **Ceramide Replenishment**: Restores natural barrier lipids stripped by harsh alkaline minerals in borewell water.
 - **Non-Alkaline Physiological pH**: Maintains skin acidity around pH 5.5 despite exposure to high pH hard tap water.
 - **Niacinamide Soothing**: Calms redness and micro-vascular inflammation caused by hard water friction.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+📖 **[Read our full CeraVe Foaming Facial Cleanser review](/reviews/cerave-foaming-cleanser/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
 
 ---
 
 ## 3. Cetaphil Gentle Skin Hydrating Cleanser — *Best No-Rinse Hard Water Alternative*
 
-Our evaluation of **Cetaphil Gentle Skin Hydrating Cleanser** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A long-trusted gentle cleanser, now with niacinamide and panthenol.
 
 - **Can Be Used Without Tap Water**: Gently massage on skin and tissue off with a soft cotton pad, bypassing hard water completely.
-- **Dermatologist Standard**: Clinically tested to heal eczema and contact irritation aggravated by municipal water salts.
+- **Gentle Formula**: A mild, non-stripping wash that suits skin irritated by hard water.
 - **Non-Foaming Emulsion**: Completely preserves the delicate acid mantle against mineral erosion.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21)**
+📖 **[Read our full Cetaphil Gentle Skin Hydrating Cleanser review](/reviews/cetaphil-gentle-cleanser/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21)**
 
 ---
 

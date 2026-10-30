@@ -33,37 +33,37 @@ Winters in Northern and Central India (Delhi NCR, Punjab, Haryana, Uttar Pradesh
 
 ## 1. Cetaphil Gentle Skin Hydrating Cleanser — *Editor's #1 Winter Morning Wash*
 
-Our evaluation of **Cetaphil Gentle Skin Hydrating Cleanser** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A long-trusted gentle cleanser, now with niacinamide and panthenol.
 
 - **Rich Creamy Lotion Texture**: Cleanses like a soothing hydrating milk without producing drying soapy lather.
 - **Zero Post-Wash Tightness**: Leaves a protective conditioning veil of glycerin and panthenol on parched skin.
 - **Waterless Cleansing Option**: Can be applied and wiped away with a soft cotton pad if winter tap water is freezing or harsh.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21)**
+📖 **[Read our full Cetaphil Gentle Skin Hydrating Cleanser review](/reviews/cetaphil-gentle-cleanser/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21)**
 
 ---
 
 ## 2. CeraVe Foaming Facial Cleanser — *Best for Winter Combination T-Zones*
 
-Our evaluation of **CeraVe Foaming Facial Cleanser** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Clean formulation philosophy at its peak: removes excess sebum while simultaneously depositing ceramides.
 
 - **Gentle Amino-Acid Foam**: Cleanses oily noses and foreheads without drying out parched winter cheeks.
 - **Lipid Barrier Defense**: Ceramides safeguard stratum corneum moisture against biting winter drafts.
 - **Non-Comedogenic Hydration**: Hyaluronic acid maintains suppleness without clogging pores.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
+📖 **[Read our full CeraVe Foaming Facial Cleanser review](/reviews/cerave-foaming-cleanser/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21)**
 
 ---
 
 ## 3. Simple Kind to Skin Refreshing Facial Wash — *Best Budget 100% Soap-Free Gel*
 
-Our evaluation of **Simple Kind to Skin Refreshing Facial Wash** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Soap-free, with no added perfume or colourants, for under ₹250.
 
 - **Gentle Morning Wakeup**: Cleanses cleanly without the tight 'squeaky clean' feeling of harsh winter soaps.
 - **Zero Perfumes or Dyes**: Won't sting winter chapped cheeks or sensitive nasal folds.
 - **Affordable Daily Staple**: Accessible price point for the whole family during chilly weather.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
+📖 **[Read our full Simple Kind to Skin Refreshing Facial Wash review](/reviews/simple-refreshing-wash/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
 
 ---
 

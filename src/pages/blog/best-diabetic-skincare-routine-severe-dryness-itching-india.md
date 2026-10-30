@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Diabetic Skincare Routine: Managing Severe Dryness, Itching & Barrier Loss in India"
 image: "/images/products/cerave-moisturizing-cream.jpg"
 date: "2026-09-30"
+updated: "2026-10-30"
 category: "Barrier Repair"
 rating: 4.9
 keywords: "diabetic skincare routine india, severe diabetic skin dryness itching, cerave moisturizing cream diabetes, bioderma atoderm diabetic pruritus, cracked heels diabetic foot care"
@@ -102,7 +103,7 @@ Diabetic skin is thin and easily traumatized by friction. This soap-free, non-fo
 #### Why It Works:
 - **Pro**: 100% soap-free and non-irritating on cracked or fragile skin
 - **Pro**: Helps prevent diabetic micro-tears during daily bathing
-- **Pro**: Clinically proven to maintain skin hydration after rinsing
+- **Pro**: Gentle, non-stripping cleanser that leaves skin comfortable after rinsing
 - **Con**: Does not produce rich bubbles (which is actually safer for dry skin)
 
 > **Clinical Verdict**: A standout solution that delivers verified results for this skin concern. [Check authentic customer reviews and current discounts on Amazon India](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21).

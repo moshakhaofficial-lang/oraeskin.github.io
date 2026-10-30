@@ -33,37 +33,37 @@ Indian mega-cities like Delhi NCR, Mumbai, Kolkata, and Kanpur regularly experie
 
 ## 1. Plum 15% Vitamin C Face Serum — *Editor's #1 Anti-Pollution Antioxidant*
 
-Our evaluation of **Plum 15% Vitamin C Face Serum** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Kakadu Plum (nature’s richest Vitamin C source) combined with a high 15% active level drives powerful skin rejuvenation.
 
 - **High-Dose Free Radical Scavenger**: Neutralizes reactive oxygen species (ROS) triggered by toxic PM2.5 nanoparticles.
 - **Japanese Mandarin Bioflavonoids**: Inhibits pollution-induced melanosome transfer, preventing sallow grey dullness.
 - **Rapid Liquid Absorption**: Layers effortlessly beneath morning sunscreen without feeling heavy in humid traffic.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21)**
+📖 **[Read our full Plum 15% Vitamin C Face Serum review](/reviews/plum-vitc-mandarin/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21)**
 
 ---
 
 ## 2. Minimalist 10% Niacinamide Face Serum — *Best for Reinforcing Smog Resistance*
 
-Our evaluation of **Minimalist 10% Niacinamide Face Serum** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Uses pure Lonza (Switzerland) grade Niacinamide with minimal residual nicotinic acid to prevent flushing.
 
 - **Tightens Cellular Junctions**: Boosts ceramide synthesis, making it significantly harder for soot particles to penetrate.
 - **Calms Pollution Micro-Inflammation**: Reduces airborne irritant-induced redness and sensitivity.
 - **Zinc Anti-Microbial Action**: Inhibits bacterial strains transferred to the skin via contaminated urban air.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 10% Niacinamide Face Serum review](/reviews/minimalist-niacinamide-10/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
 
 ---
 
 ## 3. Minimalist SPF 50 Multi-Vitamin Sunscreen — *Best Anti-Pollution UV Barrier*
 
-Our evaluation of **Minimalist SPF 50 Multi-Vitamin Sunscreen** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Combines photostable European UV filters with barrier-repairing B-vitamins without leaving a white ghost cast on melanin-rich Indian skin.
 
 - **Blocks UV + Pollution Synergy**: Prevents the dangerous chemical synergy where UV rays activate particulate matter into mutagenic free radicals.
 - **Multi-Vitamin Barrier Support**: Keeps skin supple and hydrated through long urban commutes.
 - **Zero Ghostly White Cast**: Completely transparent on Indian skin tones.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**
+📖 **[Read our full Minimalist SPF 50 Multi-Vitamin Sunscreen review](/reviews/minimalist-spf50/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**
 
 ---
 

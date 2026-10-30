@@ -33,37 +33,37 @@ During hot Indian summers and monsoons, sleeping with air conditioning is essent
 
 ## 1. Dot & Key Rice Water & Ceramide Cream — *Editor's #1 Overnight Sleeping Gel*
 
-Our evaluation of **Dot & Key Rice Water & Ceramide Hydrating Cream** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Five ceramides with hyaluronic acid, polyglutamic acid and rice water in a fragrance-free cream for about ₹3 per gram. That's a strong barrier formula at a budget price.
 
 - **Overnight Moisture Shield**: Acts like a breathable moisture blanket that halts overnight air-conditioner dehydration.
 - **Pillow-Safe Non-Greasy Jelly**: Melts into the skin in 60 seconds with zero greasy transfer onto pillowcases.
 - **Wake Up with Bouncy Glass Skin**: Fermented rice nutrients leave cheeks plump, dewy, and luminous by morning.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
+📖 **[Read our full Dot & Key Barrier Repair Moisturizer review](/reviews/dotkey-rice-ceramide-cream/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
 
 ---
 
 ## 2. Dot & Key Vitamin C+E Lip Sleeping Mask — *Best for Overnight Chapped Lips*
 
-Our evaluation of **Dot & Key Vitamin C+E Lip Sleeping Mask** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Creates an intensive occlusive moisture blanket that seals in vitamins throughout 8 hours of sleep.
 
 - **Intensive Lip Barrier Coating**: Protects delicate lip tissue from drying out during 8 hours of cold AC airflow.
 - **Overnight Flake Melting**: Dissolves crusty, rough dead skin flakes, revealing soft, supple lips upon waking.
 - **Antioxidant Brightening**: Vitamin C targets overnight oxidative discoloration.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21)**
+📖 **[Read our full Dot & Key Vitamin C+E Lip Sleeping Mask review](/reviews/dotkey-lip-mask/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21)**
 
 ---
 
 ## 3. Bioderma Atoderm Intensive Baume — *Best for Severe AC Flaking & Eczema*
 
-Our evaluation of **Bioderma Atoderm Intensive Baume** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Biological approach that biologically stimulates lipid synthesis and relieves intense itching sensation within minutes.
 
-- **Medical-Grade Occlusive Healing**: Seals microscopic fissures and halts moisture evaporation entirely.
+- **Occlusive Overnight Layer**: Helps seal in moisture and reduce water loss while you sleep.
 - **Anti-Itch Comfort**: Eliminates nighttime facial and neck itching caused by dry ambient air.
 - **Hypoallergenic Safety**: Fragrance-free formulation tested on the most reactive skin.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
+📖 **[Read our full Bioderma Atoderm Intensive Baume review](/reviews/bioderma-atoderm-baume/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
 
 ---
 

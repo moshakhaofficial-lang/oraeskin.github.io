@@ -33,37 +33,37 @@ Indian weddings involve multiple functions (Haldi, Mehendi, Sangeet, Reception) 
 
 ## 1. Plum 15% Vitamin C Face Serum — *Editor's #1 Bridal Glow Active*
 
-Our evaluation of **Plum 15% Vitamin C Face Serum** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Kakadu Plum (nature’s richest Vitamin C source) combined with a high 15% active level drives powerful skin rejuvenation.
 
 - **High-Potency Glow Complex**: 15% stable active Vitamin C fades dullness and prepares skin for HD wedding cameras.
-- **Bioflavonoid Radiance**: Japanese mandarin boosts natural cellular luminosity with zero stinging.
+- **Bioflavonoid Radiance**: Includes Japanese mandarin extract alongside the vitamin C.
 - **Rapid Absorption**: Preps canvas smoothly for pre-wedding bridal makeup trials.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21)**
+📖 **[Read our full Plum 15% Vitamin C Face Serum review](/reviews/plum-vitc-mandarin/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21)**
 
 ---
 
 ## 2. The Face Shop Rice Water Bright Foaming Cleanser — *Best Bridal Pre-Makeup Wash*
 
-Our evaluation of **The Face Shop Rice Water Bright Foaming Cleanser** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Whipped micro-bubbles lift stubborn city pollution particles with soothing rice amino acids.
 
 - **Fermented Rice Nutrient Glow**: Rice water hydrates and brightens with every cleanse.
 - **Micro-Whipped Lather**: Clears heavy bridal makeup, stubborn primers, and waterproof setting sprays.
 - **Zero Stripping**: Leaves skin plump and bouncy rather than squeaky and tight.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21)**
+📖 **[Read our full The Face Shop Rice Water Bright Foaming Cleanser review](/reviews/faceshop-rice-cleanser/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21)**
 
 ---
 
 ## 3. Dr. Sheth's Ceramide & Vitamin C Sunscreen — *Best Haldi & Outdoor Photo Shield*
 
-Our evaluation of **Dr. Sheth's Ceramide & Vitamin C Sunscreen** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Pairs essential skin-identical ceramides with stable Vitamin C for dual barrier repair and UV defense.
 
 - **Photostable PA++++ Shield**: Prevents sun tanning during daytime outdoor wedding photography.
 - **Ceramide Moisture Seal**: Keeps skin supple and calm despite wedding travel stress.
 - **Dewy Non-Ghostly Finish**: Looks natural under professional photography lighting.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21)**
+📖 **[Read our full Dr. Sheth's Ceramide & Vitamin C Sunscreen review](/reviews/drsheths-ceramide-vitc-spf50/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21)**
 
 ---
 

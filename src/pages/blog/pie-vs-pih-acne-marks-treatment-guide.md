@@ -33,37 +33,37 @@ When a pimple heals, it often leaves a stubborn flat mark. However, treating it 
 
 ## 1. Minimalist 10% Niacinamide Face Serum — *Editor's #1 Multi-Mark Specialist*
 
-Our evaluation of **Minimalist 10% Niacinamide Face Serum** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Uses pure Lonza (Switzerland) grade Niacinamide with minimal residual nicotinic acid to prevent flushing.
 
 - **Vascular Capillary Support**: Strengthens microscopic blood vessel walls to fade lingering red and purple marks (PIE).
 - **Melanin Transfer Blocker**: Inhibits melanosome migration into keratinocytes to fade brown marks (PIH).
 - **Zinc Sebum Normalization**: Curtails oil production to stop new blemish flares.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 10% Niacinamide Face Serum review](/reviews/minimalist-niacinamide-10/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21)**
 
 ---
 
 ## 2. Minimalist 2% Alpha Arbutin Face Serum — *Best for Stubborn Brown PIH*
 
-Our evaluation of **Minimalist 2% Alpha Arbutin Face Serum** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Alpha arbutin is a gentle option for fading pigmentation, and it is generally better tolerated than stronger lighteners such as hydroquinone.
 
 - **Direct Tyrosinase Enzyme Block**: Shuts down overactive melanocytes depositing dark brown pigment.
 - **Safe for Melanin-Dense Tones**: Lightens hyperpigmentation without the cytotoxicity of harsh bleaching creams.
 - **Deep Hydrating Vehicle**: Low molecular weight hyaluronic acid ensures uniform dermal distribution.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21)**
+📖 **[Read our full Minimalist 2% Alpha Arbutin Face Serum review](/reviews/minimalist-alpha-arbutin/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21)**
 
 ---
 
 ## 3. Sebogel Salicylic Acid & Nicotinamide Blemish Gel — *Best for Fresh Red PIE Marks*
 
-Our evaluation of **Sebogel Salicylic Acid & Nicotinamide Blemish Gel** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A long-standing pharmacy gel: 6% nicotinamide helps calm redness while 2% salicylic acid clears pores.
 
 - **Rapid Anti-Inflammatory Action**: High 6% nicotinamide concentration extinguishes vascular swelling.
 - **Clears Residual Plugs**: 2% BHA ensures no trapped bacteria linger inside the healing pore.
 - **Budget Pharmacy Hero**: High clinical performance at an affordable sub-₹250 price.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21)**
+📖 **[Read our full Sebogel Salicylic Acid & Nicotinamide Blemish Gel review](/reviews/sebogel-spot-gel/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21)**
 
 ---
 

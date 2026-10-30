@@ -29,7 +29,7 @@ export const CATEGORIES: Category[] = [
         slug: 'cleansers',
         name: 'Facial Cleansers',
         tagline: 'pH-Balanced Foaming & Hydrating Washes that Cleanse Without Stripping',
-        description: 'From pore-clearing 2% Salicylic Acid gels to dermatologist-approved ceramide micellar foams, explore cleansers engineered to dissolve pollution and excess sebum while protecting your moisture barrier.',
+        description: 'From pore-clearing 2% Salicylic Acid gels to gentle ceramide cleansers and micellar waters, explore cleansers engineered to dissolve pollution and excess sebum while protecting your moisture barrier.',
         icon: '🫧',
         heroImage: '/images/products/cerave-cleanser.jpg',
         topActives: ['Salicylic Acid (BHA)', 'Ceramides', 'Glycerin', 'Zinc PCA'],

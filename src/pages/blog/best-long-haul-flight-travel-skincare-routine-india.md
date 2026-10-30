@@ -3,10 +3,11 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Long-Haul Flight Skincare Routine: Combat In-Cabin Dehydration & Breakouts"
 image: "/images/products/dotkey-rice-ceramide-cream.jpg"
 date: "2026-09-22"
+updated: "2026-10-30"
 category: "Hydration"
 rating: 4.8
 keywords: "flight skincare routine india, travel skincare long haul flights, airplane cabin dry skin, dot and key rice ceramide airplane, prevent travel breakouts"
-description: "Flying long-haul from India? Airplane cabin humidity drops below 15%, causing severe TEWL and rebound oiliness. Here is your dermatologist-approved travel skincare kit."
+description: "Flying long-haul from India? Airplane cabin humidity drops below 15%, causing severe TEWL and rebound oiliness. Here is a simple travel skincare kit to keep skin comfortable."
 topPickTitle: "Dot & Key Rice Water & Ceramide Hydrating Cream"
 topPickBrand: "Dot & Key"
 topPickAsin: "B0BDVG99J5"

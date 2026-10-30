@@ -11,7 +11,7 @@ import { AVAILABLE_PRODUCTS as PRODUCTS } from '../../data/products';
 
 <Layout
     title="All Skincare Categories & Product Reviews | OraeSkin"
-    description="Browse every OraeSkin skincare category — sunscreens, cleansers, serums, moisturizers, toners and more — with tested picks for Indian skin and climate."
+    description="Browse every OraeSkin skincare category — sunscreens, cleansers, serums, moisturizers, toners and more — with researched picks for Indian skin and climate."
 >
     <Header />
 
@@ -21,7 +21,7 @@ import { AVAILABLE_PRODUCTS as PRODUCTS } from '../../data/products';
                 <span class="hero-eyebrow">Comprehensive Editorial Directory</span>
                 <h1 class="hero-title">All Skincare Categories & Reviews</h1>
                 <p class="hero-sub">
-                    Browse our complete database of dermatologist-evaluated skincare products on Amazon India, categorized by active ingredients, skin types, and tropical climate performance.
+                    Browse our researched skincare picks on Amazon India, organised by category, active ingredients and skin type.
                 </p>
                 <AffiliateDisclaimer compact={true} />
             </div>
@@ -78,13 +78,22 @@ import { AVAILABLE_PRODUCTS as PRODUCTS } from '../../data/products';
         <!-- All Products By Category -->
         <section class="container all-products-section">
             <div class="section-heading-group">
-                <span class="section-tag">Full Tested Catalog</span>
-                <h2 class="section-heading">All Amazon India Verified Products</h2>
-                <p class="section-sub">Every product evaluated with zero white-cast tests, humidity resistance, and pricing transparency.</p>
+                <span class="section-tag">Top Picks by Category</span>
+                <h2 class="section-heading">Our Highest-Scoring Products</h2>
+                <p class="section-sub">The three highest-scoring products in each category. Open a category to see every pick.</p>
             </div>
 
+            {CATEGORIES.map((cat) => {
+                const top = PRODUCTS.filter(p => p.category === cat.slug)
+                    .sort((a, b) => b.oraeSkinScore - a.oraeSkinScore)
+                    .slice(0, 3);
+                return top.length > 0 && (
+            <div class="category-top-group">
+                <h3 class="category-top-title">
+                    <a href={`/category/${cat.slug}/`}>{cat.icon} {cat.name}</a>
+                </h3>
             <div class="products-stack">
-                {PRODUCTS.map((p, idx) => (
+                {top.map((p, idx) => (
                     <ProductCard
                         rank={idx + 1}
                         title={p.title}
@@ -102,6 +111,10 @@ import { AVAILABLE_PRODUCTS as PRODUCTS } from '../../data/products';
                     />
                 ))}
             </div>
+                <a href={`/category/${cat.slug}/`} class="category-see-all">See all {PRODUCTS.filter(p => p.category === cat.slug).length} {cat.name} picks →</a>
+            </div>
+                );
+            })}
         </section>
     </main>
 
@@ -109,6 +122,10 @@ import { AVAILABLE_PRODUCTS as PRODUCTS } from '../../data/products';
 </Layout>
 
 <style>
+    .category-top-group { margin-bottom: 3rem; }
+    .category-top-title { font-family: 'Playfair Display', serif; font-size: 1.4rem; margin: 0 0 1rem; }
+    .category-top-title a { color: #2c2c2c; text-decoration: none; }
+    .category-see-all { display: inline-block; margin-top: 1rem; color: #c87a54; font-weight: 600; text-decoration: none; }
     .all-categories-main {
         padding-top: 100px;
         padding-bottom: 90px;

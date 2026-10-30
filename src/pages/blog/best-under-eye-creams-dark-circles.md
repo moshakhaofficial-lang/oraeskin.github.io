@@ -16,7 +16,7 @@ topPickPrice: "~₹463"
 
 Dark circles around the eyes are one of the most persistent aesthetic concerns in South Asian demographics. Because the periorbital skin is 40% thinner than facial skin, underlying capillary blood vessels, genetic melanin deposits, and fluid pooling are immediately visible.
 
-### The 3 Types of South Asian Dark Circles:
+## The 3 Types of South Asian Dark Circles:
 1. **Pigmentary (Brown / Melanin)**: High concentration of melanin around the eye sockets, exacerbated by sun exposure and eye rubbing.
 2. **Vascular (Blue / Purple / Puffy)**: Sluggish microcirculation and capillary dilation caused by lack of sleep, screen blue light, and allergies.
 3. **Structural (Hollow / Shadowed)**: Natural bone structure and fat pad loss creating a sunken under-eye shadow.

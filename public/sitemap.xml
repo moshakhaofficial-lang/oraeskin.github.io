@@ -25,6 +25,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.oraeskin.in/privacy/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://www.oraeskin.in/disclosure/</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -1069,6 +1075,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://www.oraeskin.in/reviews/dermaco-vitc-10/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.oraeskin.in/reviews/wishcare-c16-vitc-serum/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://www.oraeskin.in/comparisons/minimalist-spf50-vs-dermaco-hyaluronic-sunscreen/</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -1172,7 +1190,7 @@
   </url>
   <url>
     <loc>https://www.oraeskin.in/blog/best-barrier-repair-creams-india/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1340,7 +1358,7 @@
   </url>
   <url>
     <loc>https://www.oraeskin.in/blog/best-diabetic-skincare-routine-severe-dryness-itching-india/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1358,7 +1376,7 @@
   </url>
   <url>
     <loc>https://www.oraeskin.in/blog/best-exfoliating-toners-glycolic-salicylic/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1484,7 +1502,7 @@
   </url>
   <url>
     <loc>https://www.oraeskin.in/blog/best-long-haul-flight-travel-skincare-routine-india/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1568,7 +1586,7 @@
   </url>
   <url>
     <loc>https://www.oraeskin.in/blog/best-pcos-hormonal-acne-skincare-routine-india/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1802,7 +1820,7 @@
   </url>
   <url>
     <loc>https://www.oraeskin.in/blog/best-vitamin-c-serums-for-indian-skin/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1838,7 +1856,7 @@
   </url>
   <url>
     <loc>https://www.oraeskin.in/blog/how-to-heal-perioral-dermatitis-lip-margin-peeling-india/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

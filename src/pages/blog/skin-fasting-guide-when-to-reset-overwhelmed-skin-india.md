@@ -7,7 +7,7 @@ updated: "2026-10-30"
 category: "Barrier Repair"
 rating: 4.9
 keywords: "skin fasting guide india, reset sensitized overwhelmed skin, damaged skin barrier from too many products, cetaphil gentle cleanser skin fasting, minimalist b5 moisturizer reset"
-description: "Using too many active serums and now your face is red, burning, and breaking out? Learn the dermatologist-approved Skin Fasting protocol to heal and reset your skin barrier."
+description: "Using too many active serums and now your face is red, burning, and breaking out? Learn how a short ‘skin fast’ can help your skin barrier recover."
 topPickTitle: "Cetaphil Gentle Skin Hydrating Cleanser"
 topPickBrand: "Cetaphil"
 topPickAsin: "B01CCGW4OE"
@@ -70,7 +70,7 @@ Modern Indian skincare enthusiasts frequently suffer from **Cosmetic Overload Sy
 The undisputed gold standard cleanser for damaged, reactive skin. Uses non-irritating micellar technology that preserves the natural lipid barrier while removing dirt and excess sebum.
 
 #### Why It Works:
-- **Pro**: Guaranteed zero stinging on inflamed, sensitized skin
+- **Pro**: Gentle, fragrance-free formula that is less likely to sting sensitised skin
 - **Pro**: Soap-free, fragrance-free, hypoallergenic formula
 - **Pro**: Can be rinsed or wiped off with soft cotton pads
 - **Con**: Will not remove heavy waterproof makeup
@@ -84,7 +84,7 @@ The undisputed gold standard cleanser for damaged, reactive skin. Uses non-irrit
 - **Customer Rating**: 4.7 ★ (Amazon India)
 - **Direct Amazon Link**: [Buy Minimalist Vitamin B5 10% Moisturizer on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21)
 
-Panthenol (Pro-Vitamin B5) at 10% is a clinically proven barrier-repairing hero that stimulates epidermal cell migration and fibroblast proliferation, closing micro-tears in sensitized skin.
+Panthenol (pro-vitamin B5) at 10% is a well-studied soothing ingredient that helps skin hold water and supports barrier recovery.
 
 #### Why It Works:
 - **Pro**: Lightweight water-gel base that never suffocates healing pores

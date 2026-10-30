@@ -33,25 +33,25 @@ Corporate workers in Indian tech hubs (Bengaluru, Gurgaon, Hyderabad, Pune, Mumb
 
 ## 1. Dot & Key Rice Water & Ceramide Cream — *Editor's #1 Desk Hydrator*
 
-Our evaluation of **Dot & Key Rice Water & Ceramide Hydrating Cream** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+Five ceramides with hyaluronic acid, polyglutamic acid and rice water in a fragrance-free cream for about ₹3 per gram. That's a strong barrier formula at a budget price.
 
 - **Locks in Water Against AC Drafts**: Ceramides form an invisible moisture shield preventing continuous water evaporation.
 - **Zero Afternoon Grease**: Weightless cloud texture hydrates deeply without turning into a shiny film by 3 PM.
 - **Restores Translucent Radiance**: Fermented rice nutrients prevent the sallow grey pallor caused by artificial fluorescent lighting.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
+📖 **[Read our full Dot & Key Barrier Repair Moisturizer review](/reviews/dotkey-rice-ceramide-cream/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21)**
 
 ---
 
 ## 2. The Derma Co 1% Hyaluronic Sunscreen Aqua Gel — *Best Indoor Screen Defense*
 
-Our evaluation of **The Derma Co 1% Hyaluronic Sunscreen Aqua Gel** highlights its scientific formulation and suitability for Indian skin textures and weather conditions.
+A watery gel that spreads easily and feels light, with little greasy shine.
 
 - **Blue Light & HEV Shield**: Deflects high-energy visible blue light emitted by laptops and mobile screens that worsens pigmentation.
 - **Water-Burst Refreshment**: Replenishes surface hydration during long morning spreadsheet sessions.
 - **Completely Non-Sticky**: Layers cleanly under makeup and won't smudge onto laptop touchpads.
 
-👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21)**
+📖 **[Read our full The Derma Co 1% Hyaluronic Sunscreen Aqua Gel review](/reviews/dermaco-hyaluronic-spf50/)** · 👉 **[Check Live Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21)**
 
 ---
 
