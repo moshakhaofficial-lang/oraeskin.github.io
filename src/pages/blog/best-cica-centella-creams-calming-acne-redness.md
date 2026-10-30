@@ -1,26 +1,103 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Best Cica (Centella Asiatica) Creams for Calming Inflamed Acne & Redness"
-image: "/images/products/dotkey-rice-cream.jpg"
-date: "2026-03-02"
+title: "Best Cica (Centella Asiatica) Creams & Serums for Redness in India"
+image: "/images/products/skin1004-centella-soothing-cream.jpg"
+date: "2026-10-30"
 category: "Moisturizers & Barrier Creams"
 rating: 4.8
 keywords: "cica cream india, centella asiatica moisturizer amazon, calm acne redness"
-description: "Korean tiger grass heritage: How madecassoside and cica balms extinguish inflammatory pimples and soothe post-procedure skin."
-topPickTitle: "Dot & Key Rice Water & Ceramide Cream"
-topPickBrand: "Dot & Key"
-topPickAsin: "B0BDVG99J5"
-topPickRating: "4.3 ★"
-topPickPrice: "~₹328"
-noindex: true
+description: "How centella asiatica (cica) soothes redness and supports the skin barrier, and the best cica creams and serums on Amazon India."
+topPickTitle: "SKIN1004 Madagascar Centella Soothing Cream"
+topPickBrand: "SKIN1004"
+topPickAsin: "B09B221Q7K"
+topPickRating: "4.4 ★"
+topPickPrice: "~₹1125"
 ---
 
-Korean tiger grass heritage: How madecassoside and cica balms extinguish inflammatory pimples and soothe post-procedure skin.
+Centella asiatica, also called **cica** or gotu kola, contains compounds such as **madecassoside and asiaticoside** that help calm inflammation and support wound healing. In skincare, it is used to soothe **redness, irritation from actives, and a damaged barrier**.
 
-> **We're updating this guide.** We're re-checking which products on Amazon India genuinely fit this topic, and will publish verified picks soon. Until then, the products at the end of this page come from our [verified reviews](/reviews/).
+**What cica can't do:** it won't clear acne by itself. Pair it with an acne active such as salicylic or azelaic acid, and use cica to keep skin comfortable.
+
+Look for centella high in the ingredient list, plus barrier ingredients such as ceramides. These are the cica products on Amazon India we rate most highly.
 
 ---
 
+## Quick Comparison
+
+| Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[SKIN1004 Madagascar Centella Soothing Cream](/reviews/skin1004-centella-soothing-cream/)** | Centella Asiatica Extract (72%) + 4 Ceramides | Redness, Barrier Repair | ₹1125 (75ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09B221Q7K?tag=oraeskin-21) |
+| **[SKIN1004 Centella Probio-Cica Intensive Ampoule](/reviews/skin1004-probio-cica-ampoule/)** | Fermented Centella Asiatica + Probiotic Ferments | Redness, Barrier Repair | ₹1538 (50ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BTRWGQNV?tag=oraeskin-21) |
+| **[Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum](/reviews/anua-azelaic-10-serum/)** | Azelaic Acid (10%, brand claim) + Hyaluronic Acid | Redness, Acne | ₹1600 (30ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DG1DQ2S7?tag=oraeskin-21) |
+| **[Bioderma Atoderm Intensive Baume](/reviews/bioderma-atoderm-baume/)** | Lipigenium Complex + Skin Barrier Therapy Patent | Atopic Dermatitis, Extreme Itching | ₹472 (45ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+
+*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+
+---
+
+## 1. SKIN1004 Madagascar Centella Soothing Cream — *Best Cica Cream*
+
+72% centella with four ceramides in a light cream. Contains peppermint extract.
+
+- **Key actives**: Centella Asiatica Extract (72%), 4 Ceramides, Tranexamic Acid (<2%)
+- **Texture & finish**: Light Gel-Cream — soft, non-greasy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹1125 for 75ml (₹15.0/ml) · 4.4★ from 3,400+ Amazon India ratings
+- **Skip it if**: you react to peppermint extract.
+
+**Pros:** 72% centella extract. **Cons:** Contains peppermint and ginger extracts, which can bother very sensitive skin.
+
+📖 **[Read our full SKIN1004 Madagascar Centella Soothing Cream review](/reviews/skin1004-centella-soothing-cream/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B09B221Q7K?tag=oraeskin-21)**
+
+---
+
+## 2. SKIN1004 Centella Probio-Cica Intensive Ampoule — *Best Cica Serum*
+
+Fermented centella and ceramides in a soothing ampoule, rated 4.5★.
+
+- **Key actives**: Fermented Centella Asiatica, Probiotic Ferments, Ceramides
+- **Texture & finish**: Light Ampoule — dewy
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹1538 for 50ml (₹30.8/ml) · 4.5★ from 3,500+ Amazon India ratings
+- **Skip it if**: you prefer to see a full ingredient list before buying.
+
+**Pros:** 4.5★ from 3,500+ ratings. **Cons:** ₹1,538 for 50ml.
+
+📖 **[Read our full SKIN1004 Centella Probio-Cica Intensive Ampoule review](/reviews/skin1004-probio-cica-ampoule/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0BTRWGQNV?tag=oraeskin-21)**
+
+---
+
+## 3. Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum — *Best Cica + Acne Active*
+
+Azelaic acid with centella, for red, acne-prone skin.
+
+- **Key actives**: Azelaic Acid (10%, brand claim), Hyaluronic Acid, Centella Asiatica
+- **Texture & finish**: Light Gel Serum — hydrated, non-sticky
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹1600 for 30ml (₹53.3/ml) · 4.5★ from 7,400+ Amazon India ratings
+- **Skip it if**: you have diagnosed rosacea; see a dermatologist, as prescription azelaic acid (15–20%) is usually stronger.
+
+**Pros:** Highest rating in this group (4.5★). **Cons:** ₹1,600 for 30ml.
+
+📖 **[Read our full Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum review](/reviews/anua-azelaic-10-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0DG1DQ2S7?tag=oraeskin-21)**
+
+---
+
+## 4. Bioderma Atoderm Intensive Baume — *Best for Very Dry, Irritated Skin*
+
+A rich, fragrance-free balm when a light cream isn't enough.
+
+- **Key actives**: Lipigenium Complex, Skin Barrier Therapy Patent, PEA Anti-Itching Agent
+- **Texture & finish**: Rich Emollient Balm — deeply protective cocoon
+- **Fragrance**: Fragrance-Free
+- **Price**: ₹472 for 45ml (₹10.5/ml) · 4.4★ from 2,700+ Amazon India ratings
+- **Skip it if**: you have acne-prone oily skin; the heavy emollient base will clog pores.
+
+**Pros:** Clinically soothes severe skin itching and reduces scratching urges. **Cons:** Premium pricing reflects imported European clinical manufacturing.
+
+📖 **[Read our full Bioderma Atoderm Intensive Baume review](/reviews/bioderma-atoderm-baume/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21)**
+
+---
 ## Editorial Routine Tips for Indian Skin
 
 1. **Cleanse Thoroughly**: Always start with a gentle, non-stripping cleanser like [CeraVe Foaming Cleanser](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21).
@@ -32,7 +109,7 @@ Korean tiger grass heritage: How madecassoside and cica balms extinguish inflamm
 ## Frequently Asked Questions
 
 ### How long before I see noticeable results?
-Most active formulations require 4 to 6 weeks of continuous daily use, matching the natural 28-day epidermal turnover cycle of healthy skin.
+Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
 
 ### Will this cause breakouts in humid weather?
-No. The recommendations above are non-comedogenic and formulated without heavy pore-clogging waxes or comedogenic mineral oils.
+Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.

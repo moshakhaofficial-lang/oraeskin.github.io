@@ -32,7 +32,7 @@ function formatDisplayDate(d: string) {
 ---
 
 <Layout
-    title={`Skincare Reviews & Buying Guides (${totalArticles}+ Tested Guides) | OraeSkin`}
+    title={`Skincare Reviews & Buying Guides (${totalArticles}+ Guides) | OraeSkin`}
     description={`Explore ${totalArticles}+ in-depth skincare buying guides, product comparisons, and curated Amazon India recommendations for Indian skin.`}
     keywords="skincare reviews india, amazon india skincare deals, best sunscreen india, facewash for oily skin, oraeskin"
 >
@@ -41,10 +41,10 @@ function formatDisplayDate(d: string) {
 	<main class="blog-main-page">
         <div class="container">
             <header class="blog-hero-header">
-                <span class="eyebrow">Editorial & Laboratory ({totalArticles} Published Guides)</span>
+                <span class="eyebrow">Editorial ({totalArticles} Published Guides)</span>
                 <h1>Skincare Reviews & Buying Guides</h1>
                 <p class="subtitle">
-                    Independent clinical evaluations, ingredient safety breakdowns, and verified Amazon India deals tested for Indian climate conditions.
+                    Independent ingredient-led buying guides and reviews, with verified Amazon India links, written for Indian skin and climate.
                 </p>
                 <AffiliateDisclaimer compact={true} />
 
@@ -220,6 +220,7 @@ function formatDisplayDate(d: string) {
 
     .search-input-wrapper {
         display: flex;
+        box-sizing: border-box;
         align-items: center;
         gap: 0.75rem;
         background: #ffffff;

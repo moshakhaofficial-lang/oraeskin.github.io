@@ -5962,6 +5962,9261 @@ export const PRODUCTS: SkincareProduct[] = [
             "value": 8,
             "overall": 8.5
         }
+    },
+    {
+        "id": "dotkey-72hr-hydrating-gel",
+        "name": "72HR Hydrating Gel Moisturizer",
+        "title": "Dot & Key 72HR Hydrating Gel Moisturizer with Hyaluronic Acid & Probiotics",
+        "brand": "Dot & Key",
+        "category": "moisturizers",
+        "subcategory": "Oil-Free Gel Moisturizer",
+        "asin": "B097K2HRQN",
+        "amazonUrl": "https://www.amazon.in/dp/B097K2HRQN?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B097K2HRQN?tag=oraeskin-21",
+        "badge": "Best Gel Moisturizer for Humid Weather",
+        "price": 304,
+        "priceEst": "₹304",
+        "currency": "₹",
+        "size": "25g",
+        "image": "/images/products/dotkey-72hr-hydrating-gel.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "4,600+",
+        "reviewCount": "4,600+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.8,
+            "evidence": 7.8,
+            "userFeedback": 8.6,
+            "value": 7,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Oiliness",
+            "Shine Control"
+        ],
+        "keyActives": [
+            "Hyaluronic Acid",
+            "Rice Bran Water",
+            "Probiotic (Lactobacillus) Ferment",
+            "Oat Extract"
+        ],
+        "keyIngredients": [
+            "Silanetriol (and) Hyaluronic Acid",
+            "Saccharide Isomerate",
+            "Oryza Sativa (Rice) Bran Water",
+            "Lactobacillus Ferment",
+            "Avena Sativa (Oat) Meal Extract"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Cyclopentasiloxane",
+            "Dimethicone Crosspolymer",
+            "Glycerine",
+            "Hyaluronic Acid",
+            "Saccharide Isomerate",
+            "Oryza Sativa (Rice) Bran Water",
+            "Saccharomyces/Xylinum/Black Tea Ferment",
+            "Lactobacillus (and) Maltodextrin",
+            "Avena Sativa (Oat) Meal Extract",
+            "Pyrus Malus (Apple) Fruit Extract",
+            "Fragrance (allergen-free)",
+            "CI 42090"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Water-Light Gel",
+        "finish": "Non-Sticky, Fresh",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily and combination skin that wants weightless hydration in humid Indian summers.",
+        "avoidIf": "You have dry skin that needs richer moisture, or you avoid fragrance and dyes.",
+        "whyWeLikeIt": "A silicone-gel base with hyaluronic acid and humectants that hydrates without any heaviness, which suits oily skin in monsoon and summer.",
+        "pros": [
+            "Very light, non-sticky gel for oily skin",
+            "Hyaluronic acid and saccharide isomerate hydrate well",
+            "Comfortable under sunscreen"
+        ],
+        "cons": [
+            "Only 25g — about ₹12 per gram",
+            "Contains fragrance and a blue colourant (CI 42090)",
+            "Despite the '5 ceramides' claim on the box, ceramides don't appear in the listed ingredients"
+        ],
+        "verdict": "A pleasant gel moisturiser for oily skin in humid weather, but pricey per gram. Minimalist B5 is better value.",
+        "alternatives": [
+            {
+                "label": "Better-Value Gel",
+                "productId": "minimalist-b5-moisturizer",
+                "reason": "Fragrance-free oil-free gel with vitamin B5 and zinc."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 7,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "plum-niacinamide-rice-toner",
+        "name": "3% Niacinamide & Rice Water Toner",
+        "title": "Plum 3% Niacinamide & Rice Water Alcohol-Free Face Toner",
+        "brand": "Plum",
+        "category": "toners",
+        "subcategory": "Hydrating Niacinamide Toner",
+        "asin": "B09PV4379W",
+        "amazonUrl": "https://www.amazon.in/dp/B09PV4379W?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09PV4379W?tag=oraeskin-21",
+        "badge": "Best Alcohol-Free Niacinamide Toner",
+        "price": 364,
+        "priceEst": "₹364",
+        "currency": "₹",
+        "size": "150ml",
+        "image": "/images/products/plum-niacinamide-rice-toner.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "6,400+",
+        "reviewCount": "6,400+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.6,
+            "evidence": 8.2,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Open Pores",
+            "Oiliness",
+            "Dullness",
+            "Acne Marks"
+        ],
+        "keyActives": [
+            "3% Niacinamide",
+            "Rice Extract & Sake Ferment",
+            "Rose Water",
+            "Oat Kernel Extract"
+        ],
+        "keyIngredients": [
+            "Niacinamide",
+            "Oryza Sativa (Rice) Extract",
+            "Rice Ferment Filtrate (Sake)",
+            "Rosa Damascena Flower Water",
+            "Avena Sativa (Oat) Kernel Extract"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Niacinamide",
+            "Oryza Sativa (Rice) Extract",
+            "Pentylene Glycol",
+            "Rosa Damascena (Rose) Flower Water",
+            "Rice Ferment Filtrate (Sake)",
+            "Avena Sativa (Oat) Kernel Extract",
+            "Methyl Gluceth-20",
+            "Sorbitol",
+            "Cyclodextrin"
+        ],
+        "fragrance": "Subtle Natural Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Watery Toner",
+        "finish": "Fresh, Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily or combination skin that wants a gentle, non-exfoliating toner for pores and tone.",
+        "avoidIf": "You expect exfoliation — this toner has no acids.",
+        "whyWeLikeIt": "3% niacinamide with rice and oat extracts in an alcohol-free base. It suits oily skin without the sting of exfoliating toners.",
+        "pros": [
+            "3% niacinamide for oil control and tone",
+            "Alcohol-free and non-exfoliating — gentle",
+            "150ml for under ₹400"
+        ],
+        "cons": [
+            "Rose water adds a light natural scent",
+            "Results are subtle compared with a niacinamide serum"
+        ],
+        "verdict": "A gentle everyday toner for oily skin. Use a serum if you want stronger niacinamide results.",
+        "alternatives": [
+            {
+                "label": "Exfoliating Alternative",
+                "productId": "minimalist-pha-toner",
+                "reason": "Gentle PHA toner that also exfoliates."
+            },
+            {
+                "label": "Stronger Niacinamide",
+                "productId": "minimalist-niacinamide-10",
+                "reason": "10% niacinamide serum for more visible oil control."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.6,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "plum-cleansing-balm",
+        "name": "E-Luminence Simply Supple Cleansing Balm",
+        "title": "Plum E-Luminence Simply Supple Cleansing Balm with Vitamin E",
+        "brand": "Plum",
+        "category": "cleansers",
+        "subcategory": "Cleansing Balm",
+        "asin": "B08423CWXC",
+        "amazonUrl": "https://www.amazon.in/dp/B08423CWXC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08423CWXC?tag=oraeskin-21",
+        "badge": "Best Cleansing Balm for Double Cleansing",
+        "price": 488,
+        "priceEst": "₹488",
+        "currency": "₹",
+        "size": "90g",
+        "image": "/images/products/plum-cleansing-balm.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "2,000+",
+        "reviewCount": "2,000+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.4,
+            "evidence": 8.2,
+            "userFeedback": 8.6,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Makeup Removal",
+            "Sunscreen Removal",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Kokum Butter",
+            "Sunflower Seed Oil",
+            "Argan Oil",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "Ethylhexyl Palmitate",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Garcinia Indica (Kokum) Seed Butter",
+            "Argania Spinosa (Argan) Oil",
+            "Tocopheryl Acetate"
+        ],
+        "ingredients": [
+            "Ethylhexyl Palmitate",
+            "Cetearyl Alcohol",
+            "Polysorbate 60",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "PEG-20 Glyceryl Triisostearate",
+            "Aqua",
+            "Oryza Sativa (Rice) Bran Wax",
+            "Copernicia Cerifera (Carnauba) Wax",
+            "Tocopheryl Acetate",
+            "Garcinia Indica (Kokum) Seed Butter",
+            "Coco Glucoside",
+            "Argania Spinosa (Argan) Oil",
+            "Phenoxyethanol",
+            "Fragrance"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Solid Balm, Melts to Oil",
+        "finish": "Soft, Non-Drying",
+        "whiteCast": "Not Applicable",
+        "bestFor": "The first step of a double cleanse at night, to melt off sunscreen and makeup without stripping.",
+        "avoidIf": "You avoid fragrance, or have very acne-prone skin that reacts to rich oils and waxes.",
+        "whyWeLikeIt": "Emulsifies with water and rinses clean, so it removes water-resistant sunscreen and makeup gently before your regular face wash.",
+        "pros": [
+            "Melts sunscreen and makeup quickly",
+            "Rinses off without a greasy film",
+            "90g lasts months"
+        ],
+        "cons": [
+            "Contains fragrance",
+            "Rich waxes may not suit very acne-prone skin"
+        ],
+        "verdict": "A dependable, good-value balm for double cleansing. Follow it with a gentle face wash.",
+        "alternatives": [
+            {
+                "label": "No-Rinse Alternative",
+                "productId": "bioderma-sensibio-h2o",
+                "reason": "Fragrance-free micellar water for sensitive skin."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.4,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "dotkey-strawberry-cleansing-balm",
+        "name": "Strawberry Dew Cleansing Balm",
+        "title": "Dot & Key Strawberry Dew Cleansing Balm",
+        "brand": "Dot & Key",
+        "category": "cleansers",
+        "subcategory": "Cleansing Balm",
+        "asin": "B0CHJSL1KV",
+        "amazonUrl": "https://www.amazon.in/dp/B0CHJSL1KV?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CHJSL1KV?tag=oraeskin-21",
+        "badge": "Best Rated Cleansing Balm",
+        "price": 424,
+        "priceEst": "₹424",
+        "currency": "₹",
+        "size": "70g",
+        "image": "/images/products/dotkey-strawberry-cleansing-balm.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "500+",
+        "reviewCount": "500+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.2,
+            "evidence": 8,
+            "userFeedback": 9,
+            "value": 8,
+            "availability": 8.6
+        },
+        "skinType": [
+            "Normal",
+            "Combination",
+            "Dry"
+        ],
+        "concerns": [
+            "Makeup Removal",
+            "Sunscreen Removal"
+        ],
+        "keyActives": [
+            "Sunflower Seed Oil",
+            "Kokum & Shea Butter",
+            "Strawberry Extract"
+        ],
+        "keyIngredients": [
+            "Ethylhexyl Palmitate",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Garcinia Indica (Kokum) Seed Butter",
+            "Butyrospermum Parkii (Shea) Butter",
+            "Fragaria Ananassa (Strawberry) Fruit Extract"
+        ],
+        "ingredients": [
+            "Ethylhexyl Palmitate",
+            "Cetearyl Alcohol (and) Polysorbate 60",
+            "Sorbeth-30 Tetraoleate",
+            "Candelilla Wax",
+            "Aqua",
+            "Carnauba Wax",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Fragaria Ananassa (Strawberry) Fruit Extract",
+            "Garcinia Indica (Kokum) Seed Butter",
+            "Shea Butter",
+            "Tocopheryl Acetate",
+            "CI 14720:1",
+            "Fragrance (allergen-free)"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Solid Balm, Melts to Oil",
+        "finish": "Soft, Dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Removing makeup and sunscreen in the evening for normal and dry skin.",
+        "avoidIf": "You avoid fragrance and colourants.",
+        "whyWeLikeIt": "A very similar balm-to-oil formula to Plum's, with kokum and shea butter, and a high user rating.",
+        "pros": [
+            "Melts and rinses cleanly",
+            "Highest rating here (4.5★)",
+            "Nourishing kokum and shea butter"
+        ],
+        "cons": [
+            "Contains fragrance and a red colourant",
+            "Smaller 70g pot, fewer ratings (500+)"
+        ],
+        "verdict": "A well-liked balm. Plum's is better value per gram.",
+        "alternatives": [
+            {
+                "label": "Better-Value Balm",
+                "productId": "plum-cleansing-balm",
+                "reason": "Similar formula in a larger 90g pot."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "garnier-micellar-water",
+        "name": "Micellar Cleansing Water (Hydrating & Soothing)",
+        "title": "Garnier Micellar Cleansing Water, Hydrating & Soothing, 400ml",
+        "brand": "Garnier",
+        "category": "cleansers",
+        "subcategory": "Micellar Water",
+        "asin": "B071CDDG3H",
+        "amazonUrl": "https://www.amazon.in/dp/B071CDDG3H?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B071CDDG3H?tag=oraeskin-21",
+        "badge": "Best Value Micellar Water",
+        "price": 280,
+        "priceEst": "₹280",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/garnier-micellar-water.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "33,700+",
+        "reviewCount": "33,700+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.6,
+            "evidence": 8.2,
+            "userFeedback": 8.8,
+            "value": 9.8,
+            "availability": 9.4
+        },
+        "skinType": [
+            "All",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Makeup Removal",
+            "Lazy Cleansing"
+        ],
+        "keyActives": [
+            "Micelles (Mild Surfactants)",
+            "Glycerin"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Mild Surfactants"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerin",
+            "Mild micellar surfactants (full ingredient list on the pack)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Water",
+        "finish": "No Residue",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Quick, no-rinse removal of light makeup and sunscreen on busy nights or while travelling.",
+        "avoidIf": "You wear heavy waterproof makeup — use a balm or the waterproof version instead.",
+        "whyWeLikeIt": "400ml for under ₹300 makes it the best-value micellar water, and its huge rating base suggests it suits most skin.",
+        "pros": [
+            "Exceptional value — 400ml under ₹300",
+            "Gentle, no-rinse cleansing",
+            "Very well rated (33,700+ ratings)"
+        ],
+        "cons": [
+            "Struggles with waterproof makeup",
+            "Still best followed by a rinse-off cleanser at night"
+        ],
+        "verdict": "The best-value micellar water in India for everyday lazy cleansing.",
+        "alternatives": [
+            {
+                "label": "Premium Sensitive-Skin Alternative",
+                "productId": "bioderma-sensibio-h2o",
+                "reason": "The original micellar water, very gentle for sensitive skin."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 9.8,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "bioderma-sensibio-h2o",
+        "name": "Sensibio H2O Micellar Water",
+        "title": "Bioderma Sensibio H2O Micellar Water for Sensitive Skin, 500ml",
+        "brand": "Bioderma",
+        "category": "cleansers",
+        "subcategory": "Micellar Water",
+        "asin": "B002XZLAWM",
+        "amazonUrl": "https://www.amazon.in/dp/B002XZLAWM?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B002XZLAWM?tag=oraeskin-21",
+        "badge": "Best Micellar Water for Sensitive Skin",
+        "price": 1039,
+        "priceEst": "₹1,039",
+        "currency": "₹",
+        "size": "500ml",
+        "image": "/images/products/bioderma-sensibio-h2o.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "47,900+",
+        "reviewCount": "47,900+",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 9,
+            "evidence": 8.6,
+            "userFeedback": 8.8,
+            "value": 7.6,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All",
+            "Sensitive",
+            "Dry"
+        ],
+        "concerns": [
+            "Makeup Removal",
+            "Sensitive Skin",
+            "Lazy Cleansing"
+        ],
+        "keyActives": [
+            "Micelles (PEG-6 Caprylic/Capric Glycerides)",
+            "Cucumber Extract",
+            "Fructooligosaccharides"
+        ],
+        "keyIngredients": [
+            "PEG-6 Caprylic/Capric Glycerides",
+            "Fructooligosaccharides",
+            "Mannitol",
+            "Xylitol",
+            "Rhamnose",
+            "Cucumis Sativus (Cucumber) Fruit Extract"
+        ],
+        "ingredients": [
+            "Aqua",
+            "PEG-6 Caprylic/Capric Glycerides",
+            "Fructooligosaccharides",
+            "Mannitol",
+            "Xylitol",
+            "Rhamnose",
+            "Cucumis Sativus (Cucumber) Fruit Extract",
+            "Propylene Glycol",
+            "Cetrimonium Bromide",
+            "Disodium EDTA"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Water",
+        "finish": "No Residue",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Sensitive, reactive or eczema-prone skin that needs the gentlest makeup removal, including around the eyes.",
+        "avoidIf": "You're on a tight budget — Garnier does a similar job for much less.",
+        "whyWeLikeIt": "The original micellar water: a short, fragrance-free formula that's very well tolerated by sensitive skin and eyes.",
+        "pros": [
+            "Fragrance-free, short ingredient list",
+            "Very gentle on sensitive skin and eyes",
+            "Huge rating base (47,900+)"
+        ],
+        "cons": [
+            "About four times the price per ml of Garnier",
+            "Not strong enough for waterproof makeup"
+        ],
+        "verdict": "The gold standard for sensitive skin. Pick it if Garnier ever stings.",
+        "alternatives": [
+            {
+                "label": "Budget Alternative",
+                "productId": "garnier-micellar-water",
+                "reason": "Similar gentle cleansing at a fraction of the price."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.7,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 9,
+            "texture": 9,
+            "value": 7.6,
+            "overall": 8.7
+        }
+    },
+    {
+        "id": "minimalist-hyaluronic-acid-2",
+        "name": "2% Hyaluronic Acid + PGA Serum",
+        "title": "Minimalist 2% Hyaluronic Acid + PGA Serum",
+        "brand": "Minimalist",
+        "category": "serums",
+        "subcategory": "Hydrating Serum",
+        "asin": "B08FB972DT",
+        "amazonUrl": "https://www.amazon.in/dp/B08FB972DT?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08FB972DT?tag=oraeskin-21",
+        "badge": "Best Value Hydrating Serum",
+        "price": 569,
+        "priceEst": "₹569",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/minimalist-hyaluronic-acid-2.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "8,100+",
+        "reviewCount": "8,100+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 9,
+            "evidence": 8.6,
+            "userFeedback": 8.4,
+            "value": 8.5,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types",
+            "Dehydrated",
+            "Oily"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Fine Lines",
+            "Dullness"
+        ],
+        "keyActives": [
+            "Hyaluronic Acid (multi-weight, 2%)",
+            "Polyglutamic Acid (PGA)"
+        ],
+        "keyIngredients": [
+            "Hyaluronic Acid (multi-weight, 2%)",
+            "Polyglutamic Acid (PGA)"
+        ],
+        "ingredients": [
+            "Hyaluronic Acid (multi-weight, 2%)",
+            "Polyglutamic Acid (PGA)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Watery Serum",
+        "finish": "Dewy, Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Any skin type that feels tight or dehydrated, including oily skin.",
+        "avoidIf": "You expect it to replace a moisturiser on dry skin.",
+        "whyWeLikeIt": "Several molecular weights of hyaluronic acid plus polyglutamic acid draw water into the upper layers of skin without oil or fragrance.",
+        "pros": [
+            "Fragrance-free and oil-free",
+            "Multi-weight HA plus PGA for layered hydration",
+            "Works under any moisturiser"
+        ],
+        "cons": [
+            "Needs a moisturiser on top, or it can feel tight in dry air",
+            "The Amazon listing shows only a short ingredient summary"
+        ],
+        "verdict": "A simple, well-priced hydrating serum. Apply on damp skin and seal with a moisturiser.",
+        "alternatives": [
+            {
+                "label": "With Ceramides",
+                "productId": "the-ordinary-hyaluronic-acid-b5",
+                "reason": "Adds panthenol and ceramides."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.7,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 9,
+            "texture": 9,
+            "value": 8.5,
+            "overall": 8.7
+        }
+    },
+    {
+        "id": "the-ordinary-hyaluronic-acid-b5",
+        "name": "Hyaluronic Acid 2% + B5 (with Ceramides)",
+        "title": "The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides)",
+        "brand": "The Ordinary",
+        "category": "serums",
+        "subcategory": "Hydrating Serum",
+        "asin": "B01MYEZPC8",
+        "amazonUrl": "https://www.amazon.in/dp/B01MYEZPC8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01MYEZPC8?tag=oraeskin-21",
+        "badge": "Most Popular Hyaluronic Serum",
+        "price": 1000,
+        "priceEst": "₹1000",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/the-ordinary-hyaluronic-acid-b5.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "42,000+",
+        "reviewCount": "42,000+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 9,
+            "evidence": 8.6,
+            "userFeedback": 8.6,
+            "value": 7.2,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types",
+            "Dehydrated",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Barrier Repair",
+            "Fine Lines"
+        ],
+        "keyActives": [
+            "Hyaluronic Acid (multi-depth)",
+            "Panthenol (Vitamin B5)",
+            "Ceramides"
+        ],
+        "keyIngredients": [
+            "Hyaluronic Acid (multi-depth)",
+            "Panthenol (Vitamin B5)",
+            "Ceramides"
+        ],
+        "ingredients": [
+            "Hyaluronic Acid (multi-depth)",
+            "Panthenol (Vitamin B5)",
+            "Ceramides"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Slightly Gel-like Serum",
+        "finish": "Plump, Slightly Tacky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dehydrated or sensitive skin that wants hydration plus barrier support.",
+        "avoidIf": "You dislike a slightly tacky feel before moisturiser.",
+        "whyWeLikeIt": "Combines several forms of hyaluronic acid with vitamin B5 and ceramides, and has one of the largest rating bases of any serum on Amazon India.",
+        "pros": [
+            "42,000+ Amazon India ratings",
+            "Panthenol and ceramides support the barrier",
+            "Fragrance-free"
+        ],
+        "cons": [
+            "₹1,000 for 30ml, nearly twice Minimalist",
+            "Can pill under some sunscreens if over-applied"
+        ],
+        "verdict": "A reliable, well-reviewed hydrator. Worth the premium if you want ceramides in the same step.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "minimalist-hyaluronic-acid-2",
+                "reason": "Similar hydration for less."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 9,
+            "texture": 9,
+            "value": 7.2,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "the-ordinary-alpha-arbutin-2",
+        "name": "Alpha Arbutin 2% + HA",
+        "title": "The Ordinary Alpha Arbutin 2% + HA",
+        "brand": "The Ordinary",
+        "category": "serums",
+        "subcategory": "Brightening Serum",
+        "asin": "B06XCZFCFZ",
+        "amazonUrl": "https://www.amazon.in/dp/B06XCZFCFZ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B06XCZFCFZ?tag=oraeskin-21",
+        "badge": "Best Concentrated Arbutin",
+        "price": 948,
+        "priceEst": "₹948",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/the-ordinary-alpha-arbutin-2.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "8,300+",
+        "reviewCount": "8,300+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.8,
+            "evidence": 8.4,
+            "userFeedback": 8.2,
+            "value": 8.2,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Dark Spots",
+            "Hyperpigmentation",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Alpha Arbutin (2%)",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Alpha Arbutin (2%)",
+            "Hyaluronic Acid"
+        ],
+        "ingredients": [
+            "Alpha Arbutin (2%)",
+            "Hyaluronic Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Gel Serum",
+        "finish": "Slightly Tacky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Fading acne marks and sun spots without acids or strong irritants.",
+        "avoidIf": "You want quick results; arbutin needs 8–12 weeks.",
+        "whyWeLikeIt": "A straightforward 2% alpha arbutin serum. Arbutin slows the enzyme that makes melanin and is usually well tolerated by sensitive skin.",
+        "pros": [
+            "2% alpha arbutin, the most-used strength",
+            "Gentle, no acids",
+            "Can be used morning or night"
+        ],
+        "cons": [
+            "Results are gradual (2–3 months)",
+            "Slightly sticky finish",
+            "Costs about twice the Minimalist version"
+        ],
+        "verdict": "A gentle, well-known arbutin. Pair it with daily sunscreen or the marks will come back.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "minimalist-alpha-arbutin",
+                "reason": "Same 2% strength for less."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.2,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "boj-glow-deep-serum",
+        "name": "Glow Deep Serum Rice + Arbutin",
+        "title": "Beauty of Joseon Glow Deep Serum Rice + Arbutin",
+        "brand": "Beauty of Joseon",
+        "category": "serums",
+        "subcategory": "Brightening Serum",
+        "asin": "B09DLFCB69",
+        "amazonUrl": "https://www.amazon.in/dp/B09DLFCB69?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09DLFCB69?tag=oraeskin-21",
+        "badge": "Best Hydrating Brightening Serum",
+        "price": 1080,
+        "priceEst": "₹1080",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/boj-glow-deep-serum.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "9,800+",
+        "reviewCount": "9,800+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.8,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 7.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Dullness",
+            "Dark Spots",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Rice Bran Water",
+            "Alpha Arbutin (2%)",
+            "Niacinamide"
+        ],
+        "keyIngredients": [
+            "Rice Bran Water",
+            "Alpha Arbutin (2%)",
+            "Niacinamide"
+        ],
+        "ingredients": [
+            "Rice Bran Water",
+            "Alpha Arbutin (2%)",
+            "Niacinamide"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Essence-Serum",
+        "finish": "Dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dull skin with light marks that also wants hydration.",
+        "avoidIf": "You want the strongest single-active spot treatment.",
+        "whyWeLikeIt": "Pairs alpha arbutin and niacinamide with a rice-water base, so it brightens and hydrates in one step.",
+        "pros": [
+            "Arbutin and niacinamide together",
+            "Hydrating, dewy finish",
+            "Fragrance-free"
+        ],
+        "cons": [
+            "₹1,080 for 30ml",
+            "The Amazon listing does not show the full ingredient list"
+        ],
+        "verdict": "A pleasant all-round brightening serum, more for dullness and light marks than stubborn pigmentation.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "minimalist-alpha-arbutin",
+                "reason": "Targeted 2% arbutin for less."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 7.6,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "minimalist-tranexamic-3",
+        "name": "3% Tranexamic Acid Serum",
+        "title": "Minimalist 3% Tranexamic Acid Serum",
+        "brand": "Minimalist",
+        "category": "serums",
+        "subcategory": "Pigmentation Serum",
+        "asin": "B08XC5LQ7B",
+        "amazonUrl": "https://www.amazon.in/dp/B08XC5LQ7B?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08XC5LQ7B?tag=oraeskin-21",
+        "badge": "Best Tranexamic Acid Serum",
+        "price": 616,
+        "priceEst": "₹616",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/minimalist-tranexamic-3.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "4,500+",
+        "reviewCount": "4,500+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.8,
+            "evidence": 8.2,
+            "userFeedback": 8.2,
+            "value": 8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Hyperpigmentation",
+            "Melasma",
+            "Dark Spots"
+        ],
+        "keyActives": [
+            "Tranexamic Acid (3%)",
+            "Kojic Acid"
+        ],
+        "keyIngredients": [
+            "Tranexamic Acid (3%)",
+            "Kojic Acid"
+        ],
+        "ingredients": [
+            "Tranexamic Acid (3%)",
+            "Kojic Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Serum",
+        "finish": "Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Stubborn pigmentation, sun spots and post-acne marks on sensitive skin.",
+        "avoidIf": "You have melasma that has not been seen by a dermatologist; it often needs prescription care.",
+        "whyWeLikeIt": "Tranexamic acid is a gentle pigment-fader that works alongside niacinamide or arbutin, and this pairs it with kojic acid.",
+        "pros": [
+            "3% tranexamic acid with kojic acid",
+            "Low irritation, no exfoliating acids",
+            "Fragrance-free"
+        ],
+        "cons": [
+            "The Amazon listing shows only a short ingredient summary",
+            "Needs 8–12 weeks and daily sunscreen"
+        ],
+        "verdict": "A good first tranexamic serum. Pair it with SPF 50 every day.",
+        "alternatives": [
+            {
+                "label": "With Niacinamide",
+                "productId": "foxtale-tranexamic-3",
+                "reason": "Adds niacinamide and peptides."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "foxtale-tranexamic-3",
+        "name": "3% Tranexamic Acid Serum",
+        "title": "Foxtale 3% Tranexamic Acid Face Serum with Peptides & Niacinamide",
+        "brand": "Foxtale",
+        "category": "serums",
+        "subcategory": "Pigmentation Serum",
+        "asin": "B0C1NQRPXW",
+        "amazonUrl": "https://www.amazon.in/dp/B0C1NQRPXW?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0C1NQRPXW?tag=oraeskin-21",
+        "badge": "Best Multi-Active Pigment Serum",
+        "price": 493,
+        "priceEst": "₹493",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/foxtale-tranexamic-3.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "2,100+",
+        "reviewCount": "2,100+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Hyperpigmentation",
+            "Dark Spots",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Tranexamic Acid (3%)",
+            "Niacinamide",
+            "Oligopeptide-68"
+        ],
+        "keyIngredients": [
+            "Tranexamic Acid",
+            "Niacinamide",
+            "Oligopeptide-68",
+            "Squalane",
+            "Sodium Hyaluronate"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Propylene Glycol",
+            "Dicaprylyl Carbonate",
+            "Tranexamic Acid (3%)",
+            "Glycerin",
+            "C15-19 Alkane",
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+            "Oligopeptide-68",
+            "Niacinamide",
+            "Betaine",
+            "Squalane",
+            "Phenoxyethanol",
+            "Sodium Hyaluronate",
+            "Tocopherol",
+            "Allergen-free Fragrance"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Milky Serum",
+        "finish": "Soft, Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily or combination skin with marks that wants one multi-active serum.",
+        "avoidIf": "You avoid fragrance.",
+        "whyWeLikeIt": "Combines 3% tranexamic acid with niacinamide and a brightening peptide, and the full ingredient list is on the listing.",
+        "pros": [
+            "Tranexamic acid, niacinamide and peptide in one",
+            "Full ingredient list disclosed",
+            "Under ₹500"
+        ],
+        "cons": [
+            "Contains fragrance",
+            "Includes a UV filter (DHHB) that is unusual in a serum"
+        ],
+        "verdict": "Good value for oily skin with marks, if fragrance is not a problem for you.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free",
+                "productId": "minimalist-tranexamic-3",
+                "reason": "Fragrance-free tranexamic serum."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.4,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "dermaco-tran-zelaic",
+        "name": "Tran-Zelaic Pigmentation Corrector Serum",
+        "title": "The Derma Co. Tran-Zelaic Serum with 3% Tranexamic Acid & 10% Azelaic Acid",
+        "brand": "The Derma Co",
+        "category": "serums",
+        "subcategory": "Pigmentation Serum",
+        "asin": "B0D45NXZDZ",
+        "amazonUrl": "https://www.amazon.in/dp/B0D45NXZDZ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0D45NXZDZ?tag=oraeskin-21",
+        "badge": "Best Azelaic + Tranexamic Combo",
+        "price": 382,
+        "priceEst": "₹382",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/dermaco-tran-zelaic.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "900+",
+        "reviewCount": "900+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8,
+            "evidence": 8.4,
+            "userFeedback": 7.8,
+            "value": 9,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Hyperpigmentation",
+            "Acne Marks",
+            "Acne"
+        ],
+        "keyActives": [
+            "Azelaic Acid (10%)",
+            "Tranexamic Acid (3%)",
+            "Niacinamide",
+            "Alpha Arbutin"
+        ],
+        "keyIngredients": [
+            "Azelaic Acid",
+            "Tranexamic Acid",
+            "Niacinamide",
+            "Alpha Arbutin",
+            "4-Butyl Resorcinol",
+            "Ferulic Acid"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Azelaic Acid",
+            "Propanediol",
+            "Niacinamide",
+            "Dimethyl Isosorbide",
+            "Tranexamic Acid",
+            "Betaine",
+            "Alpha Arbutin",
+            "Panthenol",
+            "Phenethyl Alcohol",
+            "Caprylyl Glycol",
+            "Glycerin",
+            "Sodium PCA",
+            "4-Butyl Resorcinol",
+            "Ferulic Acid",
+            "Terminalia Ferdinandiana Fruit Extract",
+            "Allantoin",
+            "Sodium Hyaluronate",
+            "Xanthan Gum",
+            "Sodium Hydroxide",
+            "Disodium EDTA"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Serum",
+        "finish": "Matte to Satin",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Acne-prone skin with both active breakouts and dark marks.",
+        "avoidIf": "Your skin is very sensitive; this many actives together can sting at first.",
+        "whyWeLikeIt": "Stacks 10% azelaic acid, 3% tranexamic acid, niacinamide, arbutin and butyl resorcinol, an unusually complete pigment formula at this price.",
+        "pros": [
+            "Five pigment-fading actives",
+            "Fragrance-free, full ingredient list",
+            "Lowest price per ml in this group"
+        ],
+        "cons": [
+            "3.9★, the lowest rating here; some users report stinging",
+            "Many actives at once makes it harder to tell what irritates"
+        ],
+        "verdict": "The strongest-looking formula for the money. Patch test and start every other night.",
+        "alternatives": [
+            {
+                "label": "Gentler Option",
+                "productId": "minimalist-tranexamic-3",
+                "reason": "Fewer actives, easier to tolerate."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "anua-azelaic-10-serum",
+        "name": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+        "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+        "brand": "Anua",
+        "category": "serums",
+        "subcategory": "Soothing Serum",
+        "asin": "B0DG1DQ2S7",
+        "amazonUrl": "https://www.amazon.in/dp/B0DG1DQ2S7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DG1DQ2S7?tag=oraeskin-21",
+        "badge": "Best Azelaic Serum for Redness",
+        "price": 1600,
+        "priceEst": "₹1600",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/anua-azelaic-10-serum.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "7,400+",
+        "reviewCount": "7,400+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.8,
+            "evidence": 8.2,
+            "userFeedback": 9,
+            "value": 6.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Sensitive",
+            "Acne-Prone",
+            "Combination"
+        ],
+        "concerns": [
+            "Redness",
+            "Acne",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Azelaic Acid (10%, brand claim)",
+            "Hyaluronic Acid",
+            "Centella Asiatica"
+        ],
+        "keyIngredients": [
+            "Azelaic Acid (10%, brand claim)",
+            "Hyaluronic Acid",
+            "Centella Asiatica"
+        ],
+        "ingredients": [
+            "Azelaic Acid (10%, brand claim)",
+            "Hyaluronic Acid",
+            "Centella Asiatica"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Gel Serum",
+        "finish": "Hydrated, Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Red, reactive or acne-prone skin that finds plain azelaic acid gels gritty or drying.",
+        "avoidIf": "You have diagnosed rosacea; see a dermatologist, as prescription azelaic acid (15–20%) is usually stronger.",
+        "whyWeLikeIt": "Pairs azelaic acid with hyaluronic acid and centella in a smooth serum, and has a 4.5★ average from 7,400+ ratings.",
+        "pros": [
+            "Highest rating in this group (4.5★)",
+            "Smooth, hydrating texture",
+            "Includes soothing centella"
+        ],
+        "cons": [
+            "₹1,600 for 30ml",
+            "The Amazon listing does not show the full ingredient list, so we cannot confirm the azelaic form"
+        ],
+        "verdict": "The most comfortable azelaic option here, but expensive. For acne marks on a budget, try Derma Co Tran-Zelaic.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "dermaco-tran-zelaic",
+                "reason": "10% azelaic plus tranexamic for far less."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 6.8,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "minimalist-multi-peptide",
+        "name": "Multi Peptide Serum (7% Matrixyl 3000)",
+        "title": "Minimalist Multi Peptide Night Serum with 7% Matrixyl 3000 & 3% Bio-Placenta",
+        "brand": "Minimalist",
+        "category": "anti-aging",
+        "subcategory": "Peptide Serum",
+        "asin": "B08MVD6T8V",
+        "amazonUrl": "https://www.amazon.in/dp/B08MVD6T8V?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08MVD6T8V?tag=oraeskin-21",
+        "badge": "Best Value Peptide Serum",
+        "price": 593,
+        "priceEst": "₹593",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/minimalist-multi-peptide.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "4,100+",
+        "reviewCount": "4,100+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 9,
+            "evidence": 7.8,
+            "userFeedback": 8.6,
+            "value": 8.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Fine Lines",
+            "Firmness",
+            "Dehydration"
+        ],
+        "keyActives": [
+            "Matrixyl 3000 (7%)",
+            "Bio-Placenta (plant peptides, 3%)",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Matrixyl 3000 (7%)",
+            "Bio-Placenta (plant peptides, 3%)",
+            "Hyaluronic Acid"
+        ],
+        "ingredients": [
+            "Matrixyl 3000 (7%)",
+            "Bio-Placenta (plant peptides, 3%)",
+            "Hyaluronic Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Serum",
+        "finish": "Smooth, Slightly Tacky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Early fine lines in people who cannot tolerate retinoids, or as a gentle partner to one.",
+        "avoidIf": "You expect retinoid-level results; peptide evidence is more modest.",
+        "whyWeLikeIt": "7% Matrixyl 3000 is a well-known signal peptide, and the formula is fragrance-free and non-irritating.",
+        "pros": [
+            "Non-irritating, can be used daily",
+            "Fragrance-free",
+            "Under ₹600"
+        ],
+        "cons": [
+            "Peptide evidence is weaker than for retinoids",
+            "The Amazon listing shows only a short ingredient summary"
+        ],
+        "verdict": "An easy, gentle anti-ageing step. Use it alongside sunscreen and, if you can, a retinoid.",
+        "alternatives": [
+            {
+                "label": "Premium Pick",
+                "productId": "the-ordinary-multi-peptide-copper",
+                "reason": "Adds copper peptides and more peptide types."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 9,
+            "texture": 9,
+            "value": 8.8,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "the-ordinary-multi-peptide-copper",
+        "name": "Multi-Peptide + Copper Peptides 1%",
+        "title": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum",
+        "brand": "The Ordinary",
+        "category": "anti-aging",
+        "subcategory": "Peptide Serum",
+        "asin": "B0C9DXGXZ3",
+        "amazonUrl": "https://www.amazon.in/dp/B0C9DXGXZ3?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0C9DXGXZ3?tag=oraeskin-21",
+        "badge": "Best Premium Peptide Serum",
+        "price": 2950,
+        "priceEst": "₹2950",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/the-ordinary-multi-peptide-copper.jpg",
+        "amazonRating": 4.6,
+        "rating": 4.6,
+        "amazonReviews": "3,700+",
+        "reviewCount": "3,700+",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 8.6,
+            "evidence": 8,
+            "userFeedback": 9.2,
+            "value": 6,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Fine Lines",
+            "Firmness",
+            "Texture"
+        ],
+        "keyActives": [
+            "Copper Tripeptide-1 (1%)",
+            "Matrixyl peptides",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Copper Tripeptide-1 (1%)",
+            "Matrixyl peptides",
+            "Hyaluronic Acid"
+        ],
+        "ingredients": [
+            "Copper Tripeptide-1 (1%)",
+            "Matrixyl peptides",
+            "Hyaluronic Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Serum (blue tint from copper)",
+        "finish": "Smooth",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Mature skin looking for a broad peptide serum without retinoid irritation.",
+        "avoidIf": "You use strong acids or vitamin C (L-ascorbic acid) in the same routine; copper peptides are best kept apart from them.",
+        "whyWeLikeIt": "One of the broadest peptide blends available, combining copper peptides with signal peptides, rated 4.6★.",
+        "pros": [
+            "Highest rating in this group (4.6★)",
+            "Copper plus multiple signal peptides",
+            "Fragrance-free"
+        ],
+        "cons": [
+            "₹2,950 for 30ml, about five times the Minimalist price",
+            "Should not be layered with direct acids or L-ascorbic acid"
+        ],
+        "verdict": "A premium peptide serum. Good, but most people will get similar value from Minimalist.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "minimalist-multi-peptide",
+                "reason": "7% Matrixyl for a fifth of the price."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 6,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "eqqualberry-bakuchiol-serum",
+        "name": "Bakuchiol Plumping Serum",
+        "title": "EQQUALBERRY Bakuchiol Plumping Serum with Niacinamide, Ceramides & Peptides",
+        "brand": "EQQUALBERRY",
+        "category": "anti-aging",
+        "subcategory": "Bakuchiol Serum",
+        "asin": "B0D8W2W8C2",
+        "amazonUrl": "https://www.amazon.in/dp/B0D8W2W8C2?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0D8W2W8C2?tag=oraeskin-21",
+        "badge": "Best Bakuchiol Serum",
+        "price": 2100,
+        "priceEst": "₹2100",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/eqqualberry-bakuchiol-serum.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "3,900+",
+        "reviewCount": "3,900+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.8,
+            "evidence": 7.4,
+            "userFeedback": 8.8,
+            "value": 6.8,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Fine Lines",
+            "Texture",
+            "Dehydration"
+        ],
+        "keyActives": [
+            "Bakuchiol (0.5%)",
+            "Niacinamide (4%)",
+            "Peptides",
+            "Ceramides"
+        ],
+        "keyIngredients": [
+            "Bakuchiol (0.5%)",
+            "Niacinamide (4%)",
+            "Peptides",
+            "Ceramides"
+        ],
+        "ingredients": [
+            "Bakuchiol (0.5%)",
+            "Niacinamide (4%)",
+            "Peptides",
+            "Ceramides"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Serum",
+        "finish": "Plump, Dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Sensitive skin that wants a retinol alternative with extra hydration.",
+        "avoidIf": "You can tolerate retinoids and want the strongest results for the money.",
+        "whyWeLikeIt": "Pairs bakuchiol (0.5%, a typical studied level) with niacinamide, peptides and ceramides in a gentle, well-rated serum.",
+        "pros": [
+            "Bakuchiol at a studied 0.5% level",
+            "Niacinamide, peptides and ceramides in one",
+            "Can be used morning and night"
+        ],
+        "cons": [
+            "₹2,100 for 30ml",
+            "Bakuchiol has far less research than retinol"
+        ],
+        "verdict": "A gentle, well-made bakuchiol serum, priced at the top end.",
+        "alternatives": [
+            {
+                "label": "Gentle Retinoid",
+                "productId": "minimalist-granactive-retinoid-2",
+                "reason": "A low-irritation retinoid for much less."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 6.8,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "blue-nectar-bakuchiol-serum",
+        "name": "5% Bakuchiol Serum",
+        "title": "Blue Nectar 5% Bakuchiol (Babchi) Serum",
+        "brand": "Blue Nectar",
+        "category": "anti-aging",
+        "subcategory": "Bakuchiol Serum",
+        "asin": "B0BW5KJGHT",
+        "amazonUrl": "https://www.amazon.in/dp/B0BW5KJGHT?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BW5KJGHT?tag=oraeskin-21",
+        "badge": "Ayurvedic Bakuchiol Option",
+        "price": 657,
+        "priceEst": "₹657",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/blue-nectar-bakuchiol-serum.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "650+",
+        "reviewCount": "650+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.6,
+            "evidence": 6.8,
+            "userFeedback": 8.6,
+            "value": 8,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Fine Lines",
+            "Dullness"
+        ],
+        "keyActives": [
+            "Bakuchi (Babchi) Oil",
+            "Ayurvedic Herb Blend"
+        ],
+        "keyIngredients": [
+            "Bakuchi (Babchi) Oil",
+            "Ayurvedic Herb Blend"
+        ],
+        "ingredients": [
+            "Bakuchi (Babchi) Oil",
+            "Ayurvedic Herb Blend"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Oil Serum",
+        "finish": "Slightly Oily",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry, non-sensitive skin that prefers Ayurvedic, oil-based products.",
+        "avoidIf": "You have acne-prone or sensitive skin, or want a fully disclosed formula.",
+        "whyWeLikeIt": "An affordable, oil-based babchi serum for people who prefer Ayurvedic skincare.",
+        "pros": [
+            "Much cheaper than other bakuchiol serums",
+            "Oil base suits dry skin",
+            "Ayurvedic formulation"
+        ],
+        "cons": [
+            "The listing gives \"10 Ayurvedic herbs\" instead of a full ingredient list",
+            "\"5%\" likely refers to babchi oil, not pure bakuchiol",
+            "Oils and herbs may not suit acne-prone or sensitive skin"
+        ],
+        "verdict": "A budget, Ayurvedic option. If you want a measured bakuchiol dose, EQQUALBERRY is clearer.",
+        "alternatives": [
+            {
+                "label": "Clearer Formula",
+                "productId": "eqqualberry-bakuchiol-serum",
+                "reason": "Discloses 0.5% bakuchiol."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.6,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 7.6,
+            "texture": 7.6,
+            "value": 8,
+            "overall": 7.6
+        }
+    },
+    {
+        "id": "skin1004-centella-soothing-cream",
+        "name": "Madagascar Centella Soothing Cream",
+        "title": "SKIN1004 Madagascar Centella Soothing Cream",
+        "brand": "SKIN1004",
+        "category": "moisturizers",
+        "subcategory": "Cica Cream",
+        "asin": "B09B221Q7K",
+        "amazonUrl": "https://www.amazon.in/dp/B09B221Q7K?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09B221Q7K?tag=oraeskin-21",
+        "badge": "Best Cica Cream",
+        "price": 1125,
+        "priceEst": "₹1125",
+        "currency": "₹",
+        "size": "75ml",
+        "image": "/images/products/skin1004-centella-soothing-cream.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "3,400+",
+        "reviewCount": "3,400+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.8,
+            "evidence": 8.2,
+            "userFeedback": 8.8,
+            "value": 7.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Sensitive",
+            "Combination",
+            "Dry"
+        ],
+        "concerns": [
+            "Redness",
+            "Barrier Repair",
+            "Irritation"
+        ],
+        "keyActives": [
+            "Centella Asiatica Extract (72%)",
+            "4 Ceramides",
+            "Tranexamic Acid (<2%)"
+        ],
+        "keyIngredients": [
+            "Centella Asiatica Extract",
+            "Ceramide NP",
+            "Ceramide AP",
+            "Ceramide EOP",
+            "Ceramide NS",
+            "Sodium Hyaluronate",
+            "Beta-Glucan"
+        ],
+        "ingredients": [
+            "Centella Asiatica Extract (72%)",
+            "Glycerin",
+            "Propanediol",
+            "Dipropylene Glycol",
+            "Cyclomethicone",
+            "Water",
+            "1,2-Hexanediol",
+            "Trehalose",
+            "Caprylyl Methicone",
+            "Carbomer",
+            "Xanthan Gum",
+            "Mentha Piperita (Peppermint) Leaf Extract",
+            "Zingiber Officinale (Ginger) Root Extract",
+            "Dipotassium Glycyrrhizate",
+            "Tranexamic Acid",
+            "Sodium Hyaluronate",
+            "Beta-Glucan",
+            "Ceramide EOP",
+            "Ceramide NS",
+            "Ceramide NP",
+            "Ceramide AP"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Gel-Cream",
+        "finish": "Soft, Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Red, irritated or over-exfoliated skin that wants a light barrier cream.",
+        "avoidIf": "You react to peppermint extract.",
+        "whyWeLikeIt": "72% centella extract with four ceramides in a light cream that suits humid weather.",
+        "pros": [
+            "72% centella extract",
+            "Four ceramides for barrier support",
+            "Light enough for combination skin"
+        ],
+        "cons": [
+            "Contains peppermint and ginger extracts, which can bother very sensitive skin",
+            "₹1,125 for 75ml"
+        ],
+        "verdict": "A light, calming barrier cream. Patch test if your skin reacts to mint.",
+        "alternatives": [
+            {
+                "label": "For Very Dry Skin",
+                "productId": "bioderma-atoderm-baume",
+                "reason": "A richer, fragrance-free balm."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 7.6,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "skin1004-probio-cica-ampoule",
+        "name": "Centella Probio-Cica Intensive Ampoule",
+        "title": "SKIN1004 Centella Probio-Cica Intensive Ampoule",
+        "brand": "SKIN1004",
+        "category": "serums",
+        "subcategory": "Soothing Ampoule",
+        "asin": "B0BTRWGQNV",
+        "amazonUrl": "https://www.amazon.in/dp/B0BTRWGQNV?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BTRWGQNV?tag=oraeskin-21",
+        "badge": "Best Cica Serum",
+        "price": 1538,
+        "priceEst": "₹1538",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/skin1004-probio-cica-ampoule.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "3,500+",
+        "reviewCount": "3,500+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.8,
+            "evidence": 7.8,
+            "userFeedback": 9,
+            "value": 7.2,
+            "availability": 9
+        },
+        "skinType": [
+            "Sensitive",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Redness",
+            "Barrier Repair",
+            "Dehydration"
+        ],
+        "keyActives": [
+            "Fermented Centella Asiatica",
+            "Probiotic Ferments",
+            "Ceramides"
+        ],
+        "keyIngredients": [
+            "Fermented Centella Asiatica",
+            "Probiotic Ferments",
+            "Ceramides"
+        ],
+        "ingredients": [
+            "Fermented Centella Asiatica",
+            "Probiotic Ferments",
+            "Ceramides"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Ampoule",
+        "finish": "Dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Sensitive or post-procedure skin that wants a soothing serum layer.",
+        "avoidIf": "You prefer to see a full ingredient list before buying.",
+        "whyWeLikeIt": "Fermented centella and ceramides in a lightweight ampoule, rated 4.5★ by 3,500+ buyers.",
+        "pros": [
+            "4.5★ from 3,500+ ratings",
+            "Light, layers well under moisturiser",
+            "No added fragrance (brand claim)"
+        ],
+        "cons": [
+            "₹1,538 for 50ml",
+            "The Amazon listing does not show the full ingredient list"
+        ],
+        "verdict": "A calming serum for reactive skin. The cream is better value if you only buy one.",
+        "alternatives": [
+            {
+                "label": "Better Value",
+                "productId": "skin1004-centella-soothing-cream",
+                "reason": "Cica plus ceramides in a cream."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 7.2,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "cosrx-snail-92-cream",
+        "name": "Advanced Snail 92 All In One Cream",
+        "title": "COSRX Advanced Snail 92 All In One Cream",
+        "brand": "COSRX",
+        "category": "moisturizers",
+        "subcategory": "Snail Cream",
+        "asin": "B01LEJ5MSK",
+        "amazonUrl": "https://www.amazon.in/dp/B01LEJ5MSK?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01LEJ5MSK?tag=oraeskin-21",
+        "badge": "Best Snail Moisturiser",
+        "price": 1400,
+        "priceEst": "₹1400",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/cosrx-snail-92-cream.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "62,000+",
+        "reviewCount": "62,000+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 7.8,
+            "userFeedback": 8.6,
+            "value": 7.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Dry",
+            "Normal",
+            "Combination"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Barrier Repair",
+            "Acne Marks"
+        ],
+        "keyActives": [
+            "Snail Secretion Filtrate (92%)",
+            "Betaine",
+            "Sodium Hyaluronate",
+            "Allantoin"
+        ],
+        "keyIngredients": [
+            "Snail Secretion Filtrate (92%)",
+            "Betaine",
+            "Sodium Hyaluronate",
+            "Allantoin"
+        ],
+        "ingredients": [
+            "Snail Secretion Filtrate (92%)",
+            "Betaine",
+            "Sodium Hyaluronate",
+            "Allantoin"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Bouncy Gel-Cream",
+        "finish": "Dewy, Slightly Tacky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry or dehydrated skin that likes a cushiony, dewy moisturiser.",
+        "avoidIf": "You are vegan, or have very oily skin that dislikes a tacky finish.",
+        "whyWeLikeIt": "92% snail filtrate with allantoin and hyaluronic acid makes a soothing, hydrating cream, and it has 62,000+ ratings.",
+        "pros": [
+            "62,000+ Amazon India ratings",
+            "Generous 100ml jar",
+            "Fragrance-free"
+        ],
+        "cons": [
+            "Can feel tacky in humid weather",
+            "Not suitable for vegans"
+        ],
+        "verdict": "A comfortable, well-reviewed moisturiser. Oily skin may prefer the essence on its own.",
+        "alternatives": [
+            {
+                "label": "Lighter Option",
+                "productId": "cosrx-snail-96-essence",
+                "reason": "The essence version for oily skin."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 7.8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "paulas-choice-2-bha-liquid",
+        "name": "Skin Perfecting 2% BHA Liquid Exfoliant",
+        "title": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant (30ml)",
+        "brand": "Paula's Choice",
+        "category": "toners",
+        "subcategory": "BHA Exfoliant",
+        "asin": "B07C5SS6YD",
+        "amazonUrl": "https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21",
+        "badge": "Best BHA Exfoliant",
+        "price": 1200,
+        "priceEst": "₹1200",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/paulas-choice-2-bha-liquid.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "1,09,000+",
+        "reviewCount": "1,09,000+",
+        "scoreBreakdown": {
+            "formula": 9,
+            "skinSuitability": 8.6,
+            "evidence": 9,
+            "userFeedback": 8.6,
+            "value": 6.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Enlarged Pores",
+            "Texture"
+        ],
+        "keyActives": [
+            "Salicylic Acid (2%)",
+            "Green Tea Extract"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid (2%)",
+            "Green Tea Extract"
+        ],
+        "ingredients": [
+            "Water (Aqua)",
+            "Methylpropanediol",
+            "Butylene Glycol",
+            "Salicylic Acid",
+            "Polysorbate 20",
+            "Camellia Oleifera Leaf Extract",
+            "Sodium Hydroxide",
+            "Tetrasodium EDTA"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Thin Liquid",
+        "finish": "Weightless",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Blackheads, clogged pores and rough texture on oily or combination skin.",
+        "avoidIf": "Your skin is dry, sensitive or already irritated by other exfoliants.",
+        "whyWeLikeIt": "A short, fragrance-free formula with 2% salicylic acid at an effective pH. It is one of the most-rated exfoliants on Amazon India.",
+        "pros": [
+            "2% salicylic acid in a short, fragrance-free formula",
+            "1,09,000+ Amazon India ratings",
+            "Leave-on, so it keeps working in pores"
+        ],
+        "cons": [
+            "This listing is the 30ml travel size, so ₹40 per ml",
+            "Can dry out skin if used daily from the start"
+        ],
+        "verdict": "The benchmark BHA exfoliant. Expensive per ml, so start with the travel size.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "minimalist-salicylic-serum-2",
+                "reason": "2% salicylic acid for a fraction of the price."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 9,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 6.8,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "nivea-derma-skin-clear-toner",
+        "name": "Derma Skin Clear Toner",
+        "title": "NIVEA Derma Skin Clear Face Toner with Salicylic Acid & Niacinamide",
+        "brand": "NIVEA",
+        "category": "toners",
+        "subcategory": "BHA Toner",
+        "asin": "B0B97B7GLK",
+        "amazonUrl": "https://www.amazon.in/dp/B0B97B7GLK?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B97B7GLK?tag=oraeskin-21",
+        "badge": "Best Budget BHA Toner",
+        "price": 316,
+        "priceEst": "₹316",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/nivea-derma-skin-clear-toner.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "2,000+",
+        "reviewCount": "2,000+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.4,
+            "evidence": 7.6,
+            "userFeedback": 9,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Oiliness",
+            "Acne"
+        ],
+        "keyActives": [
+            "Salicylic Acid",
+            "Niacinamide"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid",
+            "Niacinamide"
+        ],
+        "ingredients": [
+            "Salicylic Acid",
+            "Niacinamide"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Watery Toner",
+        "finish": "Fresh",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily, blemish-prone skin that wants a gentle daily toner.",
+        "avoidIf": "You need a strong exfoliant for stubborn blackheads.",
+        "whyWeLikeIt": "A large, affordable bottle with salicylic acid and niacinamide, rated 4.5★.",
+        "pros": [
+            "200ml for ₹316",
+            "Salicylic acid plus niacinamide",
+            "4.5★ rating"
+        ],
+        "cons": [
+            "The listing does not give the salicylic acid percentage or full ingredients",
+            "Gentler than a dedicated 2% BHA"
+        ],
+        "verdict": "A good-value daily toner for oily skin, but not a replacement for a 2% BHA on stubborn blackheads.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "paulas-choice-2-bha-liquid",
+                "reason": "A stated 2% BHA exfoliant."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 9,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "hyphen-ceramide-milky-toner",
+        "name": "7% Ceramides-NMF Milky Toner Essence",
+        "title": "Hyphen 7% Ceramides-NMF Milky Face Toner Essence",
+        "brand": "Hyphen",
+        "category": "toners",
+        "subcategory": "Milky Toner",
+        "asin": "B0DMPDCBLH",
+        "amazonUrl": "https://www.amazon.in/dp/B0DMPDCBLH?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DMPDCBLH?tag=oraeskin-21",
+        "badge": "Best Milky Toner",
+        "price": 446,
+        "priceEst": "₹446",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/hyphen-ceramide-milky-toner.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "600+",
+        "reviewCount": "600+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.8,
+            "evidence": 8,
+            "userFeedback": 8.8,
+            "value": 8.8,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Dry",
+            "Normal",
+            "Sensitive",
+            "Combination"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Barrier Repair",
+            "Dullness"
+        ],
+        "keyActives": [
+            "Ceramides (5 types)",
+            "NMF (Urea, Sodium PCA, Sodium Lactate)",
+            "Rice Water",
+            "Oat Extract"
+        ],
+        "keyIngredients": [
+            "Ceramide 1",
+            "Ceramide 2",
+            "Ceramide 3",
+            "Ceramide 4",
+            "Ceramide 6 II",
+            "Urea",
+            "Sodium PCA",
+            "Sodium Hyaluronate",
+            "Oryza Sativa (Rice) Water Extract",
+            "Avena Sativa (Oat) Meal Extract",
+            "Tremella Fuciformis Extract"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Trehalose",
+            "Oryza Sativa (Rice) Water Extract",
+            "Glycerin",
+            "Isododecane",
+            "C12-15 Alkyl Benzoate",
+            "Pentylene Glycol",
+            "Glyceryl Stearate",
+            "Urea",
+            "Allantoin",
+            "Sodium PCA",
+            "Sodium Lactate",
+            "Sodium Hyaluronate",
+            "Ceramide 1",
+            "Ceramide 2",
+            "Ceramide 3",
+            "Ceramide 4",
+            "Ceramide 6 II",
+            "Beta Glucan",
+            "Avena Sativa (Oat) Meal Extract",
+            "Tremella Fuciformis (Snow Mushroom) Extract"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Milky Essence",
+        "finish": "Soft, Dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry or dehydrated skin that wants a cushiony first layer of hydration.",
+        "avoidIf": "You have very oily skin that dislikes any emollient feel.",
+        "whyWeLikeIt": "Five ceramides with natural moisturising factors and rice water in a milky toner, with the full ingredient list on the listing.",
+        "pros": [
+            "Five ceramides plus NMFs",
+            "Full ingredient list disclosed",
+            "Alcohol-free"
+        ],
+        "cons": [
+            "Only 100ml",
+            "Emollients may feel heavy on very oily skin in summer"
+        ],
+        "verdict": "An excellent hydrating milky toner for dry and normal skin.",
+        "alternatives": [
+            {
+                "label": "Lighter Option",
+                "productId": "minimalist-b12-hyaluronic-toner",
+                "reason": "A watery hydrating toner."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.8,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "minimalist-b12-hyaluronic-toner",
+        "name": "Vitamin B12 + Hyaluronic Toner",
+        "title": "Minimalist Vitamin B12 + Hyaluronic Face Toner",
+        "brand": "Minimalist",
+        "category": "toners",
+        "subcategory": "Hydrating Toner",
+        "asin": "B0G5949WL1",
+        "amazonUrl": "https://www.amazon.in/dp/B0G5949WL1?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0G5949WL1?tag=oraeskin-21",
+        "badge": "Best Lightweight Hydrating Toner",
+        "price": 379,
+        "priceEst": "₹379",
+        "currency": "₹",
+        "size": "120ml",
+        "image": "/images/products/minimalist-b12-hyaluronic-toner.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "290+",
+        "reviewCount": "290+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.8,
+            "evidence": 7.6,
+            "userFeedback": 8.6,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types",
+            "Oily",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Barrier Repair",
+            "Redness"
+        ],
+        "keyActives": [
+            "Vitamin B12 (Cyanocobalamin)",
+            "Hyaluronic Acid",
+            "Panthenol",
+            "NMF"
+        ],
+        "keyIngredients": [
+            "Vitamin B12 (Cyanocobalamin)",
+            "Hyaluronic Acid",
+            "Panthenol",
+            "NMF"
+        ],
+        "ingredients": [
+            "Vitamin B12 (Cyanocobalamin)",
+            "Hyaluronic Acid",
+            "Panthenol",
+            "NMF"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Watery Toner",
+        "finish": "Fresh, Hydrated",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily or sensitive skin that wants hydration without a milky feel.",
+        "avoidIf": "You have very dry skin that needs a richer toner.",
+        "whyWeLikeIt": "A simple, fragrance-free hydrating toner with hyaluronic acid, panthenol and vitamin B12.",
+        "pros": [
+            "Light enough for oily skin",
+            "Fragrance-free",
+            "Good size for the price"
+        ],
+        "cons": [
+            "Newer product with fewer than 300 ratings",
+            "The Amazon listing does not show the full ingredient list"
+        ],
+        "verdict": "A light, gentle hydrating toner. Dry skin may prefer Hyphen.",
+        "alternatives": [
+            {
+                "label": "Richer Option",
+                "productId": "hyphen-ceramide-milky-toner",
+                "reason": "A milky ceramide toner for dry skin."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 8.6,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "dabur-gulabari-rose-water",
+        "name": "Gulabari Premium Rose Water",
+        "title": "Dabur Gulabari Premium Rose Water / Face Toner",
+        "brand": "Dabur",
+        "category": "toners",
+        "subcategory": "Rose Water",
+        "asin": "B085QMJ3TS",
+        "amazonUrl": "https://www.amazon.in/dp/B085QMJ3TS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B085QMJ3TS?tag=oraeskin-21",
+        "badge": "Cheapest Rose Water",
+        "price": 99,
+        "priceEst": "₹99",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/dabur-gulabari-rose-water.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "29,000+",
+        "reviewCount": "29,000+",
+        "scoreBreakdown": {
+            "formula": 6,
+            "skinSuitability": 7.4,
+            "evidence": 6,
+            "userFeedback": 8.6,
+            "value": 10,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Oily"
+        ],
+        "concerns": [
+            "Refreshing",
+            "Dullness"
+        ],
+        "keyActives": [
+            "Rose Oil",
+            "Fragrance (Rooh Gulab)"
+        ],
+        "keyIngredients": [
+            "Rose Oil",
+            "Fragrance (Rooh Gulab)"
+        ],
+        "ingredients": [
+            "Water (Aqua)",
+            "Rose Oil",
+            "Fragrance (Rooh Gulab)",
+            "Propylene Glycol"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Watery",
+        "finish": "Fresh",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Mixing into face packs or a quick refresh on non-sensitive skin.",
+        "avoidIf": "You want pure steam-distilled rose water, or have sensitive skin.",
+        "whyWeLikeIt": "Very cheap and widely used, but it is water with rose oil and added fragrance, not distilled rose hydrosol.",
+        "pros": [
+            "₹99 for 400ml",
+            "Alcohol-free",
+            "29,000+ ratings"
+        ],
+        "cons": [
+            "Contains added fragrance",
+            "Not steam-distilled rose water: it is water plus rose oil and fragrance"
+        ],
+        "verdict": "Fine for face packs, but if you want true rose water, choose a steam-distilled one.",
+        "alternatives": [
+            {
+                "label": "Pure Option",
+                "productId": "urbanbotanics-rose-water",
+                "reason": "100% steam-distilled rose water."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.4,
+        "scores": {
+            "formula": 6,
+            "weatherResilience": 7.4,
+            "texture": 7.4,
+            "value": 10,
+            "overall": 7.4
+        }
+    },
+    {
+        "id": "urbanbotanics-rose-water",
+        "name": "Steam Distilled Rose Water Spray",
+        "title": "UrbanBotanics 100% Pure Steam Distilled Rose Water Spray",
+        "brand": "UrbanBotanics",
+        "category": "toners",
+        "subcategory": "Rose Water",
+        "asin": "B07MW7CX3T",
+        "amazonUrl": "https://www.amazon.in/dp/B07MW7CX3T?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07MW7CX3T?tag=oraeskin-21",
+        "badge": "Best Value Pure Rose Water",
+        "price": 279,
+        "priceEst": "₹279",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/urbanbotanics-rose-water.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "13,600+",
+        "reviewCount": "13,600+",
+        "scoreBreakdown": {
+            "formula": 7.2,
+            "skinSuitability": 8,
+            "evidence": 6.4,
+            "userFeedback": 8.4,
+            "value": 8.4,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Refreshing",
+            "Hydration"
+        ],
+        "keyActives": [
+            "Steam-Distilled Rose Water"
+        ],
+        "keyIngredients": [
+            "Steam-Distilled Rose Water"
+        ],
+        "ingredients": [
+            "Rosa Damascena (Rose) Flower Water"
+        ],
+        "fragrance": "Subtle Natural Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Fine Mist",
+        "finish": "Fresh",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A simple refreshing mist or toner for most skin types.",
+        "avoidIf": "You expect it to treat acne or pigmentation.",
+        "whyWeLikeIt": "Lists only steam-distilled rose water, in a spray bottle, with 13,600+ ratings.",
+        "pros": [
+            "Single-ingredient formula",
+            "Convenient spray",
+            "13,600+ ratings"
+        ],
+        "cons": [
+            "Rose water has limited evidence beyond soothing and hydration",
+            "No preservative listed, so refrigerate and use within a few months"
+        ],
+        "verdict": "A good-value pure rose water for a refreshing step.",
+        "alternatives": [
+            {
+                "label": "Cheapest Option",
+                "productId": "dabur-gulabari-rose-water",
+                "reason": "Cheaper, but with added fragrance."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.7,
+        "scores": {
+            "formula": 7.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.7
+        }
+    },
+    {
+        "id": "forest-essentials-rosewater-mist",
+        "name": "Facial Tonic Mist Pure Rosewater",
+        "title": "Forest Essentials Facial Tonic Mist with Pure Rosewater",
+        "brand": "Forest Essentials",
+        "category": "toners",
+        "subcategory": "Rose Water",
+        "asin": "B09ZVGH8MG",
+        "amazonUrl": "https://www.amazon.in/dp/B09ZVGH8MG?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09ZVGH8MG?tag=oraeskin-21",
+        "badge": "Best Premium Rose Water",
+        "price": 595,
+        "priceEst": "₹595",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/forest-essentials-rosewater-mist.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "800+",
+        "reviewCount": "800+",
+        "scoreBreakdown": {
+            "formula": 7.2,
+            "skinSuitability": 8.2,
+            "evidence": 6.4,
+            "userFeedback": 9,
+            "value": 5.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types",
+            "Dry"
+        ],
+        "concerns": [
+            "Refreshing",
+            "Hydration"
+        ],
+        "keyActives": [
+            "Steam-Distilled Rose Water"
+        ],
+        "keyIngredients": [
+            "Steam-Distilled Rose Water"
+        ],
+        "ingredients": [
+            "Pure Rose Water"
+        ],
+        "fragrance": "Subtle Natural Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Fine Mist",
+        "finish": "Dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Gifting, or anyone who wants a premium Ayurvedic rose mist.",
+        "avoidIf": "You are budget-conscious; cheaper pure rose waters do the same job.",
+        "whyWeLikeIt": "A well-rated Ayurvedic rose mist with a very fine spray.",
+        "pros": [
+            "4.5★ rating",
+            "Fine, even mist",
+            "Pure rose water"
+        ],
+        "cons": [
+            "₹595 for 50ml, about ₹12 per ml",
+            "Same basic ingredient as much cheaper options"
+        ],
+        "verdict": "Lovely to use, but you are paying for the brand.",
+        "alternatives": [
+            {
+                "label": "Better Value",
+                "productId": "urbanbotanics-rose-water",
+                "reason": "Pure rose water for a fraction of the price."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.5,
+        "scores": {
+            "formula": 7.2,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 5.6,
+            "overall": 7.5
+        }
+    },
+    {
+        "id": "anua-heartleaf-77-clear-pad",
+        "name": "Heartleaf 77 Clear Pad",
+        "title": "Anua Heartleaf 77 Clear Pad (70 Sheets)",
+        "brand": "Anua",
+        "category": "toners",
+        "subcategory": "Toner Pads",
+        "asin": "B08JLMRTZS",
+        "amazonUrl": "https://www.amazon.in/dp/B08JLMRTZS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08JLMRTZS?tag=oraeskin-21",
+        "badge": "Best Gentle Exfoliating Pads",
+        "price": 1600,
+        "priceEst": "₹1600",
+        "currency": "₹",
+        "size": "70 pads",
+        "image": "/images/products/anua-heartleaf-77-clear-pad.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "3,900+",
+        "reviewCount": "3,900+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.8,
+            "evidence": 7.8,
+            "userFeedback": 8.8,
+            "value": 6.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Sensitive",
+            "Combination",
+            "Oily"
+        ],
+        "concerns": [
+            "Texture",
+            "Dullness",
+            "Redness"
+        ],
+        "keyActives": [
+            "Heartleaf (Houttuynia Cordata) Extract (77%)",
+            "PHA (Gluconolactone)"
+        ],
+        "keyIngredients": [
+            "Heartleaf (Houttuynia Cordata) Extract (77%)",
+            "PHA (Gluconolactone)"
+        ],
+        "ingredients": [
+            "Heartleaf (Houttuynia Cordata) Extract (77%)",
+            "PHA (Gluconolactone)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Embossed Cotton Pads",
+        "finish": "Fresh",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Sensitive or combination skin that wants gentle daily exfoliation in one swipe.",
+        "avoidIf": "You need a strong exfoliant for heavy blackheads.",
+        "whyWeLikeIt": "Soothing heartleaf extract with mild PHA exfoliation on dual-textured pads, rated 4.4★.",
+        "pros": [
+            "Gentle enough for daily use",
+            "Soothing heartleaf base",
+            "Convenient for travel and lazy days"
+        ],
+        "cons": [
+            "₹1,600 for 70 pads, about ₹23 a pad",
+            "The Amazon listing does not show the full ingredient list"
+        ],
+        "verdict": "Comfortable, gentle pads, but costly compared with a toner on a cotton pad.",
+        "alternatives": [
+            {
+                "label": "Budget Alternative",
+                "productId": "minimalist-pha-toner",
+                "reason": "A PHA toner you can use with your own cotton pads."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 6.8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "mcaffeine-salicylic-acne-pads",
+        "name": "2% Salicylic Acid Acne Pads",
+        "title": "mCaffeine 2% Salicylic Acid, Zinc PCA & Matcha Clear Skin Acne Pads",
+        "brand": "mCaffeine",
+        "category": "toners",
+        "subcategory": "Toner Pads",
+        "asin": "B0CS3KJZXF",
+        "amazonUrl": "https://www.amazon.in/dp/B0CS3KJZXF?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CS3KJZXF?tag=oraeskin-21",
+        "badge": "Best Budget BHA Pads",
+        "price": 335,
+        "priceEst": "₹335",
+        "currency": "₹",
+        "size": "40 pads",
+        "image": "/images/products/mcaffeine-salicylic-acne-pads.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "180+",
+        "reviewCount": "180+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8,
+            "evidence": 7.8,
+            "userFeedback": 8,
+            "value": 8,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Oily",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Acne",
+            "Blackheads",
+            "Oiliness"
+        ],
+        "keyActives": [
+            "Salicylic Acid (2%)",
+            "Zinc PCA",
+            "Matcha (Green Tea)"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid (2%)",
+            "Zinc PCA",
+            "Matcha (Green Tea)"
+        ],
+        "ingredients": [
+            "Salicylic Acid (2%)",
+            "Zinc PCA",
+            "Matcha (Green Tea)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Soaked Cotton Pads",
+        "finish": "Fresh",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily, acne-prone skin that wants a quick BHA step.",
+        "avoidIf": "Your skin is dry or sensitive.",
+        "whyWeLikeIt": "2% salicylic acid with zinc PCA on pre-soaked pads, at about ₹8 a pad.",
+        "pros": [
+            "2% salicylic acid",
+            "About ₹8 per pad",
+            "Easy for spot areas like the nose and chin"
+        ],
+        "cons": [
+            "Only 180+ ratings",
+            "The listing does not give a full ingredient list"
+        ],
+        "verdict": "A convenient budget BHA pad for oily skin.",
+        "alternatives": [
+            {
+                "label": "Proven Liquid",
+                "productId": "paulas-choice-2-bha-liquid",
+                "reason": "The best-known 2% BHA, used with your own pads."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "minimalist-ala-glycolic-facewash",
+        "name": "7% ALA + Glycolic Brightening Face Wash",
+        "title": "Minimalist 7% ALA + Glycolic Brightening Face Wash",
+        "brand": "Minimalist",
+        "category": "cleansers",
+        "subcategory": "AHA Face Wash",
+        "asin": "B09VLDY46B",
+        "amazonUrl": "https://www.amazon.in/dp/B09VLDY46B?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09VLDY46B?tag=oraeskin-21",
+        "badge": "Best AHA Face Wash",
+        "price": 359,
+        "priceEst": "₹359",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/minimalist-ala-glycolic-facewash.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "3,800+",
+        "reviewCount": "3,800+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.4,
+            "evidence": 7.6,
+            "userFeedback": 8,
+            "value": 8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dullness",
+            "Uneven Tone",
+            "Texture"
+        ],
+        "keyActives": [
+            "Glycolic Acid",
+            "Alpha Lipoic Acid",
+            "Panthenol",
+            "Allantoin"
+        ],
+        "keyIngredients": [
+            "Glycolic Acid",
+            "Alpha Lipoic Acid",
+            "Panthenol",
+            "Allantoin"
+        ],
+        "ingredients": [
+            "Glycolic Acid",
+            "Alpha Lipoic Acid",
+            "Panthenol",
+            "Allantoin"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel Cleanser",
+        "finish": "Clean, Non-Stripping",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dull skin that wants mild exfoliation as part of cleansing.",
+        "avoidIf": "You already use a leave-on AHA or retinoid every night.",
+        "whyWeLikeIt": "A sulphate-free, fragrance-free gel cleanser with glycolic acid, plus panthenol and allantoin to keep it gentle.",
+        "pros": [
+            "Sulphate-free and fragrance-free",
+            "Adds panthenol and allantoin",
+            "Good value"
+        ],
+        "cons": [
+            "A wash-off acid has short contact time, so results are mild",
+            "The listing does not state the glycolic acid percentage"
+        ],
+        "verdict": "A gentle way to add AHA to a routine. Expect a mild glow, not a peel.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "loreal-glycolic-bright-cleanser",
+                "reason": "A cheap, small glycolic cleanser to try."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "loreal-glycolic-bright-cleanser",
+        "name": "Glycolic Bright Daily Foaming Cleanser",
+        "title": "L'Oréal Paris Glycolic Bright Daily Foaming Face Cleanser",
+        "brand": "L'Oréal Paris",
+        "category": "cleansers",
+        "subcategory": "AHA Face Wash",
+        "asin": "B0B9RFCS5S",
+        "amazonUrl": "https://www.amazon.in/dp/B0B9RFCS5S?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B9RFCS5S?tag=oraeskin-21",
+        "badge": "Best Budget AHA Cleanser",
+        "price": 119,
+        "priceEst": "₹119",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/loreal-glycolic-bright-cleanser.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "6,100+",
+        "reviewCount": "6,100+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8,
+            "evidence": 7.2,
+            "userFeedback": 8.4,
+            "value": 8.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dullness",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Glycolic Acid",
+            "Niacinamide"
+        ],
+        "keyIngredients": [
+            "Glycolic Acid",
+            "Niacinamide"
+        ],
+        "ingredients": [
+            "Glycolic Acid",
+            "Niacinamide"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Foaming Cream",
+        "finish": "Clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Trying an AHA cleanser at low cost.",
+        "avoidIf": "You have sensitive skin or avoid fragrance.",
+        "whyWeLikeIt": "A widely available glycolic and niacinamide cleanser with 6,100+ ratings.",
+        "pros": [
+            "Only ₹119 to try",
+            "Glycolic acid and niacinamide",
+            "Widely available"
+        ],
+        "cons": [
+            "Small 50ml tube",
+            "The listing does not show the full ingredient list or fragrance status"
+        ],
+        "verdict": "An easy, low-cost way to try an AHA wash.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free Option",
+                "productId": "minimalist-ala-glycolic-facewash",
+                "reason": "A fragrance-free, sulphate-free AHA wash."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.8,
+            "overall": 8
+        }
+    },
+    {
+        "id": "reequil-fruit-aha-facewash",
+        "name": "Fruit AHA Face Wash",
+        "title": "Re'equil Fruit AHA Face Wash with Glycolic & Lactic Acid",
+        "brand": "Re'equil",
+        "category": "cleansers",
+        "subcategory": "AHA Face Wash",
+        "asin": "B0GLGCTPRC",
+        "amazonUrl": "https://www.amazon.in/dp/B0GLGCTPRC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GLGCTPRC?tag=oraeskin-21",
+        "badge": "Best AHA Wash for Pigmentation",
+        "price": 293,
+        "priceEst": "₹293",
+        "currency": "₹",
+        "size": "150ml",
+        "image": "/images/products/reequil-fruit-aha-facewash.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "3,000+",
+        "reviewCount": "3,000+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.2,
+            "evidence": 7.2,
+            "userFeedback": 8.2,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dullness",
+            "Uneven Tone",
+            "Hyperpigmentation"
+        ],
+        "keyActives": [
+            "Glycolic Acid (fruit-derived)",
+            "Lactic Acid (fruit-derived)"
+        ],
+        "keyIngredients": [
+            "Glycolic Acid (fruit-derived)",
+            "Lactic Acid (fruit-derived)"
+        ],
+        "ingredients": [
+            "Glycolic Acid (fruit-derived)",
+            "Lactic Acid (fruit-derived)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel Cleanser",
+        "finish": "Clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dull, uneven skin that wants a daily AHA cleanser in a larger tube.",
+        "avoidIf": "You want to check the full formula before buying.",
+        "whyWeLikeIt": "Combines glycolic and lactic acid in a 150ml cleanser from a brand known for gentle formulas.",
+        "pros": [
+            "Glycolic plus lactic acid",
+            "Larger 150ml tube",
+            "Good price per ml"
+        ],
+        "cons": [
+            "The listing gives no full ingredient list or acid percentage",
+            "Fruit-extract acids are usually milder than pure acids"
+        ],
+        "verdict": "A decent daily AHA wash. Minimalist is more transparent about its formula.",
+        "alternatives": [
+            {
+                "label": "More Transparent",
+                "productId": "minimalist-ala-glycolic-facewash",
+                "reason": "Lists its key actives clearly."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.6,
+            "overall": 8
+        }
+    },
+    {
+        "id": "the-ordinary-glycolic-7-toner",
+        "name": "Glycolic Acid 7% Exfoliating Toner",
+        "title": "The Ordinary Glycolic Acid 7% Exfoliating Toner",
+        "brand": "The Ordinary",
+        "category": "toners",
+        "subcategory": "AHA Toner",
+        "asin": "B0DMTDN158",
+        "amazonUrl": "https://www.amazon.in/dp/B0DMTDN158?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DMTDN158?tag=oraeskin-21",
+        "badge": "Best Glycolic Toner for Body",
+        "price": 900,
+        "priceEst": "₹900",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/the-ordinary-glycolic-7-toner.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "16,000+",
+        "reviewCount": "16,000+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8,
+            "evidence": 8.6,
+            "userFeedback": 8.8,
+            "value": 7.6,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dullness",
+            "Texture",
+            "Dark Underarms"
+        ],
+        "keyActives": [
+            "Glycolic Acid (7%)",
+            "Tasmanian Pepperberry",
+            "Aloe Vera"
+        ],
+        "keyIngredients": [
+            "Glycolic Acid (7%)",
+            "Tasmanian Pepperberry",
+            "Aloe Vera"
+        ],
+        "ingredients": [
+            "Glycolic Acid (7%)",
+            "Tasmanian Pepperberry",
+            "Aloe Vera"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Watery Toner",
+        "finish": "Slight Tingle",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Texture and dullness on the face, and darkening on underarms, knees and elbows.",
+        "avoidIf": "You have sensitive skin, eczema, or freshly shaved or waxed skin.",
+        "whyWeLikeIt": "7% glycolic acid with soothing pepperberry and aloe, rated 4.4★ by 16,000+ buyers.",
+        "pros": [
+            "7% glycolic acid",
+            "16,000+ ratings",
+            "Works on face and body"
+        ],
+        "cons": [
+            "Stings on broken or freshly shaved skin",
+            "Increases sun sensitivity, so SPF is needed on exposed areas"
+        ],
+        "verdict": "The most popular glycolic toner, and a good choice for body use.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "minimalist-glycolic-toner",
+                "reason": "A cheaper glycolic toner."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.6,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "benzac-ac-2-5-gel",
+        "name": "AC 2.5% Benzoyl Peroxide Gel",
+        "title": "Benzac AC 2.5% Benzoyl Peroxide Gel (20g)",
+        "brand": "Benzac",
+        "category": "spot-treatments",
+        "subcategory": "Benzoyl Peroxide Gel",
+        "asin": "B08TBBDRYZ",
+        "amazonUrl": "https://www.amazon.in/dp/B08TBBDRYZ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08TBBDRYZ?tag=oraeskin-21",
+        "badge": "Best Benzoyl Peroxide Gel",
+        "price": 150,
+        "priceEst": "₹150",
+        "currency": "₹",
+        "size": "20g",
+        "image": "/images/products/benzac-ac-2-5-gel.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "144",
+        "reviewCount": "144",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 7.6,
+            "evidence": 9.4,
+            "userFeedback": 8.2,
+            "value": 9.4,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Inflamed Acne",
+            "Pimples",
+            "Acne Bacteria"
+        ],
+        "keyActives": [
+            "Benzoyl Peroxide (2.5%)"
+        ],
+        "keyIngredients": [
+            "Benzoyl Peroxide (2.5%)"
+        ],
+        "ingredients": [
+            "Hydrous Benzoyl Peroxide IP eq. to Anhydrous Benzoyl Peroxide 2.5% w/w",
+            "Aqueous Gel Base",
+            "Glycerol",
+            "Acrylates Copolymer"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Water-Based Gel",
+        "finish": "Dries Clear",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Red, inflamed pimples on oily or combination skin.",
+        "avoidIf": "You have very dry or eczema-prone skin, or are pregnant and have not checked with your doctor.",
+        "whyWeLikeIt": "A plain 2.5% benzoyl peroxide gel in a glycerin base from Galderma, the lowest strength that still works well against acne bacteria.",
+        "pros": [
+            "2.5% benzoyl peroxide, the gentlest effective strength",
+            "Short, fragrance-free formula",
+            "Very cheap at ₹150"
+        ],
+        "cons": [
+            "Bleaches towels, pillowcases and clothes",
+            "Causes dryness and peeling in the first few weeks; the listing says to use it under medical supervision"
+        ],
+        "verdict": "The go-to benzoyl peroxide gel in India. Start every other night and moisturise well.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "persol-ac-2-5-gel",
+                "reason": "Another 2.5% benzoyl peroxide gel, in a larger 30g tube."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.4,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "persol-ac-2-5-gel",
+        "name": "AC 2.5 Benzoyl Peroxide Gel",
+        "title": "Persol AC 2.5% Benzoyl Peroxide Gel (30g)",
+        "brand": "Persol",
+        "category": "spot-treatments",
+        "subcategory": "Benzoyl Peroxide Gel",
+        "asin": "B0882D8J7J",
+        "amazonUrl": "https://www.amazon.in/dp/B0882D8J7J?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0882D8J7J?tag=oraeskin-21",
+        "badge": "Best Value Benzoyl Peroxide Gel",
+        "price": 102,
+        "priceEst": "₹102",
+        "currency": "₹",
+        "size": "30g",
+        "image": "/images/products/persol-ac-2-5-gel.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "209",
+        "reviewCount": "209",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 7.6,
+            "evidence": 9.4,
+            "userFeedback": 8,
+            "value": 9.6,
+            "availability": 8
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Inflamed Acne",
+            "Pimples",
+            "Acne Bacteria"
+        ],
+        "keyActives": [
+            "Benzoyl Peroxide (2.5%)"
+        ],
+        "keyIngredients": [
+            "Benzoyl Peroxide (2.5%)"
+        ],
+        "ingredients": [
+            "Benzoyl Peroxide (2.5%)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel",
+        "finish": "Dries Clear",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A low-cost 2.5% benzoyl peroxide gel for inflamed pimples.",
+        "avoidIf": "You have very dry or sensitive skin.",
+        "whyWeLikeIt": "2.5% benzoyl peroxide in a 30g tube for about ₹100, the cheapest per gram of the options we found.",
+        "pros": [
+            "2.5% benzoyl peroxide",
+            "About ₹3.4 per gram",
+            "Widely stocked by Indian pharmacies"
+        ],
+        "cons": [
+            "The listing gives only the active ingredient, not the full formula",
+            "Sold by pharmacy sellers with the note \"as directed by the physician\""
+        ],
+        "verdict": "A cheap, effective benzoyl peroxide gel. Benzac lists its full formula; Persol does not.",
+        "alternatives": [
+            {
+                "label": "Full Formula Listed",
+                "productId": "benzac-ac-2-5-gel",
+                "reason": "2.5% benzoyl peroxide with its base ingredients disclosed."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.6,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "dermaco-bpo-facewash",
+        "name": "2.5% Benzoyl Peroxide Gel Face Wash",
+        "title": "The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash with Ceramides",
+        "brand": "The Derma Co",
+        "category": "cleansers",
+        "subcategory": "Benzoyl Peroxide Wash",
+        "asin": "B0DZ7L2RD1",
+        "amazonUrl": "https://www.amazon.in/dp/B0DZ7L2RD1?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DZ7L2RD1?tag=oraeskin-21",
+        "badge": "Best Benzoyl Peroxide Face Wash",
+        "price": 252,
+        "priceEst": "₹252",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/dermaco-bpo-facewash.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "1,500+",
+        "reviewCount": "1,500+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 8.6,
+            "userFeedback": 8.2,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Inflamed Acne",
+            "Body Acne",
+            "Oiliness"
+        ],
+        "keyActives": [
+            "Benzoyl Peroxide (2.5%)",
+            "Ceramides (5 types)",
+            "Aloe Vera"
+        ],
+        "keyIngredients": [
+            "Benzoyl Peroxide (2.5%)",
+            "Ceramides (5 types)",
+            "Aloe Vera"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Decyl Glucoside",
+            "Propylene Glycol",
+            "Sodium Lauryl Sarcosinate",
+            "Cocamidopropyl Betaine",
+            "Aloe Barbadensis Leaf Extract",
+            "Glycerin",
+            "Coco-Glucoside",
+            "Benzoyl Peroxide",
+            "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+            "Cocamide MEA",
+            "Saccharide Isomerate",
+            "Laminaria Digitata Extract",
+            "Ceramide 1",
+            "Ceramide 2",
+            "Ceramide 3",
+            "Ceramide 4",
+            "Ceramide 6 II",
+            "Allantoin",
+            "Zinc Oxide",
+            "Sulphonated Shale Oil",
+            "Phenoxyethanol"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel Cleanser",
+        "finish": "Clean, Non-Stripping",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Inflamed acne on the face, chest or back, used as a short-contact wash.",
+        "avoidIf": "You use white towels you care about, or your skin is very dry.",
+        "whyWeLikeIt": "2.5% benzoyl peroxide in a mild glucoside-based cleanser with five ceramides, with the full ingredient list on the listing.",
+        "pros": [
+            "2.5% benzoyl peroxide with ceramides",
+            "Full ingredient list disclosed",
+            "1,500+ ratings at ₹252"
+        ],
+        "cons": [
+            "Will bleach towels and clothing",
+            "Contact time is short, so leave it on for 1–2 minutes before rinsing"
+        ],
+        "verdict": "The easiest way to use benzoyl peroxide without a leave-on gel.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "benzac-ac-5-wash",
+                "reason": "A 5% benzoyl peroxide wash for the back and chest."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "benzac-ac-5-wash",
+        "name": "AC 5% Gel Wash",
+        "title": "Benzac AC 5% Benzoyl Peroxide Gel Wash (100ml)",
+        "brand": "Benzac",
+        "category": "cleansers",
+        "subcategory": "Benzoyl Peroxide Wash",
+        "asin": "B0CD1RSQLT",
+        "amazonUrl": "https://www.amazon.in/dp/B0CD1RSQLT?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CD1RSQLT?tag=oraeskin-21",
+        "badge": "Best Wash for Back & Chest Acne",
+        "price": 503,
+        "priceEst": "₹503",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/benzac-ac-5-wash.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "242",
+        "reviewCount": "242",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 7.4,
+            "evidence": 9,
+            "userFeedback": 9,
+            "value": 8,
+            "availability": 8
+        },
+        "skinType": [
+            "Oily",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Body Acne",
+            "Inflamed Acne"
+        ],
+        "keyActives": [
+            "Benzoyl Peroxide (5%)"
+        ],
+        "keyIngredients": [
+            "Benzoyl Peroxide (5%)"
+        ],
+        "ingredients": [
+            "Benzoyl Peroxide (5%)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel Wash",
+        "finish": "Clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Back, chest and shoulder acne, where skin is thicker and a stronger wash is tolerated.",
+        "avoidIf": "You plan to use it daily on a sensitive face.",
+        "whyWeLikeIt": "A 5% benzoyl peroxide wash from Galderma, rated 4.5★. On the body, a wash is easier than spreading gel over a large area.",
+        "pros": [
+            "5% benzoyl peroxide",
+            "4.5★ rating",
+            "Easy to use on large areas like the back"
+        ],
+        "cons": [
+            "5% is drier than 2.5% and not needed for most facial acne",
+            "The listing gives only the active ingredient and says to use it as directed by a physician"
+        ],
+        "verdict": "A strong option for body acne. For the face, start with a 2.5% wash.",
+        "alternatives": [
+            {
+                "label": "Gentler Option",
+                "productId": "dermaco-bpo-facewash",
+                "reason": "A 2.5% benzoyl peroxide wash with ceramides."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "mario-badescu-drying-lotion",
+        "name": "Drying Lotion",
+        "title": "Mario Badescu Drying Lotion for Acne-Prone Skin (29ml)",
+        "brand": "Mario Badescu",
+        "category": "spot-treatments",
+        "subcategory": "Sulfur Drying Lotion",
+        "asin": "B0017SWIU4",
+        "amazonUrl": "https://www.amazon.in/dp/B0017SWIU4?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0017SWIU4?tag=oraeskin-21",
+        "badge": "Best-Known Drying Lotion",
+        "price": 2301,
+        "priceEst": "₹2301",
+        "currency": "₹",
+        "size": "29ml",
+        "image": "/images/products/mario-badescu-drying-lotion.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "30,500+",
+        "reviewCount": "30,500+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 7.6,
+            "evidence": 7.8,
+            "userFeedback": 9,
+            "value": 5.2,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Whiteheads",
+            "Surface Pimples"
+        ],
+        "keyActives": [
+            "Sulfur",
+            "Salicylic Acid (1%)",
+            "Calamine",
+            "Zinc Oxide"
+        ],
+        "keyIngredients": [
+            "Sulfur",
+            "Salicylic Acid (1%)",
+            "Calamine",
+            "Zinc Oxide"
+        ],
+        "ingredients": [
+            "Sulfur",
+            "Salicylic Acid (1%)",
+            "Calamine",
+            "Zinc Oxide"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": false,
+        "texture": "Two-Layer Liquid (pink sediment)",
+        "finish": "Dries to a pink dot",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Drying out a surface whitehead overnight.",
+        "avoidIf": "You have deep, under-the-skin pimples or very dry skin.",
+        "whyWeLikeIt": "Sulfur, 1% salicylic acid and zinc oxide in an alcohol base. It has over 30,000 ratings on Amazon India.",
+        "pros": [
+            "30,500+ ratings and a 4.5★ average",
+            "A tiny amount lasts months",
+            "Works fast on pimples that already have a white head"
+        ],
+        "cons": [
+            "₹2,301 for an imported 29ml bottle",
+            "The listing does not show the full ingredient list; the alcohol base can dry the skin around the spot"
+        ],
+        "verdict": "It works, but The Pink Foundry is a cheaper Indian version of the same idea.",
+        "alternatives": [
+            {
+                "label": "Budget Alternative",
+                "productId": "pink-foundry-spot-corrector",
+                "reason": "A similar sulfur and calamine lotion for ₹411."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 5.2,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "pink-foundry-spot-corrector",
+        "name": "Acne Spot Corrector",
+        "title": "The Pink Foundry Acne Spot Corrector with Salicylic Acid & Sulfur (15ml)",
+        "brand": "The Pink Foundry",
+        "category": "spot-treatments",
+        "subcategory": "Sulfur Drying Lotion",
+        "asin": "B09S6MJRTX",
+        "amazonUrl": "https://www.amazon.in/dp/B09S6MJRTX?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09S6MJRTX?tag=oraeskin-21",
+        "badge": "Best Budget Drying Lotion",
+        "price": 411,
+        "priceEst": "₹411",
+        "currency": "₹",
+        "size": "15ml",
+        "image": "/images/products/pink-foundry-spot-corrector.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "1,300+",
+        "reviewCount": "1,300+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 7.2,
+            "evidence": 7.6,
+            "userFeedback": 7.8,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Whiteheads",
+            "Surface Pimples"
+        ],
+        "keyActives": [
+            "Sulfur",
+            "Salicylic Acid",
+            "Calamine",
+            "Zinc Oxide"
+        ],
+        "keyIngredients": [
+            "Sulfur",
+            "Salicylic Acid",
+            "Calamine",
+            "Zinc Oxide"
+        ],
+        "ingredients": [
+            "Isopropyl Alcohol",
+            "Aqua",
+            "Calamine",
+            "Camphor",
+            "Glycerin",
+            "Sulphur",
+            "Zinc Oxide",
+            "Titanium Dioxide",
+            "Salicylic Acid",
+            "Talc"
+        ],
+        "fragrance": "No Added Fragrance (contains camphor)",
+        "essentialOils": false,
+        "alcoholFree": false,
+        "texture": "Two-Layer Liquid (pink sediment)",
+        "finish": "Dries to a pink dot",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A low-cost overnight drying lotion for whiteheads.",
+        "avoidIf": "You have sensitive or dry skin, as it is alcohol-based.",
+        "whyWeLikeIt": "The same sulfur, calamine and salicylic acid approach as Mario Badescu, with its full ingredient list shown, at about a fifth of the price.",
+        "pros": [
+            "Full ingredient list on the listing",
+            "About ₹27 per ml vs ₹79 for Mario Badescu",
+            "1,300+ ratings"
+        ],
+        "cons": [
+            "Isopropyl alcohol is the first ingredient, so it is drying",
+            "Lower 3.9★ average than Mario Badescu"
+        ],
+        "verdict": "A good-value drying lotion. Use only on the spot, never all over.",
+        "alternatives": [
+            {
+                "label": "Original",
+                "productId": "mario-badescu-drying-lotion",
+                "reason": "The best-known sulfur drying lotion."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "de-la-cruz-sulfur-ointment",
+        "name": "10% Sulfur Ointment",
+        "title": "De La Cruz 10% Sulfur Ointment Acne Medication (6g)",
+        "brand": "De La Cruz",
+        "category": "spot-treatments",
+        "subcategory": "Sulfur Spot Treatment",
+        "asin": "B07952C372",
+        "amazonUrl": "https://www.amazon.in/dp/B07952C372?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07952C372?tag=oraeskin-21",
+        "badge": "Best for Sensitive Skin",
+        "price": 778,
+        "priceEst": "₹778",
+        "currency": "₹",
+        "size": "6g",
+        "image": "/images/products/de-la-cruz-sulfur-ointment.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "1,400+",
+        "reviewCount": "1,400+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.2,
+            "evidence": 7.6,
+            "userFeedback": 8.2,
+            "value": 6.4,
+            "availability": 8
+        },
+        "skinType": [
+            "Sensitive",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Whiteheads",
+            "Inflamed Acne",
+            "Redness"
+        ],
+        "keyActives": [
+            "Sulfur (10%)"
+        ],
+        "keyIngredients": [
+            "Sulfur (10%)"
+        ],
+        "ingredients": [
+            "Sulfur (10%)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Ointment",
+        "finish": "Matte, Yellowish",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Spot-treating pimples on skin that reacts to alcohol-based lotions.",
+        "avoidIf": "You dislike the smell of sulfur.",
+        "whyWeLikeIt": "10% sulfur with no alcohol, fragrance, preservatives or dyes, according to the listing.",
+        "pros": [
+            "10% sulfur, no alcohol",
+            "No fragrance, preservatives or dyes",
+            "1,400+ ratings"
+        ],
+        "cons": [
+            "Only 6g for ₹778, as it is imported",
+            "Sulfur smell; the listing does not show the full ingredient list"
+        ],
+        "verdict": "A gentler sulfur option for sensitive skin, but expensive per gram.",
+        "alternatives": [
+            {
+                "label": "Cheaper Option",
+                "productId": "pink-foundry-spot-corrector",
+                "reason": "A sulfur and calamine drying lotion."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.4,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "body-shop-tea-tree-oil",
+        "name": "Tea Tree Oil",
+        "title": "The Body Shop Tea Tree Oil for Blemish-Prone Skin (10ml)",
+        "brand": "The Body Shop",
+        "category": "spot-treatments",
+        "subcategory": "Tea Tree Spot Treatment",
+        "asin": "B001N1SZF2",
+        "amazonUrl": "https://www.amazon.in/dp/B001N1SZF2?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B001N1SZF2?tag=oraeskin-21",
+        "badge": "Best Tea Tree Spot Oil",
+        "price": 476,
+        "priceEst": "₹476",
+        "currency": "₹",
+        "size": "10ml",
+        "image": "/images/products/body-shop-tea-tree-oil.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "2,500+",
+        "reviewCount": "2,500+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7,
+            "evidence": 6.6,
+            "userFeedback": 8.6,
+            "value": 7.2,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Small Pimples",
+            "Blemishes"
+        ],
+        "keyActives": [
+            "Tea Tree Oil"
+        ],
+        "keyIngredients": [
+            "Tea Tree Oil"
+        ],
+        "ingredients": [
+            "Tea Tree Oil"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": true,
+        "alcoholFree": true,
+        "texture": "Thin Liquid",
+        "finish": "Dries Quickly",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dabbing on small, early pimples if you prefer a botanical option.",
+        "avoidIf": "You have sensitive skin or a known reaction to essential oils.",
+        "whyWeLikeIt": "A ready-diluted tea tree spot oil with 2,500+ ratings, so you do not have to dilute pure oil yourself.",
+        "pros": [
+            "Ready to use, no dilution needed",
+            "Tiny bottle lasts a long time",
+            "4.3★ rating"
+        ],
+        "cons": [
+            "The listing does not show the full ingredient list or tea tree percentage",
+            "Tea tree works more slowly than benzoyl peroxide in studies"
+        ],
+        "verdict": "A convenient botanical spot treatment for mild spots, not for cystic acne.",
+        "alternatives": [
+            {
+                "label": "Cheaper Gel",
+                "productId": "indus-valley-calming-acne-gel",
+                "reason": "A tea tree gel for ₹224."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.3,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.2,
+            "overall": 7.3
+        }
+    },
+    {
+        "id": "indus-valley-calming-acne-gel",
+        "name": "Calming Acne Gel",
+        "title": "Indus Valley Calming Acne Gel with Tea Tree Oil & Seaweed (30ml)",
+        "brand": "Indus Valley",
+        "category": "spot-treatments",
+        "subcategory": "Tea Tree Spot Treatment",
+        "asin": "B0CVN1PF8Z",
+        "amazonUrl": "https://www.amazon.in/dp/B0CVN1PF8Z?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CVN1PF8Z?tag=oraeskin-21",
+        "badge": "Best Budget Tea Tree Gel",
+        "price": 224,
+        "priceEst": "₹224",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/indus-valley-calming-acne-gel.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "11,200+",
+        "reviewCount": "11,200+",
+        "scoreBreakdown": {
+            "formula": 6.4,
+            "skinSuitability": 7,
+            "evidence": 6,
+            "userFeedback": 8,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Small Pimples",
+            "Oiliness"
+        ],
+        "keyActives": [
+            "Tea Tree Oil",
+            "Seaweed Extract",
+            "Rose Water"
+        ],
+        "keyIngredients": [
+            "Tea Tree Oil",
+            "Seaweed Extract",
+            "Rose Water"
+        ],
+        "ingredients": [
+            "Rose Flower Water",
+            "Tea Tree Oil",
+            "Grapeseed Extract",
+            "Wheat Germ Oil",
+            "Seaweed Extract"
+        ],
+        "fragrance": "No Synthetic Fragrance (contains essential oil)",
+        "essentialOils": true,
+        "alcoholFree": true,
+        "texture": "Light Gel",
+        "finish": "Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A cheap, gentle botanical gel for mild spots on oily skin.",
+        "avoidIf": "You have moderate or severe acne that needs a proven active.",
+        "whyWeLikeIt": "A short botanical formula with tea tree oil and 11,200+ ratings at ₹224.",
+        "pros": [
+            "11,200+ ratings",
+            "Short ingredient list on the listing",
+            "Lightweight gel"
+        ],
+        "cons": [
+            "The tea tree percentage is not given",
+            "Wheat germ oil can feel heavy or clog pores for some people"
+        ],
+        "verdict": "Fine for mild spots, but do not expect it to match benzoyl peroxide.",
+        "alternatives": [
+            {
+                "label": "Spot Oil",
+                "productId": "body-shop-tea-tree-oil",
+                "reason": "A ready-diluted tea tree oil for dabbing on spots."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.2,
+        "scores": {
+            "formula": 6.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 7.2
+        }
+    },
+    {
+        "id": "avarelle-clear-cover-patch",
+        "name": "Clear Cover Patch with Tea Tree",
+        "title": "Avarelle Clear Cover Hydrocolloid Pimple Patch with Tea Tree & Calendula (40 Count)",
+        "brand": "Avarelle",
+        "category": "spot-treatments",
+        "subcategory": "Hydrocolloid Pimple Patch",
+        "asin": "B075QNC39Q",
+        "amazonUrl": "https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21",
+        "badge": "Most-Rated Pimple Patch",
+        "price": 799,
+        "priceEst": "₹799",
+        "currency": "₹",
+        "size": "40 patches",
+        "image": "/images/products/avarelle-clear-cover-patch.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "70,000+",
+        "reviewCount": "70,000+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.4,
+            "evidence": 7.8,
+            "userFeedback": 8.4,
+            "value": 6.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Surface Pimples",
+            "Picking"
+        ],
+        "keyActives": [
+            "Hydrocolloid",
+            "Tea Tree Oil",
+            "Calendula Oil"
+        ],
+        "keyIngredients": [
+            "Hydrocolloid",
+            "Tea Tree Oil",
+            "Calendula Oil"
+        ],
+        "ingredients": [
+            "Hydrocolloid",
+            "Tea Tree Oil",
+            "Calendula Oil"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": true,
+        "alcoholFree": true,
+        "texture": "Thin Patch",
+        "finish": "Clear",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Covering a pimple that has come to a head, so you stop picking it.",
+        "avoidIf": "Your pimple is deep with no white head; a plain patch will not reach it.",
+        "whyWeLikeIt": "A hydrocolloid patch with tea tree and calendula, rated by 70,000+ buyers.",
+        "pros": [
+            "70,000+ ratings",
+            "Thin enough to wear in the day",
+            "Stops picking and absorbs fluid"
+        ],
+        "cons": [
+            "About ₹20 a patch",
+            "The tea tree amount is not given, and the listing does not show the full ingredients"
+        ],
+        "verdict": "A trusted patch for surface pimples. The tea tree is a small extra, not the main benefit.",
+        "alternatives": [
+            {
+                "label": "Budget Patch",
+                "productId": "nua-pimple-patch",
+                "reason": "A hydrocolloid patch with salicylic acid for about ₹3 a patch."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.8,
+            "overall": 8
+        }
+    },
+    {
+        "id": "conscious-chemist-microneedle-patch",
+        "name": "Self-Dissolving Microneedle Acne Patches",
+        "title": "Conscious Chemist Self-Dissolving Microneedle Acne Patches with 2% Salicylic Acid (8 Patches)",
+        "brand": "Conscious Chemist",
+        "category": "spot-treatments",
+        "subcategory": "Microneedle Pimple Patch",
+        "asin": "B0F2277MT8",
+        "amazonUrl": "https://www.amazon.in/dp/B0F2277MT8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0F2277MT8?tag=oraeskin-21",
+        "badge": "Best Microneedle Patch",
+        "price": 297,
+        "priceEst": "₹297",
+        "currency": "₹",
+        "size": "8 patches",
+        "image": "/images/products/conscious-chemist-microneedle-patch.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "400+",
+        "reviewCount": "400+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 7.8,
+            "evidence": 7,
+            "userFeedback": 7.8,
+            "value": 7,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Blind Pimples",
+            "Inflamed Acne"
+        ],
+        "keyActives": [
+            "Salicylic Acid (2%)",
+            "Azelaic Acid",
+            "Niacinamide",
+            "Gluconolactone",
+            "Bisabolol"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid (2%)",
+            "Azelaic Acid",
+            "Niacinamide",
+            "Gluconolactone",
+            "Bisabolol"
+        ],
+        "ingredients": [
+            "Cellulose Gum",
+            "Gelatin",
+            "Aqua",
+            "Niacinamide",
+            "Trehalose",
+            "Salicylic Acid (2%)",
+            "Azelaic Acid",
+            "Gluconolactone",
+            "Bisabolol",
+            "Methylpropanediol",
+            "Epilobium Angustifolium Flower Extract",
+            "Ethylhexylglycerin"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Patch with Dissolving Microneedles",
+        "finish": "Clear",
+        "whiteCast": "Not Applicable",
+        "bestFor": "An early, painful pimple under the skin that has not come to a head.",
+        "avoidIf": "The pimple is already open or oozing; use a plain hydrocolloid patch instead.",
+        "whyWeLikeIt": "Dissolving microneedles carrying 2% salicylic acid, azelaic acid and niacinamide, with the ingredient list on the listing.",
+        "pros": [
+            "Salicylic acid, azelaic acid and niacinamide",
+            "Ingredients listed",
+            "Needles dissolve, nothing to pull out"
+        ],
+        "cons": [
+            "About ₹37 a patch",
+            "3.9★; results on deep pimples vary and evidence is mostly brand testing"
+        ],
+        "verdict": "Worth trying on a blind pimple caught early. Persistent deep cysts need a dermatologist.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "dermaco-acne-patch",
+                "reason": "Micro-tip patches with willow bark and glycolic acid, 24 per pack."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.7,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7,
+            "overall": 7.7
+        }
+    },
+    {
+        "id": "the-ordinary-pha-lip-serum",
+        "name": "PHA 5% Exfoliating Lip Serum",
+        "title": "The Ordinary PHA 5% Exfoliating Lip Serum (15ml)",
+        "brand": "The Ordinary",
+        "category": "lip-care",
+        "subcategory": "Lip Exfoliant",
+        "asin": "B0FTZCWGSK",
+        "amazonUrl": "https://www.amazon.in/dp/B0FTZCWGSK?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FTZCWGSK?tag=oraeskin-21",
+        "badge": "Best Chemical Lip Exfoliant",
+        "price": 750,
+        "priceEst": "₹750",
+        "currency": "₹",
+        "size": "15ml",
+        "image": "/images/products/the-ordinary-pha-lip-serum.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "2,000+",
+        "reviewCount": "2,000+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.6,
+            "evidence": 7.6,
+            "userFeedback": 8.4,
+            "value": 7.2,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Flaky Lips",
+            "Rough Texture",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Gluconolactone (PHA, 5%)"
+        ],
+        "keyIngredients": [
+            "Gluconolactone (PHA, 5%)"
+        ],
+        "ingredients": [
+            "Gluconolactone (PHA, 5%)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lip Serum",
+        "finish": "Soft, Hydrated",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry, flaky lips that need gentle exfoliation without scrubbing.",
+        "avoidIf": "Your lips are cracked, bleeding or have cold sores.",
+        "whyWeLikeIt": "5% gluconolactone, a gentle PHA, in a leave-on lip serum. PHAs are larger molecules than glycolic acid, so they are less likely to sting.",
+        "pros": [
+            "Gentle 5% PHA, no scrubbing",
+            "Leave-on overnight treatment",
+            "2,000+ ratings"
+        ],
+        "cons": [
+            "The Amazon listing does not show the full ingredient list",
+            "₹750, pricier than a simple balm"
+        ],
+        "verdict": "The best way to smooth flaky lips without rubbing them raw.",
+        "alternatives": [
+            {
+                "label": "Scrub Option",
+                "productId": "elf-lip-exfoliator",
+                "reason": "A gentle sugar scrub if you prefer a physical exfoliant."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.2,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "elf-lip-exfoliator",
+        "name": "Lip Exfoliator",
+        "title": "e.l.f. Lip Exfoliator Sugar Scrub with Jojoba Oil",
+        "brand": "e.l.f.",
+        "category": "lip-care",
+        "subcategory": "Lip Scrub",
+        "asin": "B0CB23VJNH",
+        "amazonUrl": "https://www.amazon.in/dp/B0CB23VJNH?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CB23VJNH?tag=oraeskin-21",
+        "badge": "Best Gentle Lip Scrub",
+        "price": 637,
+        "priceEst": "₹637",
+        "currency": "₹",
+        "size": "3g",
+        "image": "/images/products/elf-lip-exfoliator.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "890+",
+        "reviewCount": "890+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.6,
+            "evidence": 6.6,
+            "userFeedback": 9,
+            "value": 7,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Flaky Lips",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Sugar (Sucrose)",
+            "Jojoba Oil",
+            "Shea Butter",
+            "Avocado Oil"
+        ],
+        "keyIngredients": [
+            "Sugar (Sucrose)",
+            "Jojoba Oil",
+            "Shea Butter",
+            "Avocado Oil"
+        ],
+        "ingredients": [
+            "Hydrogenated Polyisobutene",
+            "Sucrose",
+            "Synthetic Wax",
+            "Fragrance (Parfum)",
+            "Microcrystalline Wax",
+            "Tocopheryl Acetate",
+            "Diethylhexyl Syringylidene Malonate",
+            "Phenoxyethanol",
+            "Caprylyl Glycol",
+            "Caprylic/Capric Triglyceride",
+            "Grape Seed Oil",
+            "Jojoba Seed Oil",
+            "Avocado Oil",
+            "Shea Butter"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Sugar Scrub Stick",
+        "finish": "Smooth",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Buffing off dry flakes once or twice a week before lipstick.",
+        "avoidIf": "Your lips are cracked or sensitive to fragrance.",
+        "whyWeLikeIt": "Fine sugar in an oil and wax base, so it melts as you rub rather than scratching like walnut shell scrubs.",
+        "pros": [
+            "Sugar dissolves, so it is gentler than shell scrubs",
+            "Easy stick format",
+            "4.5★ rating"
+        ],
+        "cons": [
+            "Contains added fragrance",
+            "Physical scrubbing can irritate if overdone; once or twice a week is enough"
+        ],
+        "verdict": "A pleasant, gentle scrub. Use lightly and follow with a balm.",
+        "alternatives": [
+            {
+                "label": "No-Scrub Option",
+                "productId": "the-ordinary-pha-lip-serum",
+                "reason": "A leave-on PHA serum that exfoliates without rubbing."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.5,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7,
+            "overall": 7.5
+        }
+    },
+    {
+        "id": "aquaphor-lip-repair",
+        "name": "Lip Repair",
+        "title": "Aquaphor Lip Repair (10ml)",
+        "brand": "Aquaphor",
+        "category": "lip-care",
+        "subcategory": "Repair Lip Balm",
+        "asin": "B004FHZKOA",
+        "amazonUrl": "https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21",
+        "badge": "Best for Cracked Lips",
+        "price": 479,
+        "priceEst": "₹479",
+        "currency": "₹",
+        "size": "10ml",
+        "image": "/images/products/aquaphor-lip-repair.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "43,000+",
+        "reviewCount": "43,000+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 9,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 7.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Cracked Lips",
+            "Chapped Lips",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Shea Butter",
+            "Panthenol",
+            "Glycerin",
+            "Bisabolol",
+            "Castor Oil"
+        ],
+        "keyIngredients": [
+            "Shea Butter",
+            "Panthenol",
+            "Glycerin",
+            "Bisabolol",
+            "Castor Oil"
+        ],
+        "ingredients": [
+            "Octyldodecanol",
+            "C18-38 Alkyl Hydroxystearoyl Stearate",
+            "Ricinus Communis (Castor) Seed Oil",
+            "Caprylic/Capric Triglyceride",
+            "Glycerin",
+            "Panthenol",
+            "Bis-Diglyceryl Polyacyladipate-2",
+            "Water",
+            "Polyglyceryl-3 Diisostearate",
+            "Butyrospermum Parkii (Shea) Butter",
+            "Hydrogenated Castor Oil",
+            "Tocopherol",
+            "Tocopheryl Acetate",
+            "Sodium Ascorbyl Phosphate",
+            "Bisabolol",
+            "Beeswax",
+            "C20-40 Alkyl Stearate",
+            "Magnesium Stearate",
+            "Magnesium Sulfate"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Soft Balm (tube)",
+        "finish": "Glossy, Cushioned",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Painfully dry, cracked or peeling lips, and dry mouth corners.",
+        "avoidIf": "You avoid beeswax.",
+        "whyWeLikeIt": "A fragrance-free repair balm with panthenol, glycerin, shea butter and bisabolol, rated by 43,000+ buyers.",
+        "pros": [
+            "Fragrance-free, made for sensitive lips",
+            "Panthenol and bisabolol to soothe",
+            "43,000+ ratings"
+        ],
+        "cons": [
+            "No SPF, so pair with an SPF balm in the day",
+            "Contains beeswax, so not vegan"
+        ],
+        "verdict": "Our top pick for cracked, sore lips.",
+        "alternatives": [
+            {
+                "label": "Daytime Option",
+                "productId": "minimalist-spf30-lipbalm",
+                "reason": "A ceramide lip balm with SPF 30."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.6,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "elf-glow-reviver-lip-oil",
+        "name": "Glow Reviver Lip Oil",
+        "title": "e.l.f. Glow Reviver Tinted Lip Oil with Jojoba",
+        "brand": "e.l.f.",
+        "category": "lip-care",
+        "subcategory": "Lip Oil",
+        "asin": "B0CMJZ8G6Y",
+        "amazonUrl": "https://www.amazon.in/dp/B0CMJZ8G6Y?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CMJZ8G6Y?tag=oraeskin-21",
+        "badge": "Best Tinted Lip Oil",
+        "price": 875,
+        "priceEst": "₹875",
+        "currency": "₹",
+        "size": "7.6ml",
+        "image": "/images/products/elf-glow-reviver-lip-oil.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "27,000+",
+        "reviewCount": "27,000+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.2,
+            "evidence": 6.6,
+            "userFeedback": 9,
+            "value": 7,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dryness",
+            "Dull Lips"
+        ],
+        "keyActives": [
+            "Jojoba Oil",
+            "Apricot Oil",
+            "Avocado Oil",
+            "Pomegranate Oil"
+        ],
+        "keyIngredients": [
+            "Jojoba Oil",
+            "Apricot Oil",
+            "Avocado Oil",
+            "Pomegranate Oil"
+        ],
+        "ingredients": [
+            "Jojoba Oil",
+            "Apricot Oil",
+            "Avocado Oil",
+            "Pomegranate Oil"
+        ],
+        "fragrance": "Added Fragrance (mint)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lip Oil",
+        "finish": "High-Shine, Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A glossy, sheer tint that does not feel sticky.",
+        "avoidIf": "You react to mint or fragrance on lips.",
+        "whyWeLikeIt": "A sheer tinted oil with jojoba, apricot and avocado oils and a big applicator, rated 4.5★ by 27,000+ buyers.",
+        "pros": [
+            "27,000+ ratings and 4.5★",
+            "Non-sticky, high shine",
+            "Sheer, buildable tint"
+        ],
+        "cons": [
+            "Mint scent; the listing does not show the full ingredient list",
+            "A gloss, not a treatment, so very dry lips still need a balm"
+        ],
+        "verdict": "The most-loved lip oil on Amazon India for shine without stickiness.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "swiss-beauty-dip-tint-lip-oil",
+                "reason": "A ₹215 colour-changing lip oil."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "laneige-glaze-craze-lip-serum",
+        "name": "Glaze Craze Tinted Lip Serum",
+        "title": "Laneige Glaze Craze Tinted Lip Serum with Peptides & Ceramides",
+        "brand": "Laneige",
+        "category": "lip-care",
+        "subcategory": "Lip Oil",
+        "asin": "B0DSLX4G4Q",
+        "amazonUrl": "https://www.amazon.in/dp/B0DSLX4G4Q?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DSLX4G4Q?tag=oraeskin-21",
+        "badge": "Best Treatment Lip Gloss",
+        "price": 977,
+        "priceEst": "₹977",
+        "currency": "₹",
+        "size": "12g",
+        "image": "/images/products/laneige-glaze-craze-lip-serum.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "6,100+",
+        "reviewCount": "6,100+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.2,
+            "evidence": 6.8,
+            "userFeedback": 8.8,
+            "value": 6.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dryness",
+            "Dull Lips"
+        ],
+        "keyActives": [
+            "Polypeptides",
+            "Ceramides"
+        ],
+        "keyIngredients": [
+            "Polypeptides",
+            "Ceramides"
+        ],
+        "ingredients": [
+            "Polypeptides",
+            "Ceramides"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Glossy Serum",
+        "finish": "High-Shine, Plush",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A glossy tint that also feels conditioning.",
+        "avoidIf": "You want a fragrance-free option or a budget pick.",
+        "whyWeLikeIt": "A tinted lip serum with peptides and ceramides, rated 4.4★ by 6,100+ buyers.",
+        "pros": [
+            "Peptides and ceramides in a gloss",
+            "Comfortable, plush feel",
+            "4.4★ rating"
+        ],
+        "cons": [
+            "₹977, the most expensive here",
+            "The listing does not show the full ingredients or fragrance status"
+        ],
+        "verdict": "A treat-yourself gloss that is kinder to dry lips than most.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "elf-glow-reviver-lip-oil",
+                "reason": "A cheaper, well-rated tinted lip oil."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.6,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "swiss-beauty-dip-tint-lip-oil",
+        "name": "Dip Tint Lip Oil",
+        "title": "Swiss Beauty Dip Tint Colour-Changing Lip Oil (3ml)",
+        "brand": "Swiss Beauty",
+        "category": "lip-care",
+        "subcategory": "Lip Oil",
+        "asin": "B0CXXP862S",
+        "amazonUrl": "https://www.amazon.in/dp/B0CXXP862S?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CXXP862S?tag=oraeskin-21",
+        "badge": "Best Budget Lip Oil",
+        "price": 215,
+        "priceEst": "₹215",
+        "currency": "₹",
+        "size": "3ml",
+        "image": "/images/products/swiss-beauty-dip-tint-lip-oil.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "900+",
+        "reviewCount": "900+",
+        "scoreBreakdown": {
+            "formula": 6.4,
+            "skinSuitability": 7.4,
+            "evidence": 6,
+            "userFeedback": 8.2,
+            "value": 8.2,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dull Lips"
+        ],
+        "keyActives": [
+            "Polyisobutene (gloss base)",
+            "Caprylic/Capric Triglyceride",
+            "pH-Reactive Dyes"
+        ],
+        "keyIngredients": [
+            "Polyisobutene (gloss base)",
+            "Caprylic/Capric Triglyceride",
+            "pH-Reactive Dyes"
+        ],
+        "ingredients": [
+            "Hydrogenated Polydecene",
+            "Polyisobutene",
+            "Caprylic/Capric Triglyceride",
+            "Hydrogenated Styrene/Isoprene Copolymer",
+            "Parfum (Fragrance)",
+            "Pentaerythrityl Tetra-Di-t-Butyl Hydroxyhydrocinnamate",
+            "Polyglyceryl-2 Triisostearate",
+            "Diisostearyl Malate",
+            "Polyglyceryl-2 Diisostearate",
+            "CI 15850",
+            "CI 45410",
+            "CI 42090",
+            "CI 19140",
+            "CI 15985"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lip Oil",
+        "finish": "Glossy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A cheap, glossy pink tint for everyday wear.",
+        "avoidIf": "You want plant oils that condition the lips.",
+        "whyWeLikeIt": "A ₹215 colour-changing gloss, with the full ingredient list on the listing.",
+        "pros": [
+            "Only ₹215",
+            "Full ingredient list disclosed",
+            "Sheer, natural-looking pink"
+        ],
+        "cons": [
+            "Mostly synthetic gloss base, not nourishing plant oils",
+            "Added fragrance and several dyes"
+        ],
+        "verdict": "Fine for shine on a budget, but it is a cosmetic gloss, not lip care.",
+        "alternatives": [
+            {
+                "label": "Better Formula",
+                "productId": "elf-glow-reviver-lip-oil",
+                "reason": "A tinted oil with jojoba, apricot and avocado oils."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.2,
+        "scores": {
+            "formula": 6.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.2,
+            "overall": 7.2
+        }
+    },
+    {
+        "id": "plum-candy-melts-lip-balm",
+        "name": "Candy Melts Vegan Lip Balm",
+        "title": "Plum Candy Melts Vegan Tinted Lip Balm (Red Velvet Love)",
+        "brand": "Plum",
+        "category": "lip-care",
+        "subcategory": "Natural Lip Balm",
+        "asin": "B08MC5MJ33",
+        "amazonUrl": "https://www.amazon.in/dp/B08MC5MJ33?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08MC5MJ33?tag=oraeskin-21",
+        "badge": "Best Vegan Lip Balm",
+        "price": 250,
+        "priceEst": "₹250",
+        "currency": "₹",
+        "size": "12g",
+        "image": "/images/products/plum-candy-melts-lip-balm.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "7,200+",
+        "reviewCount": "7,200+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8,
+            "evidence": 6.6,
+            "userFeedback": 8.4,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dryness",
+            "Chapped Lips"
+        ],
+        "keyActives": [
+            "Castor Oil",
+            "Cocoa Butter",
+            "Shea Butter",
+            "Olive Oil",
+            "Carnauba Wax"
+        ],
+        "keyIngredients": [
+            "Castor Oil",
+            "Cocoa Butter",
+            "Shea Butter",
+            "Olive Oil",
+            "Carnauba Wax"
+        ],
+        "ingredients": [
+            "Ricinus Communis (Castor) Seed Oil",
+            "Hydrogenated Soy Polyglycerides",
+            "C15-23 Alkane",
+            "Sorbitan Olivate",
+            "Polyamide-8",
+            "Flavor",
+            "Cetearyl Alcohol",
+            "Olive Oil PEG-7 Esters",
+            "Theobroma Cacao (Cocoa) Seed Butter",
+            "Butyrospermum Parkii (Shea) Butter",
+            "Olea Europaea (Olive) Oil",
+            "Copernicia Cerifera (Carnauba) Wax",
+            "Daucus Carota Sativa (Carrot) Seed Oil",
+            "Tocopheryl Acetate"
+        ],
+        "fragrance": "Added Flavour",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Tinted Balm Stick",
+        "finish": "Soft Tint",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A vegan, petroleum-free everyday balm with a hint of colour.",
+        "avoidIf": "You need sun protection; carrot seed oil is not an SPF.",
+        "whyWeLikeIt": "Plant oils and butters with carnauba wax instead of beeswax or petroleum, rated by 7,200+ buyers.",
+        "pros": [
+            "Vegan: no beeswax or petroleum",
+            "Full ingredient list disclosed",
+            "7,200+ ratings"
+        ],
+        "cons": [
+            "Contains added flavour",
+            "The listing mentions natural UV protection from carrot seed oil, but there is no SPF rating"
+        ],
+        "verdict": "A good petroleum-free, vegan daily balm. Add an SPF balm when outdoors.",
+        "alternatives": [
+            {
+                "label": "Organic Option",
+                "productId": "juicy-chemistry-lip-balm",
+                "reason": "A certified-organic balm, though it contains beeswax."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "juicy-chemistry-lip-balm",
+        "name": "Organic Lip Balm with Blood Orange & Rosehip",
+        "title": "Juicy Chemistry Organic Lip Balm with Blood Orange & Rosehip (5g)",
+        "brand": "Juicy Chemistry",
+        "category": "lip-care",
+        "subcategory": "Natural Lip Balm",
+        "asin": "B01N2LYRWX",
+        "amazonUrl": "https://www.amazon.in/dp/B01N2LYRWX?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01N2LYRWX?tag=oraeskin-21",
+        "badge": "Best Organic Lip Balm",
+        "price": 239,
+        "priceEst": "₹239",
+        "currency": "₹",
+        "size": "5g",
+        "image": "/images/products/juicy-chemistry-lip-balm.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "4,500+",
+        "reviewCount": "4,500+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 7.6,
+            "evidence": 6.4,
+            "userFeedback": 8.2,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dryness",
+            "Chapped Lips"
+        ],
+        "keyActives": [
+            "Apricot Kernel Oil",
+            "Castor Oil",
+            "Rosehip Oil",
+            "Jojoba Oil",
+            "Cocoa Butter",
+            "Shea Butter"
+        ],
+        "keyIngredients": [
+            "Apricot Kernel Oil",
+            "Castor Oil",
+            "Beeswax",
+            "Rosehip Oil",
+            "Jojoba Oil",
+            "Blood Orange Oil",
+            "Cocoa Butter",
+            "Shea Butter"
+        ],
+        "ingredients": [
+            "Apricot Kernel Oil",
+            "Castor Oil",
+            "Beeswax",
+            "Rosehip Oil",
+            "Jojoba Oil",
+            "Blood Orange Oil",
+            "Cocoa Butter",
+            "Shea Butter"
+        ],
+        "fragrance": "Essential Oil (blood orange)",
+        "essentialOils": true,
+        "alcoholFree": true,
+        "texture": "Balm",
+        "finish": "Glossy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Anyone who wants a certified-organic, petroleum-free balm.",
+        "avoidIf": "You are vegan (it has beeswax) or react to citrus oils.",
+        "whyWeLikeIt": "Organic plant oils and butters with no petroleum or synthetic fragrance.",
+        "pros": [
+            "Petroleum-free, certified-organic oils",
+            "4,500+ ratings",
+            "Rich, buttery texture"
+        ],
+        "cons": [
+            "Contains beeswax, so not vegan",
+            "Blood orange essential oil can irritate sensitive lips"
+        ],
+        "verdict": "A good organic balm, but not vegan and not for citrus-sensitive lips.",
+        "alternatives": [
+            {
+                "label": "Vegan Option",
+                "productId": "plum-candy-melts-lip-balm",
+                "reason": "A vegan balm with carnauba wax instead of beeswax."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.6,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.6
+        }
+    },
+    {
+        "id": "forest-essentials-rose-lip-balm",
+        "name": "Rose Lip Balm",
+        "title": "Forest Essentials Rose Lip Balm with Kokum Butter (4g)",
+        "brand": "Forest Essentials",
+        "category": "lip-care",
+        "subcategory": "Natural Lip Balm",
+        "asin": "B00V4JP4PM",
+        "amazonUrl": "https://www.amazon.in/dp/B00V4JP4PM?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00V4JP4PM?tag=oraeskin-21",
+        "badge": "Best Premium Natural Lip Balm",
+        "price": 850,
+        "priceEst": "₹850",
+        "currency": "₹",
+        "size": "4g",
+        "image": "/images/products/forest-essentials-rose-lip-balm.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "1,100+",
+        "reviewCount": "1,100+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.6,
+            "evidence": 6,
+            "userFeedback": 8.4,
+            "value": 5.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dryness",
+            "Chapped Lips"
+        ],
+        "keyActives": [
+            "Kokum Butter",
+            "Rose Petal Concentrate",
+            "Honey"
+        ],
+        "keyIngredients": [
+            "Kokum Butter",
+            "Rose Petal Concentrate",
+            "Honey"
+        ],
+        "ingredients": [
+            "Kokum Butter",
+            "Rose Petal Concentrate",
+            "Honey"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Balm (tin)",
+        "finish": "Soft Sheen",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Gifting, or a luxury Ayurvedic balm.",
+        "avoidIf": "You are vegan (it contains honey) or on a budget.",
+        "whyWeLikeIt": "A petroleum-free Ayurvedic balm with kokum butter and rose, from a well-known Indian brand.",
+        "pros": [
+            "Petroleum-free",
+            "Kokum butter is a rich, non-greasy butter",
+            "4.2★ from 1,100+ ratings"
+        ],
+        "cons": [
+            "₹850 for 4g, over ₹200 per gram",
+            "The listing does not show the full ingredient list"
+        ],
+        "verdict": "Lovely but expensive. Plum or Juicy Chemistry give similar results for much less.",
+        "alternatives": [
+            {
+                "label": "Better Value",
+                "productId": "juicy-chemistry-lip-balm",
+                "reason": "A petroleum-free organic balm for ₹239."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.2,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 5.6,
+            "overall": 7.2
+        }
+    },
+    {
+        "id": "deconstruct-tinted-lip-balm-spf50",
+        "name": "Brightening Tinted Lip Balm SPF 50",
+        "title": "Deconstruct Brightening Tinted Lip Balm SPF 50",
+        "brand": "Deconstruct",
+        "category": "lip-care",
+        "subcategory": "Tinted SPF Lip Balm",
+        "asin": "B0F3XJ3JTV",
+        "amazonUrl": "https://www.amazon.in/dp/B0F3XJ3JTV?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0F3XJ3JTV?tag=oraeskin-21",
+        "badge": "Best Tinted SPF Lip Balm",
+        "price": 229,
+        "priceEst": "₹229",
+        "currency": "₹",
+        "size": "4g",
+        "image": "/images/products/deconstruct-tinted-lip-balm-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "1,500+",
+        "reviewCount": "1,500+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 7.8,
+            "userFeedback": 8.6,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Lip Pigmentation",
+            "Sun Damage",
+            "Dryness"
+        ],
+        "keyActives": [
+            "SPF 50 (Octocrylene, Octinoxate, Avobenzone)",
+            "Vitamin C (1%)",
+            "Shea & Cocoa Butter"
+        ],
+        "keyIngredients": [
+            "SPF 50 (Octocrylene, Octinoxate, Avobenzone)",
+            "Vitamin C (1%)",
+            "Shea & Cocoa Butter"
+        ],
+        "ingredients": [
+            "Ricinus Communis Seed Oil",
+            "Octocrylene",
+            "Isopropyl Myristate",
+            "Octyl Methoxycinnamate",
+            "Caprylic/Capric Triglyceride",
+            "Carnauba Wax",
+            "Ozokerite",
+            "Candelilla Wax",
+            "Microcrystalline Wax",
+            "Dicaprylyl Carbonate",
+            "Butyl Methoxydibenzoylmethane",
+            "Sunflower Seed Oil",
+            "Cocoa Seed Butter",
+            "Sweet Almond Oil",
+            "Shea Butter",
+            "Mango Butter"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Tinted Balm Stick",
+        "finish": "Sheer Tint",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Daily sun protection with a light tint for college or office.",
+        "avoidIf": "You want a strong colour payoff.",
+        "whyWeLikeIt": "SPF 50 from three disclosed UV filters plus 1% vitamin C and plant butters, in a sheer tint.",
+        "pros": [
+            "SPF 50 with filters named on the listing",
+            "Sheer tint suits most skin tones",
+            "1,500+ ratings at ₹229"
+        ],
+        "cons": [
+            "Sheer tint, so not a lipstick replacement",
+            "Reapply after eating or drinking, like any lip SPF"
+        ],
+        "verdict": "A reliable tinted SPF lip balm for every day.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "wishcare-tinted-lip-balm-spf50",
+                "reason": "Another tinted SPF 50 balm with 15,000+ ratings."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "dotkey-meltie-lip-balm-spf50",
+        "name": "Meltie Lip Balm SPF 50+",
+        "title": "Dot & Key Meltie Tinted Lip Balm SPF 50+ with Kojic & Vitamin C",
+        "brand": "Dot & Key",
+        "category": "lip-care",
+        "subcategory": "Tinted SPF Lip Balm",
+        "asin": "B0FNN8WXTM",
+        "amazonUrl": "https://www.amazon.in/dp/B0FNN8WXTM?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FNN8WXTM?tag=oraeskin-21",
+        "badge": "Best Berry Tint with SPF",
+        "price": 236,
+        "priceEst": "₹236",
+        "currency": "₹",
+        "size": "4g",
+        "image": "/images/products/dotkey-meltie-lip-balm-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "3,100+",
+        "reviewCount": "3,100+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 7.8,
+            "evidence": 7.2,
+            "userFeedback": 8.6,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Lip Pigmentation",
+            "Sun Damage",
+            "Dryness"
+        ],
+        "keyActives": [
+            "SPF 50+",
+            "Kojic Acid (2%)",
+            "Vitamin C"
+        ],
+        "keyIngredients": [
+            "SPF 50+",
+            "Kojic Acid (2%)",
+            "Vitamin C"
+        ],
+        "ingredients": [
+            "SPF 50+",
+            "Kojic Acid (2%)",
+            "Vitamin C"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Tinted Balm Stick",
+        "finish": "Sheer Berry Tint",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A berry-tinted SPF balm for daily wear.",
+        "avoidIf": "You want to check the UV filters before buying.",
+        "whyWeLikeIt": "SPF 50+ with kojic acid and vitamin C in a tinted balm, rated by 3,100+ buyers.",
+        "pros": [
+            "SPF 50+",
+            "Tinted, with several shades",
+            "3,100+ ratings"
+        ],
+        "cons": [
+            "The listing does not show the ingredient list or UV filters",
+            "Kojic acid can irritate sensitive lips"
+        ],
+        "verdict": "A popular tinted SPF balm, but Deconstruct is more transparent about its formula.",
+        "alternatives": [
+            {
+                "label": "More Transparent",
+                "productId": "deconstruct-tinted-lip-balm-spf50",
+                "reason": "Lists its UV filters on the listing."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 8
+        }
+    },
+    {
+        "id": "neutrogena-norwegian-hand-cream",
+        "name": "Norwegian Formula Concentrated Hand Cream (Fragrance-Free)",
+        "title": "Neutrogena Norwegian Formula Concentrated Hand Cream, Fragrance-Free (50ml)",
+        "brand": "Neutrogena",
+        "category": "body-care",
+        "subcategory": "Hand Cream",
+        "asin": "B0006SQ9CE",
+        "amazonUrl": "https://www.amazon.in/dp/B0006SQ9CE?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0006SQ9CE?tag=oraeskin-21",
+        "badge": "Best Hand Cream for Dry Hands",
+        "price": 449,
+        "priceEst": "₹449",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/neutrogena-norwegian-hand-cream.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "5,900+",
+        "reviewCount": "5,900+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 9,
+            "evidence": 8.4,
+            "userFeedback": 9,
+            "value": 8,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "Sensitive",
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dry Hands",
+            "Cracked Skin",
+            "Frequent Washing"
+        ],
+        "keyActives": [
+            "Glycerin (high concentration)"
+        ],
+        "keyIngredients": [
+            "Glycerin (high concentration)"
+        ],
+        "ingredients": [
+            "Glycerin (high concentration)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Thick, Concentrated Cream",
+        "finish": "Slightly Tacky, then Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Very dry hands from frequent washing, sanitiser or housework.",
+        "avoidIf": "You dislike a slightly tacky feel right after applying.",
+        "whyWeLikeIt": "A classic, fragrance-free, glycerin-rich hand cream. A small amount goes a long way.",
+        "pros": [
+            "Fragrance-free, suits sensitive and eczema-prone hands",
+            "Very concentrated, a pea-sized amount is enough",
+            "4.5★ from 5,900+ ratings"
+        ],
+        "cons": [
+            "Feels tacky for a minute or two",
+            "The listing only names glycerin, not the full ingredient list"
+        ],
+        "verdict": "The reliable classic for dry, washed-out hands.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "charmis-hand-cream",
+                "reason": "A large 150g tube for ₹170."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.7,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 8.7
+        }
+    },
+    {
+        "id": "okeeffes-working-hands",
+        "name": "Working Hands Hand Cream",
+        "title": "O'Keeffe's Working Hands Hand Cream for Extremely Dry, Cracked Hands (100ml)",
+        "brand": "O'Keeffe's",
+        "category": "body-care",
+        "subcategory": "Hand Cream",
+        "asin": "B00121UVU0",
+        "amazonUrl": "https://www.amazon.in/dp/B00121UVU0?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00121UVU0?tag=oraeskin-21",
+        "badge": "Best for Cracked Hands",
+        "price": 1195,
+        "priceEst": "₹1195",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/okeeffes-working-hands.jpg",
+        "amazonRating": 4.7,
+        "rating": 4.7,
+        "amazonReviews": "79,000+",
+        "reviewCount": "79,000+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 8,
+            "userFeedback": 9.4,
+            "value": 6.8,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Dry",
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Cracked Skin",
+            "Dry Hands",
+            "Rough Knuckles"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Protective Barrier Layer"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Protective Barrier Layer"
+        ],
+        "ingredients": [
+            "Glycerin",
+            "Protective Barrier Layer"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Thick Cream (jar)",
+        "finish": "Non-Greasy Barrier",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Split, cracked fingertips and knuckles from manual work or winter.",
+        "avoidIf": "You want a budget option; it is imported.",
+        "whyWeLikeIt": "A concentrated barrier cream made for cracked working hands, with 79,000+ ratings and a 4.7★ average.",
+        "pros": [
+            "4.7★ from 79,000+ ratings",
+            "Forms a long-lasting protective layer",
+            "Best applied at night for cracked skin"
+        ],
+        "cons": [
+            "₹1,195 because it is imported",
+            "The listing does not show the ingredient list"
+        ],
+        "verdict": "Excellent for cracked hands, but pricey in India.",
+        "alternatives": [
+            {
+                "label": "Cheaper Option",
+                "productId": "neutrogena-norwegian-hand-cream",
+                "reason": "A fragrance-free concentrated hand cream for ₹449."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "charmis-hand-cream",
+        "name": "Vit C & Hyaluronic Hand Cream",
+        "title": "Charmis Vitamin C & Hyaluronic Hand Cream (150g)",
+        "brand": "Charmis",
+        "category": "body-care",
+        "subcategory": "Hand Cream",
+        "asin": "B08PVDWT4Q",
+        "amazonUrl": "https://www.amazon.in/dp/B08PVDWT4Q?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08PVDWT4Q?tag=oraeskin-21",
+        "badge": "Best Budget Hand Cream",
+        "price": 170,
+        "priceEst": "₹170",
+        "currency": "₹",
+        "size": "150g",
+        "image": "/images/products/charmis-hand-cream.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "2,100+",
+        "reviewCount": "2,100+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7.6,
+            "evidence": 6.4,
+            "userFeedback": 8.4,
+            "value": 9.4,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Dry Hands"
+        ],
+        "keyActives": [
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "ingredients": [
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Cream",
+        "finish": "Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Everyday use after washing hands, on a budget.",
+        "avoidIf": "Your hands are badly cracked; it is a light cream.",
+        "whyWeLikeIt": "A large 150g tube of light, non-sticky hand cream for ₹170.",
+        "pros": [
+            "150g for ₹170",
+            "Light and non-sticky",
+            "2,100+ ratings"
+        ],
+        "cons": [
+            "The listing names only vitamin C and hyaluronic acid, not the full formula",
+            "Too light for cracked skin"
+        ],
+        "verdict": "Great value for everyday use, not a repair cream.",
+        "alternatives": [
+            {
+                "label": "Richer Option",
+                "productId": "neutrogena-norwegian-hand-cream",
+                "reason": "A concentrated cream for very dry hands."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.6,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.4,
+            "overall": 7.6
+        }
+    },
+    {
+        "id": "fixderma-hand-cream",
+        "name": "Hand Cream with Cocoa Butter",
+        "title": "Fixderma Hand Cream with Cocoa Butter & Sea Buckthorn (30g)",
+        "brand": "Fixderma",
+        "category": "body-care",
+        "subcategory": "Hand Cream",
+        "asin": "B0CG5L3VZG",
+        "amazonUrl": "https://www.amazon.in/dp/B0CG5L3VZG?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CG5L3VZG?tag=oraeskin-21",
+        "badge": "Best Hand Cream for Cuticles",
+        "price": 192,
+        "priceEst": "₹192",
+        "currency": "₹",
+        "size": "30g",
+        "image": "/images/products/fixderma-hand-cream.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "1,000+",
+        "reviewCount": "1,000+",
+        "scoreBreakdown": {
+            "formula": 7.2,
+            "skinSuitability": 7.8,
+            "evidence": 6.4,
+            "userFeedback": 8.2,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Dry Hands",
+            "Dry Cuticles"
+        ],
+        "keyActives": [
+            "Cocoa Butter",
+            "Sea Buckthorn Oil",
+            "Bakuchiol",
+            "Biotin"
+        ],
+        "keyIngredients": [
+            "Cocoa Butter",
+            "Sea Buckthorn Oil",
+            "Bakuchiol",
+            "Biotin"
+        ],
+        "ingredients": [
+            "Cocoa Butter",
+            "Sea Buckthorn Oil",
+            "Bakuchiol",
+            "Biotin"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Cream",
+        "finish": "Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry knuckles and flaky cuticles.",
+        "avoidIf": "You want a large tube; this is 30g.",
+        "whyWeLikeIt": "Cocoa butter and sea buckthorn oil in a small, handbag-friendly tube.",
+        "pros": [
+            "Cocoa butter for richer moisture",
+            "Good for massaging into cuticles",
+            "Small, portable tube"
+        ],
+        "cons": [
+            "Only 30g",
+            "The listing names only four ingredients"
+        ],
+        "verdict": "A handy, budget cuticle and knuckle cream.",
+        "alternatives": [
+            {
+                "label": "Bigger Tube",
+                "productId": "charmis-hand-cream",
+                "reason": "A 150g everyday hand cream."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.6,
+        "scores": {
+            "formula": 7.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.6
+        }
+    },
+    {
+        "id": "bebodywise-urea-foot-roll-on",
+        "name": "20% Urea Foot Cream Roll-On",
+        "title": "Be Bodywise 20% Urea Foot Cream Roll-On with 2% Lactic Acid (50ml)",
+        "brand": "Be Bodywise",
+        "category": "body-care",
+        "subcategory": "Foot Cream",
+        "asin": "B09W5Q9ZPZ",
+        "amazonUrl": "https://www.amazon.in/dp/B09W5Q9ZPZ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09W5Q9ZPZ?tag=oraeskin-21",
+        "badge": "Best Urea Foot Cream",
+        "price": 399,
+        "priceEst": "₹399",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/bebodywise-urea-foot-roll-on.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "2,900+",
+        "reviewCount": "2,900+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 8.4,
+            "evidence": 8.6,
+            "userFeedback": 8.8,
+            "value": 7.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Cracked Heels",
+            "Calluses",
+            "Dry Feet"
+        ],
+        "keyActives": [
+            "Urea (20%)",
+            "Lactic Acid (2%)",
+            "Salicylic Acid",
+            "Olive Oil"
+        ],
+        "keyIngredients": [
+            "Urea (20%)",
+            "Lactic Acid (2%)",
+            "Salicylic Acid",
+            "Olive Oil"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Urea",
+            "Disodium EDTA",
+            "Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20",
+            "Glyceryl Stearate",
+            "Cetostearyl Alcohol",
+            "Cetyl Palmitate",
+            "Stearic Acid",
+            "PEG-100 Stearate",
+            "Isopropyl Myristate",
+            "Olea Europaea (Olive) Fruit Oil",
+            "Caprylic/Capric Triglyceride",
+            "Phenoxyethanol (and) Ethylhexylglycerin",
+            "Lactic Acid",
+            "Tocopheryl Acetate",
+            "Glycerin",
+            "Salicylic Acid",
+            "Perfume",
+            "Menthol"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Roll-On Cream",
+        "finish": "Absorbs Quickly",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Cracked heels and hard, thick skin on the feet.",
+        "avoidIf": "Your heel cracks are deep and bleeding; let them heal first.",
+        "whyWeLikeIt": "20% urea with lactic and salicylic acid softens hard heel skin, in a mess-free roll-on with its full ingredient list.",
+        "pros": [
+            "20% urea plus lactic acid",
+            "Full ingredient list disclosed",
+            "Mess-free roll-on"
+        ],
+        "cons": [
+            "Contains perfume and menthol, which can sting open cracks",
+            "50ml goes quickly if you have very cracked heels"
+        ],
+        "verdict": "The best urea foot cream we found for cracked heels.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "cureskin-urea-foot-cream",
+                "reason": "A 10% urea foot cream for ₹145."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.8,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "fixderma-foobetik-cream",
+        "name": "Foobetik Foot Cream",
+        "title": "Fixderma Foobetik Foot Cream for Dry & Cracked Feet (50g)",
+        "brand": "Fixderma",
+        "category": "body-care",
+        "subcategory": "Foot Cream",
+        "asin": "B0BD4H29RJ",
+        "amazonUrl": "https://www.amazon.in/dp/B0BD4H29RJ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BD4H29RJ?tag=oraeskin-21",
+        "badge": "Most-Rated Foot Cream",
+        "price": 295,
+        "priceEst": "₹295",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/fixderma-foobetik-cream.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "6,200+",
+        "reviewCount": "6,200+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8,
+            "evidence": 7,
+            "userFeedback": 8.4,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Cracked Heels",
+            "Dry Feet"
+        ],
+        "keyActives": [
+            "Lactic Acid",
+            "L-Arginine",
+            "Shea Butter",
+            "Tea Tree Oil"
+        ],
+        "keyIngredients": [
+            "Lactic Acid",
+            "L-Arginine",
+            "Shea Butter",
+            "Tea Tree Oil"
+        ],
+        "ingredients": [
+            "Lactic Acid",
+            "L-Arginine",
+            "Shea Butter",
+            "Tea Tree Oil"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": true,
+        "alcoholFree": true,
+        "texture": "Non-Greasy Cream",
+        "finish": "Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Daily care for dry, rough feet.",
+        "avoidIf": "You have diabetes and open wounds or ulcers on the feet; see your doctor instead.",
+        "whyWeLikeIt": "Lactic acid, L-arginine and shea butter for dry feet, with 6,200+ ratings.",
+        "pros": [
+            "6,200+ ratings",
+            "Non-greasy, good for daytime",
+            "Lactic acid for gentle softening"
+        ],
+        "cons": [
+            "The listing names only four ingredients",
+            "Gentler than a 20% urea cream on thick calluses"
+        ],
+        "verdict": "A popular everyday foot cream. Choose a urea cream for very thick heels.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "bebodywise-urea-foot-roll-on",
+                "reason": "20% urea for hard, cracked heels."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "cureskin-urea-foot-cream",
+        "name": "10% Urea Foot Cream",
+        "title": "Cureskin 10% Urea Foot Cream for Cracked Heels (50g)",
+        "brand": "Cureskin",
+        "category": "body-care",
+        "subcategory": "Foot Cream",
+        "asin": "B0DTB638JZ",
+        "amazonUrl": "https://www.amazon.in/dp/B0DTB638JZ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DTB638JZ?tag=oraeskin-21",
+        "badge": "Best Budget Foot Cream",
+        "price": 145,
+        "priceEst": "₹145",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/cureskin-urea-foot-cream.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "550+",
+        "reviewCount": "550+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.2,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 9.2,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Cracked Heels",
+            "Dry Feet"
+        ],
+        "keyActives": [
+            "Urea (10%)",
+            "Lactic Acid",
+            "Salicylic Acid",
+            "Shea Butter"
+        ],
+        "keyIngredients": [
+            "Urea (10%)",
+            "Lactic Acid",
+            "Salicylic Acid",
+            "Shea Butter"
+        ],
+        "ingredients": [
+            "Urea (10%)",
+            "Lactic Acid",
+            "Salicylic Acid",
+            "Shea Butter"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Cream",
+        "finish": "Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Mildly dry or cracked heels on a budget.",
+        "avoidIf": "You have very thick calluses that need a stronger urea cream.",
+        "whyWeLikeIt": "10% urea with lactic and salicylic acid for ₹145.",
+        "pros": [
+            "Only ₹145",
+            "Urea plus two exfoliating acids",
+            "4.3★ rating"
+        ],
+        "cons": [
+            "Only 550+ ratings",
+            "The listing names only the key ingredients"
+        ],
+        "verdict": "A good-value starter foot cream.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "bebodywise-urea-foot-roll-on",
+                "reason": "20% urea for thicker skin."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.2,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "bebodywise-urea-10-lotion",
+        "name": "10% Urea Body Lotion",
+        "title": "Be Bodywise 10% Urea Body Lotion with Ceramides (200ml)",
+        "brand": "Be Bodywise",
+        "category": "body-care",
+        "subcategory": "Urea Body Lotion",
+        "asin": "B0B5ZBRDZ8",
+        "amazonUrl": "https://www.amazon.in/dp/B0B5ZBRDZ8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B5ZBRDZ8?tag=oraeskin-21",
+        "badge": "Best Urea Body Lotion",
+        "price": 399,
+        "priceEst": "₹399",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/bebodywise-urea-10-lotion.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "1,100+",
+        "reviewCount": "1,100+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.6,
+            "evidence": 8.6,
+            "userFeedback": 8.8,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "Very Dry",
+            "Normal"
+        ],
+        "concerns": [
+            "Keratosis Pilaris",
+            "Rough Skin",
+            "Very Dry Skin"
+        ],
+        "keyActives": [
+            "Urea (10%)",
+            "Ceramides",
+            "Kokum Butter",
+            "Mango Seed Butter"
+        ],
+        "keyIngredients": [
+            "Urea (10%)",
+            "Ceramides",
+            "Kokum Butter",
+            "Mango Seed Butter"
+        ],
+        "ingredients": [
+            "Urea (10%)",
+            "Ceramides",
+            "Kokum Butter",
+            "Mango Seed Butter"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Bumpy arms and legs (keratosis pilaris) and very dry, flaky skin.",
+        "avoidIf": "You have broken skin or eczema flares, as urea can sting.",
+        "whyWeLikeIt": "10% urea hydrates and softens the plugs of dead skin behind KP bumps, plus ceramides and plant butters.",
+        "pros": [
+            "10% urea, a well-studied level for dry skin and KP",
+            "Ceramides and butters",
+            "4.4★ from 1,100+ ratings"
+        ],
+        "cons": [
+            "The listing names only the key ingredients",
+            "Can sting on freshly shaved legs"
+        ],
+        "verdict": "Our top pick for strawberry legs and rough, dry skin.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "bebodywise-urea-20-lotion",
+                "reason": "20% urea for very thick, rough patches."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "bebodywise-urea-20-lotion",
+        "name": "20% Urea Body Lotion",
+        "title": "Be Bodywise 20% Urea Body Lotion with Ceramides (300ml)",
+        "brand": "Be Bodywise",
+        "category": "body-care",
+        "subcategory": "Urea Body Lotion",
+        "asin": "B0FWRQ24KD",
+        "amazonUrl": "https://www.amazon.in/dp/B0FWRQ24KD?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FWRQ24KD?tag=oraeskin-21",
+        "badge": "Best for Very Rough Skin",
+        "price": 599,
+        "priceEst": "₹599",
+        "currency": "₹",
+        "size": "300ml",
+        "image": "/images/products/bebodywise-urea-20-lotion.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "320+",
+        "reviewCount": "320+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 7.8,
+            "evidence": 8.4,
+            "userFeedback": 8.4,
+            "value": 8.2,
+            "availability": 9
+        },
+        "skinType": [
+            "Very Dry"
+        ],
+        "concerns": [
+            "Keratosis Pilaris",
+            "Rough Elbows & Knees",
+            "Very Dry Skin"
+        ],
+        "keyActives": [
+            "Urea (20%)",
+            "Ceramides",
+            "Kokum Butter",
+            "Mango Seed Butter"
+        ],
+        "keyIngredients": [
+            "Urea (20%)",
+            "Ceramides",
+            "Kokum Butter",
+            "Mango Seed Butter"
+        ],
+        "ingredients": [
+            "Urea (20%)",
+            "Ceramides",
+            "Kokum Butter",
+            "Mango Seed Butter"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Very rough, thick skin on elbows, knees and shins.",
+        "avoidIf": "Your skin is sensitive; start with 10% urea.",
+        "whyWeLikeIt": "A stronger 20% urea lotion that exfoliates as well as moisturises.",
+        "pros": [
+            "20% urea for stronger softening",
+            "300ml bottle",
+            "Ceramides and butters"
+        ],
+        "cons": [
+            "Only 320+ ratings",
+            "More likely to sting than 10%"
+        ],
+        "verdict": "Use it on stubborn rough patches; 10% is enough for most people.",
+        "alternatives": [
+            {
+                "label": "Gentler Option",
+                "productId": "bebodywise-urea-10-lotion",
+                "reason": "10% urea for everyday use."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.2,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "bebodywise-lactic-5-lotion",
+        "name": "5% AHA Lactic Acid Body Lotion",
+        "title": "Be Bodywise 5% AHA Lactic Acid Body Lotion (200ml)",
+        "brand": "Be Bodywise",
+        "category": "body-care",
+        "subcategory": "Lactic Acid Body Lotion",
+        "asin": "B0BFQX7MS9",
+        "amazonUrl": "https://www.amazon.in/dp/B0BFQX7MS9?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BFQX7MS9?tag=oraeskin-21",
+        "badge": "Best Lactic Acid Body Lotion",
+        "price": 399,
+        "priceEst": "₹399",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/bebodywise-lactic-5-lotion.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "1,000+",
+        "reviewCount": "1,000+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.4,
+            "evidence": 8.4,
+            "userFeedback": 8.6,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "Normal"
+        ],
+        "concerns": [
+            "Rough Skin",
+            "Keratosis Pilaris",
+            "Dull Skin"
+        ],
+        "keyActives": [
+            "Lactic Acid (5%)",
+            "Aloe Vera"
+        ],
+        "keyIngredients": [
+            "Lactic Acid (5%)",
+            "Aloe Vera"
+        ],
+        "ingredients": [
+            "Lactic Acid (5%)",
+            "Aloe Vera"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Light",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Rough elbows, knees and bumpy arms that need gentle exfoliation.",
+        "avoidIf": "You have just shaved or waxed, or have broken skin.",
+        "whyWeLikeIt": "5% lactic acid exfoliates gently while also hydrating, as lactic acid is a humectant.",
+        "pros": [
+            "5% lactic acid, gentle enough for daily use",
+            "Exfoliates and moisturises",
+            "1,000+ ratings"
+        ],
+        "cons": [
+            "The listing does not show the full ingredient list",
+            "Increases sun sensitivity on exposed areas"
+        ],
+        "verdict": "A straightforward lactic acid lotion for rough skin.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "wishcare-aha-bha-body-lotion",
+                "reason": "10% AHA plus 1% BHA."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "wishcare-aha-bha-body-lotion",
+        "name": "AHA BHA Body Lotion",
+        "title": "WishCare 10% AHA + 1% BHA Body Lotion (200ml)",
+        "brand": "WishCare",
+        "category": "body-care",
+        "subcategory": "Exfoliating Body Lotion",
+        "asin": "B0BG8X8XTC",
+        "amazonUrl": "https://www.amazon.in/dp/B0BG8X8XTC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BG8X8XTC?tag=oraeskin-21",
+        "badge": "Best Exfoliating Body Lotion",
+        "price": 384,
+        "priceEst": "₹384",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/wishcare-aha-bha-body-lotion.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "5,200+",
+        "reviewCount": "5,200+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 7.8,
+            "evidence": 8.4,
+            "userFeedback": 8.6,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Dry"
+        ],
+        "concerns": [
+            "Rough Skin",
+            "Keratosis Pilaris",
+            "Body Acne",
+            "Tan"
+        ],
+        "keyActives": [
+            "Glycolic + Lactic Acid (10% AHA)",
+            "Salicylic Acid (1%)",
+            "Niacinamide",
+            "Ceramide"
+        ],
+        "keyIngredients": [
+            "Glycolic + Lactic Acid (10% AHA)",
+            "Salicylic Acid (1%)",
+            "Niacinamide",
+            "Ceramide"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerine",
+            "Glycolic Acid",
+            "Lactic Acid",
+            "Stearic Acid",
+            "Cetyl Alcohol",
+            "Glyceryl Monostearate",
+            "Emulsifying Wax",
+            "Niacinamide",
+            "Salicylic Acid",
+            "Cetostearyl Alcohol",
+            "Blueberry Extract",
+            "Grapefruit Extract",
+            "Oats",
+            "Olive Squalane",
+            "Hyaluronic Acid",
+            "Ceramide",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Carbomer",
+            "Potassium Sorbate",
+            "Sodium Benzoate"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Light",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Bumpy, rough or tanned skin on arms, legs and back.",
+        "avoidIf": "You have sensitive skin or have just shaved.",
+        "whyWeLikeIt": "10% glycolic and lactic acid plus 1% salicylic acid, with the full ingredient list on the listing and no added fragrance.",
+        "pros": [
+            "10% AHA plus 1% BHA",
+            "Full ingredient list, no fragrance listed",
+            "5,200+ ratings"
+        ],
+        "cons": [
+            "Can sting on freshly shaved or broken skin",
+            "Use at night and wear sunscreen on exposed areas"
+        ],
+        "verdict": "A strong, transparent exfoliating body lotion.",
+        "alternatives": [
+            {
+                "label": "Gentler Option",
+                "productId": "bebodywise-lactic-5-lotion",
+                "reason": "5% lactic acid only."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "bebodywise-salicylic-bodywash",
+        "name": "1% Salicylic Acid Body Wash",
+        "title": "Be Bodywise 1% Salicylic Acid Body Wash (700ml)",
+        "brand": "Be Bodywise",
+        "category": "body-care",
+        "subcategory": "Salicylic Body Wash",
+        "asin": "B0CWPNGRR9",
+        "amazonUrl": "https://www.amazon.in/dp/B0CWPNGRR9?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CWPNGRR9?tag=oraeskin-21",
+        "badge": "Best Value Salicylic Body Wash",
+        "price": 599,
+        "priceEst": "₹599",
+        "currency": "₹",
+        "size": "700ml",
+        "image": "/images/products/bebodywise-salicylic-bodywash.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "11,800+",
+        "reviewCount": "11,800+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.2,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 9,
+            "availability": 9
+        },
+        "skinType": [
+            "Oily",
+            "Acne-Prone",
+            "Normal"
+        ],
+        "concerns": [
+            "Body Acne",
+            "Keratosis Pilaris",
+            "Clogged Pores"
+        ],
+        "keyActives": [
+            "Salicylic Acid (1%)",
+            "Chamomile Extract"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid (1%)",
+            "Chamomile Extract"
+        ],
+        "ingredients": [
+            "Purified Water",
+            "Acrylate Copolymer",
+            "Sodium Lauroyl Sarcosinate",
+            "Coco-Glucoside",
+            "Cocamidopropyl Betaine",
+            "Triethanolamine",
+            "Salicylic Acid",
+            "Erythritol",
+            "Phenoxyethanol & Ethylhexylglycerin",
+            "Fragrance",
+            "Saccharide Isomerate",
+            "Citric Acid",
+            "Chamomile Extract",
+            "Encapsulated Salicylic Acid Beads",
+            "Sodium Citrate",
+            "Sodium EDTA",
+            "CI 42090"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel Wash",
+        "finish": "Clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Mild back and chest acne, and bumpy skin, at a low cost per wash.",
+        "avoidIf": "You are sensitive to fragrance.",
+        "whyWeLikeIt": "1% salicylic acid in a sulphate-free wash, in a large 700ml bottle with 11,800+ ratings.",
+        "pros": [
+            "700ml, very good value",
+            "Sulphate-free cleansing base",
+            "11,800+ ratings"
+        ],
+        "cons": [
+            "Contains fragrance and blue dye",
+            "1% is milder than a 2% wash"
+        ],
+        "verdict": "A good-value everyday body wash for mild bacne.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "minimalist-salicylic-bodywash",
+                "reason": "2% salicylic acid and LHA."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "wishcare-body-sunscreen-spf50",
+        "name": "Sunscreen Body Lotion SPF 50 PA++++",
+        "title": "WishCare Sunscreen Body Lotion SPF 50 PA++++ (200ml)",
+        "brand": "WishCare",
+        "category": "sunscreens",
+        "subcategory": "Body Sunscreen",
+        "asin": "B0BG8W7PJ7",
+        "amazonUrl": "https://www.amazon.in/dp/B0BG8W7PJ7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BG8W7PJ7?tag=oraeskin-21",
+        "badge": "Best Body Sunscreen",
+        "price": 381,
+        "priceEst": "₹381",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/wishcare-body-sunscreen-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "11,000+",
+        "reviewCount": "11,000+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.4,
+            "evidence": 8.4,
+            "userFeedback": 8.6,
+            "value": 8.8,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Tanning",
+            "Sun Damage"
+        ],
+        "keyActives": [
+            "SPF 50 PA++++ (Octocrylene, Octisalate, Tinosorb M)",
+            "Niacinamide",
+            "Squalane"
+        ],
+        "keyIngredients": [
+            "SPF 50 PA++++ (Octocrylene, Octisalate, Tinosorb M)",
+            "Niacinamide",
+            "Squalane"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Octocrylene",
+            "Octyl Salicylate",
+            "Glycerine",
+            "Glyceryl Monostearate",
+            "Cetyl Alcohol",
+            "Cetostearyl Alcohol",
+            "Emulsifying Wax",
+            "Acrylate Crosspolymer",
+            "Tinosorb M",
+            "Olive Squalane",
+            "Black Sesame Seed Oil",
+            "Safflower Oil",
+            "Isopropyl Palmitate",
+            "Niacinamide",
+            "Green Tea Extract",
+            "Xanthan Gum",
+            "Hydroxyethyl Cellulose",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Potassium Sorbate",
+            "Sodium Benzoate",
+            "Citric Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "No White Cast",
+        "whiteCast": "None",
+        "bestFor": "Daily arms, neck and legs protection for commutes.",
+        "avoidIf": "You need water resistance for swimming.",
+        "whyWeLikeIt": "SPF 50 PA++++ with Tinosorb M for UVA, niacinamide and squalane, with the full ingredient list.",
+        "pros": [
+            "SPF 50 PA++++ with a modern UVA filter",
+            "Full ingredient list, no fragrance listed",
+            "11,000+ ratings"
+        ],
+        "cons": [
+            "Not labelled water-resistant",
+            "You need a lot for the whole body, so 200ml goes fast"
+        ],
+        "verdict": "Our top body sunscreen for everyday use.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "sunscoop-body-sunscreen-spf50",
+                "reason": "SPF 50+ with 5% niacinamide."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.8,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "sunscoop-body-sunscreen-spf50",
+        "name": "5% Niacinamide Sunscreen Body Lotion SPF 50+",
+        "title": "SunScoop 5% Niacinamide Sunscreen Body Lotion SPF 50+ PA++++ (200ml)",
+        "brand": "SunScoop",
+        "category": "sunscreens",
+        "subcategory": "Body Sunscreen",
+        "asin": "B0DYV56LD9",
+        "amazonUrl": "https://www.amazon.in/dp/B0DYV56LD9?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DYV56LD9?tag=oraeskin-21",
+        "badge": "Best Body Sunscreen with Niacinamide",
+        "price": 396,
+        "priceEst": "₹396",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/sunscoop-body-sunscreen-spf50.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "4,000+",
+        "reviewCount": "4,000+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.2,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Tanning",
+            "Sun Damage",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "SPF 50+ PA++++ (Octocrylene, Octisalate, Avobenzone, Tinosorb M)",
+            "Niacinamide (5%)",
+            "Oat Extract"
+        ],
+        "keyIngredients": [
+            "SPF 50+ PA++++ (Octocrylene, Octisalate, Avobenzone, Tinosorb M)",
+            "Niacinamide (5%)",
+            "Oat Extract"
+        ],
+        "ingredients": [
+            "SPF 50+ PA++++ (Octocrylene, Octisalate, Avobenzone, Tinosorb M)",
+            "Niacinamide (5%)",
+            "Oat Extract"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Lotion",
+        "finish": "No White Cast",
+        "whiteCast": "None",
+        "bestFor": "Daily body sun protection with a light feel.",
+        "avoidIf": "You need water resistance.",
+        "whyWeLikeIt": "Four UV filters including avobenzone and Tinosorb M, plus 5% niacinamide, with the ingredients listed.",
+        "pros": [
+            "Four named UV filters",
+            "5% niacinamide",
+            "4,000+ ratings"
+        ],
+        "cons": [
+            "Not labelled water-resistant",
+            "Fewer ratings than WishCare"
+        ],
+        "verdict": "A solid alternative to WishCare.",
+        "alternatives": [
+            {
+                "label": "Most-Rated Option",
+                "productId": "wishcare-body-sunscreen-spf50",
+                "reason": "SPF 50 PA++++ with 11,000+ ratings."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "vaseline-sun-protect-spf50",
+        "name": "Sun Protect SPF 50 PA++++ Lotion",
+        "title": "Vaseline Sun Protect SPF 50 PA++++ Body Lotion (400ml)",
+        "brand": "Vaseline",
+        "category": "sunscreens",
+        "subcategory": "Body Sunscreen",
+        "asin": "B0GLZSD24R",
+        "amazonUrl": "https://www.amazon.in/dp/B0GLZSD24R?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GLZSD24R?tag=oraeskin-21",
+        "badge": "Best Value Body Sunscreen",
+        "price": 479,
+        "priceEst": "₹479",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/vaseline-sun-protect-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "670+",
+        "reviewCount": "670+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.2,
+            "evidence": 7.4,
+            "userFeedback": 8.6,
+            "value": 9.2,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Tanning",
+            "Sun Damage"
+        ],
+        "keyActives": [
+            "SPF 50 PA++++",
+            "Niacinamide",
+            "Vitamin C & E"
+        ],
+        "keyIngredients": [
+            "SPF 50 PA++++",
+            "Niacinamide",
+            "Vitamin C & E"
+        ],
+        "ingredients": [
+            "SPF 50 PA++++",
+            "Niacinamide",
+            "Vitamin C & E"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Serum-Lotion",
+        "finish": "Non-Sticky",
+        "whiteCast": "None",
+        "bestFor": "Covering the whole body daily without running out fast.",
+        "avoidIf": "You want to check the UV filters before buying.",
+        "whyWeLikeIt": "SPF 50 PA++++ in a 400ml bottle, the lowest cost per ml of the body sunscreens we found.",
+        "pros": [
+            "400ml for ₹479, about ₹1.2 per ml",
+            "SPF 50 PA++++",
+            "Widely available brand"
+        ],
+        "cons": [
+            "The listing does not show the ingredient list or UV filters",
+            "Only 670+ ratings so far"
+        ],
+        "verdict": "Best value for generous, everyday body application.",
+        "alternatives": [
+            {
+                "label": "More Transparent",
+                "productId": "wishcare-body-sunscreen-spf50",
+                "reason": "Lists its UV filters and full ingredients."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.2,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "bio-oil-skincare-oil",
+        "name": "Skincare Oil",
+        "title": "Bio-Oil Skincare Oil (60ml)",
+        "brand": "Bio-Oil",
+        "category": "body-care",
+        "subcategory": "Body Oil",
+        "asin": "B00GMC04BK",
+        "amazonUrl": "https://www.amazon.in/dp/B00GMC04BK?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00GMC04BK?tag=oraeskin-21",
+        "badge": "Most-Rated Body Oil",
+        "price": 400,
+        "priceEst": "₹400",
+        "currency": "₹",
+        "size": "60ml",
+        "image": "/images/products/bio-oil-skincare-oil.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "28,000+",
+        "reviewCount": "28,000+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 7.8,
+            "evidence": 7,
+            "userFeedback": 8.2,
+            "value": 7.4,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Dryness",
+            "Stretch Marks",
+            "Scars"
+        ],
+        "keyActives": [
+            "Vitamin A Oil",
+            "Vitamin E",
+            "Plant Oils"
+        ],
+        "keyIngredients": [
+            "Vitamin A Oil",
+            "Vitamin E",
+            "Plant Oils"
+        ],
+        "ingredients": [
+            "Vitamin A Oil",
+            "Vitamin E",
+            "Plant Oils"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Oil",
+        "finish": "Absorbs Quickly",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry patches and softening the look of old scars or stretch marks.",
+        "avoidIf": "You expect it to erase stretch marks; evidence for that is limited.",
+        "whyWeLikeIt": "A light, fast-absorbing oil with 28,000+ ratings that does not feel greasy after a shower.",
+        "pros": [
+            "28,000+ ratings",
+            "Light and fast-absorbing",
+            "A little goes a long way"
+        ],
+        "cons": [
+            "Evidence for fading stretch marks and scars is limited",
+            "The Amazon listing does not show the full ingredient list"
+        ],
+        "verdict": "A pleasant, light body oil; treat scar and stretch-mark claims cautiously.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "plum-vanilla-body-oil",
+                "reason": "A plant-oil body oil for half the price."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.7,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.4,
+            "overall": 7.7
+        }
+    },
+    {
+        "id": "plum-vanilla-body-oil",
+        "name": "BodyLovin' Vanilla Vibes Body Oil",
+        "title": "Plum BodyLovin' Vanilla Vibes Body Oil (100ml)",
+        "brand": "Plum",
+        "category": "body-care",
+        "subcategory": "Body Oil",
+        "asin": "B09TL5SDW8",
+        "amazonUrl": "https://www.amazon.in/dp/B09TL5SDW8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09TL5SDW8?tag=oraeskin-21",
+        "badge": "Best Budget Body Oil",
+        "price": 200,
+        "priceEst": "₹200",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/plum-vanilla-body-oil.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "6,500+",
+        "reviewCount": "6,500+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 7.8,
+            "evidence": 6.6,
+            "userFeedback": 8.6,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Dryness",
+            "Dull Skin"
+        ],
+        "keyActives": [
+            "Sunflower Oil",
+            "Avocado Oil",
+            "Coconut Oil",
+            "Sweet Almond Oil",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "Sunflower Oil",
+            "Avocado Oil",
+            "Coconut Oil",
+            "Sweet Almond Oil",
+            "Vitamin E"
+        ],
+        "ingredients": [
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Ethylhexyl Palmitate",
+            "Isopropyl Myristate",
+            "Fragrance",
+            "Caprylic/Capric Triglycerides",
+            "Persea Gratissima (Avocado) Oil",
+            "Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+            "Cocos Nucifera (Coconut) Oil",
+            "Olea Europaea (Olive) Fruit Oil",
+            "Vitis Vinifera (Grape) Seed Oil",
+            "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+            "Daucus Carota Sativa (Carrot) Seed Oil",
+            "Tocopheryl Acetate",
+            "Vanilla Planifolia Fruit Oil"
+        ],
+        "fragrance": "Added Fragrance (vanilla)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Oil",
+        "finish": "Glowy, Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A glowy, vanilla-scented finish on damp skin after a shower.",
+        "avoidIf": "You are sensitive to fragrance, or have body acne (coconut oil can clog pores).",
+        "whyWeLikeIt": "A blend of plant oils with vitamin E and a warm vanilla scent, with the full ingredient list on the listing.",
+        "pros": [
+            "₹200 for 100ml",
+            "Full ingredient list disclosed",
+            "6,500+ ratings"
+        ],
+        "cons": [
+            "Added fragrance",
+            "Coconut oil and isopropyl myristate can clog pores on acne-prone backs"
+        ],
+        "verdict": "A great-value glow oil, especially if you love vanilla.",
+        "alternatives": [
+            {
+                "label": "Lighter Option",
+                "productId": "bio-oil-skincare-oil",
+                "reason": "A well-known light, fast-absorbing body oil."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "forest-essentials-after-bath-oil",
+        "name": "After Bath Oil Lime Saffron Oudh",
+        "title": "Forest Essentials After Bath Oil Lime Saffron Oudh (50ml)",
+        "brand": "Forest Essentials",
+        "category": "body-care",
+        "subcategory": "Body Oil",
+        "asin": "B0CVX3RJ2V",
+        "amazonUrl": "https://www.amazon.in/dp/B0CVX3RJ2V?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CVX3RJ2V?tag=oraeskin-21",
+        "badge": "Best Premium Body Oil",
+        "price": 825,
+        "priceEst": "₹825",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/forest-essentials-after-bath-oil.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "160+",
+        "reviewCount": "160+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.4,
+            "evidence": 6,
+            "userFeedback": 8.8,
+            "value": 5.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Dryness"
+        ],
+        "keyActives": [
+            "Plant Oils",
+            "Saffron",
+            "Oudh Fragrance"
+        ],
+        "keyIngredients": [
+            "Plant Oils",
+            "Saffron",
+            "Oudh Fragrance"
+        ],
+        "ingredients": [
+            "Plant Oils",
+            "Saffron",
+            "Oudh Fragrance"
+        ],
+        "fragrance": "Added Fragrance (musky)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Oil",
+        "finish": "Scented Glow",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A luxurious, scented after-bath oil or gift.",
+        "avoidIf": "You want value or a fragrance-free oil.",
+        "whyWeLikeIt": "An Ayurvedic after-bath oil made to apply on wet skin, with a musky saffron and oudh scent.",
+        "pros": [
+            "Made to apply on wet skin",
+            "Luxurious scent",
+            "4.4★ rating"
+        ],
+        "cons": [
+            "₹825 for 50ml",
+            "The listing does not show the ingredient list"
+        ],
+        "verdict": "A treat, not a necessity.",
+        "alternatives": [
+            {
+                "label": "Better Value",
+                "productId": "plum-vanilla-body-oil",
+                "reason": "A plant-oil body oil for ₹200."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.2,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 5.6,
+            "overall": 7.2
+        }
+    },
+    {
+        "id": "vaseline-cocoa-radiant-body-oil",
+        "name": "Intensive Care Cocoa Radiant Body Oil",
+        "title": "Vaseline Intensive Care Cocoa Radiant Body Oil (200ml)",
+        "brand": "Vaseline",
+        "category": "body-care",
+        "subcategory": "Body Oil",
+        "asin": "B0FQNVY42Q",
+        "amazonUrl": "https://www.amazon.in/dp/B0FQNVY42Q?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FQNVY42Q?tag=oraeskin-21",
+        "badge": "Best for Very Dry Skin",
+        "price": 479,
+        "priceEst": "₹479",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/vaseline-cocoa-radiant-body-oil.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "220+",
+        "reviewCount": "220+",
+        "scoreBreakdown": {
+            "formula": 6.6,
+            "skinSuitability": 7.4,
+            "evidence": 6.6,
+            "userFeedback": 8,
+            "value": 7.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "Very Dry"
+        ],
+        "concerns": [
+            "Very Dry Skin"
+        ],
+        "keyActives": [
+            "Mineral Oil",
+            "Cocoa Butter",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "Mineral Oil",
+            "Cocoa Butter",
+            "Vitamin E"
+        ],
+        "ingredients": [
+            "Mineral Oil",
+            "Hydrogenated Styrene Copolymer",
+            "Parfum",
+            "Theobroma Cacao (Cocoa) Butter",
+            "Tocopherol",
+            "Benzyl Alcohol",
+            "Citronellol",
+            "Coumarin",
+            "Hexyl Cinnamal",
+            "Hydroxycitronellal",
+            "Linalool"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Oil",
+        "finish": "Smooth",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Very dry legs and arms that need a strong moisture seal.",
+        "avoidIf": "You want plant oils, or are sensitive to fragrance.",
+        "whyWeLikeIt": "A mineral oil base, which is very good at sealing in moisture, with cocoa butter.",
+        "pros": [
+            "Mineral oil seals in moisture well",
+            "Larger 200ml bottle",
+            "Flip-top bottle"
+        ],
+        "cons": [
+            "Fragrance and several fragrance allergens listed",
+            "Only 220+ ratings"
+        ],
+        "verdict": "Effective for very dry skin, but heavily fragranced.",
+        "alternatives": [
+            {
+                "label": "Plant-Oil Option",
+                "productId": "plum-vanilla-body-oil",
+                "reason": "A plant-oil blend for ₹200."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.3,
+        "scores": {
+            "formula": 6.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.6,
+            "overall": 7.3
+        }
+    },
+    {
+        "id": "plum-vanilla-caramello-lotion",
+        "name": "BodyLovin' Vanilla Caramello Body Lotion",
+        "title": "Plum BodyLovin' Vanilla Caramello Body Lotion (200ml)",
+        "brand": "Plum",
+        "category": "body-care",
+        "subcategory": "Gourmand Body Lotion",
+        "asin": "B0FM7VYRPW",
+        "amazonUrl": "https://www.amazon.in/dp/B0FM7VYRPW?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FM7VYRPW?tag=oraeskin-21",
+        "badge": "Best Vanilla Caramel Lotion",
+        "price": 204,
+        "priceEst": "₹204",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/plum-vanilla-caramello-lotion.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "3,400+",
+        "reviewCount": "3,400+",
+        "scoreBreakdown": {
+            "formula": 7.2,
+            "skinSuitability": 7.8,
+            "evidence": 6.6,
+            "userFeedback": 8.8,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Dry",
+            "Normal"
+        ],
+        "concerns": [
+            "Dryness"
+        ],
+        "keyActives": [
+            "Cocoa Butter",
+            "Panthenol",
+            "Glycerin",
+            "Sunflower Oil"
+        ],
+        "keyIngredients": [
+            "Cocoa Butter",
+            "Panthenol",
+            "Glycerin",
+            "Sunflower Oil"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Paraffinum Liquidum",
+            "Glycerin",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Cetearyl Alcohol",
+            "Polysorbate 60",
+            "Fragrance",
+            "Theobroma Cacao (Cocoa) Seed Butter",
+            "Polyacrylate-13",
+            "Polyisobutene",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Dimethicone",
+            "Xanthan Gum",
+            "Carbomer",
+            "Disodium EDTA",
+            "Panthenol",
+            "Polysorbate 20",
+            "Sodium Hydroxide"
+        ],
+        "fragrance": "Added Fragrance (vanilla caramel)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Everyday moisture with a sweet vanilla-caramel scent.",
+        "avoidIf": "You are sensitive to fragrance.",
+        "whyWeLikeIt": "A simple moisturising lotion with glycerin, mineral oil, cocoa butter and panthenol, with the full ingredient list.",
+        "pros": [
+            "₹204 for 200ml",
+            "Full ingredient list disclosed",
+            "4.4★ from 3,400+ ratings"
+        ],
+        "cons": [
+            "Fragrance is high up the ingredient list",
+            "The scent fades within a few hours, as with most lotions"
+        ],
+        "verdict": "A cheap, well-liked dessert-scented lotion.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "plum-bodylovin-vanilla-lotion",
+                "reason": "Plum’s warm vanilla body lotion in a larger bottle."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "love-co-warm-vanilla-lotion",
+        "name": "Warm Vanilla Body Lotion",
+        "title": "The Love Co Warm Vanilla Body Lotion (250ml)",
+        "brand": "The Love Co",
+        "category": "body-care",
+        "subcategory": "Gourmand Body Lotion",
+        "asin": "B0BMLY5MYH",
+        "amazonUrl": "https://www.amazon.in/dp/B0BMLY5MYH?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BMLY5MYH?tag=oraeskin-21",
+        "badge": "Best Long-Lasting Vanilla Scent",
+        "price": 399,
+        "priceEst": "₹399",
+        "currency": "₹",
+        "size": "250ml",
+        "image": "/images/products/love-co-warm-vanilla-lotion.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "440+",
+        "reviewCount": "440+",
+        "scoreBreakdown": {
+            "formula": 6.6,
+            "skinSuitability": 7.6,
+            "evidence": 6,
+            "userFeedback": 8.6,
+            "value": 7.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Dryness"
+        ],
+        "keyActives": [
+            "Peach Flower Extract",
+            "Red Algae Extract"
+        ],
+        "keyIngredients": [
+            "Peach Flower Extract",
+            "Red Algae Extract"
+        ],
+        "ingredients": [
+            "Peach Flower Extract",
+            "Red Algae Extract"
+        ],
+        "fragrance": "Added Fragrance (vanilla)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Layering with a vanilla body wash or mist for a stronger scent.",
+        "avoidIf": "You want to check the full formula first.",
+        "whyWeLikeIt": "A fast-absorbing lotion focused on a warm vanilla fragrance.",
+        "pros": [
+            "Non-sticky, fast-absorbing",
+            "Strong vanilla scent",
+            "4.3★ rating"
+        ],
+        "cons": [
+            "The listing names only two extracts, not the full formula",
+            "Only 440+ ratings"
+        ],
+        "verdict": "Pick it for the scent; Plum is better value and more transparent.",
+        "alternatives": [
+            {
+                "label": "Better Value",
+                "productId": "plum-vanilla-caramello-lotion",
+                "reason": "A vanilla lotion with its full ingredient list for ₹204."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.3,
+        "scores": {
+            "formula": 6.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.8,
+            "overall": 7.3
+        }
+    },
+    {
+        "id": "wishcare-multivitamin-body-lotion",
+        "name": "Multi-Vitamin Brightening Body Lotion",
+        "title": "WishCare Multi-Vitamin Brightening Body Lotion with 5% Vitamin C & 5% Niacinamide (200ml)",
+        "brand": "WishCare",
+        "category": "body-care",
+        "subcategory": "Brightening Body Lotion",
+        "asin": "B0BG8XSTP8",
+        "amazonUrl": "https://www.amazon.in/dp/B0BG8XSTP8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BG8XSTP8?tag=oraeskin-21",
+        "badge": "Best Brightening Body Lotion",
+        "price": 384,
+        "priceEst": "₹384",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/wishcare-multivitamin-body-lotion.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "880+",
+        "reviewCount": "880+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 8,
+            "userFeedback": 8.2,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Tan",
+            "Uneven Tone",
+            "Dullness"
+        ],
+        "keyActives": [
+            "Ethyl Ascorbic Acid (5% Vitamin C)",
+            "Niacinamide (5%)",
+            "Panthenol",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "Ethyl Ascorbic Acid (5% Vitamin C)",
+            "Niacinamide (5%)",
+            "Panthenol",
+            "Vitamin E"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerine",
+            "Ethyl Ascorbic Acid",
+            "Niacinamide",
+            "Stearic Acid",
+            "Glyceryl Monostearate",
+            "Emulsifying Wax",
+            "Cetyl Alcohol",
+            "Cetostearyl Alcohol",
+            "Kakadu Plum Extract",
+            "Peach Extract",
+            "Turmeric",
+            "Squalane",
+            "Shea Butter",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Ceramide",
+            "Vitamin E",
+            "D-Panthenol",
+            "Hyaluronic Acid",
+            "Carbomer",
+            "Potassium Sorbate",
+            "Sodium Benzoate"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Light",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Uneven tone and tan on arms and legs, alongside daily sunscreen.",
+        "avoidIf": "You expect it to work without sun protection.",
+        "whyWeLikeIt": "5% vitamin C and 5% niacinamide with panthenol and ceramide, with the full ingredient list and no fragrance listed.",
+        "pros": [
+            "5% vitamin C plus 5% niacinamide",
+            "Full ingredient list, no fragrance listed",
+            "Can be used day or night"
+        ],
+        "cons": [
+            "Only 880+ ratings",
+            "Results take 6–8 weeks and depend on sunscreen use"
+        ],
+        "verdict": "The most transparent brightening body lotion we found.",
+        "alternatives": [
+            {
+                "label": "Most-Rated Option",
+                "productId": "vaseline-gluta-hya-dewy-lotion",
+                "reason": "A popular glow lotion with 10,000+ ratings."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "vaseline-gluta-hya-dewy-lotion",
+        "name": "Gluta-Hya Dewy Radiance Body Lotion",
+        "title": "Vaseline Gluta-Hya Dewy Radiance Body Lotion (330ml)",
+        "brand": "Vaseline",
+        "category": "body-care",
+        "subcategory": "Brightening Body Lotion",
+        "asin": "B0GSZ8DDJX",
+        "amazonUrl": "https://www.amazon.in/dp/B0GSZ8DDJX?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GSZ8DDJX?tag=oraeskin-21",
+        "badge": "Most-Rated Glow Lotion",
+        "price": 389,
+        "priceEst": "₹389",
+        "currency": "₹",
+        "size": "330ml",
+        "image": "/images/products/vaseline-gluta-hya-dewy-lotion.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "10,200+",
+        "reviewCount": "10,200+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8,
+            "evidence": 6.8,
+            "userFeedback": 8.6,
+            "value": 8.6,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dullness",
+            "Uneven Tone",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Glutathione",
+            "Niacinamide",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Glutathione",
+            "Niacinamide",
+            "Hyaluronic Acid"
+        ],
+        "ingredients": [
+            "Glutathione",
+            "Niacinamide",
+            "Hyaluronic Acid"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Serum-Lotion",
+        "finish": "Dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A dewy, hydrated look on dull body skin.",
+        "avoidIf": "You want proven tan-fading; topical glutathione has limited evidence.",
+        "whyWeLikeIt": "A light serum-lotion with niacinamide and hyaluronic acid, rated by 10,200+ buyers.",
+        "pros": [
+            "10,200+ ratings",
+            "Light, fast-absorbing serum-lotion",
+            "Niacinamide and hyaluronic acid"
+        ],
+        "cons": [
+            "Topical glutathione has little evidence for lightening skin",
+            "The listing does not show the full ingredient list"
+        ],
+        "verdict": "A nice glow lotion. The niacinamide does more than the glutathione.",
+        "alternatives": [
+            {
+                "label": "More Transparent",
+                "productId": "wishcare-multivitamin-body-lotion",
+                "reason": "5% vitamin C and 5% niacinamide with full ingredients."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "vaseline-daily-brightening-lotion",
+        "name": "Daily Brightening Body Lotion",
+        "title": "Vaseline Daily Brightening Body Lotion with Niacinamide (400ml)",
+        "brand": "Vaseline",
+        "category": "body-care",
+        "subcategory": "Brightening Body Lotion",
+        "asin": "B09ZL9QY3B",
+        "amazonUrl": "https://www.amazon.in/dp/B09ZL9QY3B?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09ZL9QY3B?tag=oraeskin-21",
+        "badge": "Best Budget Brightening Lotion",
+        "price": 219,
+        "priceEst": "₹219",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/vaseline-daily-brightening-lotion.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "2,500+",
+        "reviewCount": "2,500+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7.8,
+            "evidence": 6.6,
+            "userFeedback": 8.4,
+            "value": 9.4,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dullness",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Niacinamide (Vitamin B3)",
+            "UV Filters (no SPF rating)"
+        ],
+        "keyIngredients": [
+            "Niacinamide (Vitamin B3)",
+            "UV Filters (no SPF rating)"
+        ],
+        "ingredients": [
+            "Niacinamide (Vitamin B3)",
+            "UV Filters (no SPF rating)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Non-Sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Cheap, everyday moisture with a little niacinamide.",
+        "avoidIf": "You think it replaces sunscreen; it has no SPF rating.",
+        "whyWeLikeIt": "A large 400ml bottle with niacinamide for ₹219.",
+        "pros": [
+            "400ml for ₹219",
+            "Non-sticky",
+            "2,500+ ratings"
+        ],
+        "cons": [
+            "The listing mentions UV filters but gives no SPF, so it is not a sunscreen",
+            "The listing names only niacinamide and sunscreens, not the full formula"
+        ],
+        "verdict": "Good value daily lotion, but use a real SPF on exposed skin.",
+        "alternatives": [
+            {
+                "label": "Stronger Option",
+                "productId": "wishcare-multivitamin-body-lotion",
+                "reason": "5% vitamin C and 5% niacinamide."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.7,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.4,
+            "overall": 7.7
+        }
+    },
+    {
+        "id": "bebodywise-niacinamide-body-lotion",
+        "name": "10% Niacinamide Brightening Body Lotion",
+        "title": "Be Bodywise 10% Niacinamide Brightening Body Lotion (200ml)",
+        "brand": "Be Bodywise",
+        "category": "body-care",
+        "subcategory": "Brightening Body Lotion",
+        "asin": "B0BBRF8P9L",
+        "amazonUrl": "https://www.amazon.in/dp/B0BBRF8P9L?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BBRF8P9L?tag=oraeskin-21",
+        "badge": "Best Niacinamide Body Lotion",
+        "price": 399,
+        "priceEst": "₹399",
+        "currency": "₹",
+        "size": "200ml",
+        "image": "/images/products/bebodywise-niacinamide-body-lotion.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "720+",
+        "reviewCount": "720+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 7.8,
+            "evidence": 7.4,
+            "userFeedback": 8,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Uneven Tone",
+            "Body Acne Marks"
+        ],
+        "keyActives": [
+            "Niacinamide (10%)",
+            "Aloe Vera",
+            "Almond Oil"
+        ],
+        "keyIngredients": [
+            "Niacinamide (10%)",
+            "Aloe Vera",
+            "Almond Oil"
+        ],
+        "ingredients": [
+            "Niacinamide (10%)",
+            "Aloe Vera",
+            "Almond Oil"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Light",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Uneven tone and leftover marks from body acne.",
+        "avoidIf": "Your skin reacts to high-strength niacinamide.",
+        "whyWeLikeIt": "A high 10% niacinamide body lotion with aloe and almond oil.",
+        "pros": [
+            "10% niacinamide",
+            "Light texture",
+            "Helps with marks left by body acne"
+        ],
+        "cons": [
+            "The listing names only niacinamide and aloe",
+            "4.0★ from 720+ ratings"
+        ],
+        "verdict": "A decent niacinamide option, but less transparent than WishCare.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "wishcare-multivitamin-body-lotion",
+                "reason": "Vitamin C plus niacinamide with full ingredients."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "fixderma-sunscreen-stick",
+        "name": "Shadow Invisible Sunscreen Stick SPF 50",
+        "title": "Fixderma Shadow Invisible Sunscreen Stick SPF 50 PA+++ (15g)",
+        "brand": "Fixderma",
+        "category": "sunscreens",
+        "subcategory": "Sunscreen Stick",
+        "asin": "B0FQBCD9SV",
+        "amazonUrl": "https://www.amazon.in/dp/B0FQBCD9SV?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FQBCD9SV?tag=oraeskin-21",
+        "badge": "Best Sunscreen Stick",
+        "price": 319,
+        "priceEst": "₹319",
+        "currency": "₹",
+        "size": "15g",
+        "image": "/images/products/fixderma-sunscreen-stick.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "13,700+",
+        "reviewCount": "13,700+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Reapplication",
+            "Sun Protection"
+        ],
+        "keyActives": [
+            "SPF 50 PA+++ (Uvinul A Plus, Octocrylene)",
+            "Vitamin E",
+            "Avocado & Jojoba Oil"
+        ],
+        "keyIngredients": [
+            "SPF 50 PA+++ (Uvinul A Plus, Octocrylene)",
+            "Vitamin E",
+            "Avocado & Jojoba Oil"
+        ],
+        "ingredients": [
+            "SPF 50 PA+++ (Uvinul A Plus, Octocrylene)",
+            "Vitamin E",
+            "Avocado & Jojoba Oil"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Clear Stick",
+        "finish": "Natural, No White Cast",
+        "whiteCast": "None",
+        "bestFor": "Topping up sun protection during the day, including over makeup.",
+        "avoidIf": "You plan to use it as your only morning sunscreen layer.",
+        "whyWeLikeIt": "A clear SPF 50 stick with named UVA filters, rated by 13,700+ buyers.",
+        "pros": [
+            "13,700+ ratings",
+            "Clear, no white cast",
+            "Uvinul A Plus for UVA"
+        ],
+        "cons": [
+            "The listing names only some ingredients",
+            "Sticks need several passes to apply enough"
+        ],
+        "verdict": "Our top pick for easy reapplication.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "lakme-sunstick-spf50",
+                "reason": "A smaller ₹259 SPF 50+ stick."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "beauty-of-joseon-matte-sun-stick",
+        "name": "Matte Sun Stick Mugwort + Camellia",
+        "title": "Beauty of Joseon Matte Sun Stick SPF 50 PA++++ (18g)",
+        "brand": "Beauty of Joseon",
+        "category": "sunscreens",
+        "subcategory": "Sunscreen Stick",
+        "asin": "B0BQVTM1BJ",
+        "amazonUrl": "https://www.amazon.in/dp/B0BQVTM1BJ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BQVTM1BJ?tag=oraeskin-21",
+        "badge": "Best Matte Sunscreen Stick",
+        "price": 1200,
+        "priceEst": "₹1200",
+        "currency": "₹",
+        "size": "18g",
+        "image": "/images/products/beauty-of-joseon-matte-sun-stick.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "6,400+",
+        "reviewCount": "6,400+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 6.6,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Reapplication",
+            "Oiliness",
+            "Sun Protection"
+        ],
+        "keyActives": [
+            "SPF 50 PA++++",
+            "Silica (oil control)",
+            "Mugwort Extract",
+            "Green Tea Extract"
+        ],
+        "keyIngredients": [
+            "SPF 50 PA++++",
+            "Silica (oil control)",
+            "Mugwort Extract",
+            "Green Tea Extract"
+        ],
+        "ingredients": [
+            "SPF 50 PA++++",
+            "Silica (oil control)",
+            "Mugwort Extract",
+            "Green Tea Extract"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Matte Stick",
+        "finish": "Matte",
+        "whiteCast": "None",
+        "bestFor": "Oily skin that wants to reapply without adding shine.",
+        "avoidIf": "You have dry skin, or want a budget option.",
+        "whyWeLikeIt": "A popular Korean SPF 50 PA++++ stick with a matte, oil-controlling finish.",
+        "pros": [
+            "PA++++ UVA rating",
+            "Matte finish over makeup",
+            "6,400+ ratings"
+        ],
+        "cons": [
+            "₹1,200 for 18g, as it is imported",
+            "The listing does not show the ingredient list"
+        ],
+        "verdict": "The best matte stick for oily skin, at a premium.",
+        "alternatives": [
+            {
+                "label": "Cheaper Option",
+                "productId": "fixderma-sunscreen-stick",
+                "reason": "A clear SPF 50 stick for ₹319."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.6,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "earth-rhythm-vitc-sunstick",
+        "name": "Glow Surge Vitamin C & E Sunstick SPF 50",
+        "title": "Earth Rhythm Glow Surge Vitamin C & E Sunstick SPF 50 (20g)",
+        "brand": "Earth Rhythm",
+        "category": "sunscreens",
+        "subcategory": "Sunscreen Stick",
+        "asin": "B0CF5PYT2S",
+        "amazonUrl": "https://www.amazon.in/dp/B0CF5PYT2S?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CF5PYT2S?tag=oraeskin-21",
+        "badge": "Best Hybrid Sunscreen Stick",
+        "price": 429,
+        "priceEst": "₹429",
+        "currency": "₹",
+        "size": "20g",
+        "image": "/images/products/earth-rhythm-vitc-sunstick.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "780+",
+        "reviewCount": "780+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 7.8,
+            "evidence": 7.6,
+            "userFeedback": 8.2,
+            "value": 8,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Reapplication",
+            "Sun Protection"
+        ],
+        "keyActives": [
+            "SPF 50 (Zinc Oxide, Octinoxate, Homosalate, Bemotrizinol)",
+            "Vitamin C",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "SPF 50 (Zinc Oxide, Octinoxate, Homosalate, Bemotrizinol)",
+            "Vitamin C",
+            "Vitamin E"
+        ],
+        "ingredients": [
+            "SPF 50 (Zinc Oxide, Octinoxate, Homosalate, Bemotrizinol)",
+            "Vitamin C",
+            "Vitamin E"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Stick",
+        "finish": "Natural",
+        "whiteCast": "Minimal",
+        "bestFor": "A larger stick for face, ears, neck and hands.",
+        "avoidIf": "You want a PA rating on the label.",
+        "whyWeLikeIt": "A hybrid stick with zinc oxide and Tinosorb S (bemotrizinol) among its filters, with ingredients listed.",
+        "pros": [
+            "Zinc oxide plus modern filters",
+            "20g, larger than most sticks",
+            "Ingredient list on the listing"
+        ],
+        "cons": [
+            "No PA rating stated",
+            "Slightly emollient, may feel heavy on very oily skin"
+        ],
+        "verdict": "A good hybrid stick for normal to dry skin.",
+        "alternatives": [
+            {
+                "label": "Most-Rated Option",
+                "productId": "fixderma-sunscreen-stick",
+                "reason": "A clear SPF 50 PA+++ stick."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 8
+        }
+    },
+    {
+        "id": "lakme-sunstick-spf50",
+        "name": "Sun Expert Invisible Sunstick SPF 50+",
+        "title": "Lakmé Sun Expert Invisible Sunstick SPF 50+ PA++++ (8g)",
+        "brand": "Lakmé",
+        "category": "sunscreens",
+        "subcategory": "Sunscreen Stick",
+        "asin": "B0F1MY7LZJ",
+        "amazonUrl": "https://www.amazon.in/dp/B0F1MY7LZJ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0F1MY7LZJ?tag=oraeskin-21",
+        "badge": "Best Budget Sunscreen Stick",
+        "price": 259,
+        "priceEst": "₹259",
+        "currency": "₹",
+        "size": "8g",
+        "image": "/images/products/lakme-sunstick-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "200+",
+        "reviewCount": "200+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 7.8,
+            "evidence": 7.8,
+            "userFeedback": 8.6,
+            "value": 7.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Reapplication",
+            "Sun Protection"
+        ],
+        "keyActives": [
+            "SPF 50+ PA++++ (Octinoxate, Uvinul A Plus, Octisalate, Tinosorb S)"
+        ],
+        "keyIngredients": [
+            "SPF 50+ PA++++ (Octinoxate, Uvinul A Plus, Octisalate, Tinosorb S)"
+        ],
+        "ingredients": [
+            "SPF 50+ PA++++ (Octinoxate, Uvinul A Plus, Octisalate, Tinosorb S)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Silicone Stick",
+        "finish": "Invisible",
+        "whiteCast": "None",
+        "bestFor": "A pocket-sized stick for touch-ups.",
+        "avoidIf": "You need enough to cover arms; 8g runs out fast.",
+        "whyWeLikeIt": "SPF 50+ PA++++ with Uvinul A Plus and Tinosorb S in a silky stick, with the ingredients listed.",
+        "pros": [
+            "PA++++ UVA rating",
+            "Modern UVA filters listed",
+            "Cheap to try"
+        ],
+        "cons": [
+            "Only 8g",
+            "Only 200+ ratings"
+        ],
+        "verdict": "A good, cheap stick for face touch-ups.",
+        "alternatives": [
+            {
+                "label": "Bigger Stick",
+                "productId": "fixderma-sunscreen-stick",
+                "reason": "A 15g SPF 50 stick with 13,700+ ratings."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.8,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "dotkey-lime-rush-sports-spf50",
+        "name": "Lime Rush Swim + Sports Sunscreen SPF 50+",
+        "title": "Dot & Key Lime Rush Swim + Sports Sunscreen SPF 50+ PA++++ (50g)",
+        "brand": "Dot & Key",
+        "category": "sunscreens",
+        "subcategory": "Water-Resistant Sunscreen",
+        "asin": "B0CTT91H5J",
+        "amazonUrl": "https://www.amazon.in/dp/B0CTT91H5J?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CTT91H5J?tag=oraeskin-21",
+        "badge": "Best Water-Resistant Sunscreen",
+        "price": 470,
+        "priceEst": "₹470",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/dotkey-lime-rush-sports-spf50.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "640+",
+        "reviewCount": "640+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 8.2,
+            "userFeedback": 8.6,
+            "value": 8,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Sweat",
+            "Swimming",
+            "Sun Protection"
+        ],
+        "keyActives": [
+            "SPF 50+ PA++++ (Octinoxate, Uvinul A Plus, Tinosorb M)",
+            "180-Minute Water Resistance"
+        ],
+        "keyIngredients": [
+            "SPF 50+ PA++++ (Octinoxate, Uvinul A Plus, Tinosorb M)",
+            "180-Minute Water Resistance"
+        ],
+        "ingredients": [
+            "SPF 50+ PA++++ (Octinoxate, Uvinul A Plus, Tinosorb M)",
+            "180-Minute Water Resistance"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Lotion",
+        "finish": "Non-Greasy",
+        "whiteCast": "None",
+        "bestFor": "Swimming, sports and long sweaty days outdoors.",
+        "avoidIf": "You only need light daily protection indoors.",
+        "whyWeLikeIt": "A sport sunscreen claiming 180 minutes of water and sweat resistance, with modern UVA filters listed.",
+        "pros": [
+            "Labelled water- and sweat-resistant for 180 minutes",
+            "PA++++ with Uvinul A Plus and Tinosorb M",
+            "Ingredient list on the listing"
+        ],
+        "cons": [
+            "Only 640+ ratings",
+            "Still needs reapplying after towelling off"
+        ],
+        "verdict": "Our top pick for swimming and workouts.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "neutrogena-ultra-sheer-spf50",
+                "reason": "A long-running water-resistant SPF 50+."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "neutrogena-ultra-sheer-spf50",
+        "name": "Ultra Sheer Sunscreen SPF 50+",
+        "title": "Neutrogena Ultra Sheer Dry-Touch Sunscreen SPF 50+ PA++++ (80ml)",
+        "brand": "Neutrogena",
+        "category": "sunscreens",
+        "subcategory": "Water-Resistant Sunscreen",
+        "asin": "B082PFY9S7",
+        "amazonUrl": "https://www.amazon.in/dp/B082PFY9S7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B082PFY9S7?tag=oraeskin-21",
+        "badge": "Most-Rated Water-Resistant Sunscreen",
+        "price": 429,
+        "priceEst": "₹429",
+        "currency": "₹",
+        "size": "80ml",
+        "image": "/images/products/neutrogena-ultra-sheer-spf50.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "24,300+",
+        "reviewCount": "24,300+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 7.6,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 8.6,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Sweat",
+            "Sun Protection"
+        ],
+        "keyActives": [
+            "SPF 50+ PA++++ (Homosalate, Octisalate, Oxybenzone, Octocrylene, Avobenzone)"
+        ],
+        "keyIngredients": [
+            "SPF 50+ PA++++ (Homosalate, Octisalate, Oxybenzone, Octocrylene, Avobenzone)"
+        ],
+        "ingredients": [
+            "Water",
+            "Homosalate",
+            "Ethylhexyl Salicylate",
+            "Benzophenone-3",
+            "Octocrylene",
+            "Butyl Methoxydibenzoylmethane",
+            "Silica",
+            "Styrene/Acrylates Copolymer",
+            "Potassium Cetyl Phosphate",
+            "Beeswax",
+            "Glyceryl Stearate",
+            "PEG-100 Stearate",
+            "Cetyl Dimethicone",
+            "Caprylyl Methicone",
+            "Dimethicone",
+            "Ethylhexylglycerin",
+            "Behenyl Alcohol",
+            "Sodium Polyacrylate",
+            "Xanthan Gum",
+            "Fragrance",
+            "Disodium EDTA"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Lotion",
+        "finish": "Dry-Touch",
+        "whiteCast": "Minimal",
+        "bestFor": "Daily outdoor use when you sweat, at a good price.",
+        "avoidIf": "You are sensitive to fragrance or prefer to avoid oxybenzone.",
+        "whyWeLikeIt": "A long-running water-resistant SPF 50+ with a dry-touch finish and 24,300+ ratings.",
+        "pros": [
+            "Labelled water-resistant",
+            "24,300+ ratings",
+            "80ml for ₹429"
+        ],
+        "cons": [
+            "Contains oxybenzone and fragrance",
+            "Older filters; can sting if it runs into eyes with sweat"
+        ],
+        "verdict": "Reliable and affordable, but sensitive skin may prefer Dot & Key.",
+        "alternatives": [
+            {
+                "label": "Newer Filters",
+                "productId": "dotkey-lime-rush-sports-spf50",
+                "reason": "Water-resistant with Tinosorb M and Uvinul A Plus."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.6,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "mitchell-neck-therapy-cream",
+        "name": "Anti-Aging Neck Therapy Cream",
+        "title": "Mitchell USA Anti-Aging Neck Therapy Cream (50g)",
+        "brand": "Mitchell USA",
+        "category": "anti-aging",
+        "subcategory": "Neck Cream",
+        "asin": "B0736VCPPV",
+        "amazonUrl": "https://www.amazon.in/dp/B0736VCPPV?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0736VCPPV?tag=oraeskin-21",
+        "badge": "Best Dedicated Neck Cream",
+        "price": 1007,
+        "priceEst": "₹1007",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/mitchell-neck-therapy-cream.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "240+",
+        "reviewCount": "240+",
+        "scoreBreakdown": {
+            "formula": 6.4,
+            "skinSuitability": 7.6,
+            "evidence": 5.6,
+            "userFeedback": 8.2,
+            "value": 6.4,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Neck Lines",
+            "Crepey Skin",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Lotus Seed Extract",
+            "Grape Seed Oil"
+        ],
+        "keyIngredients": [
+            "Lotus Seed Extract",
+            "Grape Seed Oil"
+        ],
+        "ingredients": [
+            "Lotus Seed Extract",
+            "Grape Seed Oil"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Rich Cream",
+        "finish": "Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Anyone who wants a separate, rich moisturiser for the neck.",
+        "avoidIf": "You expect it to firm or lift skin; evidence for that is weak.",
+        "whyWeLikeIt": "A rich neck moisturiser with plant extracts. Moisturising can soften the look of fine lines.",
+        "pros": [
+            "Rich, comfortable texture",
+            "Made for the neck area",
+            "4.1★ rating"
+        ],
+        "cons": [
+            "₹1,007, and the listing names only grape seed oil",
+            "No retinoid or peptide stated, so little evidence for firming"
+        ],
+        "verdict": "Pleasant, but a retinoid plus sunscreen will do more for neck lines.",
+        "alternatives": [
+            {
+                "label": "Better Evidence",
+                "productId": "minimalist-granactive-retinoid-2",
+                "reason": "A gentle retinoid cream for face and neck."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7,
+        "scores": {
+            "formula": 6.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.4,
+            "overall": 7
+        }
+    },
+    {
+        "id": "mizon-snail-gold-eye-patch",
+        "name": "Snail Intensive Gold Eye Gel Patch",
+        "title": "Mizon Snail Intensive Gold Eye Gel Patch (60 Patches)",
+        "brand": "Mizon",
+        "category": "eye-care",
+        "subcategory": "Hydrogel Eye Patches",
+        "asin": "B07KGMWBHM",
+        "amazonUrl": "https://www.amazon.in/dp/B07KGMWBHM?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07KGMWBHM?tag=oraeskin-21",
+        "badge": "Most-Rated Eye Patches",
+        "price": 899,
+        "priceEst": "₹899",
+        "currency": "₹",
+        "size": "60 patches",
+        "image": "/images/products/mizon-snail-gold-eye-patch.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "13,800+",
+        "reviewCount": "13,800+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.2,
+            "evidence": 6.6,
+            "userFeedback": 8.4,
+            "value": 7.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Dehydration",
+            "Tired Eyes"
+        ],
+        "keyActives": [
+            "Snail Mucin",
+            "Gold"
+        ],
+        "keyIngredients": [
+            "Snail Mucin",
+            "Gold"
+        ],
+        "ingredients": [
+            "Snail Mucin",
+            "Gold"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hydrogel Patch",
+        "finish": "Hydrated, Cool",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Quick hydration and de-puffing before an event or makeup.",
+        "avoidIf": "You expect them to remove dark circles.",
+        "whyWeLikeIt": "Hydrogel patches with snail mucin, rated by 13,800+ buyers, at about ₹30 a pair.",
+        "pros": [
+            "13,800+ ratings",
+            "30 pairs per jar",
+            "Cooling and hydrating"
+        ],
+        "cons": [
+            "Effects are temporary, mainly hydration and cooling",
+            "The listing does not show the full ingredient list"
+        ],
+        "verdict": "A popular, good-value jar of patches for quick prep.",
+        "alternatives": [
+            {
+                "label": "Caffeine Option",
+                "productId": "mcaffeine-coffee-eye-patches",
+                "reason": "Caffeine hydrogel patches for puffiness."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.4,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "dotkey-watermelon-eye-patches",
+        "name": "Watermelon Cooling Hydrogel Under Eye Patches",
+        "title": "Dot & Key Watermelon Cooling Hydrogel Under Eye Patches (60 Patches)",
+        "brand": "Dot & Key",
+        "category": "eye-care",
+        "subcategory": "Hydrogel Eye Patches",
+        "asin": "B0C5HPRVP7",
+        "amazonUrl": "https://www.amazon.in/dp/B0C5HPRVP7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0C5HPRVP7?tag=oraeskin-21",
+        "badge": "Best Cooling Eye Patches",
+        "price": 623,
+        "priceEst": "₹623",
+        "currency": "₹",
+        "size": "60 patches",
+        "image": "/images/products/dotkey-watermelon-eye-patches.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "660+",
+        "reviewCount": "660+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8.2,
+            "evidence": 6.6,
+            "userFeedback": 8.4,
+            "value": 7.8,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Dehydration"
+        ],
+        "keyActives": [
+            "Watermelon Extract",
+            "Hyaluronic Acid",
+            "Niacinamide"
+        ],
+        "keyIngredients": [
+            "Watermelon Extract",
+            "Hyaluronic Acid",
+            "Niacinamide"
+        ],
+        "ingredients": [
+            "Watermelon Extract",
+            "Hyaluronic Acid",
+            "Niacinamide"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hydrogel Patch",
+        "finish": "Cool, Hydrated",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A cooling 15-minute de-puff before makeup.",
+        "avoidIf": "You want a strong dark-circle treatment.",
+        "whyWeLikeIt": "Hyaluronic acid and niacinamide in cooling hydrogel patches, about ₹21 a pair.",
+        "pros": [
+            "Hyaluronic acid and niacinamide",
+            "About ₹21 a pair",
+            "Quick 15-minute use"
+        ],
+        "cons": [
+            "Only 660+ ratings",
+            "The listing names only watermelon as an ingredient"
+        ],
+        "verdict": "A cheaper, cooling alternative to Mizon.",
+        "alternatives": [
+            {
+                "label": "Most-Rated Option",
+                "productId": "mizon-snail-gold-eye-patch",
+                "reason": "Snail mucin patches with 13,800+ ratings."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.8,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "mcaffeine-coffee-eye-patches",
+        "name": "Coffee Hydrogel Under Eye Patches",
+        "title": "mCaffeine Coffee Hydrogel Under Eye Patches with Caffeine (15 Pairs)",
+        "brand": "mCaffeine",
+        "category": "eye-care",
+        "subcategory": "Hydrogel Eye Patches",
+        "asin": "B0CR44H3PC",
+        "amazonUrl": "https://www.amazon.in/dp/B0CR44H3PC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CR44H3PC?tag=oraeskin-21",
+        "badge": "Best Caffeine Eye Patches",
+        "price": 399,
+        "priceEst": "₹399",
+        "currency": "₹",
+        "size": "30 patches",
+        "image": "/images/products/mcaffeine-coffee-eye-patches.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "470+",
+        "reviewCount": "470+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8,
+            "evidence": 6.8,
+            "userFeedback": 8.2,
+            "value": 7.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Tired Eyes"
+        ],
+        "keyActives": [
+            "Caffeine (Coffee)",
+            "Hyaluronic Acid"
+        ],
+        "keyIngredients": [
+            "Caffeine (Coffee)",
+            "Hyaluronic Acid"
+        ],
+        "ingredients": [
+            "Caffeine (Coffee)",
+            "Hyaluronic Acid"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hydrogel Patch",
+        "finish": "Cool",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Morning puffiness after a short night.",
+        "avoidIf": "You need many uses; 15 pairs go quickly.",
+        "whyWeLikeIt": "Caffeine and hyaluronic acid in hydrogel patches. Caffeine may help reduce puffiness for a few hours.",
+        "pros": [
+            "Caffeine for puffiness",
+            "Hyaluronic acid for hydration",
+            "Biodegradable patches, per the listing"
+        ],
+        "cons": [
+            "Only 15 pairs, about ₹27 a pair",
+            "The listing names only coffee as an ingredient"
+        ],
+        "verdict": "A good pick when puffiness, not dryness, is the main issue.",
+        "alternatives": [
+            {
+                "label": "More Pairs",
+                "productId": "dotkey-watermelon-eye-patches",
+                "reason": "60 patches with hyaluronic acid and niacinamide."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.7,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.4,
+            "overall": 7.7
+        }
+    },
+    {
+        "id": "cetaphil-brightening-night-cream",
+        "name": "Bright Healthy Radiance Night Comfort Cream",
+        "title": "Cetaphil Brightening Night Comfort Cream with Niacinamide (50g)",
+        "brand": "Cetaphil",
+        "category": "moisturizers",
+        "subcategory": "Night Cream",
+        "asin": "B08L95888H",
+        "amazonUrl": "https://www.amazon.in/dp/B08L95888H?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08L95888H?tag=oraeskin-21",
+        "badge": "Best Night Cream for Glow",
+        "price": 1149,
+        "priceEst": "₹1149",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/cetaphil-brightening-night-cream.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "4,500+",
+        "reviewCount": "4,500+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.8,
+            "evidence": 8,
+            "userFeedback": 8.2,
+            "value": 6.8,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Dullness",
+            "Uneven Tone",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Niacinamide",
+            "Hyaluronic Acid",
+            "Glycerin"
+        ],
+        "keyIngredients": [
+            "Niacinamide",
+            "Hyaluronic Acid",
+            "Glycerin"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerin",
+            "Niacinamide",
+            "Butylene Glycol",
+            "Hydrogenated Polydecene",
+            "1,2-Hexanediol",
+            "Cetearyl Alcohol",
+            "Cetearyl Olivate",
+            "Cetyl Ethylhexanoate",
+            "Sorbitan Olivate",
+            "Beeswax",
+            "Vinyl Dimethicone",
+            "Anhydroxylitol",
+            "Citric Acid",
+            "Ethylhexylglycerin",
+            "Glyceryl Stearate",
+            "Hyaluronic Acid",
+            "Hydrolyzed Cicer Seed Extract",
+            "Hydrolyzed Hyaluronic Acid",
+            "Pancratium Maritimum Extract"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Rich Cream",
+        "finish": "Comfortable, Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry or sensitive skin that wants a gentle glow-boosting night cream.",
+        "avoidIf": "You have very oily skin, or are on a tight budget.",
+        "whyWeLikeIt": "Niacinamide high in the ingredient list with glycerin and hyaluronic acid, in a fragrance-free cream.",
+        "pros": [
+            "Niacinamide is third on the ingredient list",
+            "Fragrance-free",
+            "Ingredient list on the listing"
+        ],
+        "cons": [
+            "₹1,149 for 50g",
+            "Rich texture may feel heavy on oily skin"
+        ],
+        "verdict": "The gentlest glow-focused night cream here.",
+        "alternatives": [
+            {
+                "label": "Budget Pick",
+                "productId": "loreal-glycolic-night-cream",
+                "reason": "A small glycolic acid night cream to try."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "loreal-glycolic-night-cream",
+        "name": "Glycolic Bright Glowing Night Cream",
+        "title": "L'Oréal Paris Glycolic Bright Glowing Night Cream (15ml)",
+        "brand": "L'Oréal Paris",
+        "category": "moisturizers",
+        "subcategory": "Night Cream",
+        "asin": "B0B9QY2YHQ",
+        "amazonUrl": "https://www.amazon.in/dp/B0B9QY2YHQ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B9QY2YHQ?tag=oraeskin-21",
+        "badge": "Best Budget Glow Night Cream",
+        "price": 279,
+        "priceEst": "₹279",
+        "currency": "₹",
+        "size": "15ml",
+        "image": "/images/products/loreal-glycolic-night-cream.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "2,700+",
+        "reviewCount": "2,700+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 7.8,
+            "evidence": 7.4,
+            "userFeedback": 8.4,
+            "value": 7.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Combination",
+            "Oily"
+        ],
+        "concerns": [
+            "Dullness",
+            "Dark Spots",
+            "Texture"
+        ],
+        "keyActives": [
+            "Glycolic Acid"
+        ],
+        "keyIngredients": [
+            "Glycolic Acid"
+        ],
+        "ingredients": [
+            "Glycolic Acid"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Cream",
+        "finish": "Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Trying a mild glycolic acid night cream before committing.",
+        "avoidIf": "You already use a retinoid or strong acid at night.",
+        "whyWeLikeIt": "A light night cream with glycolic acid, rated by 2,700+ buyers.",
+        "pros": [
+            "Glycolic acid for gentle exfoliation",
+            "2,700+ ratings",
+            "Cheap to try"
+        ],
+        "cons": [
+            "Only 15ml",
+            "The listing names only glycolic acid, not the full formula or percentage"
+        ],
+        "verdict": "A low-cost way to add a little glow overnight.",
+        "alternatives": [
+            {
+                "label": "Gentler Option",
+                "productId": "cetaphil-brightening-night-cream",
+                "reason": "A fragrance-free niacinamide night cream."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.8,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "pilgrim-retinol-night-cream",
+        "name": "Korean Retinol Night Cream",
+        "title": "Pilgrim Korean Retinol Night Cream with Hyaluronic Acid & Vitamin C (50g)",
+        "brand": "Pilgrim",
+        "category": "moisturizers",
+        "subcategory": "Night Cream",
+        "asin": "B08WLSGJFC",
+        "amazonUrl": "https://www.amazon.in/dp/B08WLSGJFC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08WLSGJFC?tag=oraeskin-21",
+        "badge": "Best Budget Retinol Night Cream",
+        "price": 467,
+        "priceEst": "₹467",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/pilgrim-retinol-night-cream.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "4,200+",
+        "reviewCount": "4,200+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 7.6,
+            "evidence": 7.4,
+            "userFeedback": 8.2,
+            "value": 8.4,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Combination"
+        ],
+        "concerns": [
+            "Fine Lines",
+            "Dullness",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Retinol",
+            "Niacinamide",
+            "Vitamin C (Sodium Ascorbyl Phosphate)",
+            "Panthenol"
+        ],
+        "keyIngredients": [
+            "Retinol",
+            "Niacinamide",
+            "Vitamin C (Sodium Ascorbyl Phosphate)",
+            "Panthenol"
+        ],
+        "ingredients": [
+            "Retinol",
+            "Niacinamide",
+            "Vitamin C (Sodium Ascorbyl Phosphate)",
+            "Panthenol"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel Cream",
+        "finish": "Light",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A light, budget night cream with a little retinol and niacinamide.",
+        "avoidIf": "You have sensitive skin or avoid fragrance.",
+        "whyWeLikeIt": "Retinol, niacinamide, panthenol and vitamin C in one 50g cream, with the ingredients listed.",
+        "pros": [
+            "Retinol plus niacinamide",
+            "50g for ₹467",
+            "4,200+ ratings"
+        ],
+        "cons": [
+            "Contains parfum",
+            "Retinol percentage is not stated"
+        ],
+        "verdict": "A decent all-in-one, but Minimalist is gentler and fragrance-free.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free Option",
+                "productId": "minimalist-granactive-retinoid-2",
+                "reason": "A gentle 2% retinoid night cream."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "aveeno-baby-soothing-cream",
+        "name": "Baby Soothing Relief Moisture Cream",
+        "title": "Aveeno Baby Soothing Relief Moisture Cream with Colloidal Oat (100g)",
+        "brand": "Aveeno",
+        "category": "moisturizers",
+        "subcategory": "Colloidal Oat Cream",
+        "asin": "B0DCVLFTVL",
+        "amazonUrl": "https://www.amazon.in/dp/B0DCVLFTVL?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DCVLFTVL?tag=oraeskin-21",
+        "badge": "Best Colloidal Oat Cream",
+        "price": 440,
+        "priceEst": "₹440",
+        "currency": "₹",
+        "size": "100g",
+        "image": "/images/products/aveeno-baby-soothing-cream.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "1,300+",
+        "reviewCount": "1,300+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 9.2,
+            "evidence": 8.6,
+            "userFeedback": 8.8,
+            "value": 8.2,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "Very Dry",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Itching",
+            "Eczema-Prone Skin",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Colloidal Oat (Oat Kernel Flour)",
+            "Petrolatum",
+            "Glycerin",
+            "Dimethicone"
+        ],
+        "keyIngredients": [
+            "Colloidal Oat (Oat Kernel Flour)",
+            "Petrolatum",
+            "Glycerin",
+            "Dimethicone"
+        ],
+        "ingredients": [
+            "Water",
+            "Glycerin",
+            "Petrolatum",
+            "Mineral Oil",
+            "Cetyl Alcohol",
+            "Dimethicone",
+            "Beeswax",
+            "Hydroxypropyl Starch Phosphate",
+            "Avena Sativa (Oat) Kernel Flour",
+            "Glyceryl Stearate SE",
+            "Carbomer",
+            "Caprylyl Glycol",
+            "Sodium Hydroxide",
+            "Butylene Glycol",
+            "Ethylhexylglycerin",
+            "Palmitic Acid",
+            "Stearic Acid",
+            "Chlorphenesin",
+            "Sodium Citrate",
+            "Tetrasodium EDTA",
+            "Glycine Soja (Soybean) Oil",
+            "Citric Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Rich Cream",
+        "finish": "Protective",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry, itchy, eczema-prone skin on adults and children.",
+        "avoidIf": "You dislike a rich, slightly occlusive feel.",
+        "whyWeLikeIt": "Colloidal oat with glycerin, petrolatum and dimethicone in a fragrance-free cream, a well-supported combination for itchy, dry skin.",
+        "pros": [
+            "Colloidal oat plus occlusives",
+            "Fragrance-free",
+            "4.4★ from 1,300+ ratings"
+        ],
+        "cons": [
+            "Rich, may feel heavy in humid weather",
+            "Labelled for babies, though it suits adults too"
+        ],
+        "verdict": "Our top pick for itchy, dry, eczema-prone skin.",
+        "alternatives": [
+            {
+                "label": "Alternative",
+                "productId": "bioderma-atoderm-baume",
+                "reason": "A restorative balm for very dry skin."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.8,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.2,
+            "overall": 8.8
+        }
+    },
+    {
+        "id": "aquaoat-moisturizing-cream",
+        "name": "Aqua Oat Moisturizing Cream",
+        "title": "Emcure Aquaoat Moisturizing Cream with Colloidal Oatmeal & Ceramides (100g)",
+        "brand": "Aquaoat",
+        "category": "moisturizers",
+        "subcategory": "Colloidal Oat Cream",
+        "asin": "B0BSLF2RXJ",
+        "amazonUrl": "https://www.amazon.in/dp/B0BSLF2RXJ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BSLF2RXJ?tag=oraeskin-21",
+        "badge": "Best Budget Oat Cream",
+        "price": 410,
+        "priceEst": "₹410",
+        "currency": "₹",
+        "size": "100g",
+        "image": "/images/products/aquaoat-moisturizing-cream.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "160+",
+        "reviewCount": "160+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.4,
+            "evidence": 7.6,
+            "userFeedback": 8.2,
+            "value": 8,
+            "availability": 8.5
+        },
+        "skinType": [
+            "Dry",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Itching",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Colloidal Oatmeal",
+            "Ceramides",
+            "Shea Butter",
+            "Glycerin"
+        ],
+        "keyIngredients": [
+            "Colloidal Oatmeal",
+            "Ceramides",
+            "Shea Butter",
+            "Glycerin"
+        ],
+        "ingredients": [
+            "Colloidal Oatmeal",
+            "Ceramides",
+            "Shea Butter",
+            "Glycerin"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Cream",
+        "finish": "Soft",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A colloidal oat and ceramide cream for dry, itchy skin.",
+        "avoidIf": "You want to read the full formula first.",
+        "whyWeLikeIt": "Colloidal oatmeal with ceramides and shea butter from a pharmaceutical brand.",
+        "pros": [
+            "Colloidal oatmeal plus ceramides",
+            "Shea butter for richness",
+            "100g tube"
+        ],
+        "cons": [
+            "Only 160+ ratings",
+            "The listing names only four ingredients"
+        ],
+        "verdict": "A reasonable alternative to Aveeno.",
+        "alternatives": [
+            {
+                "label": "Most Trusted Option",
+                "productId": "aveeno-baby-soothing-cream",
+                "reason": "A fragrance-free colloidal oat cream."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8,
+            "overall": 8
+        }
+    },
+    {
+        "id": "minimalist-squalane-oil",
+        "name": "Squalane 100% (Plant Derived)",
+        "title": "Minimalist 100% Plant-Derived Squalane Face Oil (30ml)",
+        "brand": "Minimalist",
+        "category": "serums",
+        "subcategory": "Squalane Oil",
+        "asin": "B08KSL2QNF",
+        "amazonUrl": "https://www.amazon.in/dp/B08KSL2QNF?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08KSL2QNF?tag=oraeskin-21",
+        "badge": "Best Squalane Oil",
+        "price": 664,
+        "priceEst": "₹664",
+        "currency": "₹",
+        "size": "30ml",
+        "image": "/images/products/minimalist-squalane-oil.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "1,900+",
+        "reviewCount": "1,900+",
+        "scoreBreakdown": {
+            "formula": 8.6,
+            "skinSuitability": 9,
+            "evidence": 8.2,
+            "userFeedback": 8.8,
+            "value": 7.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "All Skin Types",
+            "Dry",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Dryness",
+            "Barrier Repair"
+        ],
+        "keyActives": [
+            "Squalane (olive-derived)"
+        ],
+        "keyIngredients": [
+            "Squalane (olive-derived)"
+        ],
+        "ingredients": [
+            "Squalane (olive-derived)"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Weightless Oil",
+        "finish": "Non-Greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Adding a few drops to moisturiser, or sealing in serums at night.",
+        "avoidIf": "You have fungal acne and want to be cautious with any oil.",
+        "whyWeLikeIt": "Olive-derived squalane, a light, stable oil that mimics a component of skin’s own oil and rarely irritates.",
+        "pros": [
+            "Light and non-greasy",
+            "Suits most skin types",
+            "4.4★ from 1,900+ ratings"
+        ],
+        "cons": [
+            "₹664 for 30ml",
+            "An oil only seals in water; it does not hydrate on its own"
+        ],
+        "verdict": "The easiest squalane to add to any routine.",
+        "alternatives": [
+            {
+                "label": "Cleanser Option",
+                "productId": "the-ordinary-squalane-cleanser",
+                "reason": "A squalane balm cleanser."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.6,
+        "scores": {
+            "formula": 8.6,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.8,
+            "overall": 8.6
+        }
+    },
+    {
+        "id": "the-ordinary-squalane-cleanser",
+        "name": "Squalane Cleanser",
+        "title": "The Ordinary Squalane Cleanser (50ml)",
+        "brand": "The Ordinary",
+        "category": "cleansers",
+        "subcategory": "Balm Cleanser",
+        "asin": "B07PSKR85S",
+        "amazonUrl": "https://www.amazon.in/dp/B07PSKR85S?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07PSKR85S?tag=oraeskin-21",
+        "badge": "Best Squalane Cleanser",
+        "price": 1050,
+        "priceEst": "₹1050",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/the-ordinary-squalane-cleanser.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "3,800+",
+        "reviewCount": "3,800+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.8,
+            "evidence": 7.6,
+            "userFeedback": 8.6,
+            "value": 6.6,
+            "availability": 9
+        },
+        "skinType": [
+            "Dry",
+            "Normal",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Makeup Removal",
+            "Dryness"
+        ],
+        "keyActives": [
+            "Squalane"
+        ],
+        "keyIngredients": [
+            "Squalane"
+        ],
+        "ingredients": [
+            "Squalane"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Balm-to-Oil",
+        "finish": "Soft, Non-Stripping",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Removing makeup and sunscreen without stripping dry skin.",
+        "avoidIf": "You want a foaming wash; this is a soft balm.",
+        "whyWeLikeIt": "A soap-free squalane balm cleanser that melts off makeup and sunscreen.",
+        "pros": [
+            "Soap-free, gentle on dry skin",
+            "Removes sunscreen and makeup",
+            "3,800+ ratings"
+        ],
+        "cons": [
+            "₹1,050 for 50ml",
+            "The listing does not show the full ingredient list"
+        ],
+        "verdict": "A gentle first cleanse for dry or sensitive skin.",
+        "alternatives": [
+            {
+                "label": "Leave-On Option",
+                "productId": "minimalist-squalane-oil",
+                "reason": "Pure squalane to use after cleansing."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.6,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "the-ordinary-squalane-lip-balm",
+        "name": "Squalane + Amino Acids Lip Balm",
+        "title": "The Ordinary Squalane + Amino Acids Hydrating Lip Balm (15ml)",
+        "brand": "The Ordinary",
+        "category": "lip-care",
+        "subcategory": "Lip Balm",
+        "asin": "B0D8CXZKF3",
+        "amazonUrl": "https://www.amazon.in/dp/B0D8CXZKF3?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0D8CXZKF3?tag=oraeskin-21",
+        "badge": "Best Squalane Lip Balm",
+        "price": 950,
+        "priceEst": "₹950",
+        "currency": "₹",
+        "size": "15ml",
+        "image": "/images/products/the-ordinary-squalane-lip-balm.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "2,200+",
+        "reviewCount": "2,200+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.6,
+            "evidence": 7.2,
+            "userFeedback": 8.6,
+            "value": 6.8,
+            "availability": 9
+        },
+        "skinType": [
+            "All Skin Types"
+        ],
+        "concerns": [
+            "Dry Lips",
+            "Dry Cuticles"
+        ],
+        "keyActives": [
+            "Squalane",
+            "Amino Acids"
+        ],
+        "keyIngredients": [
+            "Squalane",
+            "Amino Acids"
+        ],
+        "ingredients": [
+            "Squalane",
+            "Amino Acids"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Balm",
+        "finish": "Glossy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry lips, plus elbows and cuticles.",
+        "avoidIf": "You want SPF in your lip balm.",
+        "whyWeLikeIt": "Squalane with amino acids in a balm made for lips, elbows and cuticles.",
+        "pros": [
+            "Multi-use: lips, elbows, cuticles",
+            "15ml lasts a long time",
+            "2,200+ ratings"
+        ],
+        "cons": [
+            "₹950, pricey for a balm",
+            "No SPF; the listing does not show the full ingredients"
+        ],
+        "verdict": "A nice multi-use balm, but costly.",
+        "alternatives": [
+            {
+                "label": "Better Value",
+                "productId": "aquaphor-lip-repair",
+                "reason": "A fragrance-free repair lip balm."
+            }
+        ],
+        "lastPriceChecked": "October 2026",
+        "lastEditorialReview": "October 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 6.8,
+            "overall": 8
+        }
     }
 ];
 

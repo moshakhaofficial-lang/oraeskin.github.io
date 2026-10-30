@@ -88,7 +88,7 @@ A 100ml tinted sunscreen with niacinamide for under ₹300. It contains perfume.
 ## Frequently Asked Questions
 
 ### How long before I see noticeable results?
-Most active formulations require 4 to 6 weeks of continuous daily use, matching the natural 28-day epidermal turnover cycle of healthy skin.
+Hydrating and soothing products feel better within days. Acne actives usually need 4–8 weeks, and pigment or anti-ageing actives 8–12 weeks of consistent use alongside daily sunscreen.
 
 ### Will this cause breakouts in humid weather?
-No. The recommendations above are non-comedogenic and formulated without heavy pore-clogging waxes or comedogenic mineral oils.
+Most picks above are light formulas, but any product can clog pores for some people. Introduce one new product at a time and give it a week before adding the next, especially if your skin is acne-prone.
