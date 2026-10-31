@@ -2,6 +2,7 @@
   "published_products": [
     "aqualogica-radiance-spf50",
     "bebodywise-lactic-5-lotion",
+    "benzac-ac-5-wash",
     "bioderma-atoderm-baume",
     "biotique-morning-nectar-lotion",
     "cerave-eye-repair",
@@ -54,6 +55,7 @@
     "best-fermented-rice-kombucha-toners-india",
     "best-foot-creams-cracked-heels-urea-salicylic",
     "best-gentle-cleansers-for-dry-skin-india",
+    "best-hydrating-milky-toners-glass-skin-india",
     "best-lactic-acid-lotions-rough-elbows-knees-india",
     "best-lip-sleeping-masks-chapped-peeling-lips",
     "best-micro-dart-patches-deep-blind-pimples",
@@ -777,6 +779,26 @@
       "type": "blog",
       "title": "Best BHA (Salicylic Acid) Toners & Exfoliants for Blackheads in India",
       "date": "2026-10-30T10:56:52.878988+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "benzac-ac-5-wash",
+      "type": "product",
+      "title": "AC 5% Gel Wash",
+      "date": "2026-10-31T10:29:09.442386+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-hydrating-milky-toners-glass-skin-india",
+      "type": "blog",
+      "title": "Best Hydrating & Milky Toners in India for Dewy Skin",
+      "date": "2026-10-31T10:29:10.492325+00:00",
       "channels": [
         "twitter",
         "instagram"
