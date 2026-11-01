@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Cleansers for Hard Water Skin Damage in India: Combatting Calcium Buildup"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Cleansers"
 rating: 4.7
 keywords: "hard water skin damage cleanser india, best face wash for hard tap water, chelating cleanser india, simple refreshing wash review, prevent hard water acne"
@@ -11,7 +11,7 @@ description: "Hard municipal tap water leaves mineral deposits that clog pores a
 topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
-topPickRating: "4.6 ★"
+topPickRating: "4.2 ★"
 topPickPrice: "~₹384"
 ---
 
@@ -26,8 +26,8 @@ In major Indian cities like Bengaluru, Chennai, Hyderabad, and Delhi NCR, tap wa
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Disodium EDTA (Chelating Agent), Pro-Vitamin B5 & Purified Water | All Skin Types Battling High TDS Hard Municipal Water | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Niacinamide & Hyaluronic Acid | Oily & Sensitive Skin Experiencing Hard Water Irritation | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Severely Reactive Skin Damaged by Hard Tap Water | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Niacinamide & Hyaluronic Acid | Oily & Sensitive Skin Experiencing Hard Water Irritation | ~₹1,054 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Severely Reactive Skin Damaged by Hard Tap Water | ~₹370 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
 ---
 

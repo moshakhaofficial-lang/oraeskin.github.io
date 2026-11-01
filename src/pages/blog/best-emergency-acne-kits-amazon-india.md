@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Build an Emergency Acne Kit: Best Products on Amazon India"
 image: "/images/products/minimalist-salicylic-cleanser.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Acne Spot Treatments"
 rating: 4.8
 keywords: "emergency acne kit amazon india, pimple rescue kit, clear skin fast for event"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹284"
+topPickPrice: "~₹269"
 ---
 
 A small emergency kit means you can act the moment a breakout starts: a BHA cleanser, a targeted treatment and patches. These are the products on Amazon India we rate most highly for each step.
@@ -23,12 +23,12 @@ A small emergency kit means you can act the moment a breakout starts: a BHA clea
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Blackheads, Whiteheads | ₹284 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Blackheads, Whiteheads | ₹269 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 | **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹135 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
+| **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹99 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
 | **[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/)** | 2% Salicylic Acid (BHA) | Blackheads, Whiteheads | ₹483 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GG9M863?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -39,7 +39,7 @@ A fragrance-free 2% salicylic face wash with LHA and zinc, under ₹300.
 - **Key actives**: 2% Salicylic Acid (BHA), Capryloyl Salicylic Acid (LHA), Zinc PCA
 - **Texture & finish**: Lightweight Gel — deeply clarified & matte
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹284 for 100ml (₹2.8/ml) · 4.2★ from 29,500+ Amazon India ratings
+- **Price**: ₹269 for 100ml (₹2.7/ml) · 4.2★ from 29,000+ Amazon India ratings
 - **Skip it if**: you have dry, wind-chapped skin or an actively compromised stinging barrier.
 
 **Pros:** 2% Salicylic Acid dissolves stubborn oxidized sebum and dead keratin plugs. **Cons:** Daily 2x usage can be drying for combination skin; best used once daily at night.
@@ -71,7 +71,7 @@ Cheap hydrocolloid patches to flatten whiteheads and stop picking.
 - **Key actives**: Hydrocolloid, Salicylic Acid
 - **Texture & finish**: Thin Hydrocolloid Patch — discreet
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹135 for 36 Patches · 4★ from 2,400+ Amazon India ratings
+- **Price**: ₹99 for 36 Patches · 4★ from 2,400+ Amazon India ratings
 - **Skip it if**: you're treating deep cysts with no visible head — patches can't reach them.
 
 **Pros:** Under ₹4 per patch — excellent value. **Cons:** Works on surface whiteheads, not deep or blind pimples.
@@ -87,7 +87,7 @@ A leave-on 2% BHA serum to keep pores clear between breakouts.
 - **Key actives**: 2% Salicylic Acid (BHA)
 - **Texture & finish**: Light Serum — clean, non-sticky
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,800+ Amazon India ratings
+- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,000+ Amazon India ratings
 - **Skip it if**: you have dry or sensitised skin, or already use another strong exfoliant or retinoid every night.
 
 **Pros:** Full 2% salicylic acid in a leave-on serum for blackheads and whiteheads. **Cons:** Can dry or irritate if used daily from the start — begin every other night.
@@ -98,10 +98,10 @@ A leave-on 2% BHA serum to keep pores clear between breakouts.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) works out cheapest at about ₹2.8 per ml (₹284 for 100ml). [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) is next at about ₹16 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) works out cheapest at about ₹2.7 per ml (₹269 for 100ml). [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) is next at about ₹16 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/), [Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/), [Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/) and [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
 
 ### Which is the most popular on Amazon India?
-[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "PIE vs PIH: How to Treat Red Acne Marks vs Dark Brown Spots on Indian Skin"
 image: "/images/products/minimalist-niacinamide-10.jpg"
 date: "2026-09-14"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Serums & Actives"
 rating: 4.8
 keywords: "pie vs pih acne marks india, treat red acne marks vs brown spots, post inflammatory erythema hyperpigmentation, minimalist niacinamide alpha arbutin"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 10% Niacinamide Face Serum"
 topPickBrand: "Minimalist"
 topPickAsin: "B08F9MF314"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹485"
+topPickPrice: "~₹475"
 ---
 
 Are your acne scars red or dark brown? Treating them requires completely different dermatological actives. Discover the definitive guide to PIE vs PIH in India.
@@ -25,8 +25,8 @@ When a pimple heals, it often leaves a stubborn flat mark. However, treating it 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Lonza Niacinamide & 1% Zinc PCA | Both PIE (Vascular Redness) & PIH (Melanosome Transfer) | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **Minimalist — 2% Alpha Arbutin Face Serum** | 2% Pure Alpha Arbutin & 1% Hyaluronic Acid | Dark Brown & Black Melanin Marks (PIH) | ~₹466 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Lonza Niacinamide & 1% Zinc PCA | Both PIE (Vascular Redness) & PIH (Melanosome Transfer) | ~₹475 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — 2% Alpha Arbutin Face Serum** | 2% Pure Alpha Arbutin & 1% Hyaluronic Acid | Dark Brown & Black Melanin Marks (PIH) | ~₹481 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21) |
 | **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 6% Nicotinamide & 2% Salicylic Acid | Freshly Popped Red Inflamed Blemishes | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---

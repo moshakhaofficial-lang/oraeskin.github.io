@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Menopause Skincare Routine: Treating Dryness & Collagen Loss in Indian Skin"
 image: "/images/products/minimalist-granactive-retinoid-2.jpg"
 date: "2026-09-22"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Anti-Aging"
 rating: 4.8
 keywords: "menopause skincare routine india, mature indian skin dryness, minimalist granactive retinoid mature skin, cerave moisturizing cream menopause, collagen loss indian women 50s"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist Granactive Retinoid 2% (0.2% HPR)"
 topPickBrand: "Minimalist"
 topPickAsin: "B08F8W91F8"
 topPickRating: "4.1 ★"
-topPickPrice: "~₹629"
+topPickPrice: "~₹628"
 ---
 
 During perimenopause and menopause, shifting estrogen levels profoundly alter the architecture of South Asian skin. Many Indian women in their late 40s and 50s who enjoyed resilient, oily, or normal skin throughout their 20s and 30s suddenly experience extreme dryness, crepey skin, loss of facial volume, and deepened melasma. Here is your comprehensive guide to preserving collagen and revitalizing mature Indian skin.
@@ -23,9 +23,9 @@ During perimenopause and menopause, shifting estrogen levels profoundly alter th
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — Granactive Retinoid 2% (0.2% HPR)** | Hydroxypinacolone Retinoate + Squalane | Rebuilding Dermal Collagen Without Retinoid Peeling | ~₹629 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
-| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Restoring Deep Lipid Deficits & Calming Menopausal Dryness | ~₹344 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides + Hyaluronic Acid + UV Filters | Guarding Thinning Mature Skin Against Photo-Aging | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Minimalist — Granactive Retinoid 2% (0.2% HPR)** | Hydroxypinacolone Retinoate + Squalane | Rebuilding Dermal Collagen Without Retinoid Peeling | ~₹628 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
+| **CeraVe — Moisturizing Cream with Ceramides** | 3 Essential Ceramides + Hyaluronic Acid + MVE | Restoring Deep Lipid Deficits & Calming Menopausal Dryness | ~₹349 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides + Hyaluronic Acid + UV Filters | Guarding Thinning Mature Skin Against Photo-Aging | ~₹339 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
 

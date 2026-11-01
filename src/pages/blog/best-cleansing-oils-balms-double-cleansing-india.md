@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Cleansing Balms for Double Cleansing in India"
 image: "/images/products/plum-cleansing-balm.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "cleansing oil double cleansing india, best cleansing balm amazon, emulsifying oil cleanser"
@@ -11,7 +11,7 @@ description: "Cleansing balms on Amazon India that melt off sunscreen and makeup
 topPickTitle: "Plum E-Luminence Simply Supple Cleansing Balm"
 topPickBrand: "Plum"
 topPickAsin: "B08423CWXC"
-topPickRating: "4.3 ★"
+topPickRating: "4.4 ★"
 topPickPrice: "~₹488"
 ---
 
@@ -25,10 +25,10 @@ A good balm melts on dry skin, turns milky when you add water, and rinses off wi
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/)** | Kokum Butter + Sunflower Seed Oil | Makeup Removal, Sunscreen Removal | ₹488 (90g) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08423CWXC?tag=oraeskin-21) |
+| **[Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/)** | Kokum Butter + Sunflower Seed Oil | Makeup Removal, Sunscreen Removal | ₹488 (90g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08423CWXC?tag=oraeskin-21) |
 | **[Dot & Key Strawberry Dew Cleansing Balm](/reviews/dotkey-strawberry-cleansing-balm/)** | Sunflower Seed Oil + Kokum & Shea Butter | Makeup Removal, Sunscreen Removal | ₹424 (70g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHJSL1KV?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -39,7 +39,7 @@ Kokum, sunflower and argan oils in a 90g balm that rinses clean. Good value.
 - **Key actives**: Kokum Butter, Sunflower Seed Oil, Argan Oil, Vitamin E
 - **Texture & finish**: Solid Balm, Melts to Oil — soft, non-drying
 - **Fragrance**: Added Fragrance
-- **Price**: ₹488 for 90g (₹5.4/g) · 4.3★ from 2,000+ Amazon India ratings
+- **Price**: ₹488 for 90g (₹5.4/g) · 4.4★ from 2,000+ Amazon India ratings
 - **Skip it if**: you avoid fragrance, or have very acne-prone skin that reacts to rich oils and waxes.
 
 **Pros:** Melts sunscreen and makeup quickly. **Cons:** Contains fragrance.
@@ -55,7 +55,7 @@ A similar melt-to-oil balm with kokum and shea butter.
 - **Key actives**: Sunflower Seed Oil, Kokum & Shea Butter, Strawberry Extract
 - **Texture & finish**: Solid Balm, Melts to Oil — soft, dewy
 - **Fragrance**: Added Fragrance
-- **Price**: ₹424 for 70g (₹6.1/g) · 4.5★ from 500+ Amazon India ratings
+- **Price**: ₹424 for 70g (₹6.1/g) · 4.5★ from 510+ Amazon India ratings
 - **Skip it if**: you avoid fragrance and colourants.
 
 **Pros:** Melts and rinses cleanly. **Cons:** Contains fragrance and a red colourant.
@@ -70,7 +70,7 @@ A similar melt-to-oil balm with kokum and shea butter.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/) works out cheapest at about ₹5.4 per g (₹488 for 90g). [Dot & Key Strawberry Dew Cleansing Balm](/reviews/dotkey-strawberry-cleansing-balm/) is next at about ₹6.1 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/) works out cheapest at about ₹5.4 per g (₹488 for 90g). [Dot & Key Strawberry Dew Cleansing Balm](/reviews/dotkey-strawberry-cleansing-balm/) is next at about ₹6.1 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) and [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) are fragrance-free. [Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/) and [Dot & Key Strawberry Dew Cleansing Balm](/reviews/dotkey-strawberry-cleansing-balm/) contain added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -82,4 +82,4 @@ A similar melt-to-oil balm with kokum and shea butter.
 [CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) has the most ratings of these picks, with 70,900+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) has the most ratings of these picks, with 71,000+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

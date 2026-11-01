@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Affordable Under-Eye Creams & Serums in India (Under ₹1,000)"
 image: "/images/products/minimalist-vitk-retinal-eye-cream.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "best eye cream under 500 india, cheap dark circles cream amazon, derma co caffeine serum"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist Vitamin K + Retinal 0.1% Under Eye Cream"
 topPickBrand: "Minimalist"
 topPickAsin: "B0CHYR58VF"
 topPickRating: "4 ★"
-topPickPrice: "~₹463"
+topPickPrice: "~₹410"
 ---
 
 Good eye care does not need a luxury price tag. These are the under-eye creams and serums on Amazon India we rate most highly for the money, based on their formulas, price per gram and verified ratings.
@@ -23,11 +23,11 @@ Good eye care does not need a luxury price tag. These are the under-eye creams a
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹463 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
-| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
+| **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹410 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
+| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹482 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ₹900 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -38,7 +38,7 @@ Retinal, vitamin K, 3% caffeine and peptides for under ₹500. That covers more 
 - **Key actives**: Vitamin K, Retinal 0.1%, 3% Caffeine, Palmitoyl Tripeptide-1 & Tetrapeptide-7
 - **Texture & finish**: Lightweight Eye Cream — smooth, non-greasy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹463 for 14g (₹33.1/g) · 4★ from 4,000+ Amazon India ratings
+- **Price**: ₹410 for 14g (₹29.3/g) · 4★ from 4,100+ Amazon India ratings
 - **Skip it if**: you are pregnant or breastfeeding (retinoids), or your under-eye skin is very sensitive or eczema-prone.
 
 **Pros:** Retinal (retinaldehyde) works faster than retinol on fine lines and texture. **Cons:** Retinoid can sting or flake on sensitive under-eye skin — start every other night.
@@ -54,7 +54,7 @@ An Indian 5% caffeine serum with a cooling roller, for puffiness.
 - **Key actives**: 5% Caffeine, 1% Hyaluronic Acid, Retinol Peptide Blend
 - **Texture & finish**: Fluid Gel — cooling fresh
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹539 for 15ml (₹35.9/ml) · 3.8★ from 1,100+ Amazon India ratings
+- **Price**: ₹482 for 15ml (₹32.1/ml) · 3.8★ from 1,100+ Amazon India ratings
 - **Skip it if**: you prefer using clean ring fingers or have broken skin around the eye.
 
 **Pros:** Metal roller-ball applicator provides immediate chilled depuffing benefits. **Cons:** 15ml volume runs out faster than standard 30ml dropper bottles.
@@ -81,7 +81,7 @@ A light, fragrance-free 5% caffeine serum with green tea EGCG, if you want to av
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) works out cheapest at about ₹30 per ml (₹900 for 30ml). [The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/) is next at about ₹36 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) works out cheapest at about ₹30 per ml (₹900 for 30ml). [The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/) is next at about ₹32 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/), [The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/) and [The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

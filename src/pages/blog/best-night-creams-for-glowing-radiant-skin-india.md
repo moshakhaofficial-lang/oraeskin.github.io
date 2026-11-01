@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Night Creams in India for Glowing, Radiant Skin"
 image: "/images/products/cetaphil-brightening-night-cream.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Moisturizers & Barrier Creams"
 rating: 4.8
 keywords: "best night cream for glowing skin, overnight repair cream amazon, wake up with glowing skin"
@@ -12,7 +12,7 @@ topPickTitle: "Cetaphil Bright Healthy Radiance Night Comfort Cream"
 topPickBrand: "Cetaphil"
 topPickAsin: "B08L95888H"
 topPickRating: "4.1 ★"
-topPickPrice: "~₹1149"
+topPickPrice: "~₹999"
 ---
 
 Skin looks "glowing" when it is **well hydrated, smooth and even in tone**. A good night cream helps by moisturising while you sleep, and some add actives that work over weeks.
@@ -31,12 +31,12 @@ Skin looks "glowing" when it is **well hydrated, smooth and even in tone**. A go
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Cetaphil Bright Healthy Radiance Night Comfort Cream](/reviews/cetaphil-brightening-night-cream/)** | Niacinamide + Hyaluronic Acid | Dullness, Uneven Tone | ₹1149 (50g) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08L95888H?tag=oraeskin-21) |
-| **[Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/)** | 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate) + Dimethyl Isosorbide | Crow's Feet, Dull Tone | ₹629 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
-| **[Pilgrim Korean Retinol Night Cream](/reviews/pilgrim-retinol-night-cream/)** | Retinol + Niacinamide | Fine Lines, Dullness | ₹467 (50g) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08WLSGJFC?tag=oraeskin-21) |
+| **[Cetaphil Bright Healthy Radiance Night Comfort Cream](/reviews/cetaphil-brightening-night-cream/)** | Niacinamide + Hyaluronic Acid | Dullness, Uneven Tone | ₹999 (50g) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08L95888H?tag=oraeskin-21) |
+| **[Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/)** | 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate) + Dimethyl Isosorbide | Crow's Feet, Dull Tone | ₹628 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
+| **[Pilgrim Korean Retinol Night Cream](/reviews/pilgrim-retinol-night-cream/)** | Retinol + Niacinamide | Fine Lines, Dullness | ₹426 (50g) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08WLSGJFC?tag=oraeskin-21) |
 | **[L'Oréal Paris Glycolic Bright Glowing Night Cream](/reviews/loreal-glycolic-night-cream/)** | Glycolic Acid | Dullness, Dark Spots | ₹279 (15ml) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B9QY2YHQ?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -47,7 +47,7 @@ Niacinamide and hyaluronic acid in a fragrance-free cream, with ingredients list
 - **Key actives**: Niacinamide, Hyaluronic Acid, Glycerin
 - **Texture & finish**: Rich Cream — comfortable, non-greasy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1149 for 50g (₹23.0/g) · 4.1★ from 4,500+ Amazon India ratings
+- **Price**: ₹999 for 50g (₹20.0/g) · 4.1★ from 4,500+ Amazon India ratings
 - **Skip it if**: you have very oily skin, or are on a tight budget.
 
 **Pros:** Niacinamide is third on the ingredient list. **Cons:** ₹1,149 for 50g.
@@ -63,7 +63,7 @@ A gentle retinoid for smoother texture over time.
 - **Key actives**: 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate), Dimethyl Isosorbide
 - **Texture & finish**: Silky Emulsion Fluid — featherlight satin
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹629 for 30ml (₹21.0/ml) · 4.1★ from 4,700+ Amazon India ratings
+- **Price**: ₹628 for 30ml (₹20.9/ml) · 4.1★ from 4,700+ Amazon India ratings
 - **Skip it if**: you are pregnant or breastfeeding.
 
 **Pros:** Bypasses the enzymatic conversion cascade, binding directly to cellular receptors. **Cons:** Slightly higher price point than basic entry retinol serums.
@@ -79,7 +79,7 @@ Retinol, niacinamide and vitamin C in a 50g cream, though it contains fragrance.
 - **Key actives**: Retinol, Niacinamide, Vitamin C (Sodium Ascorbyl Phosphate), Panthenol
 - **Texture & finish**: Gel Cream — light
 - **Fragrance**: Added Fragrance
-- **Price**: ₹467 for 50g (₹9.3/g) · 4.1★ from 4,200+ Amazon India ratings
+- **Price**: ₹426 for 50g (₹8.5/g) · 4.1★ from 4,200+ Amazon India ratings
 - **Skip it if**: you have sensitive skin or avoid fragrance.
 
 **Pros:** Retinol plus niacinamide. **Cons:** Contains parfum.
@@ -106,7 +106,7 @@ A small glycolic acid night cream to try for ₹279.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Pilgrim Korean Retinol Night Cream](/reviews/pilgrim-retinol-night-cream/) works out cheapest at about ₹9.3 per g (₹467 for 50g). [Cetaphil Bright Healthy Radiance Night Comfort Cream](/reviews/cetaphil-brightening-night-cream/) is next at about ₹23 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Pilgrim Korean Retinol Night Cream](/reviews/pilgrim-retinol-night-cream/) works out cheapest at about ₹8.5 per g (₹426 for 50g). [Cetaphil Bright Healthy Radiance Night Comfort Cream](/reviews/cetaphil-brightening-night-cream/) is next at about ₹20 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Cetaphil Bright Healthy Radiance Night Comfort Cream](/reviews/cetaphil-brightening-night-cream/) and [Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/) are fragrance-free. [Pilgrim Korean Retinol Night Cream](/reviews/pilgrim-retinol-night-cream/) contains added fragrance or flavour. The listing for L'Oréal Paris Glycolic Bright Glowing Night Cream does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

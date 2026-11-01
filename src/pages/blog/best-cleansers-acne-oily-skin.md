@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Top 6 Face Washes for Acne & Oily Skin in India (2026 Guide)"
 image: "/images/products/cerave-cleanser.jpg"
 date: "2026-10-29"
+updated: "2026-11-01"
 category: "Cleansers & Facewash"
 rating: 4.8
 keywords: "best cleanser for oily skin india, facewash for acne, cerave foaming cleanser amazon india, minimalist salicylic acid facewash, cetaphil gentle cleanser"
@@ -19,12 +20,12 @@ We evaluated the top-rated anti-acne cleansers sold on **Amazon India** to deter
 
 | Cleanser | Key Active | Skin Concern | Est. Price | Direct Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CeraVe Foaming Cleanser** | 3 Ceramides + Niacinamide | Oily, Sensitive | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **Minimalist 2% Salicylic Acid** | 2% BHA + LHA + Zinc | Blackheads & Pores | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Cetaphil Gentle Skin Cleanser** | Hydrating Glycerin & B5 | Sensitive Acne & Barrier | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **CeraVe Foaming Cleanser** | 3 Ceramides + Niacinamide | Oily, Sensitive | ~₹1,054 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **Minimalist 2% Salicylic Acid** | 2% BHA + LHA + Zinc | Blackheads & Pores | ~₹269 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Cetaphil Gentle Skin Cleanser** | Hydrating Glycerin & B5 | Sensitive Acne & Barrier | ~₹370 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 | **[The Derma Co 1% Salicylic Acid](/reviews/dermaco-1-salicylic-facewash/)** | 1% BHA + Witch Hazel | Budget Acne Care | ~₹217 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095J52W7P?tag=oraeskin-21) |
 | **[La Roche-Posay Effaclar Gel](/reviews/lrp-effaclar-purifying-gel/)** | Zinc PCA, acid-free | Pairing with Acne Treatments | ~₹1,400 | [Check Price on Amazon.in](https://www.amazon.in/dp/B002P3L99G?tag=oraeskin-21) |
-| **[Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/)** | Glycerin + Plant Lipids | Oily & Sensitive | ~₹579 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21) |
+| **[Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/)** | Glycerin + Plant Lipids | Oily & Sensitive | ~₹470 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21) |
 
 ---
 

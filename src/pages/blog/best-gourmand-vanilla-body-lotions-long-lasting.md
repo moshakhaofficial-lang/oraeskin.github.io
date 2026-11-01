@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Vanilla & Caramel Body Lotions in India That Smell Like Dessert"
 image: "/images/products/plum-vanilla-caramello-lotion.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "vanilla body lotion india, plum vanilla caramello review, best smelling body lotion amazon"
@@ -31,11 +31,11 @@ topPickPrice: "~₹204"
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Plum BodyLovin' Vanilla Caramello Body Lotion](/reviews/plum-vanilla-caramello-lotion/)** | Cocoa Butter + Panthenol | Dryness | ₹204 (200ml) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FM7VYRPW?tag=oraeskin-21) |
-| **[Plum BodyLovin BodyLovin Vanilla Caramello Body Lotion](/reviews/plum-bodylovin-vanilla-lotion/)** | Shea Butter + Brazil Nut Oil | Dry Scaly Body Skin, Dull Body Texture | ₹350 (400ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21) |
+| **[Plum BodyLovin BodyLovin Vanilla Caramello Body Lotion](/reviews/plum-bodylovin-vanilla-lotion/)** | Shea Butter + Brazil Nut Oil | Dry Scaly Body Skin, Dull Body Texture | ₹328 (400ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21) |
 | **[The Love Co Warm Vanilla Body Lotion](/reviews/love-co-warm-vanilla-lotion/)** | Peach Flower Extract + Red Algae Extract | Dryness | ₹399 (250ml) | 7.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BMLY5MYH?tag=oraeskin-21) |
 | **[Plum BodyLovin' Vanilla Vibes Body Oil](/reviews/plum-vanilla-body-oil/)** | Sunflower Oil + Avocado Oil | Dryness, Dull Skin | ₹200 (100ml) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09TL5SDW8?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -62,7 +62,7 @@ A large 400ml bottle of shea butter lotion with a warm vanilla scent.
 - **Key actives**: Shea Butter, Brazil Nut Oil, Sunflower Seed Oil
 - **Texture & finish**: Rich Velvety Lotion — silky glow
 - **Fragrance**: Added Fragrance
-- **Price**: ₹350 for 400ml (₹0.9/ml) · 4.4★ from 3,400+ Amazon India ratings
+- **Price**: ₹328 for 400ml (₹0.8/ml) · 4.4★ from 3,400+ Amazon India ratings
 - **Skip it if**: you are allergic to perfumes or need clinical treatment for active body pimples.
 
 **Pros:** Decadent warm vanilla caramel fragrance that lingers on skin and clothes. **Cons:** Not suitable for users with facial acne who touch their face after applying.
@@ -105,7 +105,7 @@ A matching vanilla body oil to make the scent last longer.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Plum BodyLovin BodyLovin Vanilla Caramello Body Lotion](/reviews/plum-bodylovin-vanilla-lotion/) works out cheapest at about ₹0.9 per ml (₹350 for 400ml). [Plum BodyLovin' Vanilla Caramello Body Lotion](/reviews/plum-vanilla-caramello-lotion/) is next at about ₹1 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Plum BodyLovin BodyLovin Vanilla Caramello Body Lotion](/reviews/plum-bodylovin-vanilla-lotion/) works out cheapest at about ₹0.8 per ml (₹328 for 400ml). [Plum BodyLovin' Vanilla Caramello Body Lotion](/reviews/plum-vanilla-caramello-lotion/) is next at about ₹1 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 None of these picks is confirmed fragrance-free. [Plum BodyLovin' Vanilla Caramello Body Lotion](/reviews/plum-vanilla-caramello-lotion/), [Plum BodyLovin BodyLovin Vanilla Caramello Body Lotion](/reviews/plum-bodylovin-vanilla-lotion/), [The Love Co Warm Vanilla Body Lotion](/reviews/love-co-warm-vanilla-lotion/) and [Plum BodyLovin' Vanilla Vibes Body Oil](/reviews/plum-vanilla-body-oil/) contain added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Face Washes Under ₹300 on Amazon India"
 image: "/images/products/dermaco-1-salicylic-facewash.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "best face wash under 300, cheap facewash amazon india, simple refreshing wash review"
@@ -25,9 +25,9 @@ You don't need to spend more than ₹300 on a good face wash. These are the pick
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/)** | 1% Salicylic Acid (BHA) + Willow Bark Extract | Oily, Combination | ₹217 (100ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095J52W7P?tag=oraeskin-21) |
 | **[Re'equil Oil Control Face Wash](/reviews/reequil-oil-control-facewash/)** | Zinc PCA | Oily, Combination | ₹293 (150ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GFTYW6P1?tag=oraeskin-21) |
-| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹284 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹269 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -70,7 +70,7 @@ A stronger 2% BHA with LHA and zinc for congested pores, still under ₹300.
 - **Key actives**: 2% Salicylic Acid (BHA), Capryloyl Salicylic Acid (LHA), Zinc PCA
 - **Texture & finish**: Lightweight Gel — deeply clarified & matte
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹284 for 100ml (₹2.8/ml) · 4.2★ from 29,500+ Amazon India ratings
+- **Price**: ₹269 for 100ml (₹2.7/ml) · 4.2★ from 29,000+ Amazon India ratings
 - **Skip it if**: you have dry, wind-chapped skin or an actively compromised stinging barrier.
 
 **Pros:** 2% Salicylic Acid dissolves stubborn oxidized sebum and dead keratin plugs. **Cons:** Daily 2x usage can be drying for combination skin; best used once daily at night.
@@ -81,10 +81,10 @@ A stronger 2% BHA with LHA and zinc for congested pores, still under ₹300.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Re'equil Oil Control Face Wash](/reviews/reequil-oil-control-facewash/) works out cheapest at about ₹2 per ml (₹293 for 150ml). [The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/) is next at about ₹2.2 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Re'equil Oil Control Face Wash](/reviews/reequil-oil-control-facewash/) works out cheapest at about ₹2 per ml (₹293 for 150ml). [The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/) is next at about ₹2.2 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/), [Re'equil Oil Control Face Wash](/reviews/reequil-oil-control-facewash/) and [Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
 
 ### Which is the most popular on Amazon India?
-[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

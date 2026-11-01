@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Non-Sticky Lip Oils for Glossy, Hydrated Lips in India"
 image: "/images/products/elf-glow-reviver-lip-oil.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Lip Care & SPF Balms"
 rating: 4.8
 keywords: "lip oil india amazon, non sticky lip gloss oil, peptide lip treatment"
@@ -34,10 +34,10 @@ These are the lip oils we rate most highly.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[e.l.f. Glow Reviver Lip Oil](/reviews/elf-glow-reviver-lip-oil/)** | Jojoba Oil + Apricot Oil | Dryness, Dull Lips | ₹875 (7.6ml) | 7.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CMJZ8G6Y?tag=oraeskin-21) |
 | **[Laneige Glaze Craze Tinted Lip Serum](/reviews/laneige-glaze-craze-lip-serum/)** | Polypeptides + Ceramides | Dryness, Dull Lips | ₹977 (12g) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DSLX4G4Q?tag=oraeskin-21) |
-| **[Swiss Beauty Dip Tint Lip Oil](/reviews/swiss-beauty-dip-tint-lip-oil/)** | Polyisobutene (gloss base) + Caprylic/Capric Triglyceride | Dull Lips | ₹215 (3ml) | 7.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CXXP862S?tag=oraeskin-21) |
-| **[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/)** | Shea Butter + Panthenol | Cracked Lips, Chapped Lips | ₹479 (10ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21) |
+| **[Swiss Beauty Dip Tint Lip Oil](/reviews/swiss-beauty-dip-tint-lip-oil/)** | Polyisobutene (gloss base) + Caprylic/Capric Triglyceride | Dull Lips | ₹220 (3ml) | 7.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CXXP862S?tag=oraeskin-21) |
+| **[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/)** | Shea Butter + Panthenol | Cracked Lips, Chapped Lips | ₹474 (10ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -80,7 +80,7 @@ A ₹215 colour-changing gloss with its full ingredient list on the listing.
 - **Key actives**: Polyisobutene (gloss base), Caprylic/Capric Triglyceride, pH-Reactive Dyes
 - **Texture & finish**: Lip Oil — glossy
 - **Fragrance**: Added Fragrance
-- **Price**: ₹215 for 3ml (₹71.7/ml) · 4.1★ from 900+ Amazon India ratings
+- **Price**: ₹220 for 3ml (₹73.3/ml) · 4.1★ from 890+ Amazon India ratings
 - **Skip it if**: you want plant oils that condition the lips.
 
 **Pros:** Only ₹215. **Cons:** Mostly synthetic gloss base, not nourishing plant oils.
@@ -96,7 +96,7 @@ A fragrance-free repair balm for lips that are too dry for oil alone.
 - **Key actives**: Shea Butter, Panthenol, Glycerin, Bisabolol, Castor Oil
 - **Texture & finish**: Soft Balm (tube) — glossy, cushioned
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹479 for 10ml (₹47.9/ml) · 4.2★ from 43,000+ Amazon India ratings
+- **Price**: ₹474 for 10ml (₹47.4/ml) · 4.2★ from 43,000+ Amazon India ratings
 - **Skip it if**: you avoid beeswax.
 
 **Pros:** Fragrance-free, made for sensitive lips. **Cons:** No SPF, so pair with an SPF balm in the day.
@@ -107,7 +107,7 @@ A fragrance-free repair balm for lips that are too dry for oil alone.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/) works out cheapest at about ₹48 per ml (₹479 for 10ml). [Swiss Beauty Dip Tint Lip Oil](/reviews/swiss-beauty-dip-tint-lip-oil/) is next at about ₹72 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/) works out cheapest at about ₹47 per ml (₹474 for 10ml). [Swiss Beauty Dip Tint Lip Oil](/reviews/swiss-beauty-dip-tint-lip-oil/) is next at about ₹73 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/) is fragrance-free. [e.l.f. Glow Reviver Lip Oil](/reviews/elf-glow-reviver-lip-oil/) and [Swiss Beauty Dip Tint Lip Oil](/reviews/swiss-beauty-dip-tint-lip-oil/) contain added fragrance or flavour. The listing for Laneige Glaze Craze Tinted Lip Serum does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

@@ -106,15 +106,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21",
         "badge": "Editor's Pick — Best Overall",
-        "price": 346,
-        "priceEst": "₹346",
+        "price": 338,
+        "priceEst": "₹338",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/minimalist-spf50.jpg",
         "amazonRating": 4.1,
         "rating": 4.1,
-        "amazonReviews": "36,900+",
-        "reviewCount": "36,900+",
+        "amazonReviews": "37,000+",
+        "reviewCount": "37,000+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.5,
@@ -187,7 +187,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Absorbs faster with zero dewy tackiness on sweat-prone days."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -288,7 +288,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds refreshing watermelon extract with an instant cooling sensation."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -409,15 +409,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21",
         "badge": "Best Luminous Glow for Dry Skin",
-        "price": 382,
-        "priceEst": "₹382",
+        "price": 350,
+        "priceEst": "₹350",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/aqualogica-radiance-spf50.jpg",
         "amazonRating": 4.1,
         "rating": 4.1,
-        "amazonReviews": "10,500+",
-        "reviewCount": "10,500+",
+        "amazonReviews": "10,000+",
+        "reviewCount": "10,000+",
         "scoreBreakdown": {
             "formula": 8.1,
             "skinSuitability": 8.2,
@@ -480,7 +480,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds ceramides for extra barrier strengthening."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -503,15 +503,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21",
         "badge": "Best for Weakened Moisture Barrier",
-        "price": 369,
-        "priceEst": "₹369",
+        "price": 339,
+        "priceEst": "₹339",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/drsheths-ceramide-vitc-spf50.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "900+",
-        "reviewCount": "900+",
+        "amazonReviews": "940+",
+        "reviewCount": "940+",
         "scoreBreakdown": {
             "formula": 8.4,
             "skinSuitability": 8.3,
@@ -575,7 +575,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Provides similar vitamin protection at ₹399."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -605,8 +605,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/reequil-ultra-matte-spf50.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "11,800+",
-        "reviewCount": "11,800+",
+        "amazonReviews": "11,000+",
+        "reviewCount": "11,000+",
         "scoreBreakdown": {
             "formula": 8.7,
             "skinSuitability": 8.6,
@@ -670,7 +670,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Easier to wash off without needing an oil cleanser."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -693,15 +693,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21",
         "badge": "Editor's Choice — Best Daily Wash",
-        "price": 1061,
-        "priceEst": "₹1,061",
+        "price": 1054,
+        "priceEst": "₹1054",
         "currency": "₹",
         "size": "236ml",
         "image": "/images/products/cerave-foaming-cleanser.jpg",
         "amazonRating": 4.4,
         "rating": 4.4,
-        "amazonReviews": "38,600+",
-        "reviewCount": "38,600+",
+        "amazonReviews": "38,000+",
+        "reviewCount": "38,000+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 8.7,
@@ -772,7 +772,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Zero foam formulation for severely dry or reactive skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.8,
@@ -795,15 +795,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21",
         "badge": "Best for Active Acne & Blackheads",
-        "price": 284,
-        "priceEst": "₹284",
+        "price": 269,
+        "priceEst": "₹269",
         "currency": "₹",
         "size": "100ml",
         "image": "/images/products/minimalist-salicylic-cleanser.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "29,500+",
-        "reviewCount": "29,500+",
+        "amazonReviews": "29,000+",
+        "reviewCount": "29,000+",
         "scoreBreakdown": {
             "formula": 8.7,
             "skinSuitability": 8.6,
@@ -866,7 +866,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Better for everyday maintenance when active pimples have cleared."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -889,15 +889,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21",
         "badge": "Best for Dry & Hypersensitive Skin",
-        "price": 351,
-        "priceEst": "₹351",
+        "price": 370,
+        "priceEst": "₹370",
         "currency": "₹",
         "size": "118ml",
         "image": "/images/products/cetaphil-gentle-cleanser.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "70,900+",
-        "reviewCount": "70,900+",
+        "amazonReviews": "71,000+",
+        "reviewCount": "71,000+",
         "scoreBreakdown": {
             "formula": 8.3,
             "skinSuitability": 8.5,
@@ -961,7 +961,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Light foam that still respects sensitive skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -984,15 +984,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21",
         "badge": "Best Korean Brightening Foam",
-        "price": 674,
-        "priceEst": "₹674",
+        "price": 629,
+        "priceEst": "₹629",
         "currency": "₹",
         "size": "150ml",
         "image": "/images/products/faceshop-rice-cleanser.jpg",
         "amazonRating": 4.5,
         "rating": 4.5,
-        "amazonReviews": "500+",
-        "reviewCount": "500+",
+        "amazonReviews": "540+",
+        "reviewCount": "540+",
         "scoreBreakdown": {
             "formula": 8.1,
             "skinSuitability": 8,
@@ -1053,7 +1053,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Maintains an acidic 5.5 pH with ceramides."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -1081,15 +1081,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "currency": "₹",
         "size": "250ml",
         "image": "/images/products/simple-refreshing-wash.jpg",
-        "amazonRating": 4.6,
-        "rating": 4.6,
-        "amazonReviews": "22,400+",
-        "reviewCount": "22,400+",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "38,000+",
+        "reviewCount": "38,000+",
         "scoreBreakdown": {
             "formula": 8.3,
             "skinSuitability": 8.4,
             "evidence": 8.2,
-            "userFeedback": 9.2,
+            "userFeedback": 8.4,
             "value": 8.9,
             "availability": 9.3
         },
@@ -1148,16 +1148,16 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds 2% Salicylic Acid for breakout-prone skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
-        "oraeSkinScore": 8.6,
+        "oraeSkinScore": 8.5,
         "scores": {
             "formula": 8.3,
             "weatherResilience": 8.4,
             "texture": 8.4,
             "value": 8.9,
-            "overall": 8.6
+            "overall": 8.5
         }
     },
     {
@@ -1243,7 +1243,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Features 15% concentration with Kakadu Plum for experienced users."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -1266,15 +1266,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21",
         "badge": "Best High-Potency Vitamin C",
-        "price": 447,
-        "priceEst": "₹447",
+        "price": 440,
+        "priceEst": "₹440",
         "currency": "₹",
         "size": "20ml",
         "image": "/images/products/plum-vitc-mandarin.jpg",
         "amazonRating": 4,
         "rating": 4,
-        "amazonReviews": "15,100+",
-        "reviewCount": "15,100+",
+        "amazonReviews": "15,000+",
+        "reviewCount": "15,000+",
         "scoreBreakdown": {
             "formula": 8.4,
             "skinSuitability": 8.1,
@@ -1336,7 +1336,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Gentler 10% dose with Centella for sensitive skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -1359,15 +1359,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21",
         "badge": "Best for Open Pores & Oil Control",
-        "price": 485,
-        "priceEst": "₹485",
+        "price": 475,
+        "priceEst": "₹475",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-niacinamide-10.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "27,100+",
-        "reviewCount": "27,100+",
+        "amazonReviews": "27,000+",
+        "reviewCount": "27,000+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 8.6,
@@ -1432,7 +1432,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds Centella Asiatica for extra redness calming."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.8,
@@ -1455,15 +1455,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21",
         "badge": "Best for Stubborn Dark Marks & Melasma",
-        "price": 466,
-        "priceEst": "₹466",
+        "price": 481,
+        "priceEst": "₹481",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-alpha-arbutin.jpg",
         "amazonRating": 4,
         "rating": 4,
-        "amazonReviews": "18,800+",
-        "reviewCount": "18,800+",
+        "amazonReviews": "18,000+",
+        "reviewCount": "18,000+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.7,
@@ -1528,7 +1528,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Combines melanin reduction with collagen boosting."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -1551,15 +1551,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21",
         "badge": "Best Soothing Texture Serum",
-        "price": 490,
-        "priceEst": "₹490",
+        "price": 469,
+        "priceEst": "₹469",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/dermaco-10-niacinamide.jpg",
         "amazonRating": 4.1,
         "rating": 4.1,
-        "amazonReviews": "16,700+",
-        "reviewCount": "16,700+",
+        "amazonReviews": "16,000+",
+        "reviewCount": "16,000+",
         "scoreBreakdown": {
             "formula": 8.3,
             "skinSuitability": 8.5,
@@ -1621,7 +1621,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Features Swiss Lonza-grade Niacinamide for ultra-sensitive skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -1651,8 +1651,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/dotkey-barrier-repair-moisturizer.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "16,100+",
-        "reviewCount": "16,100+",
+        "amazonReviews": "16,000+",
+        "reviewCount": "16,000+",
         "scoreBreakdown": {
             "formula": 8.4,
             "skinSuitability": 8.6,
@@ -1737,7 +1737,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Thicker cream with 3 ceramides for very dry skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -1760,15 +1760,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B07CH8F17Q?tag=oraeskin-21",
         "badge": "Best for Severely Dry & Compromised Skin",
-        "price": 344,
-        "priceEst": "₹344",
+        "price": 349,
+        "priceEst": "₹349",
         "currency": "₹",
         "size": "50ml",
         "image": "/images/products/cerave-moisturizing-cream.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "21,700+",
-        "reviewCount": "21,700+",
+        "amazonReviews": "21,000+",
+        "reviewCount": "21,000+",
         "scoreBreakdown": {
             "formula": 8.9,
             "skinSuitability": 8.6,
@@ -1833,7 +1833,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Absorbs faster for day use."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -1856,15 +1856,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21",
         "badge": "Best for Oily & Acne-Prone Skin",
-        "price": 237,
-        "priceEst": "₹237",
+        "price": 224,
+        "priceEst": "₹224",
         "currency": "₹",
         "size": "30g",
         "image": "/images/products/minimalist-b5-moisturizer.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "16,500+",
-        "reviewCount": "16,500+",
+        "amazonReviews": "16,000+",
+        "reviewCount": "16,000+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.8,
@@ -1931,7 +1931,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Provides a more radiant finish with ceramides."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -1954,20 +1954,20 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21",
         "badge": "Best Rich Barrier Balm",
-        "price": 472,
-        "priceEst": "₹472",
+        "price": 535,
+        "priceEst": "₹535",
         "currency": "₹",
         "size": "45ml",
         "image": "/images/products/bioderma-atoderm-baume.jpg",
-        "amazonRating": 4.4,
-        "rating": 4.4,
-        "amazonReviews": "2,700+",
-        "reviewCount": "2,700+",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "2,800+",
+        "reviewCount": "2,800+",
         "scoreBreakdown": {
             "formula": 8.9,
             "skinSuitability": 8.5,
             "evidence": 8.9,
-            "userFeedback": 8.8,
+            "userFeedback": 8.6,
             "value": 7.8,
             "availability": 8.9
         },
@@ -2025,7 +2025,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "High efficacy at a lower price point."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -2048,8 +2048,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21",
         "badge": "Best for Brightening & Rough Texture",
-        "price": 474,
-        "priceEst": "₹474",
+        "price": 439,
+        "priceEst": "₹439",
         "currency": "₹",
         "size": "150ml",
         "image": "/images/products/minimalist-glycolic-toner.jpg",
@@ -2118,7 +2118,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Uses large-molecule PHA for zero irritation."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -2141,15 +2141,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21",
         "badge": "Best Gentle Daily Pore Refiner",
-        "price": 351,
-        "priceEst": "₹351",
+        "price": 336,
+        "priceEst": "₹336",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/plum-greentea-toner.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "14,100+",
-        "reviewCount": "14,100+",
+        "amazonReviews": "14,000+",
+        "reviewCount": "14,000+",
         "scoreBreakdown": {
             "formula": 8.2,
             "skinSuitability": 8.4,
@@ -2210,7 +2210,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Strictly fragrance-free with balancing prebiotics."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -2303,7 +2303,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Stronger 8% AHA for resilient skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -2515,15 +2515,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21",
         "badge": "Best for Dark Circles & Fine Lines",
-        "price": 463,
-        "priceEst": "₹463",
+        "price": 410,
+        "priceEst": "₹410",
         "currency": "₹",
         "size": "14g",
         "image": "/images/products/minimalist-vitk-retinal-eye-cream.jpg",
         "amazonRating": 4,
         "rating": 4,
-        "amazonReviews": "4,000+",
-        "reviewCount": "4,000+",
+        "amazonReviews": "4,100+",
+        "reviewCount": "4,100+",
         "scoreBreakdown": {
             "formula": 8.4,
             "skinSuitability": 8.2,
@@ -2595,7 +2595,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "5% caffeine serum for puffiness if you want to skip a stronger retinoid."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -2618,8 +2618,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21",
         "badge": "Best Cooling Metal Roller Applicator",
-        "price": 539,
-        "priceEst": "₹539",
+        "price": 482,
+        "priceEst": "₹482",
         "currency": "₹",
         "size": "15ml",
         "image": "/images/products/dermaco-5-caffeine-serum.jpg",
@@ -2688,7 +2688,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Double the product (30ml) for the same price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -2711,8 +2711,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21",
         "badge": "Editor's Choice — Best Daily Lip SPF",
-        "price": 264,
-        "priceEst": "₹264",
+        "price": 253,
+        "priceEst": "₹253",
         "currency": "₹",
         "size": "8g",
         "image": "/images/products/minimalist-spf30-lipbalm.jpg",
@@ -2781,7 +2781,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Ultra-rich overnight hydration with Shea Butter and Vitamin C."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -2875,7 +2875,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds SPF 30 protection for daytime sunlight."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -2898,8 +2898,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21",
         "badge": "Editor's Choice — Best for Bacne",
-        "price": 296,
-        "priceEst": "₹296",
+        "price": 314,
+        "priceEst": "₹314",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/minimalist-salicylic-bodywash.jpg",
@@ -2970,7 +2970,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Deep hydration with warm vanilla scent."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -2993,8 +2993,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0CJJN6XNK?tag=oraeskin-21",
         "badge": "Best Long-Lasting Fragrance & Hydration",
-        "price": 350,
-        "priceEst": "₹350",
+        "price": 328,
+        "priceEst": "₹328",
         "currency": "₹",
         "size": "400ml",
         "image": "/images/products/plum-bodylovin-vanilla-lotion.jpg",
@@ -3061,7 +3061,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Targets acne and rough texture instead of scent."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -3091,8 +3091,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/biotique-morning-nectar-lotion.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "52,200+",
-        "reviewCount": "52,200+",
+        "amazonReviews": "52,000+",
+        "reviewCount": "52,000+",
         "scoreBreakdown": {
             "formula": 7.8,
             "skinSuitability": 8,
@@ -3152,7 +3152,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Focuses on active BHA exfoliation."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -3259,7 +3259,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Salicylic acid and nicotinamide gel for bumps without a visible head."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.6,
@@ -3351,7 +3351,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Better for ripe pus-filled pimples."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -3374,8 +3374,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21",
         "badge": "Editor's Choice — Best Beginner Retinol",
-        "price": 539,
-        "priceEst": "₹539",
+        "price": 508,
+        "priceEst": "₹508",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-retinol-03.jpg",
@@ -3446,7 +3446,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Next-gen HPR ester with zero peeling or irritation."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -3469,8 +3469,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21",
         "badge": "Best Gentle Retinoid for Sensitive Skin",
-        "price": 629,
-        "priceEst": "₹629",
+        "price": 628,
+        "priceEst": "₹628",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-granactive-retinoid-2.jpg",
@@ -3538,7 +3538,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Proven traditional pure retinol in squalane."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "September 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -3562,7 +3562,7 @@ export const PRODUCTS: SkincareProduct[] = [
         "affiliateUrl": "https://www.amazon.in/dp/B002P3L99G?tag=oraeskin-21",
         "badge": "Best Premium Gentle Wash for Oily Skin",
         "price": 1400,
-        "priceEst": "₹1,400",
+        "priceEst": "₹1400",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/lrp-effaclar-purifying-gel.jpg",
@@ -3642,7 +3642,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Fragrance-free foaming cleanser with ceramides for oily skin with a weak barrier."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -3665,15 +3665,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21",
         "badge": "Classic 2% Salicylic Acne Wash",
-        "price": 705,
-        "priceEst": "₹705",
+        "price": 681,
+        "priceEst": "₹681",
         "currency": "₹",
         "size": "175ml",
         "image": "/images/products/neutrogena-oilfree-acne-wash.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "10,900+",
-        "reviewCount": "10,900+",
+        "amazonReviews": "10,000+",
+        "reviewCount": "10,000+",
         "scoreBreakdown": {
             "formula": 7.8,
             "skinSuitability": 8.5,
@@ -3740,7 +3740,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Milder 1% salicylic acid, easier to use twice daily."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -3853,7 +3853,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Zinc-based oil control without an exfoliating acid, for days your skin feels sensitised."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -3876,15 +3876,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21",
         "badge": "Best Gentle Foam for Oily Sensitive Skin",
-        "price": 579,
-        "priceEst": "₹579",
+        "price": 470,
+        "priceEst": "₹470",
         "currency": "₹",
         "size": "118ml",
         "image": "/images/products/cetaphil-oily-skin-cleanser.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "20,800+",
-        "reviewCount": "20,800+",
+        "amazonReviews": "20,000+",
+        "reviewCount": "20,000+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.4,
@@ -3955,7 +3955,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds 1% salicylic acid for active breakouts at a lower price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -4048,7 +4048,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds 1% salicylic acid for active pimples at a similar price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -4153,7 +4153,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Retinal, vitamin K and 3% caffeine in one cream for lines and dark circles."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -4176,15 +4176,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21",
         "badge": "Best Gentle Retinal for Sensitive Eyes",
-        "price": 1136,
-        "priceEst": "₹1,136",
+        "price": 1065,
+        "priceEst": "₹1065",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/boj-revive-eye-serum.jpg",
         "amazonRating": 4.1,
         "rating": 4.1,
-        "amazonReviews": "19,300+",
-        "reviewCount": "19,300+",
+        "amazonReviews": "19,000+",
+        "reviewCount": "19,000+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 8.6,
@@ -4270,7 +4270,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Light caffeine serum for puffiness, safe if you're avoiding retinoids."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -4293,15 +4293,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21",
         "badge": "Best Korean Hydrating Essence",
-        "price": 1300,
-        "priceEst": "₹1,300",
+        "price": 1015,
+        "priceEst": "₹1015",
         "currency": "₹",
         "size": "100ml",
         "image": "/images/products/cosrx-snail-96-essence.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "103,400+",
-        "reviewCount": "103,400+",
+        "amazonReviews": "1,03,000+",
+        "reviewCount": "1,03,000+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.8,
@@ -4381,7 +4381,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "PHA 3% toner for texture, if you wanted the exfoliating step instead."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -4404,15 +4404,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21",
         "badge": "Best Gel Sunscreen for Oily Skin",
-        "price": 367,
-        "priceEst": "₹367",
+        "price": 359,
+        "priceEst": "₹359",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/deconstruct-gel-sunscreen-spf50.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "18,600+",
-        "reviewCount": "18,600+",
+        "amazonReviews": "18,000+",
+        "reviewCount": "18,000+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 9,
@@ -4496,7 +4496,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Hyaluronic aqua gel with a little more hydration."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.8,
@@ -4519,8 +4519,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0C3CP6B5Y?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0C3CP6B5Y?tag=oraeskin-21",
         "badge": "Best Dewy Glow Sunscreen Under ₹350",
-        "price": 318,
-        "priceEst": "₹318",
+        "price": 300,
+        "priceEst": "₹300",
         "currency": "₹",
         "size": "50ml",
         "image": "/images/products/foxtale-glow-sunscreen-spf50.jpg",
@@ -4609,7 +4609,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Unscented, non-greasy gel with four modern filters."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -4639,8 +4639,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/minimalist-salicylic-serum-2.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "26,800+",
-        "reviewCount": "26,800+",
+        "amazonReviews": "26,000+",
+        "reviewCount": "26,000+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.6,
@@ -4700,7 +4700,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Oil-based 2% solution that releases BHA more gradually."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -4723,15 +4723,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0C61Q7DM7?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0C61Q7DM7?tag=oraeskin-21",
         "badge": "Best Budget Salicylic Acid Serum",
-        "price": 182,
-        "priceEst": "₹182",
+        "price": 133,
+        "priceEst": "₹133",
         "currency": "₹",
         "size": "10ml",
         "image": "/images/products/dermaco-salicylic-serum-2.jpg",
         "amazonRating": 4.1,
         "rating": 4.1,
-        "amazonReviews": "14,400+",
-        "reviewCount": "14,400+",
+        "amazonReviews": "14,000+",
+        "reviewCount": "14,000+",
         "scoreBreakdown": {
             "formula": 8.2,
             "skinSuitability": 8.4,
@@ -4808,7 +4808,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Same 2% strength in a 30ml bottle."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -4838,8 +4838,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/theordinary-salicylic-solution-2.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "14,800+",
-        "reviewCount": "14,800+",
+        "amazonReviews": "14,000+",
+        "reviewCount": "14,000+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.4,
@@ -4901,7 +4901,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Lighter, non-oily 2% BHA serum for very oily skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -4924,8 +4924,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21",
         "badge": "Best Budget Pimple Patch",
-        "price": 135,
-        "priceEst": "₹135",
+        "price": 99,
+        "priceEst": "₹99",
         "currency": "₹",
         "size": "36 Patches",
         "image": "/images/products/nua-pimple-patch.jpg",
@@ -4993,7 +4993,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Salicylic acid patches in three sizes with strong adhesion."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -5016,15 +5016,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0GDZJN3MK?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0GDZJN3MK?tag=oraeskin-21",
         "badge": "Best Multi-Size Pimple Patch",
-        "price": 275,
-        "priceEst": "₹275",
+        "price": 269,
+        "priceEst": "₹269",
         "currency": "₹",
         "size": "36 Patches",
         "image": "/images/products/deconstruct-pimple-patch.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "400+",
-        "reviewCount": "400+",
+        "amazonReviews": "470+",
+        "reviewCount": "470+",
         "scoreBreakdown": {
             "formula": 7.8,
             "skinSuitability": 8.4,
@@ -5086,7 +5086,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Hydrocolloid and salicylic patches at under ₹4 each."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -5109,8 +5109,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21",
         "badge": "Best Overnight Lip Mask",
-        "price": 510,
-        "priceEst": "₹510",
+        "price": 539,
+        "priceEst": "₹539",
         "currency": "₹",
         "size": "8g",
         "image": "/images/products/laneige-lip-sleeping-mask.jpg",
@@ -5183,7 +5183,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "SPF 50 balm for daytime protection."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -5277,7 +5277,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "SPF 50 with vitamin C and resorcinol for dark lips."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -5307,8 +5307,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/wishcare-tinted-lip-balm-spf50.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "15,500+",
-        "reviewCount": "15,500+",
+        "amazonReviews": "15,000+",
+        "reviewCount": "15,000+",
         "scoreBreakdown": {
             "formula": 8.2,
             "skinSuitability": 8.6,
@@ -5367,7 +5367,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Same SPF 50 protection without tint."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -5473,7 +5473,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Untinted SPF 50 balm with kojic acid and niacinamide."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -5496,8 +5496,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BV34LQRP?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BV34LQRP?tag=oraeskin-21",
         "badge": "Best for Dark, Pigmented Lips",
-        "price": 193,
-        "priceEst": "₹193",
+        "price": 189,
+        "priceEst": "₹189",
         "currency": "₹",
         "size": "4.5g",
         "image": "/images/products/deconstruct-brightening-lip-balm-spf50.jpg",
@@ -5567,7 +5567,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "SPF 50 with milder kojic acid and niacinamide."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -5654,7 +5654,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Matte, 100% mineral zinc oxide gel."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -5753,7 +5753,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Tinted zinc sunscreen that hides white cast."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -5855,7 +5855,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "New-gen filters with PA++++ and a beige tint."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.1,
@@ -5959,7 +5959,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "100ml tinted sunscreen for under ₹300."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -6063,7 +6063,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Fragrance-free oil-free gel with vitamin B5 and zinc."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -6086,8 +6086,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B09PV4379W?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B09PV4379W?tag=oraeskin-21",
         "badge": "Best Alcohol-Free Niacinamide Toner",
-        "price": 364,
-        "priceEst": "₹364",
+        "price": 355,
+        "priceEst": "₹355",
         "currency": "₹",
         "size": "150ml",
         "image": "/images/products/plum-niacinamide-rice-toner.jpg",
@@ -6171,7 +6171,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "10% niacinamide serum for more visible oil control."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -6199,15 +6199,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "currency": "₹",
         "size": "90g",
         "image": "/images/products/plum-cleansing-balm.jpg",
-        "amazonRating": 4.3,
-        "rating": 4.3,
+        "amazonRating": 4.4,
+        "rating": 4.4,
         "amazonReviews": "2,000+",
         "reviewCount": "2,000+",
         "scoreBreakdown": {
             "formula": 8,
             "skinSuitability": 8.4,
             "evidence": 8.2,
-            "userFeedback": 8.6,
+            "userFeedback": 8.8,
             "value": 8.4,
             "availability": 9
         },
@@ -6276,16 +6276,16 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Fragrance-free micellar water for sensitive skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
-        "oraeSkinScore": 8.3,
+        "oraeSkinScore": 8.4,
         "scores": {
             "formula": 8,
             "weatherResilience": 8.4,
             "texture": 8.4,
             "value": 8.4,
-            "overall": 8.3
+            "overall": 8.4
         }
     },
     {
@@ -6306,8 +6306,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/dotkey-strawberry-cleansing-balm.jpg",
         "amazonRating": 4.5,
         "rating": 4.5,
-        "amazonReviews": "500+",
-        "reviewCount": "500+",
+        "amazonReviews": "510+",
+        "reviewCount": "510+",
         "scoreBreakdown": {
             "formula": 7.6,
             "skinSuitability": 8.2,
@@ -6378,7 +6378,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Similar formula in a larger 90g pot."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -6408,8 +6408,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/garnier-micellar-water.jpg",
         "amazonRating": 4.4,
         "rating": 4.4,
-        "amazonReviews": "33,700+",
-        "reviewCount": "33,700+",
+        "amazonReviews": "33,000+",
+        "reviewCount": "33,000+",
         "scoreBreakdown": {
             "formula": 8,
             "skinSuitability": 8.6,
@@ -6465,7 +6465,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "The original micellar water, very gentle for sensitive skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -6488,15 +6488,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B002XZLAWM?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B002XZLAWM?tag=oraeskin-21",
         "badge": "Best Micellar Water for Sensitive Skin",
-        "price": 1039,
-        "priceEst": "₹1,039",
+        "price": 1182,
+        "priceEst": "₹1182",
         "currency": "₹",
         "size": "500ml",
         "image": "/images/products/bioderma-sensibio-h2o.jpg",
         "amazonRating": 4.4,
         "rating": 4.4,
-        "amazonReviews": "47,900+",
-        "reviewCount": "47,900+",
+        "amazonReviews": "47,000+",
+        "reviewCount": "47,000+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 9,
@@ -6566,7 +6566,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Similar gentle cleansing at a fraction of the price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -6589,8 +6589,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08FB972DT?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08FB972DT?tag=oraeskin-21",
         "badge": "Best Value Hydrating Serum",
-        "price": 569,
-        "priceEst": "₹569",
+        "price": 508,
+        "priceEst": "₹508",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-hyaluronic-acid-2.jpg",
@@ -6654,7 +6654,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds panthenol and ceramides."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -6745,7 +6745,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Similar hydration for less."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -6833,7 +6833,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Same 2% strength for less."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -6856,15 +6856,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B09DLFCB69?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B09DLFCB69?tag=oraeskin-21",
         "badge": "Best Hydrating Brightening Serum",
-        "price": 1080,
-        "priceEst": "₹1080",
+        "price": 1012,
+        "priceEst": "₹1012",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/boj-glow-deep-serum.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "9,800+",
-        "reviewCount": "9,800+",
+        "amazonReviews": "9,900+",
+        "reviewCount": "9,900+",
         "scoreBreakdown": {
             "formula": 8.4,
             "skinSuitability": 8.8,
@@ -6924,7 +6924,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Targeted 2% arbutin for less."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -6947,8 +6947,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08XC5LQ7B?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08XC5LQ7B?tag=oraeskin-21",
         "badge": "Best Tranexamic Acid Serum",
-        "price": 616,
-        "priceEst": "₹616",
+        "price": 584,
+        "priceEst": "₹584",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-tranexamic-3.jpg",
@@ -7011,7 +7011,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds niacinamide and peptides."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -7034,8 +7034,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0C1NQRPXW?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0C1NQRPXW?tag=oraeskin-21",
         "badge": "Best Multi-Active Pigment Serum",
-        "price": 493,
-        "priceEst": "₹493",
+        "price": 476,
+        "priceEst": "₹476",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/foxtale-tranexamic-3.jpg",
@@ -7116,7 +7116,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Fragrance-free tranexamic serum."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -7146,8 +7146,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/dermaco-tran-zelaic.jpg",
         "amazonRating": 3.9,
         "rating": 3.9,
-        "amazonReviews": "900+",
-        "reviewCount": "900+",
+        "amazonReviews": "920+",
+        "reviewCount": "920+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8,
@@ -7229,16 +7229,16 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Fewer actives, easier to tolerate."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
-        "oraeSkinScore": 8.3,
+        "oraeSkinScore": 8.4,
         "scores": {
             "formula": 8.6,
             "weatherResilience": 8,
             "texture": 8,
             "value": 9,
-            "overall": 8.3
+            "overall": 8.4
         }
     },
     {
@@ -7320,7 +7320,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "10% azelaic plus tranexamic for far less."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -7343,8 +7343,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08MVD6T8V?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08MVD6T8V?tag=oraeskin-21",
         "badge": "Best Value Peptide Serum",
-        "price": 593,
-        "priceEst": "₹593",
+        "price": 629,
+        "priceEst": "₹629",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-multi-peptide.jpg",
@@ -7410,7 +7410,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Adds copper peptides and more peptide types."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -7440,8 +7440,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/the-ordinary-multi-peptide-copper.jpg",
         "amazonRating": 4.6,
         "rating": 4.6,
-        "amazonReviews": "3,700+",
-        "reviewCount": "3,700+",
+        "amazonReviews": "3,800+",
+        "reviewCount": "3,800+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 8.6,
@@ -7501,16 +7501,16 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "7% Matrixyl for a fifth of the price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
-        "oraeSkinScore": 8.3,
+        "oraeSkinScore": 8.4,
         "scores": {
             "formula": 8.8,
             "weatherResilience": 8.6,
             "texture": 8.6,
             "value": 6,
-            "overall": 8.3
+            "overall": 8.4
         }
     },
     {
@@ -7524,8 +7524,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0D8W2W8C2?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0D8W2W8C2?tag=oraeskin-21",
         "badge": "Best Bakuchiol Serum",
-        "price": 2100,
-        "priceEst": "₹2100",
+        "price": 2199,
+        "priceEst": "₹2199",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/eqqualberry-bakuchiol-serum.jpg",
@@ -7594,7 +7594,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A low-irritation retinoid for much less."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -7681,7 +7681,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Discloses 0.5% bakuchiol."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.6,
@@ -7794,7 +7794,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A richer, fragrance-free balm."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -7817,8 +7817,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BTRWGQNV?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BTRWGQNV?tag=oraeskin-21",
         "badge": "Best Cica Serum",
-        "price": 1538,
-        "priceEst": "₹1538",
+        "price": 1537,
+        "priceEst": "₹1537",
         "currency": "₹",
         "size": "50ml",
         "image": "/images/products/skin1004-probio-cica-ampoule.jpg",
@@ -7885,7 +7885,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Cica plus ceramides in a cream."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -7908,8 +7908,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B01LEJ5MSK?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B01LEJ5MSK?tag=oraeskin-21",
         "badge": "Best Snail Moisturiser",
-        "price": 1400,
-        "priceEst": "₹1400",
+        "price": 1225,
+        "priceEst": "₹1225",
         "currency": "₹",
         "size": "100ml",
         "image": "/images/products/cosrx-snail-92-cream.jpg",
@@ -7979,16 +7979,16 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "The essence version for oily skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
-        "oraeSkinScore": 8.3,
+        "oraeSkinScore": 8.4,
         "scores": {
             "formula": 8.2,
             "weatherResilience": 8.6,
             "texture": 8.6,
             "value": 7.8,
-            "overall": 8.3
+            "overall": 8.4
         }
     },
     {
@@ -8002,8 +8002,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21",
         "badge": "Best BHA Exfoliant",
-        "price": 1200,
-        "priceEst": "₹1200",
+        "price": 1140,
+        "priceEst": "₹1140",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/paulas-choice-2-bha-liquid.jpg",
@@ -8073,7 +8073,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "2% salicylic acid for a fraction of the price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -8161,7 +8161,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A stated 2% BHA exfoliant."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -8191,8 +8191,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/hyphen-ceramide-milky-toner.jpg",
         "amazonRating": 4.4,
         "rating": 4.4,
-        "amazonReviews": "600+",
-        "reviewCount": "600+",
+        "amazonReviews": "620+",
+        "reviewCount": "620+",
         "scoreBreakdown": {
             "formula": 8.6,
             "skinSuitability": 8.8,
@@ -8280,7 +8280,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A watery hydrating toner."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -8303,8 +8303,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0G5949WL1?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0G5949WL1?tag=oraeskin-21",
         "badge": "Best Lightweight Hydrating Toner",
-        "price": 379,
-        "priceEst": "₹379",
+        "price": 359,
+        "priceEst": "₹359",
         "currency": "₹",
         "size": "120ml",
         "image": "/images/products/minimalist-b12-hyaluronic-toner.jpg",
@@ -8374,7 +8374,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A milky ceramide toner for dry skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -8404,8 +8404,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/dabur-gulabari-rose-water.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "29,000+",
-        "reviewCount": "29,000+",
+        "amazonReviews": "23,000+",
+        "reviewCount": "23,000+",
         "scoreBreakdown": {
             "formula": 6,
             "skinSuitability": 7.4,
@@ -8462,7 +8462,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "100% steam-distilled rose water."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.4,
@@ -8492,8 +8492,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/urbanbotanics-rose-water.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "13,600+",
-        "reviewCount": "13,600+",
+        "amazonReviews": "13,000+",
+        "reviewCount": "13,000+",
         "scoreBreakdown": {
             "formula": 7.2,
             "skinSuitability": 8,
@@ -8544,7 +8544,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Cheaper, but with added fragrance."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.7,
@@ -8627,7 +8627,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Pure rose water for a fraction of the price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.5,
@@ -8715,7 +8715,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A PHA toner you can use with your own cotton pads."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -8805,7 +8805,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "The best-known 2% BHA, used with your own pads."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -8899,7 +8899,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A cheap, small glycolic cleanser to try."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -8922,15 +8922,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0B9RFCS5S?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0B9RFCS5S?tag=oraeskin-21",
         "badge": "Best Budget AHA Cleanser",
-        "price": 119,
-        "priceEst": "₹119",
+        "price": 125,
+        "priceEst": "₹125",
         "currency": "₹",
         "size": "50ml",
         "image": "/images/products/loreal-glycolic-bright-cleanser.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "6,100+",
-        "reviewCount": "6,100+",
+        "amazonReviews": "6,200+",
+        "reviewCount": "6,200+",
         "scoreBreakdown": {
             "formula": 7.4,
             "skinSuitability": 8,
@@ -8986,7 +8986,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A fragrance-free, sulphate-free AHA wash."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8,
@@ -9074,7 +9074,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Lists its key actives clearly."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8,
@@ -9165,7 +9165,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A cheaper glycolic toner."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -9195,8 +9195,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/benzac-ac-2-5-gel.jpg",
         "amazonRating": 4.1,
         "rating": 4.1,
-        "amazonReviews": "144",
-        "reviewCount": "144",
+        "amazonReviews": "140+",
+        "reviewCount": "140+",
         "scoreBreakdown": {
             "formula": 8.8,
             "skinSuitability": 7.6,
@@ -9253,7 +9253,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Another 2.5% benzoyl peroxide gel, in a larger 30g tube."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -9283,8 +9283,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/persol-ac-2-5-gel.jpg",
         "amazonRating": 4,
         "rating": 4,
-        "amazonReviews": "209",
-        "reviewCount": "209",
+        "amazonReviews": "200+",
+        "reviewCount": "200+",
         "scoreBreakdown": {
             "formula": 8.4,
             "skinSuitability": 7.6,
@@ -9338,7 +9338,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "2.5% benzoyl peroxide with its base ingredients disclosed."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -9448,7 +9448,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A 5% benzoyl peroxide wash for the back and chest."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -9478,8 +9478,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/benzac-ac-5-wash.jpg",
         "amazonRating": 4.5,
         "rating": 4.5,
-        "amazonReviews": "242",
-        "reviewCount": "242",
+        "amazonReviews": "240+",
+        "reviewCount": "240+",
         "scoreBreakdown": {
             "formula": 8.2,
             "skinSuitability": 7.4,
@@ -9531,7 +9531,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A 2.5% benzoyl peroxide wash with ceramides."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -9554,15 +9554,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0017SWIU4?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0017SWIU4?tag=oraeskin-21",
         "badge": "Best-Known Drying Lotion",
-        "price": 2301,
-        "priceEst": "₹2301",
+        "price": 2300,
+        "priceEst": "₹2300",
         "currency": "₹",
         "size": "29ml",
         "image": "/images/products/mario-badescu-drying-lotion.jpg",
         "amazonRating": 4.5,
         "rating": 4.5,
-        "amazonReviews": "30,500+",
-        "reviewCount": "30,500+",
+        "amazonReviews": "30,000+",
+        "reviewCount": "30,000+",
         "scoreBreakdown": {
             "formula": 8,
             "skinSuitability": 7.6,
@@ -9624,7 +9624,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A similar sulfur and calamine lotion for ₹411."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.8,
@@ -9723,7 +9723,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "The best-known sulfur drying lotion."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.8,
@@ -9808,7 +9808,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A sulfur and calamine drying lotion."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.8,
@@ -9891,7 +9891,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A tea tree gel for ₹224."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.3,
@@ -9921,8 +9921,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/indus-valley-calming-acne-gel.jpg",
         "amazonRating": 4,
         "rating": 4,
-        "amazonReviews": "11,200+",
-        "reviewCount": "11,200+",
+        "amazonReviews": "11,000+",
+        "reviewCount": "11,000+",
         "scoreBreakdown": {
             "formula": 6.4,
             "skinSuitability": 7,
@@ -9982,7 +9982,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A ready-diluted tea tree oil for dabbing on spots."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.2,
@@ -10005,8 +10005,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21",
         "badge": "Most-Rated Pimple Patch",
-        "price": 799,
-        "priceEst": "₹799",
+        "price": 664,
+        "priceEst": "₹664",
         "currency": "₹",
         "size": "40 patches",
         "image": "/images/products/avarelle-clear-cover-patch.jpg",
@@ -10071,7 +10071,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A hydrocolloid patch with salicylic acid for about ₹3 a patch."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8,
@@ -10094,15 +10094,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0F2277MT8?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0F2277MT8?tag=oraeskin-21",
         "badge": "Best Microneedle Patch",
-        "price": 297,
-        "priceEst": "₹297",
+        "price": 280,
+        "priceEst": "₹280",
         "currency": "₹",
         "size": "8 patches",
         "image": "/images/products/conscious-chemist-microneedle-patch.jpg",
         "amazonRating": 3.9,
         "rating": 3.9,
-        "amazonReviews": "400+",
-        "reviewCount": "400+",
+        "amazonReviews": "410+",
+        "reviewCount": "410+",
         "scoreBreakdown": {
             "formula": 8.2,
             "skinSuitability": 7.8,
@@ -10174,7 +10174,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Micro-tip patches with willow bark and glycolic acid, 24 per pack."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.7,
@@ -10257,7 +10257,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A gentle sugar scrub if you prefer a physical exfoliant."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -10358,7 +10358,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A leave-on PHA serum that exfoliates without rubbing."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.5,
@@ -10381,8 +10381,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21",
         "badge": "Best for Cracked Lips",
-        "price": 479,
-        "priceEst": "₹479",
+        "price": 474,
+        "priceEst": "₹474",
         "currency": "₹",
         "size": "10ml",
         "image": "/images/products/aquaphor-lip-repair.jpg",
@@ -10468,7 +10468,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A ceramide lip balm with SPF 30."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -10559,7 +10559,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A ₹215 colour-changing lip oil."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.8,
@@ -10644,7 +10644,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A cheaper, well-rated tinted lip oil."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -10667,15 +10667,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0CXXP862S?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0CXXP862S?tag=oraeskin-21",
         "badge": "Best Budget Lip Oil",
-        "price": 215,
-        "priceEst": "₹215",
+        "price": 220,
+        "priceEst": "₹220",
         "currency": "₹",
         "size": "3ml",
         "image": "/images/products/swiss-beauty-dip-tint-lip-oil.jpg",
         "amazonRating": 4.1,
         "rating": 4.1,
-        "amazonReviews": "900+",
-        "reviewCount": "900+",
+        "amazonReviews": "890+",
+        "reviewCount": "890+",
         "scoreBreakdown": {
             "formula": 6.4,
             "skinSuitability": 7.4,
@@ -10742,7 +10742,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A tinted oil with jojoba, apricot and avocado oils."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.2,
@@ -10845,7 +10845,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A certified-organic balm, though it contains beeswax."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.8,
@@ -10946,7 +10946,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A vegan balm with carnauba wax instead of beeswax."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.6,
@@ -11034,7 +11034,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A petroleum-free organic balm for ₹239."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.2,
@@ -11057,8 +11057,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0F3XJ3JTV?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0F3XJ3JTV?tag=oraeskin-21",
         "badge": "Best Tinted SPF Lip Balm",
-        "price": 229,
-        "priceEst": "₹229",
+        "price": 224,
+        "priceEst": "₹224",
         "currency": "₹",
         "size": "4g",
         "image": "/images/products/deconstruct-tinted-lip-balm-spf50.jpg",
@@ -11136,7 +11136,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Another tinted SPF 50 balm with 15,000+ ratings."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -11225,7 +11225,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Lists its UV filters on the listing."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8,
@@ -11310,7 +11310,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A large 150g tube for ₹170."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.7,
@@ -11397,7 +11397,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A fragrance-free concentrated hand cream for ₹449."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -11420,8 +11420,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08PVDWT4Q?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08PVDWT4Q?tag=oraeskin-21",
         "badge": "Best Budget Hand Cream",
-        "price": 170,
-        "priceEst": "₹170",
+        "price": 149,
+        "priceEst": "₹149",
         "currency": "₹",
         "size": "150g",
         "image": "/images/products/charmis-hand-cream.jpg",
@@ -11482,7 +11482,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A concentrated cream for very dry hands."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.6,
@@ -11574,7 +11574,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A 150g everyday hand cream."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.6,
@@ -11597,8 +11597,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B09W5Q9ZPZ?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B09W5Q9ZPZ?tag=oraeskin-21",
         "badge": "Best Urea Foot Cream",
-        "price": 399,
-        "priceEst": "₹399",
+        "price": 379,
+        "priceEst": "₹379",
         "currency": "₹",
         "size": "50ml",
         "image": "/images/products/bebodywise-urea-foot-roll-on.jpg",
@@ -11682,7 +11682,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A 10% urea foot cream for ₹145."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -11774,7 +11774,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "20% urea for hard, cracked heels."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -11866,7 +11866,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "20% urea for thicker skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -11960,7 +11960,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "20% urea for very thick, rough patches."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -12052,7 +12052,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "10% urea for everyday use."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -12075,20 +12075,20 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BFQX7MS9?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BFQX7MS9?tag=oraeskin-21",
         "badge": "Best Lactic Acid Body Lotion",
-        "price": 399,
-        "priceEst": "₹399",
+        "price": 371,
+        "priceEst": "₹371",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/bebodywise-lactic-5-lotion.jpg",
-        "amazonRating": 4.3,
-        "rating": 4.3,
+        "amazonRating": 4.2,
+        "rating": 4.2,
         "amazonReviews": "1,000+",
         "reviewCount": "1,000+",
         "scoreBreakdown": {
             "formula": 8,
             "skinSuitability": 8.4,
             "evidence": 8.4,
-            "userFeedback": 8.6,
+            "userFeedback": 8.4,
             "value": 8.4,
             "availability": 9
         },
@@ -12139,7 +12139,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "10% AHA plus 1% BHA."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -12252,7 +12252,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "5% lactic acid only."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -12282,8 +12282,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/bebodywise-salicylic-bodywash.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "11,800+",
-        "reviewCount": "11,800+",
+        "amazonReviews": "11,000+",
+        "reviewCount": "11,000+",
         "scoreBreakdown": {
             "formula": 7.8,
             "skinSuitability": 8.2,
@@ -12355,7 +12355,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "2% salicylic acid and LHA."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -12463,7 +12463,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "SPF 50+ with 5% niacinamide."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.5,
@@ -12486,15 +12486,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0DYV56LD9?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0DYV56LD9?tag=oraeskin-21",
         "badge": "Best Body Sunscreen with Niacinamide",
-        "price": 396,
-        "priceEst": "₹396",
+        "price": 379,
+        "priceEst": "₹379",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/sunscoop-body-sunscreen-spf50.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "4,000+",
-        "reviewCount": "4,000+",
+        "amazonReviews": "4,100+",
+        "reviewCount": "4,100+",
         "scoreBreakdown": {
             "formula": 8.2,
             "skinSuitability": 8.2,
@@ -12552,7 +12552,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "SPF 50 PA++++ with 11,000+ ratings."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -12575,8 +12575,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0GLZSD24R?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0GLZSD24R?tag=oraeskin-21",
         "badge": "Best Value Body Sunscreen",
-        "price": 479,
-        "priceEst": "₹479",
+        "price": 439,
+        "priceEst": "₹439",
         "currency": "₹",
         "size": "400ml",
         "image": "/images/products/vaseline-sun-protect-spf50.jpg",
@@ -12640,7 +12640,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Lists its UV filters and full ingredients."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -12730,7 +12730,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A plant-oil body oil for half the price."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.7,
@@ -12834,7 +12834,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A well-known light, fast-absorbing body oil."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -12922,7 +12922,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A plant-oil body oil for ₹200."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.2,
@@ -13018,7 +13018,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A plant-oil blend for ₹200."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.3,
@@ -13124,7 +13124,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Plum’s warm vanilla body lotion in a larger bottle."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -13209,7 +13209,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A vanilla lotion with its full ingredient list for ₹204."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.3,
@@ -13320,7 +13320,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A popular glow lotion with 10,000+ ratings."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -13350,8 +13350,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/vaseline-gluta-hya-dewy-lotion.jpg",
         "amazonRating": 4.3,
         "rating": 4.3,
-        "amazonReviews": "10,200+",
-        "reviewCount": "10,200+",
+        "amazonReviews": "10,000+",
+        "reviewCount": "10,000+",
         "scoreBreakdown": {
             "formula": 7.4,
             "skinSuitability": 8,
@@ -13409,7 +13409,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "5% vitamin C and 5% niacinamide with full ingredients."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -13432,8 +13432,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B09ZL9QY3B?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B09ZL9QY3B?tag=oraeskin-21",
         "badge": "Best Budget Brightening Lotion",
-        "price": 219,
-        "priceEst": "₹219",
+        "price": 295,
+        "priceEst": "₹295",
         "currency": "₹",
         "size": "400ml",
         "image": "/images/products/vaseline-daily-brightening-lotion.jpg",
@@ -13494,7 +13494,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "5% vitamin C and 5% niacinamide."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.7,
@@ -13517,8 +13517,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BBRF8P9L?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BBRF8P9L?tag=oraeskin-21",
         "badge": "Best Niacinamide Body Lotion",
-        "price": 399,
-        "priceEst": "₹399",
+        "price": 379,
+        "priceEst": "₹379",
         "currency": "₹",
         "size": "200ml",
         "image": "/images/products/bebodywise-niacinamide-body-lotion.jpg",
@@ -13582,7 +13582,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Vitamin C plus niacinamide with full ingredients."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -13612,8 +13612,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/fixderma-sunscreen-stick.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "13,700+",
-        "reviewCount": "13,700+",
+        "amazonReviews": "13,000+",
+        "reviewCount": "13,000+",
         "scoreBreakdown": {
             "formula": 8,
             "skinSuitability": 8,
@@ -13670,7 +13670,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A smaller ₹259 SPF 50+ stick."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -13693,8 +13693,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BQVTM1BJ?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BQVTM1BJ?tag=oraeskin-21",
         "badge": "Best Matte Sunscreen Stick",
-        "price": 1200,
-        "priceEst": "₹1200",
+        "price": 1125,
+        "priceEst": "₹1125",
         "currency": "₹",
         "size": "18g",
         "image": "/images/products/beauty-of-joseon-matte-sun-stick.jpg",
@@ -13763,7 +13763,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A clear SPF 50 stick for ₹319."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.1,
@@ -13853,7 +13853,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A clear SPF 50 PA+++ stick."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8,
@@ -13935,7 +13935,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A 15g SPF 50 stick with 13,700+ ratings."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.1,
@@ -14021,7 +14021,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A long-running water-resistant SPF 50+."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.4,
@@ -14044,15 +14044,15 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B082PFY9S7?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B082PFY9S7?tag=oraeskin-21",
         "badge": "Most-Rated Water-Resistant Sunscreen",
-        "price": 429,
-        "priceEst": "₹429",
+        "price": 399,
+        "priceEst": "₹399",
         "currency": "₹",
         "size": "80ml",
         "image": "/images/products/neutrogena-ultra-sheer-spf50.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "24,300+",
-        "reviewCount": "24,300+",
+        "amazonReviews": "24,000+",
+        "reviewCount": "24,000+",
         "scoreBreakdown": {
             "formula": 7.6,
             "skinSuitability": 7.6,
@@ -14125,7 +14125,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Water-resistant with Tinosorb M and Uvinul A Plus."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.1,
@@ -14212,7 +14212,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A gentle retinoid cream for face and neck."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7,
@@ -14242,8 +14242,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/mizon-snail-gold-eye-patch.jpg",
         "amazonRating": 4.2,
         "rating": 4.2,
-        "amazonReviews": "13,800+",
-        "reviewCount": "13,800+",
+        "amazonReviews": "13,000+",
+        "reviewCount": "13,000+",
         "scoreBreakdown": {
             "formula": 7.6,
             "skinSuitability": 8.2,
@@ -14298,7 +14298,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Caffeine hydrogel patches for puffiness."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.8,
@@ -14386,7 +14386,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Snail mucin patches with 13,800+ ratings."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.8,
@@ -14471,7 +14471,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "60 patches with hyaluronic acid and niacinamide."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.7,
@@ -14494,8 +14494,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08L95888H?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08L95888H?tag=oraeskin-21",
         "badge": "Best Night Cream for Glow",
-        "price": 1149,
-        "priceEst": "₹1149",
+        "price": 999,
+        "priceEst": "₹999",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/cetaphil-brightening-night-cream.jpg",
@@ -14579,7 +14579,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A small glycolic acid night cream to try."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -14664,7 +14664,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A fragrance-free niacinamide night cream."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -14687,8 +14687,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08WLSGJFC?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08WLSGJFC?tag=oraeskin-21",
         "badge": "Best Budget Retinol Night Cream",
-        "price": 467,
-        "priceEst": "₹467",
+        "price": 426,
+        "priceEst": "₹426",
         "currency": "₹",
         "size": "50g",
         "image": "/images/products/pilgrim-retinol-night-cream.jpg",
@@ -14757,7 +14757,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A gentle 2% retinoid night cream."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 7.9,
@@ -14780,8 +14780,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0DCVLFTVL?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0DCVLFTVL?tag=oraeskin-21",
         "badge": "Best Colloidal Oat Cream",
-        "price": 440,
-        "priceEst": "₹440",
+        "price": 450,
+        "priceEst": "₹450",
         "currency": "₹",
         "size": "100g",
         "image": "/images/products/aveeno-baby-soothing-cream.jpg",
@@ -14869,7 +14869,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A restorative balm for very dry skin."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.8,
@@ -14892,8 +14892,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B0BSLF2RXJ?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B0BSLF2RXJ?tag=oraeskin-21",
         "badge": "Best Budget Oat Cream",
-        "price": 410,
-        "priceEst": "₹410",
+        "price": 409,
+        "priceEst": "₹409",
         "currency": "₹",
         "size": "100g",
         "image": "/images/products/aquaoat-moisturizing-cream.jpg",
@@ -14961,7 +14961,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A fragrance-free colloidal oat cream."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8,
@@ -14984,8 +14984,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "amazonUrl": "https://www.amazon.in/dp/B08KSL2QNF?tag=oraeskin-21",
         "affiliateUrl": "https://www.amazon.in/dp/B08KSL2QNF?tag=oraeskin-21",
         "badge": "Best Squalane Oil",
-        "price": 664,
-        "priceEst": "₹664",
+        "price": 629,
+        "priceEst": "₹629",
         "currency": "₹",
         "size": "30ml",
         "image": "/images/products/minimalist-squalane-oil.jpg",
@@ -15045,7 +15045,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A squalane balm cleanser."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.6,
@@ -15129,7 +15129,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Pure squalane to use after cleansing."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,
@@ -15214,7 +15214,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A fragrance-free repair lip balm."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8,
@@ -15244,8 +15244,8 @@ export const PRODUCTS: SkincareProduct[] = [
         "image": "/images/products/dermaco-vitc-10.jpg",
         "amazonRating": 4,
         "rating": 4,
-        "amazonReviews": "15,200+",
-        "reviewCount": "15,200+",
+        "amazonReviews": "15,000+",
+        "reviewCount": "15,000+",
         "scoreBreakdown": {
             "formula": 8.4,
             "skinSuitability": 8.2,
@@ -15320,7 +15320,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "A 10% ethyl ascorbic acid serum with centella."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.3,
@@ -15417,7 +15417,7 @@ export const PRODUCTS: SkincareProduct[] = [
                 "reason": "Vitamin C and niacinamide with a full ingredient list."
             }
         ],
-        "lastPriceChecked": "October 2026",
+        "lastPriceChecked": "November 2026",
         "lastEditorialReview": "October 2026",
         "inStock": true,
         "oraeSkinScore": 8.2,

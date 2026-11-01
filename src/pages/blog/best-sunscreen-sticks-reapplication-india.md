@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Sunscreen Sticks for Easy Reapplication Over Makeup in India"
 image: "/images/products/fixderma-sunscreen-stick.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Sunscreens & SPF"
 rating: 4.8
 keywords: "sunscreen stick india amazon, best sunscreen stick over makeup, portable spf stick india"
@@ -32,11 +32,11 @@ These are the sunscreen sticks we rate most highly.
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Fixderma Shadow Invisible Sunscreen Stick SPF 50](/reviews/fixderma-sunscreen-stick/)** | SPF 50 PA+++ (Uvinul A Plus, Octocrylene) + Vitamin E | Reapplication, Sun Protection | ₹319 (15g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FQBCD9SV?tag=oraeskin-21) |
-| **[Beauty of Joseon Matte Sun Stick Mugwort + Camellia](/reviews/beauty-of-joseon-matte-sun-stick/)** | SPF 50 PA++++ + Silica (oil control) | Reapplication, Oiliness | ₹1200 (18g) | 8.1/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BQVTM1BJ?tag=oraeskin-21) |
+| **[Beauty of Joseon Matte Sun Stick Mugwort + Camellia](/reviews/beauty-of-joseon-matte-sun-stick/)** | SPF 50 PA++++ + Silica (oil control) | Reapplication, Oiliness | ₹1,125 (18g) | 8.1/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BQVTM1BJ?tag=oraeskin-21) |
 | **[Earth Rhythm Glow Surge Vitamin C & E Sunstick SPF 50](/reviews/earth-rhythm-vitc-sunstick/)** | SPF 50 (Zinc Oxide, Octinoxate, Homosalate, Bemotrizinol) + Vitamin C | Reapplication, Sun Protection | ₹429 (20g) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CF5PYT2S?tag=oraeskin-21) |
 | **[Lakmé Sun Expert Invisible Sunstick SPF 50+](/reviews/lakme-sunstick-spf50/)** | SPF 50+ PA++++ (Octinoxate, Uvinul A Plus, Octisalate, Tinosorb S) | Reapplication, Sun Protection | ₹259 (8g) | 8.1/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F1MY7LZJ?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -47,7 +47,7 @@ A clear SPF 50 PA+++ stick with Uvinul A Plus, rated by 13,700+ buyers.
 - **Key actives**: SPF 50 PA+++ (Uvinul A Plus, Octocrylene), Vitamin E, Avocado & Jojoba Oil
 - **Texture & finish**: Clear Stick — natural, no white cast
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹319 for 15g (₹21.3/g) · 4.2★ from 13,700+ Amazon India ratings
+- **Price**: ₹319 for 15g (₹21.3/g) · 4.2★ from 13,000+ Amazon India ratings
 - **Skip it if**: you plan to use it as your only morning sunscreen layer.
 
 **Pros:** 13,700+ ratings. **Cons:** The listing names only some ingredients.
@@ -63,7 +63,7 @@ SPF 50 PA++++ with an oil-controlling matte finish.
 - **Key actives**: SPF 50 PA++++, Silica (oil control), Mugwort Extract, Green Tea Extract
 - **Texture & finish**: Matte Stick — matte
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹1200 for 18g (₹66.7/g) · 4.2★ from 6,400+ Amazon India ratings
+- **Price**: ₹1,125 for 18g (₹62.5/g) · 4.2★ from 6,400+ Amazon India ratings
 - **Skip it if**: you have dry skin, or want a budget option.
 
 **Pros:** PA++++ UVA rating. **Cons:** ₹1,200 for 18g, as it is imported.
@@ -106,10 +106,10 @@ SPF 50+ PA++++ with modern UVA filters in a ₹259 pocket stick.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Fixderma Shadow Invisible Sunscreen Stick SPF 50](/reviews/fixderma-sunscreen-stick/) works out cheapest at about ₹21 per g (₹319 for 15g). [Earth Rhythm Glow Surge Vitamin C & E Sunstick SPF 50](/reviews/earth-rhythm-vitc-sunstick/) works out about the same. Prices were checked on Amazon.in in October 2026 and change often.
+[Fixderma Shadow Invisible Sunscreen Stick SPF 50](/reviews/fixderma-sunscreen-stick/) works out cheapest at about ₹21 per g (₹319 for 15g). [Earth Rhythm Glow Surge Vitamin C & E Sunstick SPF 50](/reviews/earth-rhythm-vitc-sunstick/) works out about the same. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Which suits oily or acne-prone skin?
 [Beauty of Joseon Matte Sun Stick Mugwort + Camellia](/reviews/beauty-of-joseon-matte-sun-stick/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Fixderma Shadow Invisible Sunscreen Stick SPF 50](/reviews/fixderma-sunscreen-stick/) has the most ratings of these picks, with 13,700+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Fixderma Shadow Invisible Sunscreen Stick SPF 50](/reviews/fixderma-sunscreen-stick/) has the most ratings of these picks, with 13,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

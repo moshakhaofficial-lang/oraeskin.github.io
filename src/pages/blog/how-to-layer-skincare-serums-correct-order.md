@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Layer Skincare Serums in the Right Order"
 image: "/images/products/minimalist-vitc-10.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Serums & Actives"
 rating: 4.8
 keywords: "how to layer serums, correct order of skincare, what not to mix with vitamin c"
@@ -28,11 +28,11 @@ A few combinations need care. **Don't use strong acids (AHA/BHA) and retinoids o
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/)** | 10% Ethyl Ascorbic Acid + 1% Centella Asiatica Extract | Dark Spots, Dullness | ₹593 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
-| **[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/)** | 10% Pure Niacinamide (Vitamin B3) + 1% Zinc PCA | Enlarged Pores, Midday Greasiness | ₹485 (30ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/)** | 10% Pure Niacinamide (Vitamin B3) + 1% Zinc PCA | Enlarged Pores, Midday Greasiness | ₹475 (30ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 | **[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/)** | 2% Salicylic Acid (BHA) | Blackheads, Whiteheads | ₹483 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GG9M863?tag=oraeskin-21) |
-| **[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/)** | 0.3% Pure Retinol + Plant-Derived Squalane | Fine Lines, Loss of Firmness | ₹539 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21) |
+| **[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/)** | 0.3% Pure Retinol + Plant-Derived Squalane | Fine Lines, Loss of Firmness | ₹508 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -59,7 +59,7 @@ A gentle, stable 10% vitamin C derivative.
 - **Key actives**: 10% Pure Niacinamide (Vitamin B3), 1% Zinc PCA, EUGROL G
 - **Texture & finish**: Water Gel Fluid — non-sticky clean
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹485 for 30ml (₹16.2/ml) · 4.2★ from 27,100+ Amazon India ratings
+- **Price**: ₹475 for 30ml (₹15.8/ml) · 4.2★ from 27,000+ Amazon India ratings
 - **Skip it if**: your skin experiences temporary flushing from high-strength Vitamin B3 (start with 5% if sensitive).
 
 **Pros:** Helps reduce oiliness without drying the skin. **Cons:** 10% active concentration can cause mild flushing on ultra-dry, irritated skin.
@@ -75,7 +75,7 @@ A gentle, stable 10% vitamin C derivative.
 - **Key actives**: 2% Salicylic Acid (BHA)
 - **Texture & finish**: Light Serum — clean, non-sticky
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,800+ Amazon India ratings
+- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,000+ Amazon India ratings
 - **Skip it if**: you have dry or sensitised skin, or already use another strong exfoliant or retinoid every night.
 
 **Pros:** Full 2% salicylic acid in a leave-on serum for blackheads and whiteheads. **Cons:** Can dry or irritate if used daily from the start — begin every other night.
@@ -91,7 +91,7 @@ A gentle, stable 10% vitamin C derivative.
 - **Key actives**: 0.3% Pure Retinol, Plant-Derived Squalane, 1% Coenzyme Q10
 - **Texture & finish**: Waterless Squalane Oil — silky nourished glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹539 for 30ml (₹18.0/ml) · 4.2★ from 9,500+ Amazon India ratings
+- **Price**: ₹508 for 30ml (₹16.9/ml) · 4.2★ from 9,500+ Amazon India ratings
 - **Skip it if**: you are currently pregnant or nursing (retinoids are strictly contraindicated).
 
 **Pros:** Waterless squalane base provides continuous lipid hydration to prevent peeling. **Cons:** Requires gradual introduction (1-2 nights a week) and nightly buffering with moisturizer.
@@ -102,7 +102,7 @@ A gentle, stable 10% vitamin C derivative.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) works out cheapest at about ₹16 per ml (₹483 for 30ml). [Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) works out about the same. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) works out cheapest at about ₹16 per ml (₹475 for 30ml). [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) works out about the same. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/), [Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/), [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) and [Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -114,4 +114,4 @@ A gentle, stable 10% vitamin C derivative.
 [Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) and [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) has the most ratings of these picks, with 27,100+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) has the most ratings of these picks, with 27,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

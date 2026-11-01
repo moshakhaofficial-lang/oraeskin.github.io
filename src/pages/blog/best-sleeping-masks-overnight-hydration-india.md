@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Overnight Sleeping Mask Gels for Air-Conditioned Bedroom Dehydration"
 image: "/images/products/dotkey-rice-ceramide-cream.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Moisturizers"
 rating: 4.8
 keywords: "sleeping mask india, overnight gel mask ac dehydration, dot and key rice cream review, wake up glowing skin, night hydration gel"
@@ -27,7 +27,7 @@ During hot Indian summers and monsoons, sleeping with air conditioning is essent
 | :--- | :--- | :--- | :--- | :--- |
 | **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Ceramides & Hyaluronic Acid | Waking Up with Dry, Tight Skin from Overnight AC | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 | **Dot & Key — Vitamin C+E Lip Sleeping Mask** | Vitamin C, Vitamin E, Shea Butter & Lingonberry | Dry, Peeling Lips Damaged by Air Conditioning | ~₹194 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Very Dry, Stinging Skin That Cracks in AC Rooms | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Very Dry, Stinging Skin That Cracks in AC Rooms | ~₹535 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 ---
 

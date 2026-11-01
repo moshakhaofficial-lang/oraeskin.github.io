@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Vitamin C Serums for Beginners & Sensitive Skin in India"
 image: "/images/products/minimalist-vitc-10.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Serums & Actives"
 rating: 4.8
 keywords: "beginner vitamin c serum india, non irritating vitamin c, ethyl ascorbic acid amazon"
@@ -24,9 +24,9 @@ Pure vitamin C (L-ascorbic acid) is effective but can sting. Beginners and sensi
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/)** | 10% Ethyl Ascorbic Acid + 1% Centella Asiatica Extract | Dark Spots, Dullness | ₹593 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
-| **[Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/)** | 15% Ethyl Ascorbic Acid + Kakadu Plum Extract | Stubborn Sun Spots, Uneven Pigmentation | ₹447 (20ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **[Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/)** | 15% Ethyl Ascorbic Acid + Kakadu Plum Extract | Stubborn Sun Spots, Uneven Pigmentation | ₹440 (20ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -53,7 +53,7 @@ Pure vitamin C (L-ascorbic acid) is effective but can sting. Beginners and sensi
 - **Key actives**: 15% Ethyl Ascorbic Acid, Kakadu Plum Extract, Japanese Mandarin Extract
 - **Texture & finish**: Lightweight Viscous Liquid — hydrated glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹447 for 20ml (₹22.4/ml) · 4★ from 15,100+ Amazon India ratings
+- **Price**: ₹440 for 20ml (₹22.0/ml) · 4★ from 15,000+ Amazon India ratings
 - **Skip it if**: you have inflamed active cystic breakouts or ultra-reactive skin.
 
 **Pros:** Potent 15% active concentration speeds up hyperpigmentation reduction. **Cons:** May cause mild tingling for first-time users; best introduced 3 times weekly.
@@ -64,7 +64,7 @@ Pure vitamin C (L-ascorbic acid) is effective but can sting. Beginners and sensi
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/) works out cheapest at about ₹20 per ml (₹593 for 30ml). [Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/) is next at about ₹22 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/) works out cheapest at about ₹20 per ml (₹593 for 30ml). [Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/) is next at about ₹22 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/) and [Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

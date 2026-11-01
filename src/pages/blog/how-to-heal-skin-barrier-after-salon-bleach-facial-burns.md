@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Heal Damaged Skin After Salon Bleach & Aggressive Facial Burns in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
 date: "2026-09-14"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Sensitive & Compromised Skin"
 rating: 4.9
 keywords: "heal skin barrier after salon bleach burn, facial bleach burn recovery india, bioderma atoderm baume burns, cetaphil gentle cleanser burns, repair stinging skin"
@@ -11,8 +11,8 @@ description: "Did a neighbourhood salon facial or bleaching session leave your f
 topPickTitle: "Bioderma Atoderm Intensive Baume"
 topPickBrand: "Bioderma"
 topPickAsin: "B07SGC46XW"
-topPickRating: "4.4 ★"
-topPickPrice: "~₹472"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹535"
 ---
 
 Did a neighbourhood salon facial or bleaching session leave your face red, burning, and peeling? Here is a gentle barrier recovery routine, and when to see a dermatologist.
@@ -25,9 +25,9 @@ In neighbourhood beauty parlours across India, commercial facial bleach formulat
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Raw, Burning, Stinging & Chemically Peeling Facial Skin | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Ultra-Gentle Cleansing When Water Stings Face | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Gentle UV Filters | Mandatory Daytime Shield Against Post-Burn Hyperpigmentation | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Ceramides & PEA | Raw, Burning, Stinging & Chemically Peeling Facial Skin | ~₹535 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Ultra-Gentle Cleansing When Water Stings Face | ~₹370 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Gentle UV Filters | Mandatory Daytime Shield Against Post-Burn Hyperpigmentation | ~₹339 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
 

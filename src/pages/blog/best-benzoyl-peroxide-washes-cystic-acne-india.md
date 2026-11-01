@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Benzoyl Peroxide Face & Body Washes for Acne in India"
 image: "/images/products/dermaco-bpo-facewash.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "benzoyl peroxide wash india, short contact therapy acne, best acne wash amazon"
@@ -35,10 +35,10 @@ For the face, **2.5% is usually enough**. The stronger 5% is better kept for the
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash](/reviews/dermaco-bpo-facewash/)** | Benzoyl Peroxide (2.5%) + Ceramides (5 types) | Inflamed Acne, Body Acne | ₹252 (100ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DZ7L2RD1?tag=oraeskin-21) |
 | **[Benzac AC 5% Gel Wash](/reviews/benzac-ac-5-wash/)** | Benzoyl Peroxide (5%) | Body Acne, Inflamed Acne | ₹503 (100ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CD1RSQLT?tag=oraeskin-21) |
-| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Blackheads, Whiteheads | ₹284 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **[Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/)** | 2% Salicylic Acid (BHA) + Betaine | Back Acne (Bacne), Strawberry Legs (KP) | ₹296 (200ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Blackheads, Whiteheads | ₹269 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/)** | 2% Salicylic Acid (BHA) + Betaine | Back Acne (Bacne), Strawberry Legs (KP) | ₹314 (200ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -65,7 +65,7 @@ A 5% benzoyl peroxide gel wash from Galderma, rated 4.5★.
 - **Key actives**: Benzoyl Peroxide (5%)
 - **Texture & finish**: Gel Wash — clean
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹503 for 100ml (₹5.0/ml) · 4.5★ from 242 Amazon India ratings
+- **Price**: ₹503 for 100ml (₹5.0/ml) · 4.5★ from 240+ Amazon India ratings
 - **Skip it if**: you plan to use it daily on a sensitive face.
 
 **Pros:** 5% benzoyl peroxide. **Cons:** 5% is drier than 2.5% and not needed for most facial acne.
@@ -81,7 +81,7 @@ A 2% salicylic acid cleanser for blackheads and clogged pores rather than red pi
 - **Key actives**: 2% Salicylic Acid (BHA), Capryloyl Salicylic Acid (LHA), Zinc PCA
 - **Texture & finish**: Lightweight Gel — deeply clarified & matte
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹284 for 100ml (₹2.8/ml) · 4.2★ from 29,500+ Amazon India ratings
+- **Price**: ₹269 for 100ml (₹2.7/ml) · 4.2★ from 29,000+ Amazon India ratings
 - **Skip it if**: you have dry, wind-chapped skin or an actively compromised stinging barrier.
 
 **Pros:** 2% Salicylic Acid dissolves stubborn oxidized sebum and dead keratin plugs. **Cons:** Daily 2x usage can be drying for combination skin; best used once daily at night.
@@ -97,7 +97,7 @@ A salicylic acid body wash for bumpy, clogged skin on the back and arms.
 - **Key actives**: 2% Salicylic Acid (BHA), Betaine, Zinc PCA
 - **Texture & finish**: Silky Foaming Gel — smooth & decongested
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹296 for 200ml (₹1.5/ml) · 4.2★ from 2,900+ Amazon India ratings
+- **Price**: ₹314 for 200ml (₹1.6/ml) · 4.2★ from 2,900+ Amazon India ratings
 - **Skip it if**: you have severely compromised eczema plaques on your body.
 
 **Pros:** Clears active back and chest breakouts within 2-3 weeks of regular use. **Cons:** Must be left on the body for 60 seconds before rinsing for optimal BHA penetration.
@@ -108,10 +108,10 @@ A salicylic acid body wash for bumpy, clogged skin on the back and arms.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/) works out cheapest at about ₹1.5 per ml (₹296 for 200ml). [The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash](/reviews/dermaco-bpo-facewash/) is next at about ₹2.5 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/) works out cheapest at about ₹1.6 per ml (₹314 for 200ml). [The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash](/reviews/dermaco-bpo-facewash/) is next at about ₹2.5 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash](/reviews/dermaco-bpo-facewash/), [Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) and [Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/) are fragrance-free. The listing for Benzac AC 5% Gel Wash does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
 
 ### Which is the most popular on Amazon India?
-[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

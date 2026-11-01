@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Anti-Pollution Antioxidant Serums for High Smog Cities in India"
 image: "/images/products/plum-vitc-mandarin.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Serums"
 rating: 4.8
 keywords: "anti pollution serum india, air pollution skincare delhi mumbai, best antioxidant serum smog, plum 15 vitamin c review, pm2.5 skin defense"
@@ -12,7 +12,7 @@ topPickTitle: "Plum 15% Vitamin C Face Serum with Mandarin"
 topPickBrand: "Plum"
 topPickAsin: "B095PRGHDX"
 topPickRating: "4 ★"
-topPickPrice: "~₹447"
+topPickPrice: "~₹440"
 ---
 
 Guard your skin against high AQI, toxic PM2.5 particulate matter, and urban smog. Discover potent antioxidant serums that neutralize environmental pollution.
@@ -25,9 +25,9 @@ Indian mega-cities like Delhi NCR, Mumbai, Kolkata, and Kanpur regularly experie
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | City Dwellers Exposed to High AQI Smog & Exhaust Fumes | ~₹447 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & 1% Zinc PCA | Smoggy Cities + Oily/Acne-Prone Skin | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Mandatory Daytime Shield Against UV + Smog Synergy | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | City Dwellers Exposed to High AQI Smog & Exhaust Fumes | ~₹440 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & 1% Zinc PCA | Smoggy Cities + Oily/Acne-Prone Skin | ~₹475 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Mandatory Daytime Shield Against UV + Smog Synergy | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

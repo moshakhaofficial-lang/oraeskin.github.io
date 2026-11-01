@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Pre-Wedding Skincare Routine Timeline: 3-Month Protocol for Radiant Skin on Amazon India"
 image: "/images/products/plum-vitc-mandarin.jpg"
 date: "2026-09-14"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Routines & Guides"
 rating: 4.9
 keywords: "pre wedding skincare routine indian brides, 3 month bridal skincare timeline, wedding glow skincare amazon india, plum vitamin c bridal, the face shop rice cleanser"
@@ -12,7 +12,7 @@ topPickTitle: "Plum 15% Vitamin C Face Serum with Mandarin"
 topPickBrand: "Plum"
 topPickAsin: "B095PRGHDX"
 topPickRating: "4 ★"
-topPickPrice: "~₹447"
+topPickPrice: "~₹440"
 ---
 
 Avoid last-minute salon chemical burns and breakout panics. Follow this verified 3-month dermatologist timeline to achieve flawless bridal glass skin on Amazon India.
@@ -25,9 +25,9 @@ Indian weddings involve multiple functions (Haldi, Mehendi, Sangeet, Reception) 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | Month 1-3: Fading Sun Tanning & Boosting Radiance | ~₹447 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
-| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Moringa Oil | Daily Cleansing & Heavy Makeup Removal | ~₹674 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Photostable UV Filters | Outdoor Pre-Wedding Shoots & Daytime Functions | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Plum — 15% Vitamin C Face Serum** | 15% Ethyl Ascorbic Acid, Japanese Mandarin & Kakadu Plum | Month 1-3: Fading Sun Tanning & Boosting Radiance | ~₹440 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Moringa Oil | Daily Cleansing & Heavy Makeup Removal | ~₹629 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Photostable UV Filters | Outdoor Pre-Wedding Shoots & Daytime Functions | ~₹339 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
 

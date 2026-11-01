@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Long-Haul Flight Skincare Routine: Combat In-Cabin Dehydration & Breakouts"
 image: "/images/products/dotkey-rice-ceramide-cream.jpg"
 date: "2026-09-22"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Hydration"
 rating: 4.8
 keywords: "flight skincare routine india, travel skincare long haul flights, airplane cabin dry skin, dot and key rice ceramide airplane, prevent travel breakouts"
@@ -25,7 +25,7 @@ Whether you are flying from Delhi to London or Mumbai to San Francisco, long-hau
 | :--- | :--- | :--- | :--- | :--- |
 | **Dot & Key — Rice Water & Ceramide Cream** | Fermented Rice Water + 5 Essential Ceramides | Barrier Shielding Against Sub-15% Cabin Humidity | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ~₹900 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
-| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramides + Petrolatum + UV Filters | Locking Moisture into Fragile Chapped Lips | ~₹264 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
+| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramides + Petrolatum + UV Filters | Locking Moisture into Fragile Chapped Lips | ~₹253 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
 
 ---
 

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best PHA Toners for Sensitive Skin in India"
 image: "/images/products/minimalist-pha-toner.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners & Exfoliants"
 rating: 4.8
 keywords: "pha toner india, minimalist pha toner review, sensitive skin chemical exfoliation"
@@ -31,7 +31,7 @@ Even with a gentle acid, stop if your skin burns or stays red. A compromised bar
 | **[Anua Heartleaf 77 Clear Pad](/reviews/anua-heartleaf-77-clear-pad/)** | Heartleaf (Houttuynia Cordata) Extract (77%) + PHA (Gluconolactone) | Texture, Dullness | ₹1600 (70 pads) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08JLMRTZS?tag=oraeskin-21) |
 | **[Hyphen 7% Ceramides-NMF Milky Toner Essence](/reviews/hyphen-ceramide-milky-toner/)** | Ceramides (5 types) + NMF (Urea, Sodium PCA, Sodium Lactate) | Dehydration, Barrier Repair | ₹446 (100ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DMPDCBLH?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -74,7 +74,7 @@ A ceramide milky toner for the nights you are not exfoliating.
 - **Key actives**: Ceramides (5 types), NMF (Urea, Sodium PCA, Sodium Lactate), Rice Water, Oat Extract
 - **Texture & finish**: Milky Essence — soft, dewy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹446 for 100ml (₹4.5/ml) · 4.4★ from 600+ Amazon India ratings
+- **Price**: ₹446 for 100ml (₹4.5/ml) · 4.4★ from 620+ Amazon India ratings
 - **Skip it if**: you have very oily skin that dislikes any emollient feel.
 
 **Pros:** Five ceramides plus NMFs. **Cons:** Only 100ml.
@@ -85,7 +85,7 @@ A ceramide milky toner for the nights you are not exfoliating.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) works out cheapest at about ₹2.3 per ml (₹338 for 150ml). [Hyphen 7% Ceramides-NMF Milky Toner Essence](/reviews/hyphen-ceramide-milky-toner/) is next at about ₹4.5 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) works out cheapest at about ₹2.3 per ml (₹338 for 150ml). [Hyphen 7% Ceramides-NMF Milky Toner Essence](/reviews/hyphen-ceramide-milky-toner/) is next at about ₹4.5 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/), [Anua Heartleaf 77 Clear Pad](/reviews/anua-heartleaf-77-clear-pad/) and [Hyphen 7% Ceramides-NMF Milky Toner Essence](/reviews/hyphen-ceramide-milky-toner/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

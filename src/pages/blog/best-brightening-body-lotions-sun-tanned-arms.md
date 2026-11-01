@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Brightening Body Lotions in India for Tanned Arms & Uneven Tone"
 image: "/images/products/wishcare-multivitamin-body-lotion.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "brightening body lotion india, remove body tan lotion, fade sleeve tan amazon"
@@ -33,10 +33,10 @@ A tan on your arms is your skin's response to sun exposure. **It fades on its ow
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[WishCare Multi-Vitamin Brightening Body Lotion](/reviews/wishcare-multivitamin-body-lotion/)** | Ethyl Ascorbic Acid (5% Vitamin C) + Niacinamide (5%) | Tan, Uneven Tone | ₹384 (200ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BG8XSTP8?tag=oraeskin-21) |
 | **[Vaseline Gluta-Hya Dewy Radiance Body Lotion](/reviews/vaseline-gluta-hya-dewy-lotion/)** | Glutathione + Niacinamide | Dullness, Uneven Tone | ₹389 (330ml) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GSZ8DDJX?tag=oraeskin-21) |
-| **[Vaseline Daily Brightening Body Lotion](/reviews/vaseline-daily-brightening-lotion/)** | Niacinamide (Vitamin B3) + UV Filters (no SPF rating) | Dullness, Dryness | ₹219 (400ml) | 7.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09ZL9QY3B?tag=oraeskin-21) |
+| **[Vaseline Daily Brightening Body Lotion](/reviews/vaseline-daily-brightening-lotion/)** | Niacinamide (Vitamin B3) + UV Filters (no SPF rating) | Dullness, Dryness | ₹295 (400ml) | 7.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09ZL9QY3B?tag=oraeskin-21) |
 | **[WishCare Sunscreen Body Lotion SPF 50 PA++++](/reviews/wishcare-body-sunscreen-spf50/)** | SPF 50 PA++++ (Octocrylene, Octisalate, Tinosorb M) + Niacinamide | Tanning, Sun Damage | ₹381 (200ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BG8W7PJ7?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -63,7 +63,7 @@ A light, dewy serum-lotion with niacinamide, rated by 10,200+ buyers.
 - **Key actives**: Glutathione, Niacinamide, Hyaluronic Acid
 - **Texture & finish**: Serum-Lotion — dewy
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹389 for 330ml (₹1.2/ml) · 4.3★ from 10,200+ Amazon India ratings
+- **Price**: ₹389 for 330ml (₹1.2/ml) · 4.3★ from 10,000+ Amazon India ratings
 - **Skip it if**: you want proven tan-fading; topical glutathione has limited evidence.
 
 **Pros:** 10,200+ ratings. **Cons:** Topical glutathione has little evidence for lightening skin.
@@ -79,7 +79,7 @@ A 400ml niacinamide lotion for ₹219. It has no SPF rating, so it is not a suns
 - **Key actives**: Niacinamide (Vitamin B3), UV Filters (no SPF rating)
 - **Texture & finish**: Lotion — non-sticky
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹219 for 400ml (₹0.5/ml) · 4.2★ from 2,500+ Amazon India ratings
+- **Price**: ₹295 for 400ml (₹0.7/ml) · 4.2★ from 2,500+ Amazon India ratings
 - **Skip it if**: you think it replaces sunscreen; it has no SPF rating.
 
 **Pros:** 400ml for ₹219. **Cons:** The listing mentions UV filters but gives no SPF, so it is not a sunscreen.
@@ -111,7 +111,7 @@ SPF 50 PA++++ for exposed arms, which does most of the anti-tan work.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Vaseline Daily Brightening Body Lotion](/reviews/vaseline-daily-brightening-lotion/) works out cheapest at about ₹0.5 per ml (₹219 for 400ml). [Vaseline Gluta-Hya Dewy Radiance Body Lotion](/reviews/vaseline-gluta-hya-dewy-lotion/) is next at about ₹1.2 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Vaseline Daily Brightening Body Lotion](/reviews/vaseline-daily-brightening-lotion/) works out cheapest at about ₹0.7 per ml (₹295 for 400ml). [Vaseline Gluta-Hya Dewy Radiance Body Lotion](/reviews/vaseline-gluta-hya-dewy-lotion/) is next at about ₹1.2 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [WishCare Multi-Vitamin Brightening Body Lotion](/reviews/wishcare-multivitamin-body-lotion/) and [WishCare Sunscreen Body Lotion SPF 50 PA++++](/reviews/wishcare-body-sunscreen-spf50/) are fragrance-free. The listings for Vaseline Gluta-Hya Dewy Radiance Body Lotion and Vaseline Daily Brightening Body Lotion do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

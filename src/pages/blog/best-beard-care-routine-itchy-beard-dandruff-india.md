@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Beard Care Routine for Itchy Beard Dandruff ('Beardruff') & Folliculitis in India"
 image: "/images/products/minimalist-salicylic-cleanser.jpg"
 date: "2026-09-22"
+updated: "2026-11-01"
 category: "Men's Care"
 rating: 4.7
 keywords: "beard dandruff routine india, beardruff treatment men, itchy beard folliculitis, minimalist salicylic cleanser beard, sebogel itchy beard bumps"
@@ -11,7 +12,7 @@ topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹284"
+topPickPrice: "~₹269"
 ---
 
 Growing a thick, sharp beard is a hallmark of modern Indian men's grooming. However, under India's humid, sweaty conditions, the skin beneath dense facial hair often becomes a breeding ground for yeast overgrowth, dead skin buildup, and inflamed ingrown hairs. If you suffer from itchy white flakes ('beardruff') or red, painful bumps under your beard, here is the clinical grooming guide you need.
@@ -22,8 +23,8 @@ Growing a thick, sharp beard is a hallmark of modern Indian men's grooming. Howe
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid + LHA + Zinc | Clearing Follicular Scale & Dissolving Flake Plugs | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA + Magnesium | Weightless Oil-Free Hydration Beneath Dense Beards | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid + LHA + Zinc | Clearing Follicular Scale & Dissolving Flake Plugs | ~₹269 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA + Magnesium | Weightless Oil-Free Hydration Beneath Dense Beards | ~₹224 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 | **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% BHA + 6% Nicotinamide | Targeting Red Folliculitis Pustules & Ingrown Hairs | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Fermented Rice & Kombucha Toners for Glass Skin Radiance in India"
 image: "/images/products/faceshop-rice-cleanser.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners"
 rating: 4.8
 keywords: "fermented rice toner india, kombucha toner glass skin, the face shop rice water review, korean fermented skincare amazon india, translucent glow"
@@ -12,7 +12,7 @@ topPickTitle: "The Face Shop Rice Water Bright Foaming Cleanser"
 topPickBrand: "The Face Shop"
 topPickAsin: "B0DRYQ6274"
 topPickRating: "4.5 ★"
-topPickPrice: "~₹674"
+topPickPrice: "~₹629"
 ---
 
 Unlock translucent Korean glass skin with fermented rice nutrients and bio-fermented toners that brighten post-sun dullness without heavy oils.
@@ -25,7 +25,7 @@ Fermentation breaks down complex botanical nutrients into micro-sized bio-availa
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Moringa Oil | Dull, Tanned Complexions Needing Glass Skin Foundation | ~₹674 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
+| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Moringa Oil | Dull, Tanned Complexions Needing Glass Skin Foundation | ~₹629 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
 | **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Triple Ceramides & Hyaluronic Acid | Dehydrated Skin Seeking Bouncy Glass Skin Finish | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 | **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 

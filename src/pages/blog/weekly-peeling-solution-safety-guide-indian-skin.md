@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Weekly Chemical Peeling Solutions: How to Exfoliate Indian Skin Without Burns or Peeling"
 image: "/images/products/minimalist-pha-toner.jpg"
 date: "2026-09-14"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Exfoliation & Peels"
 rating: 4.8
 keywords: "weekly chemical peeling solution india, how to use aha bha peel safely, prevent chemical peel burns indian skin, minimalist pha toner, bioderma baume"
@@ -26,8 +26,8 @@ Viral social media trends often encourage beginners to slather 25%-30% AHA chemi
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Minimalist — PHA 3% Alcohol-Free Face Toner** | 3% Gluconolactone (PHA), Polyglutamic Acid & Niacinamide | Sensitive, Reactive Indian Skin Seeking Safe Exfoliation | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
-| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Experienced Users, Dull Complexions & Body Exfoliation | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Lipids & PEA | Immediate Post-Exfoliation Barrier Repair | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Experienced Users, Dull Complexions & Body Exfoliation | ~₹439 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex, Biomimetic Lipids & PEA | Immediate Post-Exfoliation Barrier Repair | ~₹535 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 ---
 

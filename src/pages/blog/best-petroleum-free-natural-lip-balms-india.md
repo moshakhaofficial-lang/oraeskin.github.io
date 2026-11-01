@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Petroleum-Free & Vegan Lip Balms in India"
 image: "/images/products/plum-candy-melts-lip-balm.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Lip Care & SPF Balms"
 rating: 4.8
 keywords: "petroleum free lip balm india, vegan lip balm amazon, natural shea butter lip salve"
@@ -31,10 +31,10 @@ Natural balms often include **essential oils or flavour**, which can irritate se
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Plum Candy Melts Vegan Lip Balm](/reviews/plum-candy-melts-lip-balm/)** | Castor Oil + Cocoa Butter | Dryness, Chapped Lips | ₹250 (12g) | 7.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MC5MJ33?tag=oraeskin-21) |
 | **[Juicy Chemistry Organic Lip Balm with Blood Orange & Rosehip](/reviews/juicy-chemistry-lip-balm/)** | Apricot Kernel Oil + Castor Oil | Dryness, Chapped Lips | ₹239 (5g) | 7.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01N2LYRWX?tag=oraeskin-21) |
-| **[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/)** | Shea Butter + Panthenol | Cracked Lips, Chapped Lips | ₹479 (10ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21) |
+| **[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/)** | Shea Butter + Panthenol | Cracked Lips, Chapped Lips | ₹474 (10ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21) |
 | **[Forest Essentials Rose Lip Balm](/reviews/forest-essentials-rose-lip-balm/)** | Kokum Butter + Rose Petal Concentrate | Dryness, Chapped Lips | ₹850 (4g) | 7.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00V4JP4PM?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -77,7 +77,7 @@ Petroleum-free and fragrance-free, made for sensitive lips. It contains beeswax.
 - **Key actives**: Shea Butter, Panthenol, Glycerin, Bisabolol, Castor Oil
 - **Texture & finish**: Soft Balm (tube) — glossy, cushioned
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹479 for 10ml (₹47.9/ml) · 4.2★ from 43,000+ Amazon India ratings
+- **Price**: ₹474 for 10ml (₹47.4/ml) · 4.2★ from 43,000+ Amazon India ratings
 - **Skip it if**: you avoid beeswax.
 
 **Pros:** Fragrance-free, made for sensitive lips. **Cons:** No SPF, so pair with an SPF balm in the day.
@@ -104,7 +104,7 @@ An Ayurvedic kokum butter and rose balm. It contains honey, and the full ingredi
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Plum Candy Melts Vegan Lip Balm](/reviews/plum-candy-melts-lip-balm/) works out cheapest at about ₹21 per g (₹250 for 12g). [Juicy Chemistry Organic Lip Balm with Blood Orange & Rosehip](/reviews/juicy-chemistry-lip-balm/) is next at about ₹48 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Plum Candy Melts Vegan Lip Balm](/reviews/plum-candy-melts-lip-balm/) works out cheapest at about ₹21 per g (₹250 for 12g). [Juicy Chemistry Organic Lip Balm with Blood Orange & Rosehip](/reviews/juicy-chemistry-lip-balm/) is next at about ₹48 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/) is fragrance-free. [Plum Candy Melts Vegan Lip Balm](/reviews/plum-candy-melts-lip-balm/) contains added fragrance or flavour. [Juicy Chemistry Organic Lip Balm with Blood Orange & Rosehip](/reviews/juicy-chemistry-lip-balm/) contains essential oils, which can also irritate. The listing for Forest Essentials Rose Lip Balm does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

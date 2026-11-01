@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Treat Hereditary Dark Circles in South Asian Skin"
 image: "/images/products/minimalist-vitk-retinal-eye-cream.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "hereditary dark circles treatment, south asian dark circles, under eye pigmentation india"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist Vitamin K + Retinal 0.1% Under Eye Cream"
 topPickBrand: "Minimalist"
 topPickAsin: "B0CHYR58VF"
 topPickRating: "4 ★"
-topPickPrice: "~₹463"
+topPickPrice: "~₹410"
 ---
 
 Hereditary dark circles in South Asian skin are usually **pigmentary** (brown melanin around the eyes), sometimes combined with **vascular** shadows or **hollowing**. Topical care can lighten and soften them gradually, but rarely removes them completely.
@@ -27,11 +27,11 @@ These are the eye products on Amazon India we rate most highly.
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹463 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
-| **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,136 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
+| **[Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/)** | Vitamin K + Retinal 0.1% | Vascular Dark Circles, Puffy Eyes | ₹410 (14g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21) |
+| **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,065 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ₹900 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -42,7 +42,7 @@ Retinal, vitamin K and caffeine in one cream.
 - **Key actives**: Vitamin K, Retinal 0.1%, 3% Caffeine, Palmitoyl Tripeptide-1 & Tetrapeptide-7
 - **Texture & finish**: Lightweight Eye Cream — smooth, non-greasy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹463 for 14g (₹33.1/g) · 4★ from 4,000+ Amazon India ratings
+- **Price**: ₹410 for 14g (₹29.3/g) · 4★ from 4,100+ Amazon India ratings
 - **Skip it if**: you are pregnant or breastfeeding (retinoids), or your under-eye skin is very sensitive or eczema-prone.
 
 **Pros:** Retinal (retinaldehyde) works faster than retinol on fine lines and texture. **Cons:** Retinoid can sting or flake on sensitive under-eye skin — start every other night.
@@ -58,7 +58,7 @@ Niacinamide and low-dose retinal for sensitive under-eyes.
 - **Key actives**: Retinal (Liposomal), Ginseng Root Extract, Niacinamide, Adenosine
 - **Texture & finish**: Silky Serum-Cream — soft & hydrated, non-sticky
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1,136 for 30ml (₹37.9/ml) · 4.1★ from 19,300+ Amazon India ratings
+- **Price**: ₹1,065 for 30ml (₹35.5/ml) · 4.1★ from 19,000+ Amazon India ratings
 - **Skip it if**: you are pregnant or breastfeeding (it contains retinal), or you want a fast, strong anti-ageing effect.
 
 **Pros:** Gentle, encapsulated retinal with a supportive base of ceramide NP, cholesterol and hyaluronate. **Cons:** Retinal is low in the ingredient list — results are gradual.
@@ -88,7 +88,7 @@ Niacinamide and low-dose retinal for sensitive under-eyes.
 Usually not fully. Inherited pigment around the eyes can be lightened a little with consistent eye creams and sunscreen, but results are gradual and partial. A dermatologist can offer peels, lasers or fillers if creams are not enough.
 
 ### Which is the best value?
-[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) works out cheapest at about ₹30 per ml (₹900 for 30ml). [Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) is next at about ₹38 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) works out cheapest at about ₹30 per ml (₹900 for 30ml). [Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) is next at about ₹36 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist Vitamin K + Retinal 0.1% Under Eye Cream](/reviews/minimalist-caffeine-eye-serum/), [Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) and [The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -100,4 +100,4 @@ Usually not fully. Inherited pigment around the eyes can be lightened a little w
 [The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) has the most ratings of these picks, with 19,300+ at 4.1★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/) has the most ratings of these picks, with 19,000+ at 4.1★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

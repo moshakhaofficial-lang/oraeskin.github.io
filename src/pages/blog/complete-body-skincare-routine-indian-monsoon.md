@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Complete Body Skincare Routine for the Indian Monsoon & High Humidity"
 image: "/images/products/minimalist-salicylic-bodywash.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "monsoon body care routine, prevent fungal infection skin india, anti chafing body care"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 2% Salicylic Acid Body Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BSN7LHC4"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹296"
+topPickPrice: "~₹314"
 ---
 
 The monsoon brings **high humidity, sweat and damp clothes**. Skin that stays damp is more prone to **body acne, fungal infections (like ringworm and itchy rashes in skin folds) and clogged, bumpy skin**.
@@ -32,12 +32,12 @@ The monsoon brings **high humidity, sweat and damp clothes**. Skin that stays da
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/)** | 2% Salicylic Acid (BHA) + Betaine | Back Acne (Bacne), Strawberry Legs (KP) | ₹296 (200ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/)** | 2% Salicylic Acid (BHA) + Betaine | Back Acne (Bacne), Strawberry Legs (KP) | ₹314 (200ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
 | **[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/)** | Salicylic Acid (1%) + Chamomile Extract | Body Acne, Keratosis Pilaris | ₹599 (700ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CWPNGRR9?tag=oraeskin-21) |
 | **[WishCare AHA BHA Body Lotion](/reviews/wishcare-aha-bha-body-lotion/)** | Glycolic + Lactic Acid (10% AHA) + Salicylic Acid (1%) | Rough Skin, Keratosis Pilaris | ₹384 (200ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BG8X8XTC?tag=oraeskin-21) |
 | **[WishCare Sunscreen Body Lotion SPF 50 PA++++](/reviews/wishcare-body-sunscreen-spf50/)** | SPF 50 PA++++ (Octocrylene, Octisalate, Tinosorb M) + Niacinamide | Tanning, Sun Damage | ₹381 (200ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BG8W7PJ7?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -48,7 +48,7 @@ A 2% salicylic acid body wash to keep sweaty, clogged skin clear.
 - **Key actives**: 2% Salicylic Acid (BHA), Betaine, Zinc PCA
 - **Texture & finish**: Silky Foaming Gel — smooth & decongested
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹296 for 200ml (₹1.5/ml) · 4.2★ from 2,900+ Amazon India ratings
+- **Price**: ₹314 for 200ml (₹1.6/ml) · 4.2★ from 2,900+ Amazon India ratings
 - **Skip it if**: you have severely compromised eczema plaques on your body.
 
 **Pros:** Clears active back and chest breakouts within 2-3 weeks of regular use. **Cons:** Must be left on the body for 60 seconds before rinsing for optimal BHA penetration.
@@ -64,7 +64,7 @@ A 1% salicylic acid wash in a 700ml bottle for daily use.
 - **Key actives**: Salicylic Acid (1%), Chamomile Extract
 - **Texture & finish**: Gel Wash — clean
 - **Fragrance**: Added Fragrance
-- **Price**: ₹599 for 700ml (₹0.9/ml) · 4.2★ from 11,800+ Amazon India ratings
+- **Price**: ₹599 for 700ml (₹0.9/ml) · 4.2★ from 11,000+ Amazon India ratings
 - **Skip it if**: you are sensitive to fragrance.
 
 **Pros:** 700ml, very good value. **Cons:** Contains fragrance and blue dye.
@@ -107,7 +107,7 @@ A light SPF 50 PA++++ lotion for exposed arms and neck.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) works out cheapest at about ₹0.9 per ml (₹599 for 700ml). [Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/) is next at about ₹1.5 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) works out cheapest at about ₹0.9 per ml (₹599 for 700ml). [Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/) is next at about ₹1.6 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/), [WishCare AHA BHA Body Lotion](/reviews/wishcare-aha-bha-body-lotion/) and [WishCare Sunscreen Body Lotion SPF 50 PA++++](/reviews/wishcare-body-sunscreen-spf50/) are fragrance-free. [Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) contains added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -116,4 +116,4 @@ A light SPF 50 PA++++ lotion for exposed arms and neck.
 [Minimalist 2% Salicylic Acid Body Wash](/reviews/minimalist-salicylic-bodywash/), [Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) and [WishCare AHA BHA Body Lotion](/reviews/wishcare-aha-bha-body-lotion/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) has the most ratings of these picks, with 11,800+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) has the most ratings of these picks, with 11,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Remove Sunscreen Properly (Double Cleansing Guide)"
 image: "/images/products/plum-cleansing-balm.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Sunscreens & SPF"
 rating: 4.8
 keywords: "how to remove sunscreen, double cleansing routine india, clogged pores from sunscreen"
@@ -11,7 +11,7 @@ description: "Why regular face wash leaves sunscreen residue inside your pores, 
 topPickTitle: "Plum E-Luminence Simply Supple Cleansing Balm"
 topPickBrand: "Plum"
 topPickAsin: "B08423CWXC"
-topPickRating: "4.3 ★"
+topPickRating: "4.4 ★"
 topPickPrice: "~₹488"
 ---
 
@@ -27,12 +27,12 @@ These are the products on Amazon India we rate most highly for each step.
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/)** | Kokum Butter + Sunflower Seed Oil | Makeup Removal, Sunscreen Removal | ₹488 (90g) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08423CWXC?tag=oraeskin-21) |
+| **[Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/)** | Kokum Butter + Sunflower Seed Oil | Makeup Removal, Sunscreen Removal | ₹488 (90g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08423CWXC?tag=oraeskin-21) |
 | **[Garnier Micellar Cleansing Water (Hydrating & Soothing)](/reviews/garnier-micellar-water/)** | Micelles (Mild Surfactants) + Glycerin | Makeup Removal, Lazy Cleansing | ₹280 (400ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B071CDDG3H?tag=oraeskin-21) |
-| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oiliness, City Pollution | ₹1,061 (236ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹351 (118ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oiliness, City Pollution | ₹1,054 (236ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹370 (118ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -43,7 +43,7 @@ Melts water-resistant sunscreen and rinses clean.
 - **Key actives**: Kokum Butter, Sunflower Seed Oil, Argan Oil, Vitamin E
 - **Texture & finish**: Solid Balm, Melts to Oil — soft, non-drying
 - **Fragrance**: Added Fragrance
-- **Price**: ₹488 for 90g (₹5.4/g) · 4.3★ from 2,000+ Amazon India ratings
+- **Price**: ₹488 for 90g (₹5.4/g) · 4.4★ from 2,000+ Amazon India ratings
 - **Skip it if**: you avoid fragrance, or have very acne-prone skin that reacts to rich oils and waxes.
 
 **Pros:** Melts sunscreen and makeup quickly. **Cons:** Contains fragrance.
@@ -59,7 +59,7 @@ A no-rinse option for lighter sunscreens.
 - **Key actives**: Micelles (Mild Surfactants), Glycerin
 - **Texture & finish**: Water — no residue
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹280 for 400ml (₹0.7/ml) · 4.4★ from 33,700+ Amazon India ratings
+- **Price**: ₹280 for 400ml (₹0.7/ml) · 4.4★ from 33,000+ Amazon India ratings
 - **Skip it if**: you wear heavy waterproof makeup — use a balm or the waterproof version instead.
 
 **Pros:** Exceptional value — 400ml under ₹300. **Cons:** Struggles with waterproof makeup.
@@ -75,7 +75,7 @@ A gentle, fragrance-free foam.
 - **Key actives**: 3 Essential Ceramides (1, 3, 6-II), Niacinamide, Hyaluronic Acid
 - **Texture & finish**: Clear Foaming Gel — fresh & clean without tightness
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1,061 for 236ml (₹4.5/ml) · 4.4★ from 38,600+ Amazon India ratings
+- **Price**: ₹1,054 for 236ml (₹4.5/ml) · 4.4★ from 38,000+ Amazon India ratings
 - **Skip it if**: you have extremely dry, parched skin that does not tolerate any foam.
 
 **Pros:** Contains 3 skin-identical ceramides that prevent moisture loss during washing. **Cons:** Larger bottle size has a higher upfront price, though cost-per-ml is excellent.
@@ -91,7 +91,7 @@ A soap-free, hydrating cleanser.
 - **Key actives**: Niacinamide (Vitamin B3), Panthenol (Pro-Vitamin B5), Glycerin
 - **Texture & finish**: Non-Foaming Cream Lotion — ultra soft & calmed
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹351 for 118ml (₹3.0/ml) · 4.3★ from 70,900+ Amazon India ratings
+- **Price**: ₹370 for 118ml (₹3.1/ml) · 4.3★ from 71,000+ Amazon India ratings
 - **Skip it if**: you want a squeaky clean foaming feeling to remove heavy grease.
 
 **Pros:** Sulphate-free, low-foaming and non-stripping. **Cons:** Cannot remove heavy waterproof silicone sunscreens on its own.
@@ -102,7 +102,7 @@ A soap-free, hydrating cleanser.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Garnier Micellar Cleansing Water (Hydrating & Soothing)](/reviews/garnier-micellar-water/) works out cheapest at about ₹0.7 per ml (₹280 for 400ml). [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) is next at about ₹3 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Garnier Micellar Cleansing Water (Hydrating & Soothing)](/reviews/garnier-micellar-water/) works out cheapest at about ₹0.7 per ml (₹280 for 400ml). [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) is next at about ₹3.1 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Garnier Micellar Cleansing Water (Hydrating & Soothing)](/reviews/garnier-micellar-water/), [CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) and [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) are fragrance-free. [Plum E-Luminence Simply Supple Cleansing Balm](/reviews/plum-cleansing-balm/) contains added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -114,4 +114,4 @@ A soap-free, hydrating cleanser.
 [CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) has the most ratings of these picks, with 70,900+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) has the most ratings of these picks, with 71,000+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

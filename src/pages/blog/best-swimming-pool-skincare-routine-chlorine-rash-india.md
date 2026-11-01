@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Swimming Pool Skincare Routine: Healing Chlorine Rash & Severe Dryness in India"
 image: "/images/products/bioderma-atoderm-baume.jpg"
 date: "2026-09-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Barrier Repair"
 rating: 4.8
 keywords: "swimming pool skincare routine india, heal chlorine rash dry skin, swimmers barrier repair cream, bioderma atoderm baume chlorine, prevent pool chemical irritation"
@@ -11,8 +11,8 @@ description: "Love swimming in Indian club or society pools but left with itchy,
 topPickTitle: "Bioderma Atoderm Intensive Baume"
 topPickBrand: "Bioderma"
 topPickAsin: "B07SGC46XW"
-topPickRating: "4.4 ★"
-topPickPrice: "~₹472"
+topPickRating: "4.3 ★"
+topPickPrice: "~₹535"
 ---
 
 Swimming is one of the best full-body cardiovascular workouts, especially during India's scorching summers. However, community, school, and fitness club swimming pools rely on high concentrations of chlorine, sodium hypochlorite, and algaecides to disinfect water. For your skin, repeated immersion in chlorinated water strips the stratum corneum of essential lipids, resulting in chemical irritant dermatitis colloquially known as 'swimmer's itch' or 'chlorine rash'. Here is how to protect your skin barrier before you dive in and heal it afterward.
@@ -23,9 +23,9 @@ Swimming is one of the best full-body cardiovascular workouts, especially during
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA (Palmitoylethanolamide) | Instant Post-Swim Itch Relief & Deep Lipid Reconstruction | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Technology + Panthenol + Niacinamide | Washing Away Residual Chloramines Without Stripping | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides + Broad Spectrum Hybrid UV Filters | Water-Resistant Barrier Shield for Outdoor Swimming | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA (Palmitoylethanolamide) | Instant Post-Swim Itch Relief & Deep Lipid Reconstruction | ~₹535 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Technology + Panthenol + Niacinamide | Washing Away Residual Chloramines Without Stripping | ~₹370 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides + Broad Spectrum Hybrid UV Filters | Water-Resistant Barrier Shield for Outdoor Swimming | ~₹339 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
 
 ---
 

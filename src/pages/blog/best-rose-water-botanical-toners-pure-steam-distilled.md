@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Rose Water Toners in India: Pure vs Fragranced"
 image: "/images/products/urbanbotanics-rose-water.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners & Exfoliants"
 rating: 4.8
 keywords: "pure rose water india, steam distilled rose water amazon, kannauj gulab jal face"
@@ -31,7 +31,7 @@ Pure rose water usually has no preservative, so keep it cool and use it within a
 | **[Forest Essentials Facial Tonic Mist Pure Rosewater](/reviews/forest-essentials-rosewater-mist/)** | Steam-Distilled Rose Water | Refreshing, Hydration | ₹595 (50ml) | 7.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09ZVGH8MG?tag=oraeskin-21) |
 | **[Dabur Gulabari Premium Rose Water](/reviews/dabur-gulabari-rose-water/)** | Rose Oil + Fragrance (Rooh Gulab) | Refreshing, Dullness | ₹99 (400ml) | 7.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B085QMJ3TS?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -42,7 +42,7 @@ Lists only steam-distilled rose water, in a spray bottle, with 13,600+ ratings.
 - **Key actives**: Steam-Distilled Rose Water
 - **Texture & finish**: Fine Mist — fresh
 - **Fragrance**: Subtle Natural Fragrance
-- **Price**: ₹279 for 200ml (₹1.4/ml) · 4.2★ from 13,600+ Amazon India ratings
+- **Price**: ₹279 for 200ml (₹1.4/ml) · 4.2★ from 13,000+ Amazon India ratings
 - **Skip it if**: you expect it to treat acne or pigmentation.
 
 **Pros:** Single-ingredient formula. **Cons:** Rose water has limited evidence beyond soothing and hydration.
@@ -74,7 +74,7 @@ A fine Ayurvedic mist rated 4.5★, at about ₹12 per ml.
 - **Key actives**: Rose Oil, Fragrance (Rooh Gulab)
 - **Texture & finish**: Watery — fresh
 - **Fragrance**: Added Fragrance
-- **Price**: ₹99 for 400ml (₹0.2/ml) · 4.3★ from 29,000+ Amazon India ratings
+- **Price**: ₹99 for 400ml (₹0.2/ml) · 4.3★ from 23,000+ Amazon India ratings
 - **Skip it if**: you want pure steam-distilled rose water, or have sensitive skin.
 
 **Pros:** ₹99 for 400ml. **Cons:** Contains added fragrance.
@@ -85,7 +85,7 @@ A fine Ayurvedic mist rated 4.5★, at about ₹12 per ml.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Dabur Gulabari Premium Rose Water](/reviews/dabur-gulabari-rose-water/) works out cheapest at about ₹0.2 per ml (₹99 for 400ml). [UrbanBotanics Steam Distilled Rose Water Spray](/reviews/urbanbotanics-rose-water/) is next at about ₹1.4 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Dabur Gulabari Premium Rose Water](/reviews/dabur-gulabari-rose-water/) works out cheapest at about ₹0.2 per ml (₹99 for 400ml). [UrbanBotanics Steam Distilled Rose Water Spray](/reviews/urbanbotanics-rose-water/) is next at about ₹1.4 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 None of these picks is confirmed fragrance-free. [Dabur Gulabari Premium Rose Water](/reviews/dabur-gulabari-rose-water/) contains added fragrance or flavour. The listings for UrbanBotanics Steam Distilled Rose Water Spray and Forest Essentials Facial Tonic Mist Pure Rosewater do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -94,4 +94,4 @@ None of these picks is confirmed fragrance-free. [Dabur Gulabari Premium Rose Wa
 [Dabur Gulabari Premium Rose Water](/reviews/dabur-gulabari-rose-water/) is the pick here that suits oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Dabur Gulabari Premium Rose Water](/reviews/dabur-gulabari-rose-water/) has the most ratings of these picks, with 29,000+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Dabur Gulabari Premium Rose Water](/reviews/dabur-gulabari-rose-water/) has the most ratings of these picks, with 23,000+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

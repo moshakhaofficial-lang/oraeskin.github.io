@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Heal Perioral Dermatitis & Chronic Lip Margin Peeling in India"
 image: "/images/products/cetaphil-gentle-cleanser.jpg"
 date: "2026-09-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Barrier Repair"
 rating: 4.9
 keywords: "perioral dermatitis routine india, red burning ring around mouth, chronic lip margin peeling, cetaphil gentle cleanser perioral, bioderma atoderm perioral rash"
@@ -12,7 +12,7 @@ topPickTitle: "Cetaphil Gentle Skin Hydrating Cleanser"
 topPickBrand: "Cetaphil"
 topPickAsin: "B01CCGW4OE"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹351"
+topPickPrice: "~₹370"
 ---
 
 Perioral dermatitis is an increasingly common, distressing facial condition characterized by a red, burning, bumpy, and flaky rash localized around the mouth, chin, and nasolabial folds—often sparing a narrow pale margin immediately adjacent to the vermilion border of the lips. Frequently misdiagnosed as acne or eczema, patients often make the critical mistake of applying over-the-counter steroid creams or aggressive acne acids, which causes the rash to erupt with ferocious intensity. Here is the clinical dermatological guide to calming and curing perioral dermatitis.
@@ -23,9 +23,9 @@ Perioral dermatitis is an increasingly common, distressing facial condition char
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Technology + Glycerin + Panthenol | Zero-Irritation Non-Stripping Cleansing for Raw Perioral Skin | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Calming Neurogenic Burning & Rebuilding Perioral Barrier | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramides + Hyaluronic Acid + UV Filters | Shielding Fragile Peeling Lip Borders Without Heavy Occlusion | ~₹264 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Micellar Technology + Glycerin + Panthenol | Zero-Irritation Non-Stripping Cleansing for Raw Perioral Skin | ~₹370 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Calming Neurogenic Burning & Rebuilding Perioral Barrier | ~₹535 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — SPF 30 Lip Balm with Ceramides** | Ceramides + Hyaluronic Acid + UV Filters | Shielding Fragile Peeling Lip Borders Without Heavy Occlusion | ~₹253 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
 
 ---
 

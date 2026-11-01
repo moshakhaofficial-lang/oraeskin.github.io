@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Moisturizers for Combination Skin (Oily T-Zone, Dry Cheeks)"
 image: "/images/products/minimalist-b5-moisturizer.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Moisturizers & Barrier Creams"
 rating: 4.8
 keywords: "combination skin moisturizer india, balance tzone cheeks, lightweight cream amazon"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist Vitamin B5 10% Moisturizer"
 topPickBrand: "Minimalist"
 topPickAsin: "B0F6Y86BSD"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹237"
+topPickPrice: "~₹224"
 ---
 
 Combination skin is oily on the forehead, nose and chin but normal or dry on the cheeks. A light gel all over usually works, with a richer cream added only on dry patches if needed. These are the moisturisers on Amazon India we rate most highly for combination skin.
@@ -23,11 +23,11 @@ Combination skin is oily on the forehead, nose and chin but normal or dry on the
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹237 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹224 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 | **[Dot & Key 72HR Hydrating Gel Moisturizer](/reviews/dotkey-72hr-hydrating-gel/)** | Hyaluronic Acid + Rice Bran Water | Dehydration, Oiliness | ₹304 (25g) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B097K2HRQN?tag=oraeskin-21) |
 | **[Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/)** | 5 Ceramides (1, 2, 3, 4, 6-II) + Hyaluronic Acid | Barrier Damage, Dehydration | ₹328 (100g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -38,7 +38,7 @@ An oil-free B5 gel that won't make the T-zone shiny.
 - **Key actives**: 10% Vitamin B5 (Panthenol), Zinc Gluconate, Copper Gluconate, Magnesium Aspartate
 - **Texture & finish**: Featherlight Gel Cream — matte clean hydration
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹237 for 30g (₹7.9/g) · 4.2★ from 16,500+ Amazon India ratings
+- **Price**: ₹224 for 30g (₹7.5/g) · 4.2★ from 16,000+ Amazon India ratings
 - **Skip it if**: you suffer from severely cracked skin and need thick occlusive waxes.
 
 **Pros:** Oil-free gel that suits most oily and acne-prone skin. **Cons:** May feel insufficient in severe winter conditions for dry cheek zones.
@@ -70,7 +70,7 @@ A ceramide cream to layer only on drier areas.
 - **Key actives**: 5 Ceramides (1, 2, 3, 4, 6-II), Hyaluronic Acid, Japanese Rice Water
 - **Texture & finish**: Smooth Cream — soft & hydrated, non-greasy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹328 for 100g (₹3.3/g) · 4.3★ from 16,100+ Amazon India ratings
+- **Price**: ₹328 for 100g (₹3.3/g) · 4.3★ from 16,000+ Amazon India ratings
 - **Skip it if**: your skin is very oily or prone to clogging from coconut oil; try an oil-free gel moisturizer instead.
 
 **Pros:** Five ceramides plus hyaluronic and polyglutamic acid support a damaged barrier. **Cons:** Contains coconut oil, which some acne-prone skin finds clogging.
@@ -81,7 +81,7 @@ A ceramide cream to layer only on drier areas.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/) works out cheapest at about ₹3.3 per g (₹328 for 100g). [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) is next at about ₹7.9 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/) works out cheapest at about ₹3.3 per g (₹328 for 100g). [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) is next at about ₹7.5 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) and [Dot & Key Barrier Repair Moisturizer](/reviews/dotkey-rice-ceramide-cream/) are fragrance-free. [Dot & Key 72HR Hydrating Gel Moisturizer](/reviews/dotkey-72hr-hydrating-gel/) contains added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -93,4 +93,4 @@ A ceramide cream to layer only on drier areas.
 [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) and [Dot & Key 72HR Hydrating Gel Moisturizer](/reviews/dotkey-72hr-hydrating-gel/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) has the most ratings of these picks, with 16,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) has the most ratings of these picks, with 16,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Milky Lotion Cleansers for Dry Winter Mornings in North India"
 image: "/images/products/cetaphil-gentle-cleanser.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Cleansers"
 rating: 4.7
 keywords: "milky cleanser dry winter india, non foaming face wash north india winter, cetaphil gentle cleanser review, morning winter cleanser no tightness"
@@ -12,7 +12,7 @@ topPickTitle: "Cetaphil Gentle Skin Hydrating Cleanser"
 topPickBrand: "Cetaphil"
 topPickAsin: "B01CCGW4OE"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹351"
+topPickPrice: "~₹370"
 ---
 
 Wake up to freezing winter air without tight, stinging skin. Discover hydrating, non-foaming lotion cleansers tested for harsh North Indian winter climates.
@@ -25,8 +25,8 @@ Winters in Northern and Central India (Delhi NCR, Punjab, Haryana, Uttar Pradesh
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol (Vitamin B5) & Niacinamide | Dry, Tight, Stinging & Eczema-Prone Winter Skin | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Hyaluronic Acid & Niacinamide | Combination Skin That Gets Dry Cheeks in Winter | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol (Vitamin B5) & Niacinamide | Dry, Tight, Stinging & Eczema-Prone Winter Skin | ~₹370 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **CeraVe — Foaming Facial Cleanser** | 3 Essential Ceramides, Hyaluronic Acid & Niacinamide | Combination Skin That Gets Dry Cheeks in Winter | ~₹1,054 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Triple Purified Water, Vitamin E & Pro-Vitamin B5 | Normal to Oily Skin in Mild Winter Weather | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
 ---

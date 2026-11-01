@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Matte & Non-Greasy Sunscreens for Oily Skin in India"
 image: "/images/products/reequil-ultra-matte-spf50.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Sunscreens & SPF"
 rating: 4.8
 keywords: "matte sunscreen oily skin india, non greasy sunscreen amazon india, reequil ultra matte review, derma co 1 hyaluronic gel"
@@ -24,10 +24,10 @@ If sunscreen leaves your face shiny by noon, the formula is the problem, not you
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/)** | Zinc Oxide + Titanium Dioxide | Heavy Sweating, Water Resistance | ₹580 (50g) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21) |
-| **[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/)** | DHHB (Uvinul A Plus) + Ethylhexyl Triazone | Sun Protection, Tanning | ₹367 (50g) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21) |
+| **[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/)** | DHHB (Uvinul A Plus) + Ethylhexyl Triazone | Sun Protection, Tanning | ₹359 (50g) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45RB1RV?tag=oraeskin-21) |
 | **[The Derma Co 1% Hyaluronic Sunscreen Aqua Gel](/reviews/dermaco-hyaluronic-spf50/)** | 1% Hyaluronic Acid + Vitamin E | Clogged Pores, Midday Shine | ₹479 (50g) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -38,7 +38,7 @@ An anhydrous velvet gel with a powdery matte finish, for the oiliest skin.
 - **Key actives**: Zinc Oxide, Titanium Dioxide, Uvinul A Plus, Tinosorb S
 - **Texture & finish**: Anhydrous Velvet Gel — ultra matte powder finish
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹580 for 50g (₹11.6/g) · 4.2★ from 11,800+ Amazon India ratings
+- **Price**: ₹580 for 50g (₹11.6/g) · 4.2★ from 11,000+ Amazon India ratings
 - **Skip it if**: you dislike silicone-primer textures or have severely dry, flaky skin.
 
 **Pros:** Certified water and sweat resistant for up to 80 minutes. **Cons:** Requires double cleansing (micellar water or cleansing oil) to remove thoroughly at night.
@@ -54,7 +54,7 @@ An unscented, non-greasy gel with four new-gen filters, under ₹400.
 - **Key actives**: DHHB (Uvinul A Plus), Ethylhexyl Triazone, Bemotrizinol, Bisoctrizole (MBBT)
 - **Texture & finish**: Lightweight Gel — non-greasy, natural
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹367 for 50g (₹7.3/g) · 4.2★ from 18,600+ Amazon India ratings
+- **Price**: ₹359 for 50g (₹7.2/g) · 4.2★ from 18,000+ Amazon India ratings
 - **Skip it if**: your skin is very dry and needs a richer, moisturising sunscreen.
 
 **Pros:** Four modern, photostable UV filters for broad UVA/UVB coverage. **Cons:** Not very moisturising — dry skin will need a moisturiser underneath.
@@ -81,7 +81,7 @@ A water-burst gel with a weightless semi-matte finish, for oily skin that still 
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/) works out cheapest at about ₹7.3 per g (₹367 for 50g). [The Derma Co 1% Hyaluronic Sunscreen Aqua Gel](/reviews/dermaco-hyaluronic-spf50/) is next at about ₹9.6 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/) works out cheapest at about ₹7.2 per g (₹359 for 50g). [The Derma Co 1% Hyaluronic Sunscreen Aqua Gel](/reviews/dermaco-hyaluronic-spf50/) is next at about ₹9.6 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Re'equil Ultra Matte Dry Touch Sunscreen Gel](/reviews/reequil-ultra-matte-spf50/), [Deconstruct Gel Sunscreen SPF 50 PA++++](/reviews/deconstruct-gel-sunscreen-spf50/) and [The Derma Co 1% Hyaluronic Sunscreen Aqua Gel](/reviews/dermaco-hyaluronic-spf50/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

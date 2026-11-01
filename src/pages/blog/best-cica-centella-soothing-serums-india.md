@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Cica (Centella Asiatica) Serums in India for Calming Heat Rashes & Sunburn"
 image: "/images/products/minimalist-vitc-10.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Serums"
 rating: 4.7
 keywords: "cica serum india, centella asiatica serum benefits, soothe sunburn heat rash, minimalist centella serum review, calm irritated skin"
@@ -26,8 +26,8 @@ Centella Asiatica (Tiger Grass / Gotu Kola) is a traditional botanical that has 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Minimalist — 10% Vitamin C Face Serum** | 1% Pure Centella Asiatica Extract & 10% Ethyl Ascorbic Acid | Sunburned, Reddened & Heat-Stressed Complexions | ~₹593 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper Gluconate | Prickly Heat Rashes & Inflamed Active Breakouts | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract, Hyaluronic Acid & UV Filters | Daily Sun Defense for Reactive Sunburned Skin | ~₹382 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper Gluconate | Prickly Heat Rashes & Inflamed Active Breakouts | ~₹224 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract, Hyaluronic Acid & UV Filters | Daily Sun Defense for Reactive Sunburned Skin | ~₹350 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
 
 ---
 

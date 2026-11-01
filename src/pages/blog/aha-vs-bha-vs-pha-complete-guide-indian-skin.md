@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "AHA vs BHA vs PHA: Which Chemical Exfoliant Suits Your Skin?"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners & Exfoliants"
 rating: 4.8
 keywords: "aha vs bha vs pha difference, chemical exfoliant guide india, which acid for my skin"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹474"
+topPickPrice: "~₹439"
 ---
 
 Chemical exfoliants dissolve the bonds holding dead skin cells together. **AHAs** (like glycolic acid) work on the surface for dullness and rough texture. **BHA** (salicylic acid) is oil-soluble and works inside pores, for blackheads and acne. **PHAs** are larger molecules that exfoliate gently, for sensitive skin. These are the picks on Amazon India we rate most highly for each type.
@@ -23,11 +23,11 @@ Chemical exfoliants dissolve the bonds holding dead skin cells together. **AHAs*
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ₹474 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ₹439 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
 | **[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/)** | 2% Salicylic Acid (BHA) | Blackheads, Whiteheads | ₹483 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GG9M863?tag=oraeskin-21) |
 | **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ₹338 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -38,7 +38,7 @@ An 8% glycolic acid toner for smoother, brighter skin.
 - **Key actives**: 8% Pure Glycolic Acid (AHA), Bamboo Water, Chamomile Extract
 - **Texture & finish**: Water Liquid — smooth glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹474 for 150ml (₹3.2/ml) · 4.3★ from 5,400+ Amazon India ratings
+- **Price**: ₹439 for 150ml (₹2.9/ml) · 4.3★ from 5,400+ Amazon India ratings
 - **Skip it if**: you have sensitive, broken, or actively stinging skin.
 
 **Pros:** 8% Glycolic Acid dissolves cemented dead skin cells on surface layer. **Cons:** Potent AHA formulation requires wearing daily sunscreen to prevent photosensitivity.
@@ -54,7 +54,7 @@ A leave-on 2% salicylic acid serum that works inside oily pores.
 - **Key actives**: 2% Salicylic Acid (BHA)
 - **Texture & finish**: Light Serum — clean, non-sticky
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,800+ Amazon India ratings
+- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,000+ Amazon India ratings
 - **Skip it if**: you have dry or sensitised skin, or already use another strong exfoliant or retinoid every night.
 
 **Pros:** Full 2% salicylic acid in a leave-on serum for blackheads and whiteheads. **Cons:** Can dry or irritate if used daily from the start — begin every other night.
@@ -85,7 +85,7 @@ A gentle 3% PHA toner that exfoliates with less irritation.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) works out cheapest at about ₹2.3 per ml (₹338 for 150ml). [Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/) is next at about ₹3.2 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) works out cheapest at about ₹2.3 per ml (₹338 for 150ml). [Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/) is next at about ₹2.9 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/), [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) and [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -97,4 +97,4 @@ A gentle 3% PHA toner that exfoliates with less irritation.
 [Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/) and [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) has the most ratings of these picks, with 26,800+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) has the most ratings of these picks, with 26,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

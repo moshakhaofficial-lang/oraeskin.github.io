@@ -12,7 +12,7 @@ topPickBrand: "Minimalist"
 topPickAsin: "B08MVBF4P8"
 topPickRating: "4.1 ★"
 topPickPrice: "~₹593"
-updated: "2026-10-30"
+updated: "2026-11-01"
 ---
 
 **Vitamin C** is an antioxidant that helps fade **dark spots and acne marks**, evens tone and boosts the protection you get from sunscreen.
@@ -36,11 +36,11 @@ updated: "2026-10-30"
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/)** | 10% Ethyl Ascorbic Acid + 1% Centella Asiatica Extract | Dark Spots, Dullness | ₹593 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
 | **[The Derma Co 10% Vitamin C Face Serum with 5% Niacinamide](/reviews/dermaco-vitc-10/)** | Ethyl Ascorbic Acid (10% Vitamin C) + Niacinamide (5%) | Dark Spots, Dullness | ₹500 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096MNYLWS?tag=oraeskin-21) |
-| **[Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/)** | 15% Ethyl Ascorbic Acid + Kakadu Plum Extract | Stubborn Sun Spots, Uneven Pigmentation | ₹447 (20ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
+| **[Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/)** | 15% Ethyl Ascorbic Acid + Kakadu Plum Extract | Stubborn Sun Spots, Uneven Pigmentation | ₹440 (20ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095PRGHDX?tag=oraeskin-21) |
 | **[WishCare Super Bright C16 Vitamin C Serum](/reviews/wishcare-c16-vitc-serum/)** | Vitamin C (10%) + Niacinamide (4%) | Dark Spots, Dullness | ₹573 (30ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DGGPFD1H?tag=oraeskin-21) |
-| **[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/)** | Uvinul A Plus + Avobenzone | Sun Protection, Tanning | ₹346 (50g) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/)** | Uvinul A Plus + Avobenzone | Sun Protection, Tanning | ₹338 (50g) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -67,7 +67,7 @@ updated: "2026-10-30"
 - **Key actives**: Ethyl Ascorbic Acid (10% Vitamin C), Niacinamide (5%), Ferulic Acid, Hyaluronic Acid
 - **Texture & finish**: Watery Serum — light
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹500 for 30ml (₹16.7/ml) · 4★ from 15,200+ Amazon India ratings
+- **Price**: ₹500 for 30ml (₹16.7/ml) · 4★ from 15,000+ Amazon India ratings
 - **Skip it if**: your skin is reactive to niacinamide or vitamin C.
 
 **Pros:** Stable vitamin C form plus niacinamide. **Cons:** Fragrance status not stated on the listing.
@@ -83,7 +83,7 @@ updated: "2026-10-30"
 - **Key actives**: 15% Ethyl Ascorbic Acid, Kakadu Plum Extract, Japanese Mandarin Extract
 - **Texture & finish**: Lightweight Viscous Liquid — hydrated glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹447 for 20ml (₹22.4/ml) · 4★ from 15,100+ Amazon India ratings
+- **Price**: ₹440 for 20ml (₹22.0/ml) · 4★ from 15,000+ Amazon India ratings
 - **Skip it if**: you have inflamed active cystic breakouts or ultra-reactive skin.
 
 **Pros:** Potent 15% active concentration speeds up hyperpigmentation reduction. **Cons:** May cause mild tingling for first-time users; best introduced 3 times weekly.
@@ -115,7 +115,7 @@ Vitamin C works best with daily SPF 50.
 - **Key actives**: Uvinul A Plus, Avobenzone, Niacinamide (Vitamin B3), Vitamin B5
 - **Texture & finish**: Lightweight Lotion — natural dewy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹346 for 50g (₹6.9/g) · 4.1★ from 36,900+ Amazon India ratings
+- **Price**: ₹338 for 50g (₹6.8/g) · 4.1★ from 37,000+ Amazon India ratings
 - **Skip it if**: you have very oily skin and want an ultra-matte, powdery finish.
 
 **Pros:** Little or no white cast on most Indian skin tones. **Cons:** Dewy finish can feel slightly heavy on extremely oily skin in humid monsoons.
@@ -126,7 +126,7 @@ Vitamin C works best with daily SPF 50.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[The Derma Co 10% Vitamin C Face Serum with 5% Niacinamide](/reviews/dermaco-vitc-10/) works out cheapest at about ₹17 per ml (₹500 for 30ml). [WishCare Super Bright C16 Vitamin C Serum](/reviews/wishcare-c16-vitc-serum/) is next at about ₹19 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[The Derma Co 10% Vitamin C Face Serum with 5% Niacinamide](/reviews/dermaco-vitc-10/) works out cheapest at about ₹17 per ml (₹500 for 30ml). [WishCare Super Bright C16 Vitamin C Serum](/reviews/wishcare-c16-vitc-serum/) is next at about ₹19 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/), [Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/) and [Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/) are fragrance-free. The listings for The Derma Co 10% Vitamin C Face Serum with 5% Niacinamide and WishCare Super Bright C16 Vitamin C Serum do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -138,4 +138,4 @@ Vitamin C works best with daily SPF 50.
 [The Derma Co 10% Vitamin C Face Serum with 5% Niacinamide](/reviews/dermaco-vitc-10/), [Plum 15% Vitamin C Face Serum](/reviews/plum-vitc-mandarin/) and [WishCare Super Bright C16 Vitamin C Serum](/reviews/wishcare-c16-vitc-serum/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/) has the most ratings of these picks, with 36,900+ at 4.1★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist SPF 50 Multi-Vitamin Sunscreen](/reviews/minimalist-spf50/) has the most ratings of these picks, with 37,000+ at 4.1★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

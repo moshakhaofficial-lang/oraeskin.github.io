@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Refreshing Facial Mists for Tropical Indian Heatwaves & Travel"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners"
 rating: 4.7
 keywords: "facial mist for summer heatwave india, cooling face spray travel, cosrx clarifying mist review, plum green tea mist, instant skin cooling"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹474"
+topPickPrice: "~₹439"
 ---
 
 Relieve suffocating 40°C heat, restore trans-epidermal hydration, and cool flushed skin on the go. The best refreshing facial mists and toners in India.
@@ -25,8 +25,8 @@ During severe Indian summer heatwaves, ambient temperatures often soar past 42°
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Plum — Green Tea Alcohol-Free Toner** | Green Tea Extracts, Glycolic Acid & Glycerin | Oily, Acne-Prone Skin in Humid Heatwaves | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
+| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ~₹439 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Plum — Green Tea Alcohol-Free Toner** | Green Tea Extracts, Glycolic Acid & Glycerin | Oily, Acne-Prone Skin in Humid Heatwaves | ~₹336 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
 | **Minimalist — PHA 3% Alcohol-Free Face Toner** | 3% Gluconolactone (PHA), Polyglutamic Acid & Niacinamide | Dry, Flushed Skin Exposed to Harsh Air Conditioning | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 
 ---
@@ -38,7 +38,7 @@ Formulated with small-molecule AHA at effective free-acid level buffered with so
 - **Key actives**: 8% Pure Glycolic Acid (AHA), Bamboo Water, Chamomile Extract
 - **Texture & finish**: Water Liquid — smooth glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹474 for 150ml (₹3.2/ml) · 4.3★ from 5,400+ Amazon India ratings
+- **Price**: ₹439 for 150ml (₹2.9/ml) · 4.3★ from 5,400+ Amazon India ratings
 - **Skip it if**: you have sensitive, broken, or actively stinging skin.
 
 **Pros:** 8% Glycolic Acid dissolves cemented dead skin cells on surface layer. **Cons:** Potent AHA formulation requires wearing daily sunscreen to prevent photosensitivity.

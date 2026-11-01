@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best BHA (Salicylic Acid) Toners & Exfoliants for Blackheads in India"
 image: "/images/products/paulas-choice-2-bha-liquid.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners & Exfoliants"
 rating: 4.8
 keywords: "bha toner blackheads india, strawberry nose treatment, paula choice bha dupe amazon"
@@ -12,7 +12,7 @@ topPickTitle: "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant"
 topPickBrand: "Paula's Choice"
 topPickAsin: "B07C5SS6YD"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹1200"
+topPickPrice: "~₹1,140"
 ---
 
 Salicylic acid is a **beta hydroxy acid (BHA)**. Unlike AHAs, it is oil-soluble, so it gets into pores and loosens the mix of oil and dead skin that forms **blackheads and whiteheads**. It also has a mild anti-inflammatory effect.
@@ -27,12 +27,12 @@ Salicylic acid is a **beta hydroxy acid (BHA)**. Unlike AHAs, it is oil-soluble,
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/reviews/paulas-choice-2-bha-liquid/)** | Salicylic Acid (2%) + Green Tea Extract | Blackheads, Enlarged Pores | ₹1200 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21) |
+| **[Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/reviews/paulas-choice-2-bha-liquid/)** | Salicylic Acid (2%) + Green Tea Extract | Blackheads, Enlarged Pores | ₹1,140 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21) |
 | **[Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/)** | 2% Salicylic Acid (BHA) | Blackheads, Whiteheads | ₹483 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GG9M863?tag=oraeskin-21) |
 | **[NIVEA Derma Skin Clear Toner](/reviews/nivea-derma-skin-clear-toner/)** | Salicylic Acid + Niacinamide | Blackheads, Oiliness | ₹316 (200ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B97B7GLK?tag=oraeskin-21) |
-| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹237 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹224 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -43,7 +43,7 @@ A fragrance-free 2% BHA with over 1,00,000 ratings. This listing is the 30ml tra
 - **Key actives**: Salicylic Acid (2%), Green Tea Extract
 - **Texture & finish**: Thin Liquid — weightless
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1200 for 30ml (₹40.0/ml) · 4.3★ from 1,09,000+ Amazon India ratings
+- **Price**: ₹1,140 for 30ml (₹38.0/ml) · 4.3★ from 1,09,000+ Amazon India ratings
 - **Skip it if**: your skin is dry, sensitive or already irritated by other exfoliants.
 
 **Pros:** 2% salicylic acid in a short, fragrance-free formula. **Cons:** This listing is the 30ml travel size, so ₹40 per ml.
@@ -59,7 +59,7 @@ A 2% salicylic acid serum at a fraction of the price.
 - **Key actives**: 2% Salicylic Acid (BHA)
 - **Texture & finish**: Light Serum — clean, non-sticky
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,800+ Amazon India ratings
+- **Price**: ₹483 for 30ml (₹16.1/ml) · 4.2★ from 26,000+ Amazon India ratings
 - **Skip it if**: you have dry or sensitised skin, or already use another strong exfoliant or retinoid every night.
 
 **Pros:** Full 2% salicylic acid in a leave-on serum for blackheads and whiteheads. **Cons:** Can dry or irritate if used daily from the start — begin every other night.
@@ -91,7 +91,7 @@ An oil-free gel to stop BHA drying your skin.
 - **Key actives**: 10% Vitamin B5 (Panthenol), Zinc Gluconate, Copper Gluconate, Magnesium Aspartate
 - **Texture & finish**: Featherlight Gel Cream — matte clean hydration
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹237 for 30g (₹7.9/g) · 4.2★ from 16,500+ Amazon India ratings
+- **Price**: ₹224 for 30g (₹7.5/g) · 4.2★ from 16,000+ Amazon India ratings
 - **Skip it if**: you suffer from severely cracked skin and need thick occlusive waxes.
 
 **Pros:** Oil-free gel that suits most oily and acne-prone skin. **Cons:** May feel insufficient in severe winter conditions for dry cheek zones.
@@ -102,7 +102,7 @@ An oil-free gel to stop BHA drying your skin.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[NIVEA Derma Skin Clear Toner](/reviews/nivea-derma-skin-clear-toner/) works out cheapest at about ₹1.6 per ml (₹316 for 200ml). [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) is next at about ₹16 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[NIVEA Derma Skin Clear Toner](/reviews/nivea-derma-skin-clear-toner/) works out cheapest at about ₹1.6 per ml (₹316 for 200ml). [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) is next at about ₹16 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/reviews/paulas-choice-2-bha-liquid/), [Minimalist 2% Salicylic Acid Serum](/reviews/minimalist-salicylic-serum-2/) and [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) are fragrance-free. The listing for NIVEA Derma Skin Clear Toner does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

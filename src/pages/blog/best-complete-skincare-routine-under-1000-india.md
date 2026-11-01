@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Complete 3-Step Skincare Routine Under ₹1,000 on Amazon India (Cleanser + Moisturizer + SPF)"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-14"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Budget Skincare"
 rating: 4.9
 keywords: "complete skincare routine under 1000 india, budget skincare routine amazon india, cleanser moisturizer sunscreen under 1000, minimalist simple budget routine"
@@ -11,7 +11,7 @@ description: "You don't need to spend thousands on luxury brands for glowing ski
 topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
-topPickRating: "4.6 ★"
+topPickRating: "4.2 ★"
 topPickPrice: "~₹384"
 ---
 
@@ -26,8 +26,8 @@ The Indian beauty market is filled with celebrity-endorsed brands charging ₹1,
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5, Vitamin E & Pure Water | Step 1: Daily Gentle pH-Balanced Cleansing | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper | Step 2: Oil-Free Barrier Hydration (AM & PM) | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Step 3: Daily Morning Sun Protection | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol, Zinc PCA & Copper | Step 2: Oil-Free Barrier Hydration (AM & PM) | ~₹224 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & European UV Filters | Step 3: Daily Morning Sun Protection | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Urea Lotions in India for Strawberry Legs & Keratosis Pilaris"
 image: "/images/products/bebodywise-urea-10-lotion.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "urea lotion strawberry legs india, keratosis pilaris treatment amazon, smooth bumpy legs"
@@ -37,7 +37,7 @@ KP can be controlled but not cured. **Expect improvement after 4–8 weeks of da
 | **[Be Bodywise 20% Urea Body Lotion](/reviews/bebodywise-urea-20-lotion/)** | Urea (20%) + Ceramides | Keratosis Pilaris, Rough Elbows & Knees | ₹599 (300ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FWRQ24KD?tag=oraeskin-21) |
 | **[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/)** | Salicylic Acid (1%) + Chamomile Extract | Body Acne, Keratosis Pilaris | ₹599 (700ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CWPNGRR9?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -96,7 +96,7 @@ A 1% salicylic acid body wash to use in the shower before your lotion.
 - **Key actives**: Salicylic Acid (1%), Chamomile Extract
 - **Texture & finish**: Gel Wash — clean
 - **Fragrance**: Added Fragrance
-- **Price**: ₹599 for 700ml (₹0.9/ml) · 4.2★ from 11,800+ Amazon India ratings
+- **Price**: ₹599 for 700ml (₹0.9/ml) · 4.2★ from 11,000+ Amazon India ratings
 - **Skip it if**: you are sensitive to fragrance.
 
 **Pros:** 700ml, very good value. **Cons:** Contains fragrance and blue dye.
@@ -107,7 +107,7 @@ A 1% salicylic acid body wash to use in the shower before your lotion.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) works out cheapest at about ₹0.9 per ml (₹599 for 700ml). [WishCare AHA BHA Body Lotion](/reviews/wishcare-aha-bha-body-lotion/) is next at about ₹1.9 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) works out cheapest at about ₹0.9 per ml (₹599 for 700ml). [WishCare AHA BHA Body Lotion](/reviews/wishcare-aha-bha-body-lotion/) is next at about ₹1.9 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [WishCare AHA BHA Body Lotion](/reviews/wishcare-aha-bha-body-lotion/) is fragrance-free. [Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) contains added fragrance or flavour. The listings for Be Bodywise 10% Urea Body Lotion and Be Bodywise 20% Urea Body Lotion do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -116,4 +116,4 @@ A 1% salicylic acid body wash to use in the shower before your lotion.
 [WishCare AHA BHA Body Lotion](/reviews/wishcare-aha-bha-body-lotion/) and [Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) has the most ratings of these picks, with 11,800+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Be Bodywise 1% Salicylic Acid Body Wash](/reviews/bebodywise-salicylic-bodywash/) has the most ratings of these picks, with 11,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Pregnancy-Safe Skincare Products in India: Fighting Acne & Melasma Safely"
 image: "/images/products/minimalist-niacinamide-10.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Specialist Routines"
 rating: 4.8
 keywords: "pregnancy safe skincare india, pregnancy acne treatment safe, melasma pregnancy mask cream india, safe sunscreen pregnancy, minimalist niacinamide pregnancy"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 10% Niacinamide Face Serum"
 topPickBrand: "Minimalist"
 topPickAsin: "B08F9MF314"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹485"
+topPickPrice: "~₹475"
 ---
 
 Expecting mothers face hormonal acne and chloasma (pregnancy mask) while having to avoid retinoids and high-dose salicylic acid. Here are options generally considered safe in pregnancy. Always check with your doctor before starting any new active.
@@ -25,9 +25,9 @@ Pregnancy triggers immense hormonal surges—surging progesterone and estrogen s
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & Zinc PCA | Hormonal Pregnancy Acne & Sebum Control | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Mineral Hybrid SPF | Preventing Pregnancy Mask (Chloasma) | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
-| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Hyper-Sensitive Maternal Skin Barrier | ~₹351 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Pure Niacinamide & Zinc PCA | Hormonal Pregnancy Acne & Sebum Control | ~₹475 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | Ceramides, Vitamin C & Mineral Hybrid SPF | Preventing Pregnancy Mask (Chloasma) | ~₹339 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Cetaphil — Gentle Skin Hydrating Cleanser** | Glycerin, Panthenol & Niacinamide | Hyper-Sensitive Maternal Skin Barrier | ~₹370 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
 
 ---
 

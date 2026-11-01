@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Foot Creams for Cracked Heels & Calluses in India (Urea & Lactic Acid)"
 image: "/images/products/bebodywise-urea-foot-roll-on.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "cracked heel cream india, best foot cream amazon, urea heel balm"
@@ -12,7 +12,7 @@ topPickTitle: "Be Bodywise 20% Urea Foot Cream Roll-On"
 topPickBrand: "Be Bodywise"
 topPickAsin: "B09W5Q9ZPZ"
 topPickRating: "4.4 ★"
-topPickPrice: "~₹399"
+topPickPrice: "~₹379"
 ---
 
 Cracked heels happen when the thick skin on your heels gets **too dry and hard to stretch** as you walk. It is common in India because of open footwear, dust, standing for long hours and dry winters.
@@ -36,11 +36,11 @@ Cracked heels happen when the thick skin on your heels gets **too dry and hard t
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Be Bodywise 20% Urea Foot Cream Roll-On](/reviews/bebodywise-urea-foot-roll-on/)** | Urea (20%) + Lactic Acid (2%) | Cracked Heels, Calluses | ₹399 (50ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09W5Q9ZPZ?tag=oraeskin-21) |
+| **[Be Bodywise 20% Urea Foot Cream Roll-On](/reviews/bebodywise-urea-foot-roll-on/)** | Urea (20%) + Lactic Acid (2%) | Cracked Heels, Calluses | ₹379 (50ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09W5Q9ZPZ?tag=oraeskin-21) |
 | **[Fixderma Foobetik Foot Cream](/reviews/fixderma-foobetik-cream/)** | Lactic Acid + L-Arginine | Cracked Heels, Dry Feet | ₹295 (50g) | 7.9/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BD4H29RJ?tag=oraeskin-21) |
 | **[Cureskin 10% Urea Foot Cream](/reviews/cureskin-urea-foot-cream/)** | Urea (10%) + Lactic Acid | Cracked Heels, Dry Feet | ₹145 (50g) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DTB638JZ?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -51,7 +51,7 @@ Cracked heels happen when the thick skin on your heels gets **too dry and hard t
 - **Key actives**: Urea (20%), Lactic Acid (2%), Salicylic Acid, Olive Oil
 - **Texture & finish**: Roll-On Cream — absorbs quickly
 - **Fragrance**: Added Fragrance
-- **Price**: ₹399 for 50ml (₹8.0/ml) · 4.4★ from 2,900+ Amazon India ratings
+- **Price**: ₹379 for 50ml (₹7.6/ml) · 4.4★ from 2,900+ Amazon India ratings
 - **Skip it if**: your heel cracks are deep and bleeding; let them heal first.
 
 **Pros:** 20% urea plus lactic acid. **Cons:** Contains perfume and menthol, which can sting open cracks.
@@ -94,7 +94,7 @@ Lactic acid and shea butter, rated by 6,200+ buyers.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Cureskin 10% Urea Foot Cream](/reviews/cureskin-urea-foot-cream/) works out cheapest at about ₹2.9 per g (₹145 for 50g). [Fixderma Foobetik Foot Cream](/reviews/fixderma-foobetik-cream/) is next at about ₹5.9 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Cureskin 10% Urea Foot Cream](/reviews/cureskin-urea-foot-cream/) works out cheapest at about ₹2.9 per g (₹145 for 50g). [Fixderma Foobetik Foot Cream](/reviews/fixderma-foobetik-cream/) is next at about ₹5.9 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 None of these picks is confirmed fragrance-free. [Be Bodywise 20% Urea Foot Cream Roll-On](/reviews/bebodywise-urea-foot-roll-on/) contains added fragrance or flavour. [Fixderma Foobetik Foot Cream](/reviews/fixderma-foobetik-cream/) contains essential oils, which can also irritate. The listing for Cureskin 10% Urea Foot Cream does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

@@ -11,8 +11,8 @@ topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹474"
-updated: "2026-10-30"
+topPickPrice: "~₹439"
+updated: "2026-11-01"
 ---
 
 Exfoliating toners use acids to loosen dead skin, which helps with **rough texture, dullness, clogged pores and uneven tone**. Which acid you choose matters:
@@ -35,13 +35,13 @@ These are the exfoliating toners we rate most highly.
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ₹474 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ₹439 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
 | **[The Ordinary Glycolic Acid 7% Exfoliating Toner](/reviews/the-ordinary-glycolic-7-toner/)** | Glycolic Acid (7%) + Tasmanian Pepperberry | Dullness, Texture | ₹900 (100ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DMTDN158?tag=oraeskin-21) |
-| **[Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/reviews/paulas-choice-2-bha-liquid/)** | Salicylic Acid (2%) + Green Tea Extract | Blackheads, Enlarged Pores | ₹1200 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21) |
+| **[Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/reviews/paulas-choice-2-bha-liquid/)** | Salicylic Acid (2%) + Green Tea Extract | Blackheads, Enlarged Pores | ₹1,140 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SS6YD?tag=oraeskin-21) |
 | **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ₹338 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 | **[NIVEA Derma Skin Clear Toner](/reviews/nivea-derma-skin-clear-toner/)** | Salicylic Acid + Niacinamide | Blackheads, Oiliness | ₹316 (200ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B97B7GLK?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -52,7 +52,7 @@ A stronger glycolic acid toner for texture, dullness and body use.
 - **Key actives**: 8% Pure Glycolic Acid (AHA), Bamboo Water, Chamomile Extract
 - **Texture & finish**: Water Liquid — smooth glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹474 for 150ml (₹3.2/ml) · 4.3★ from 5,400+ Amazon India ratings
+- **Price**: ₹439 for 150ml (₹2.9/ml) · 4.3★ from 5,400+ Amazon India ratings
 - **Skip it if**: you have sensitive, broken, or actively stinging skin.
 
 **Pros:** 8% Glycolic Acid dissolves cemented dead skin cells on surface layer. **Cons:** Potent AHA formulation requires wearing daily sunscreen to prevent photosensitivity.
@@ -84,7 +84,7 @@ A short, fragrance-free 2% salicylic acid exfoliant.
 - **Key actives**: Salicylic Acid (2%), Green Tea Extract
 - **Texture & finish**: Thin Liquid — weightless
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1200 for 30ml (₹40.0/ml) · 4.3★ from 1,09,000+ Amazon India ratings
+- **Price**: ₹1,140 for 30ml (₹38.0/ml) · 4.3★ from 1,09,000+ Amazon India ratings
 - **Skip it if**: your skin is dry, sensitive or already irritated by other exfoliants.
 
 **Pros:** 2% salicylic acid in a short, fragrance-free formula. **Cons:** This listing is the 30ml travel size, so ₹40 per ml.
@@ -127,7 +127,7 @@ A mild salicylic acid and niacinamide toner in a large 200ml bottle.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[NIVEA Derma Skin Clear Toner](/reviews/nivea-derma-skin-clear-toner/) works out cheapest at about ₹1.6 per ml (₹316 for 200ml). [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) is next at about ₹2.3 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[NIVEA Derma Skin Clear Toner](/reviews/nivea-derma-skin-clear-toner/) works out cheapest at about ₹1.6 per ml (₹316 for 200ml). [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) is next at about ₹2.3 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/), [The Ordinary Glycolic Acid 7% Exfoliating Toner](/reviews/the-ordinary-glycolic-7-toner/), [Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/reviews/paulas-choice-2-bha-liquid/) and [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) are fragrance-free. The listing for NIVEA Derma Skin Clear Toner does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

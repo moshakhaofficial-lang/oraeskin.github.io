@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Lightweight Eye Creams & Serums for Contact Lens Wearers in India"
 image: "/images/products/theordinary-caffeine-egcg.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Eye Care"
 rating: 4.8
 keywords: "eye cream contact lens wearers india, non migrating eye cream, the ordinary caffeine eye serum, dark circles eye cream sensitive eyes, prevent cloudy lenses"
@@ -24,10 +24,10 @@ If you wear contact lenses, heavy, oily eye creams can migrate into the eye and 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ₹900 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
-| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹539 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
-| **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,136 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
+| **[The Derma Co 5% Caffeine Under-Eye Serum with Roller](/reviews/dermaco-5-caffeine-serum/)** | 5% Caffeine + 1% Hyaluronic Acid | Under-Eye Swelling, Eye Fatigue | ₹482 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21) |
+| **[Beauty of Joseon Revive Eye Serum: Ginseng + Retinal](/reviews/boj-revive-eye-serum/)** | Retinal (Liposomal) + Ginseng Root Extract | Fine Lines, Crow's Feet | ₹1,065 (30ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -54,7 +54,7 @@ The rollerball keeps product off your fingers and away from the lash line.
 - **Key actives**: 5% Caffeine, 1% Hyaluronic Acid, Retinol Peptide Blend
 - **Texture & finish**: Fluid Gel — cooling fresh
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹539 for 15ml (₹35.9/ml) · 3.8★ from 1,100+ Amazon India ratings
+- **Price**: ₹482 for 15ml (₹32.1/ml) · 3.8★ from 1,100+ Amazon India ratings
 - **Skip it if**: you prefer using clean ring fingers or have broken skin around the eye.
 
 **Pros:** Metal roller-ball applicator provides immediate chilled depuffing benefits. **Cons:** 15ml volume runs out faster than standard 30ml dropper bottles.
@@ -70,7 +70,7 @@ A richer but non-sticky option for dryness. Keep it on the orbital bone.
 - **Key actives**: Retinal (Liposomal), Ginseng Root Extract, Niacinamide, Adenosine
 - **Texture & finish**: Silky Serum-Cream — soft & hydrated, non-sticky
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1,136 for 30ml (₹37.9/ml) · 4.1★ from 19,300+ Amazon India ratings
+- **Price**: ₹1,065 for 30ml (₹35.5/ml) · 4.1★ from 19,000+ Amazon India ratings
 - **Skip it if**: you are pregnant or breastfeeding (it contains retinal), or you want a fast, strong anti-ageing effect.
 
 **Pros:** Gentle, encapsulated retinal with a supportive base of ceramide NP, cholesterol and hyaluronate. **Cons:** Retinal is low in the ingredient list — results are gradual.

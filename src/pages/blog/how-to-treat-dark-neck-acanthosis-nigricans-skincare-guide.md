@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Treat a Dark Neck: Acanthosis Nigricans vs Sun Tanning Skincare Guide for Indian Skin"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-09-14"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Body Care"
 rating: 4.8
 keywords: "dark neck treatment india, acanthosis nigricans neck skincare, lighten dark neck glycolic acid, minimalist 8 glycolic acid neck, neck hyperpigmentation"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹474"
+topPickPrice: "~₹439"
 ---
 
 Struggling with dark velvety skin or tanning around your neck? Learn the clinical difference between Acanthosis Nigricans and sun damage, and the right treatment protocol.
@@ -25,9 +25,9 @@ A dark neck is one of the most common dermatological complaints in India. Many p
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Thick Velvety Neck Creases & Sun-Tanned Necklines | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA), Betaine & Menthol | Neck Pores, Shirt Collar Friction & Sweat Buildup | ~₹296 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids & PEA | Post-Exfoliation Moisture & Anti-Friction Cushion | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Thick Velvety Neck Creases & Sun-Tanned Necklines | ~₹439 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA), Betaine & Menthol | Neck Pores, Shirt Collar Friction & Sweat Buildup | ~₹314 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Biomimetic Lipids & PEA | Post-Exfoliation Moisture & Anti-Friction Cushion | ~₹535 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
 
 ---
 

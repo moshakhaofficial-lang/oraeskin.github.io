@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Gentle Cleansers for Sensitive, Red Skin in India"
 image: "/images/products/cetaphil-gentle-cleanser.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "cleanser for sensitive skin india, calm red skin face wash, hypoallergenic cleanser amazon"
@@ -12,7 +12,7 @@ topPickTitle: "Cetaphil Gentle Skin Hydrating Cleanser"
 topPickBrand: "Cetaphil"
 topPickAsin: "B01CCGW4OE"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹351"
+topPickPrice: "~₹370"
 ---
 
 Sensitive, redness-prone skin needs a cleanser that removes sunscreen and grime without stripping or stinging, ideally fragrance-free. These are the gentle cleansers on Amazon India we rate most highly for reactive skin.
@@ -23,12 +23,12 @@ Sensitive, redness-prone skin needs a cleanser that removes sunscreen and grime 
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹351 (118ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
-| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oiliness, City Pollution | ₹1,061 (236ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
-| **[Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/)** | Glycerin + Sunflower Seed Oil | Oiliness, Barrier Health | ₹579 (118ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21) |
-| **[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/)** | Pro-Vitamin B5 + Vitamin E | Daily Cleansing, Redness | ₹384 (250ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
+| **[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/)** | Niacinamide (Vitamin B3) + Panthenol (Pro-Vitamin B5) | Dryness, Burning / Stinging | ₹370 (118ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW4OE?tag=oraeskin-21) |
+| **[CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/)** | 3 Essential Ceramides (1, 3, 6-II) + Niacinamide | Oiliness, City Pollution | ₹1,054 (236ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **[Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/)** | Glycerin + Sunflower Seed Oil | Oiliness, Barrier Health | ₹470 (118ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01CCGW732?tag=oraeskin-21) |
+| **[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/)** | Pro-Vitamin B5 + Vitamin E | Daily Cleansing, Redness | ₹384 (250ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -39,7 +39,7 @@ A soap-free, hydrating cleanser with niacinamide and panthenol for dry or reacti
 - **Key actives**: Niacinamide (Vitamin B3), Panthenol (Pro-Vitamin B5), Glycerin
 - **Texture & finish**: Non-Foaming Cream Lotion — ultra soft & calmed
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹351 for 118ml (₹3.0/ml) · 4.3★ from 70,900+ Amazon India ratings
+- **Price**: ₹370 for 118ml (₹3.1/ml) · 4.3★ from 71,000+ Amazon India ratings
 - **Skip it if**: you want a squeaky clean foaming feeling to remove heavy grease.
 
 **Pros:** Sulphate-free, low-foaming and non-stripping. **Cons:** Cannot remove heavy waterproof silicone sunscreens on its own.
@@ -55,7 +55,7 @@ A fragrance-free foam with ceramides and niacinamide.
 - **Key actives**: 3 Essential Ceramides (1, 3, 6-II), Niacinamide, Hyaluronic Acid
 - **Texture & finish**: Clear Foaming Gel — fresh & clean without tightness
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1,061 for 236ml (₹4.5/ml) · 4.4★ from 38,600+ Amazon India ratings
+- **Price**: ₹1,054 for 236ml (₹4.5/ml) · 4.4★ from 38,000+ Amazon India ratings
 - **Skip it if**: you have extremely dry, parched skin that does not tolerate any foam.
 
 **Pros:** Contains 3 skin-identical ceramides that prevent moisture loss during washing. **Cons:** Larger bottle size has a higher upfront price, though cost-per-ml is excellent.
@@ -71,7 +71,7 @@ An unscented, soap-free foam for oily skin that reacts to stronger washes.
 - **Key actives**: Glycerin, Sunflower Seed Oil, Shea Butter
 - **Texture & finish**: Soft Foaming Gel — clean & comfortable, not stripped
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹579 for 118ml (₹4.9/ml) · 4.2★ from 20,800+ Amazon India ratings
+- **Price**: ₹470 for 118ml (₹4.0/ml) · 4.2★ from 20,000+ Amazon India ratings
 - **Skip it if**: you want an acne-treating active in your cleanser; this one contains no salicylic acid.
 
 **Pros:** Unscented and soap-free, per the listing. **Cons:** No acne-treating active — breakouts need a separate BHA, benzoyl peroxide or retinoid.
@@ -87,7 +87,7 @@ A soap-free gel with no added perfume or colour, in a large 250ml bottle.
 - **Key actives**: Pro-Vitamin B5, Vitamin E, Triple Purified Water
 - **Texture & finish**: Crystal Clear Gel — pure clean refreshment
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹384 for 250ml (₹1.5/ml) · 4.6★ from 22,400+ Amazon India ratings
+- **Price**: ₹384 for 250ml (₹1.5/ml) · 4.2★ from 38,000+ Amazon India ratings
 - **Skip it if**: you need strong active chemical exfoliation for deep stubborn cysts.
 
 **Pros:** Soap-free, gentle cleansing base. **Cons:** Does not contain active exfoliating acids for targeted acne treatment.
@@ -98,7 +98,7 @@ A soap-free gel with no added perfume or colour, in a large 250ml bottle.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/) works out cheapest at about ₹1.5 per ml (₹384 for 250ml). [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) is next at about ₹3 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/) works out cheapest at about ₹1.5 per ml (₹384 for 250ml). [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) is next at about ₹3.1 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/), [CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/), [Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/) and [Simple Kind to Skin Refreshing Facial Wash](/reviews/simple-refreshing-wash/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -107,4 +107,4 @@ A soap-free gel with no added perfume or colour, in a large 250ml bottle.
 [CeraVe Foaming Facial Cleanser](/reviews/cerave-foaming-cleanser/) and [Cetaphil Oily Skin Cleanser](/reviews/cetaphil-oily-skin-cleanser/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) has the most ratings of these picks, with 70,900+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Cetaphil Gentle Skin Hydrating Cleanser](/reviews/cetaphil-gentle-cleanser/) has the most ratings of these picks, with 71,000+ at 4.3★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

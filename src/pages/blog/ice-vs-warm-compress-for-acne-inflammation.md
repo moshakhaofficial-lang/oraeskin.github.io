@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Ice vs Warm Compress for Pimples: Which Should You Use?"
 image: "/images/products/sebogel-spot-gel.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Acne Spot Treatments"
 rating: 4.8
 keywords: "ice on pimple, warm compress for acne, how to reduce pimple swelling fast"
@@ -28,9 +28,9 @@ Never put ice directly on skin, and never squeeze. Once a head forms, a hydrocol
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹135 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
+| **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹99 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -57,7 +57,7 @@ Hydrocolloid patches to draw out fluid once a head forms.
 - **Key actives**: Hydrocolloid, Salicylic Acid
 - **Texture & finish**: Thin Hydrocolloid Patch — discreet
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹135 for 36 Patches · 4★ from 2,400+ Amazon India ratings
+- **Price**: ₹99 for 36 Patches · 4★ from 2,400+ Amazon India ratings
 - **Skip it if**: you're treating deep cysts with no visible head — patches can't reach them.
 
 **Pros:** Under ₹4 per patch — excellent value. **Cons:** Works on surface whiteheads, not deep or blind pimples.
@@ -72,7 +72,7 @@ Hydrocolloid patches to draw out fluid once a head forms.
 ## Frequently Asked Questions
 
 ### Which is the cheapest pick?
-[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/) is the lowest-priced pick at ₹135 for 36 Patches. The pack sizes here differ, so compare the price per use as well as the sticker price. Prices were checked on Amazon.in in October 2026.
+[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/) is the lowest-priced pick at ₹99 for 36 Patches. The pack sizes here differ, so compare the price per use as well as the sticker price. Prices were checked on Amazon.in in November 2026.
 
 ### Are any of these fragrance-free?
 [Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/) and [Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

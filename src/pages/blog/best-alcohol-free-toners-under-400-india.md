@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Alcohol-Free Toners Under ₹400 in India"
 image: "/images/products/plum-niacinamide-rice-toner.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners & Exfoliants"
 rating: 4.8
 keywords: "alcohol free toner india, plum green tea toner amazon, gentle toner under 400"
@@ -12,10 +12,10 @@ topPickTitle: "Plum 3% Niacinamide & Rice Water Toner"
 topPickBrand: "Plum"
 topPickAsin: "B09PV4379W"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹364"
+topPickPrice: "~₹355"
 ---
 
-Toners with drying alcohol can strip and irritate skin. These alcohol-free options either hydrate or gently exfoliate, and each one is under ₹400 on Amazon India (checked October 2026).
+Toners with drying alcohol can strip and irritate skin. These alcohol-free options either hydrate or gently exfoliate, and each one is under ₹400 on Amazon India (checked November 2026).
 
 ---
 
@@ -23,11 +23,11 @@ Toners with drying alcohol can strip and irritate skin. These alcohol-free optio
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Plum 3% Niacinamide & Rice Water Toner](/reviews/plum-niacinamide-rice-toner/)** | 3% Niacinamide + Rice Extract & Sake Ferment | Open Pores, Oiliness | ₹364 (150ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09PV4379W?tag=oraeskin-21) |
+| **[Plum 3% Niacinamide & Rice Water Toner](/reviews/plum-niacinamide-rice-toner/)** | 3% Niacinamide + Rice Extract & Sake Ferment | Open Pores, Oiliness | ₹355 (150ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09PV4379W?tag=oraeskin-21) |
 | **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ₹338 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
-| **[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/)** | Green Tea Extract + 0.5% Glycolic Acid | Open Pores, Greasy T-Zone | ₹351 (200ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
+| **[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/)** | Green Tea Extract + 0.5% Glycolic Acid | Open Pores, Greasy T-Zone | ₹336 (200ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -38,7 +38,7 @@ Toners with drying alcohol can strip and irritate skin. These alcohol-free optio
 - **Key actives**: 3% Niacinamide, Rice Extract & Sake Ferment, Rose Water, Oat Kernel Extract
 - **Texture & finish**: Watery Toner — fresh, non-sticky
 - **Fragrance**: Subtle Natural Fragrance
-- **Price**: ₹364 for 150ml (₹2.4/ml) · 4.2★ from 6,400+ Amazon India ratings
+- **Price**: ₹355 for 150ml (₹2.4/ml) · 4.2★ from 6,400+ Amazon India ratings
 - **Skip it if**: you expect exfoliation — this toner has no acids.
 
 **Pros:** 3% niacinamide for oil control and tone. **Cons:** Rose water adds a light natural scent.
@@ -70,7 +70,7 @@ A green tea toner with glycolic acid for oil and congestion.
 - **Key actives**: Green Tea Extract, 0.5% Glycolic Acid, Glycerin
 - **Texture & finish**: Refreshing Water — clean matte tone
 - **Fragrance**: Subtle Natural Fragrance
-- **Price**: ₹351 for 200ml (₹1.8/ml) · 4.2★ from 14,100+ Amazon India ratings
+- **Price**: ₹336 for 200ml (₹1.7/ml) · 4.2★ from 14,000+ Amazon India ratings
 - **Skip it if**: you want a fragrance-free formula.
 
 **Pros:** Alcohol-free toner that does not leave skin tight or dry. **Cons:** Contains mild fragrance that very sensitive skin may prefer to avoid.
@@ -81,7 +81,7 @@ A green tea toner with glycolic acid for oil and congestion.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) works out cheapest at about ₹1.8 per ml (₹351 for 200ml). [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) is next at about ₹2.3 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) works out cheapest at about ₹1.7 per ml (₹336 for 200ml). [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) is next at about ₹2.3 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) is fragrance-free. The listings for Plum 3% Niacinamide & Rice Water Toner and Plum Green Tea Alcohol-Free Toner do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -93,4 +93,4 @@ A green tea toner with glycolic acid for oil and congestion.
 [Plum 3% Niacinamide & Rice Water Toner](/reviews/plum-niacinamide-rice-toner/) and [Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) has the most ratings of these picks, with 14,100+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) has the most ratings of these picks, with 14,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

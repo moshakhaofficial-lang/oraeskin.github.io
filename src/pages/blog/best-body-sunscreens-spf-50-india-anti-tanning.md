@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Body Sunscreens SPF 50 in India for Daily Commutes & Tanning"
 image: "/images/products/wishcare-body-sunscreen-spf50.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "body sunscreen spf 50 india, anti tanning body lotion amazon, nivea sun protect lotion"
@@ -32,10 +32,10 @@ None of these picks are labelled water-resistant, so reapply after swimming. Cov
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[WishCare Sunscreen Body Lotion SPF 50 PA++++](/reviews/wishcare-body-sunscreen-spf50/)** | SPF 50 PA++++ (Octocrylene, Octisalate, Tinosorb M) + Niacinamide | Tanning, Sun Damage | ₹381 (200ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BG8W7PJ7?tag=oraeskin-21) |
-| **[SunScoop 5% Niacinamide Sunscreen Body Lotion SPF 50+](/reviews/sunscoop-body-sunscreen-spf50/)** | SPF 50+ PA++++ (Octocrylene, Octisalate, Avobenzone, Tinosorb M) + Niacinamide (5%) | Tanning, Sun Damage | ₹396 (200ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DYV56LD9?tag=oraeskin-21) |
-| **[Vaseline Sun Protect SPF 50 PA++++ Lotion](/reviews/vaseline-sun-protect-spf50/)** | SPF 50 PA++++ + Niacinamide | Tanning, Sun Damage | ₹479 (400ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GLZSD24R?tag=oraeskin-21) |
+| **[SunScoop 5% Niacinamide Sunscreen Body Lotion SPF 50+](/reviews/sunscoop-body-sunscreen-spf50/)** | SPF 50+ PA++++ (Octocrylene, Octisalate, Avobenzone, Tinosorb M) + Niacinamide (5%) | Tanning, Sun Damage | ₹379 (200ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DYV56LD9?tag=oraeskin-21) |
+| **[Vaseline Sun Protect SPF 50 PA++++ Lotion](/reviews/vaseline-sun-protect-spf50/)** | SPF 50 PA++++ + Niacinamide | Tanning, Sun Damage | ₹439 (400ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GLZSD24R?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -62,7 +62,7 @@ SPF 50+ PA++++ with four named UV filters and 5% niacinamide.
 - **Key actives**: SPF 50+ PA++++ (Octocrylene, Octisalate, Avobenzone, Tinosorb M), Niacinamide (5%), Oat Extract
 - **Texture & finish**: Light Lotion — no white cast
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹396 for 200ml (₹2.0/ml) · 4.2★ from 4,000+ Amazon India ratings
+- **Price**: ₹379 for 200ml (₹1.9/ml) · 4.2★ from 4,100+ Amazon India ratings
 - **Skip it if**: you need water resistance.
 
 **Pros:** Four named UV filters. **Cons:** Not labelled water-resistant.
@@ -78,7 +78,7 @@ SPF 50 PA++++ in a 400ml bottle, about ₹1.2 per ml.
 - **Key actives**: SPF 50 PA++++, Niacinamide, Vitamin C & E
 - **Texture & finish**: Serum-Lotion — non-sticky
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹479 for 400ml (₹1.2/ml) · 4.3★ from 670+ Amazon India ratings
+- **Price**: ₹439 for 400ml (₹1.1/ml) · 4.3★ from 670+ Amazon India ratings
 - **Skip it if**: you want to check the UV filters before buying.
 
 **Pros:** 400ml for ₹479, about ₹1.2 per ml. **Cons:** The listing does not show the ingredient list or UV filters.
@@ -89,7 +89,7 @@ SPF 50 PA++++ in a 400ml bottle, about ₹1.2 per ml.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Vaseline Sun Protect SPF 50 PA++++ Lotion](/reviews/vaseline-sun-protect-spf50/) works out cheapest at about ₹1.2 per ml (₹479 for 400ml). [WishCare Sunscreen Body Lotion SPF 50 PA++++](/reviews/wishcare-body-sunscreen-spf50/) is next at about ₹1.9 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Vaseline Sun Protect SPF 50 PA++++ Lotion](/reviews/vaseline-sun-protect-spf50/) works out cheapest at about ₹1.1 per ml (₹439 for 400ml). [SunScoop 5% Niacinamide Sunscreen Body Lotion SPF 50+](/reviews/sunscoop-body-sunscreen-spf50/) is next at about ₹1.9 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [WishCare Sunscreen Body Lotion SPF 50 PA++++](/reviews/wishcare-body-sunscreen-spf50/) is fragrance-free. The listings for SunScoop 5% Niacinamide Sunscreen Body Lotion SPF 50+ and Vaseline Sun Protect SPF 50 PA++++ Lotion do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

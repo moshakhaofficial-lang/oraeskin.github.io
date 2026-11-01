@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Lip Balms for Cracked Lips & Dry Mouth Corners in India"
 image: "/images/products/aquaphor-lip-repair.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Lip Care & SPF Balms"
 rating: 4.8
 keywords: "ceramide lip balm india, angular cheilitis treatment amazon, heal cracked lips fast"
@@ -12,7 +12,7 @@ topPickTitle: "Aquaphor Lip Repair"
 topPickBrand: "Aquaphor"
 topPickAsin: "B004FHZKOA"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹479"
+topPickPrice: "~₹474"
 ---
 
 Cracked, peeling lips usually come from **dry weather, licking your lips, mouth breathing or a reaction to a lip product**, such as one with fragrance, menthol or cinnamon flavour.
@@ -34,12 +34,12 @@ These are the balms we rate most highly.
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/)** | Shea Butter + Panthenol | Cracked Lips, Chapped Lips | ₹479 (10ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21) |
-| **[Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/)** | Avobenzone & Uvinul Filters + Ceramide Complex | Lip Pigmentation, Sun Damage | ₹264 (8g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
+| **[Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/)** | Shea Butter + Panthenol | Cracked Lips, Chapped Lips | ₹474 (10ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B004FHZKOA?tag=oraeskin-21) |
+| **[Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/)** | Avobenzone & Uvinul Filters + Ceramide Complex | Lip Pigmentation, Sun Damage | ₹253 (8g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BJ6XPC77?tag=oraeskin-21) |
 | **[WishCare Lip Balm SPF 50 (Untinted)](/reviews/wishcare-ceramide-lip-balm-spf50/)** | SPF 50 PA++++ + Kojic Acid | Dark Lips, Sun Protection | ₹239 (5g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CND4C95T?tag=oraeskin-21) |
-| **[Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/)** | Shea Butter + Vitamin C | Chapped Lips, Dry Lips | ₹510 (8g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21) |
+| **[Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/)** | Shea Butter + Vitamin C | Chapped Lips, Dry Lips | ₹539 (8g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -50,7 +50,7 @@ A fragrance-free repair balm with panthenol, shea butter and bisabolol, rated by
 - **Key actives**: Shea Butter, Panthenol, Glycerin, Bisabolol, Castor Oil
 - **Texture & finish**: Soft Balm (tube) — glossy, cushioned
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹479 for 10ml (₹47.9/ml) · 4.2★ from 43,000+ Amazon India ratings
+- **Price**: ₹474 for 10ml (₹47.4/ml) · 4.2★ from 43,000+ Amazon India ratings
 - **Skip it if**: you avoid beeswax.
 
 **Pros:** Fragrance-free, made for sensitive lips. **Cons:** No SPF, so pair with an SPF balm in the day.
@@ -66,7 +66,7 @@ Ceramides and hyaluronic acid with SPF 30 for daytime.
 - **Key actives**: Avobenzone & Uvinul Filters, Ceramide Complex, Hyaluronic Acid
 - **Texture & finish**: Non-Sticky Butter Balm — natural sheen
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹264 for 8g (₹33.0/g) · 4.2★ from 3,400+ Amazon India ratings
+- **Price**: ₹253 for 8g (₹31.6/g) · 4.2★ from 3,400+ Amazon India ratings
 - **Skip it if**: you strictly prefer sweet flavored or strongly tinted colored lip glosses.
 
 **Pros:** Certified SPF 30 broad spectrum UV protection specifically for lips. **Cons:** Requires reapplication every 2 hours if drinking hot beverages.
@@ -98,7 +98,7 @@ A thick overnight layer while lips heal. It contains fragrance, so skip it if yo
 - **Key actives**: Shea Butter, Vitamin C, Berry Fruit Complex
 - **Texture & finish**: Thick, Balmy Mask — glossy overnight layer
 - **Fragrance**: Added Fragrance
-- **Price**: ₹510 for 8g (₹63.8/g) · 4.5★ from 16,000+ Amazon India ratings
+- **Price**: ₹539 for 8g (₹67.4/g) · 4.5★ from 16,000+ Amazon India ratings
 - **Skip it if**: your lips react to fragrance or flavouring.
 
 **Pros:** Thick texture seals in moisture overnight. **Cons:** Only 8g for ₹510 — expensive per gram.
@@ -109,7 +109,7 @@ A thick overnight layer while lips heal. It contains fragrance, so skip it if yo
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/) works out cheapest at about ₹33 per g (₹264 for 8g). [WishCare Lip Balm SPF 50 (Untinted)](/reviews/wishcare-ceramide-lip-balm-spf50/) is next at about ₹48 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/) works out cheapest at about ₹32 per g (₹253 for 8g). [WishCare Lip Balm SPF 50 (Untinted)](/reviews/wishcare-ceramide-lip-balm-spf50/) is next at about ₹48 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Aquaphor Lip Repair](/reviews/aquaphor-lip-repair/), [Minimalist SPF 30 Lip Balm with Ceramides](/reviews/minimalist-spf30-lipbalm/) and [WishCare Lip Balm SPF 50 (Untinted)](/reviews/wishcare-ceramide-lip-balm-spf50/) are fragrance-free. [Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/) contains added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

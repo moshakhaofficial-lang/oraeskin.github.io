@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Salicylic Acid Face Washes for Blackheads & Clogged Pores in India"
 image: "/images/products/minimalist-salicylic-cleanser.jpg"
 date: "2026-10-29"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "salicylic acid cleanser india, best bha face wash blackheads, minimalist salicylic facewash"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹284"
+topPickPrice: "~₹269"
 ---
 
 Salicylic acid (BHA) is oil-soluble, so it can work inside pores where sebum and dead skin form blackheads and whiteheads. In a face wash it only stays on the skin briefly, so strength, pH and how gentle the base is all matter. These are the BHA face washes on Amazon India we rate most highly, based on their formulas.
@@ -23,11 +23,11 @@ Salicylic acid (BHA) is oil-soluble, so it can work inside pores where sebum and
 
 | Face Wash | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹284 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/)** | 2% Salicylic Acid (BHA) + Capryloyl Salicylic Acid (LHA) | Oily, Combination | ₹269 (100ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 | **[The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/)** | 1% Salicylic Acid (BHA) + Willow Bark Extract | Oily, Combination | ₹217 (100ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B095J52W7P?tag=oraeskin-21) |
-| **[Neutrogena Oil-Free Acne Wash](/reviews/neutrogena-oilfree-acne-wash/)** | 2% Salicylic Acid (BHA) | Oily, Acne-Prone | ₹705 (175ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21) |
+| **[Neutrogena Oil-Free Acne Wash](/reviews/neutrogena-oilfree-acne-wash/)** | 2% Salicylic Acid (BHA) | Oily, Acne-Prone | ₹681 (175ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -38,7 +38,7 @@ Salicylic acid (BHA) is oil-soluble, so it can work inside pores where sebum and
 - **Key actives**: 2% Salicylic Acid (BHA), Capryloyl Salicylic Acid (LHA), Zinc PCA
 - **Texture & finish**: Lightweight Gel — deeply clarified & matte
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹284 for 100ml (₹2.8/ml) · 4.2★ from 29,500+ Amazon India ratings
+- **Price**: ₹269 for 100ml (₹2.7/ml) · 4.2★ from 29,000+ Amazon India ratings
 - **Skip it if**: you have dry, wind-chapped skin or an actively compromised stinging barrier.
 
 **Pros:** 2% Salicylic Acid dissolves stubborn oxidized sebum and dead keratin plugs. **Cons:** Daily 2x usage can be drying for combination skin; best used once daily at night.
@@ -70,7 +70,7 @@ A long-running 2% salicylic wash with a rich lather for very oily skin. Skip it 
 - **Key actives**: 2% Salicylic Acid (BHA)
 - **Texture & finish**: Translucent Foaming Gel — squeaky-clean & matte
 - **Fragrance**: Added Fragrance
-- **Price**: ₹705 for 175ml (₹4.0/ml) · 4.2★ from 10,900+ Amazon India ratings
+- **Price**: ₹681 for 175ml (₹3.9/ml) · 4.2★ from 10,000+ Amazon India ratings
 - **Skip it if**: you have dry, sensitive or fragrance-reactive skin, or you already use a leave-on BHA or retinoid every night.
 
 **Pros:** Full 2% salicylic acid, the maximum commonly used in acne cleansers. **Cons:** Contains added fragrance — a common trigger for sensitive skin.
@@ -85,7 +85,7 @@ A long-running 2% salicylic wash with a rich lather for very oily skin. Skip it 
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/) works out cheapest at about ₹2.2 per ml (₹217 for 100ml). [Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) is next at about ₹2.8 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/) works out cheapest at about ₹2.2 per ml (₹217 for 100ml). [Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) is next at about ₹2.7 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) and [The Derma Co 1% Salicylic Acid Gel Face Wash](/reviews/dermaco-1-salicylic-facewash/) are fragrance-free. [Neutrogena Oil-Free Acne Wash](/reviews/neutrogena-oilfree-acne-wash/) and [La Roche-Posay Effaclar Purifying Foaming Gel](/reviews/lrp-effaclar-purifying-gel/) contain added fragrance or flavour. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -94,4 +94,4 @@ A long-running 2% salicylic wash with a rich lather for very oily skin. Skip it 
 [La Roche-Posay Effaclar Purifying Foaming Gel](/reviews/lrp-effaclar-purifying-gel/) is the pick here that suits sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
 
 ### Which is the most popular on Amazon India?
-[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist 2% Salicylic Acid Face Wash](/reviews/minimalist-salicylic-cleanser/) has the most ratings of these picks, with 29,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

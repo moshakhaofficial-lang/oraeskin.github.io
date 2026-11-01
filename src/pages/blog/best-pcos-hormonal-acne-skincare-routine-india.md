@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best PCOS & Hormonal Acne Skincare Routine for Indian Women"
 image: "/images/products/sebogel-spot-gel.jpg"
 date: "2026-09-22"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Acne Care"
 rating: 4.8
 keywords: "pcos acne skincare routine india, hormonal jawline cystic acne, sebogel blemish gel pcos, minimalist niacinamide hormonal breakouts, cystic chin acne indian women"
@@ -24,8 +24,8 @@ PCOS-driven hormonal acne is one of the most stubborn dermatological challenges 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Deep Inflamed Cysts & Fast Spot Treatment | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Matmarine + Zinc PCA | Regulating Hormonal Sebum & Fading Jawline PIH | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated Salicylic Acid + LHA + Zinc | Daily Deep-Pore Cleansing Without Irritation | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Matmarine + Zinc PCA | Regulating Hormonal Sebum & Fading Jawline PIH | ~₹475 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated Salicylic Acid + LHA + Zinc | Daily Deep-Pore Cleansing Without Irritation | ~₹269 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 
 ---
 

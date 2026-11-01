@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Squalane Oils & Products for Hydrated, Healthy Skin in India"
 image: "/images/products/minimalist-squalane-oil.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Moisturizers & Barrier Creams"
 rating: 4.8
 keywords: "squalane moisturizer india, plant squalane review, lightweight facial oil amazon"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist Squalane 100% (Plant Derived)"
 topPickBrand: "Minimalist"
 topPickAsin: "B08KSL2QNF"
 topPickRating: "4.4 ★"
-topPickPrice: "~₹664"
+topPickPrice: "~₹629"
 ---
 
 **Squalane** is a stable, lightweight oil made from plant sources such as olives or sugarcane. It is very similar to **squalene**, a natural part of your skin's own oil.
@@ -34,12 +34,12 @@ These are the squalane products we rate most highly.
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist Squalane 100% (Plant Derived)](/reviews/minimalist-squalane-oil/)** | Squalane (olive-derived) | Dryness, Barrier Repair | ₹664 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08KSL2QNF?tag=oraeskin-21) |
+| **[Minimalist Squalane 100% (Plant Derived)](/reviews/minimalist-squalane-oil/)** | Squalane (olive-derived) | Dryness, Barrier Repair | ₹629 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08KSL2QNF?tag=oraeskin-21) |
 | **[The Ordinary Squalane Cleanser](/reviews/the-ordinary-squalane-cleanser/)** | Squalane | Makeup Removal, Dryness | ₹1050 (50ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07PSKR85S?tag=oraeskin-21) |
-| **[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/)** | 0.3% Pure Retinol + Plant-Derived Squalane | Fine Lines, Loss of Firmness | ₹539 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21) |
+| **[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/)** | 0.3% Pure Retinol + Plant-Derived Squalane | Fine Lines, Loss of Firmness | ₹508 (30ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B091JG3GJ5?tag=oraeskin-21) |
 | **[The Ordinary Squalane + Amino Acids Lip Balm](/reviews/the-ordinary-squalane-lip-balm/)** | Squalane + Amino Acids | Dry Lips, Dry Cuticles | ₹950 (15ml) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D8CXZKF3?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -50,7 +50,7 @@ Fragrance-free, olive-derived squalane, rated 4.4★ by 1,900+ buyers.
 - **Key actives**: Squalane (olive-derived)
 - **Texture & finish**: Weightless Oil — non-greasy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹664 for 30ml (₹22.1/ml) · 4.4★ from 1,900+ Amazon India ratings
+- **Price**: ₹629 for 30ml (₹21.0/ml) · 4.4★ from 1,900+ Amazon India ratings
 - **Skip it if**: you have fungal acne and want to be cautious with any oil.
 
 **Pros:** Light and non-greasy. **Cons:** ₹664 for 30ml.
@@ -82,7 +82,7 @@ A soap-free squalane balm that removes makeup and sunscreen gently.
 - **Key actives**: 0.3% Pure Retinol, Plant-Derived Squalane, 1% Coenzyme Q10
 - **Texture & finish**: Waterless Squalane Oil — silky nourished glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹539 for 30ml (₹18.0/ml) · 4.2★ from 9,500+ Amazon India ratings
+- **Price**: ₹508 for 30ml (₹16.9/ml) · 4.2★ from 9,500+ Amazon India ratings
 - **Skip it if**: you are currently pregnant or nursing (retinoids are strictly contraindicated).
 
 **Pros:** Waterless squalane base provides continuous lipid hydration to prevent peeling. **Cons:** Requires gradual introduction (1-2 nights a week) and nightly buffering with moisturizer.
@@ -109,7 +109,7 @@ Squalane and amino acids for lips, elbows and cuticles.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/) works out cheapest at about ₹18 per ml (₹539 for 30ml). [The Ordinary Squalane Cleanser](/reviews/the-ordinary-squalane-cleanser/) is next at about ₹21 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/) works out cheapest at about ₹17 per ml (₹508 for 30ml). [Minimalist Squalane 100% (Plant Derived)](/reviews/minimalist-squalane-oil/) is next at about ₹21 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist Squalane 100% (Plant Derived)](/reviews/minimalist-squalane-oil/) and [Minimalist 0.3% Retinol Face Serum in Squalane](/reviews/minimalist-retinol-03/) are fragrance-free. The listings for The Ordinary Squalane Cleanser and The Ordinary Squalane + Amino Acids Lip Balm do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

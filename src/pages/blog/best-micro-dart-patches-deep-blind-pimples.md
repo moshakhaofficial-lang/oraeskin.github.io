@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Microneedle (Micro-Dart) Patches for Blind Pimples in India"
 image: "/images/products/conscious-chemist-microneedle-patch.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Acne Spot Treatments"
 rating: 4.8
 keywords: "micro dart acne patch india, blind pimple under skin treatment, hormonal acne patch"
@@ -12,7 +12,7 @@ topPickTitle: "Conscious Chemist Self-Dissolving Microneedle Acne Patches"
 topPickBrand: "Conscious Chemist"
 topPickAsin: "B0F2277MT8"
 topPickRating: "3.9 ★"
-topPickPrice: "~₹297"
+topPickPrice: "~₹280"
 ---
 
 A **blind pimple** is a painful bump under the skin with no white head. Regular hydrocolloid patches cannot do much for these, because they only absorb fluid from the surface.
@@ -32,12 +32,12 @@ The evidence is still mostly from brand testing and small studies, so treat them
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Conscious Chemist Self-Dissolving Microneedle Acne Patches](/reviews/conscious-chemist-microneedle-patch/)** | Salicylic Acid (2%) + Azelaic Acid | Blind Pimples, Inflamed Acne | ₹297 (8 patches) | 7.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F2277MT8?tag=oraeskin-21) |
+| **[Conscious Chemist Self-Dissolving Microneedle Acne Patches](/reviews/conscious-chemist-microneedle-patch/)** | Salicylic Acid (2%) + Azelaic Acid | Blind Pimples, Inflamed Acne | ₹280 (8 patches) | 7.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F2277MT8?tag=oraeskin-21) |
 | **[The Derma Co Micro-Tip Salicylic Acid Pimple Patches](/reviews/dermaco-acne-patch/)** | Hydrocolloid + Micro-Tip Actives (Willow Bark, Glycolic Acid) | Active Pimples, Whiteheads | ₹479 (24 Patches) | 7.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09GGCWKR7?tag=oraeskin-21) |
-| **[Avarelle Clear Cover Patch with Tea Tree](/reviews/avarelle-clear-cover-patch/)** | Hydrocolloid + Tea Tree Oil | Surface Pimples, Picking | ₹799 (40 patches) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21) |
-| **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹135 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
+| **[Avarelle Clear Cover Patch with Tea Tree](/reviews/avarelle-clear-cover-patch/)** | Hydrocolloid + Tea Tree Oil | Surface Pimples, Picking | ₹664 (40 patches) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21) |
+| **[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/)** | Hydrocolloid + Salicylic Acid | Whiteheads, Pus-Filled Pimples | ₹99 (36 Patches) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D2ZVYLSS?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -48,7 +48,7 @@ Dissolving microneedles with 2% salicylic acid, azelaic acid and niacinamide, wi
 - **Key actives**: Salicylic Acid (2%), Azelaic Acid, Niacinamide, Gluconolactone, Bisabolol
 - **Texture & finish**: Patch with Dissolving Microneedles — clear
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹297 for 8 patches · 3.9★ from 400+ Amazon India ratings
+- **Price**: ₹280 for 8 patches · 3.9★ from 410+ Amazon India ratings
 - **Skip it if**: the pimple is already open or oozing; use a plain hydrocolloid patch instead.
 
 **Pros:** Salicylic acid, azelaic acid and niacinamide. **Cons:** About ₹37 a patch.
@@ -80,7 +80,7 @@ A hydrocolloid patch with tea tree for surface pimples, rated by 70,000+ buyers.
 - **Key actives**: Hydrocolloid, Tea Tree Oil, Calendula Oil
 - **Texture & finish**: Thin Patch — clear
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹799 for 40 patches · 4.2★ from 70,000+ Amazon India ratings
+- **Price**: ₹664 for 40 patches · 4.2★ from 70,000+ Amazon India ratings
 - **Skip it if**: your pimple is deep with no white head; a plain patch will not reach it.
 
 **Pros:** 70,000+ ratings. **Cons:** About ₹20 a patch.
@@ -96,7 +96,7 @@ Hydrocolloid and salicylic acid patches at about ₹3 each.
 - **Key actives**: Hydrocolloid, Salicylic Acid
 - **Texture & finish**: Thin Hydrocolloid Patch — discreet
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹135 for 36 Patches · 4★ from 2,400+ Amazon India ratings
+- **Price**: ₹99 for 36 Patches · 4★ from 2,400+ Amazon India ratings
 - **Skip it if**: you're treating deep cysts with no visible head — patches can't reach them.
 
 **Pros:** Under ₹4 per patch — excellent value. **Cons:** Works on surface whiteheads, not deep or blind pimples.
@@ -107,7 +107,7 @@ Hydrocolloid and salicylic acid patches at about ₹3 each.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/) works out cheapest at about ₹3.8 per patch (₹135 for 36 Patches). [The Derma Co Micro-Tip Salicylic Acid Pimple Patches](/reviews/dermaco-acne-patch/) is next at about ₹20 per patch. Prices were checked on Amazon.in in October 2026 and change often.
+[Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/) works out cheapest at about ₹2.8 per patch (₹99 for 36 Patches). [Avarelle Clear Cover Patch with Tea Tree](/reviews/avarelle-clear-cover-patch/) is next at about ₹17 per patch. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [The Derma Co Micro-Tip Salicylic Acid Pimple Patches](/reviews/dermaco-acne-patch/) and [Nua Pimple Patch (Hydrocolloid + Salicylic Acid)](/reviews/nua-pimple-patch/) are fragrance-free. [Avarelle Clear Cover Patch with Tea Tree](/reviews/avarelle-clear-cover-patch/) contains essential oils, which can also irritate. The listing for Conscious Chemist Self-Dissolving Microneedle Acne Patches does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

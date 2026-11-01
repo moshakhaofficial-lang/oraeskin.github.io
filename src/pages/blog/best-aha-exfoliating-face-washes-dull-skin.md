@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best AHA (Glycolic) Face Washes for Dull Skin in India"
 image: "/images/products/minimalist-ala-glycolic-facewash.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "aha face wash india, glycolic acid cleanser dull skin, brighten skin face wash"
@@ -29,9 +29,9 @@ Use it once a day at most, ideally at night, and wear sunscreen in the morning. 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Minimalist 7% ALA + Glycolic Brightening Face Wash](/reviews/minimalist-ala-glycolic-facewash/)** | Glycolic Acid + Alpha Lipoic Acid | Dullness, Uneven Tone | ₹359 (100ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09VLDY46B?tag=oraeskin-21) |
 | **[Re'equil Fruit AHA Face Wash](/reviews/reequil-fruit-aha-facewash/)** | Glycolic Acid (fruit-derived) + Lactic Acid (fruit-derived) | Dullness, Uneven Tone | ₹293 (150ml) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0GLGCTPRC?tag=oraeskin-21) |
-| **[L'Oréal Paris Glycolic Bright Daily Foaming Cleanser](/reviews/loreal-glycolic-bright-cleanser/)** | Glycolic Acid + Niacinamide | Dullness, Uneven Tone | ₹119 (50ml) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B9RFCS5S?tag=oraeskin-21) |
+| **[L'Oréal Paris Glycolic Bright Daily Foaming Cleanser](/reviews/loreal-glycolic-bright-cleanser/)** | Glycolic Acid + Niacinamide | Dullness, Uneven Tone | ₹125 (50ml) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B9RFCS5S?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -74,7 +74,7 @@ Glycolic acid and niacinamide in a ₹119 tube, an easy way to try one.
 - **Key actives**: Glycolic Acid, Niacinamide
 - **Texture & finish**: Foaming Cream — clean
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹119 for 50ml (₹2.4/ml) · 4.2★ from 6,100+ Amazon India ratings
+- **Price**: ₹125 for 50ml (₹2.5/ml) · 4.2★ from 6,200+ Amazon India ratings
 - **Skip it if**: you have sensitive skin or avoid fragrance.
 
 **Pros:** Only ₹119 to try. **Cons:** Small 50ml tube.
@@ -85,10 +85,10 @@ Glycolic acid and niacinamide in a ₹119 tube, an easy way to try one.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Re'equil Fruit AHA Face Wash](/reviews/reequil-fruit-aha-facewash/) works out cheapest at about ₹2 per ml (₹293 for 150ml). [L'Oréal Paris Glycolic Bright Daily Foaming Cleanser](/reviews/loreal-glycolic-bright-cleanser/) is next at about ₹2.4 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Re'equil Fruit AHA Face Wash](/reviews/reequil-fruit-aha-facewash/) works out cheapest at about ₹2 per ml (₹293 for 150ml). [L'Oréal Paris Glycolic Bright Daily Foaming Cleanser](/reviews/loreal-glycolic-bright-cleanser/) is next at about ₹2.5 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 7% ALA + Glycolic Brightening Face Wash](/reviews/minimalist-ala-glycolic-facewash/) is fragrance-free. The listings for Re'equil Fruit AHA Face Wash and L'Oréal Paris Glycolic Bright Daily Foaming Cleanser do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
 
 ### Which is the most popular on Amazon India?
-[L'Oréal Paris Glycolic Bright Daily Foaming Cleanser](/reviews/loreal-glycolic-bright-cleanser/) has the most ratings of these picks, with 6,100+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[L'Oréal Paris Glycolic Bright Daily Foaming Cleanser](/reviews/loreal-glycolic-bright-cleanser/) has the most ratings of these picks, with 6,200+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

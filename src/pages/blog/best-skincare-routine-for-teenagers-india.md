@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Simple Skincare Routine for Teenagers in India: Clearing Hormonal Acne on a Budget"
 image: "/images/products/minimalist-salicylic-cleanser.jpg"
 date: "2026-09-14"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Routines & Guides"
 rating: 4.8
 keywords: "skincare routine for teenagers india, best teen acne routine budget, minimalist salicylic acid for teens, simple teenage skincare amazon india"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 2% Salicylic Acid Face Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B096PJMGPL"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹284"
+topPickPrice: "~₹269"
 ---
 
 Puberty and school stress trigger sudden forehead breakouts and oily T-zones. Here is a simple 3-step routine built for Indian teenagers.
@@ -25,9 +25,9 @@ During adolescence, surges in circulating androgen hormones stimulate facial seb
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid (BHA), LHA & Zinc PCA | Oily T-Zones, Forehead Pimples & Blackheads | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol (Pro-Vitamin B5), Zinc & Copper | Acne-Prone Skin That Hates Sticky Creams | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & Photostable UV Filters | Daily Commutes, Sports & Outdoor Assemblies | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Salicylic Acid (BHA), LHA & Zinc PCA | Oily T-Zones, Forehead Pimples & Blackheads | ~₹269 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol (Pro-Vitamin B5), Zinc & Copper | Acne-Prone Skin That Hates Sticky Creams | ~₹224 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & Photostable UV Filters | Daily Commutes, Sports & Outdoor Assemblies | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

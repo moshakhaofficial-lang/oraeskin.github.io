@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "College Hostel & Dorm Skincare Routine: Surviving Hard Water & Mess Food Breakouts"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-22"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Budget Skincare"
 rating: 4.8
 keywords: "hostel skincare routine india, college dorm acne hard water, simple refreshing wash hostel, minimalist b5 moisturizer college students, budget skincare under 1000 india"
@@ -11,7 +11,7 @@ description: "Moving to a college hostel or PG and breaking out from hard borewe
 topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
-topPickRating: "4.6 ★"
+topPickRating: "4.2 ★"
 topPickPrice: "~₹384"
 ---
 
@@ -24,8 +24,8 @@ Transitioning to college life in a hostel or paying guest (PG) accommodation acr
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Counteracting Hard Water Mineral Scum Without Stripping | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA | Oil-Free, Sweat-Proof Barrier Repair for Hot Dorms | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Broad Spectrum UVA/UVB + Niacinamide + Vitamin B5 | Campus Sun Protection & Tanning Prevention | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA | Oil-Free, Sweat-Proof Barrier Repair for Hot Dorms | ~₹224 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Broad Spectrum UVA/UVB + Niacinamide + Vitamin B5 | Campus Sun Protection & Tanning Prevention | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

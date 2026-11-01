@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Underarm Brightening & Odor Control Routine for Indian Weather"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Body Care"
 rating: 4.8
 keywords: "underarm brightening routine india, glycolic acid for dark underarms, eliminate body odor chemical exfoliation, minimalist glycolic toner review"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹474"
+topPickPrice: "~₹439"
 ---
 
 Banish persistent underarm odor, clear ingrown hairs, and lighten dark friction hyperpigmentation safely with evidence-based dermatological care.
@@ -25,9 +25,9 @@ Dark underarms in Indian skin are typically caused by a combination of shaving f
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Dark Underarms, Chronic Body Odor & Shaving Stubble | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA) & Betaine | Underarm Folliculitis & Daily Shower Hygiene | ~₹296 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide & 1% Zinc PCA | Sensitive Underarms Prone to Waxing Redness | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid & Bamboo Water | Dark Underarms, Chronic Body Odor & Shaving Stubble | ~₹439 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid (BHA) & Betaine | Underarm Folliculitis & Daily Shower Hygiene | ~₹314 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide & 1% Zinc PCA | Sensitive Underarms Prone to Waxing Redness | ~₹475 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 
 ---
 

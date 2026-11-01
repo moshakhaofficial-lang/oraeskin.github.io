@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Sunscreens for Two-Wheeler Bike Commuters in Indian Traffic & Pollution"
 image: "/images/products/reequil-ultra-matte-spf50.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Sunscreens"
 rating: 4.8
 keywords: "sunscreen for bike commuters india, two wheeler rider sunscreen, anti pollution sunscreen traffic, reequil ultra matte review, commuter sunscreen soot defense"
@@ -26,7 +26,7 @@ Riding a two-wheeler in Indian traffic subjects facial skin to extreme environme
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Re'equil — Ultra Matte Dry Touch Sunscreen Gel** | Silicone Elastomers, Octinoxate & Titanium Dioxide | Daily Motorcycle & Scooter Commuters in Heavy Traffic | ~₹580 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07VP5JFRB?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & New-Gen European UV Filters | Commuters with Sensitive Skin Prone to Windburn | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamins B5, F & New-Gen European UV Filters | Commuters with Sensitive Skin Prone to Windburn | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 | **The Derma Co — 1% Hyaluronic Sunscreen Aqua Gel** | 1% Hyaluronic Acid & Vitamin E | Short City Rides & Combination Skin | ~₹479 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21) |
 
 ---

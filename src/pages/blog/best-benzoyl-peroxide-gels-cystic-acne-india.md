@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best 2.5% Benzoyl Peroxide Gels for Inflamed Acne in India"
 image: "/images/products/benzac-ac-2-5-gel.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Acne Spot Treatments"
 rating: 4.8
 keywords: "benzoyl peroxide 2.5 gel india, cystic acne spot treatment amazon, persol ac gel"
@@ -36,9 +36,9 @@ Studies comparing strengths have found **2.5% works about as well as 5% or 10% f
 | **[Benzac AC 2.5% Benzoyl Peroxide Gel](/reviews/benzac-ac-2-5-gel/)** | Benzoyl Peroxide (2.5%) | Inflamed Acne, Pimples | ₹150 (20g) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TBBDRYZ?tag=oraeskin-21) |
 | **[Persol AC 2.5 Benzoyl Peroxide Gel](/reviews/persol-ac-2-5-gel/)** | Benzoyl Peroxide (2.5%) | Inflamed Acne, Pimples | ₹102 (30g) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0882D8J7J?tag=oraeskin-21) |
 | **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹237 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/)** | 10% Vitamin B5 (Panthenol) + Zinc Gluconate | Acne Flare-Ups, Greasy T-Zone | ₹224 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -49,7 +49,7 @@ Plain 2.5% benzoyl peroxide in a glycerin gel, with the full formula on the list
 - **Key actives**: Benzoyl Peroxide (2.5%)
 - **Texture & finish**: Water-Based Gel — dries clear
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹150 for 20g (₹7.5/g) · 4.1★ from 144 Amazon India ratings
+- **Price**: ₹150 for 20g (₹7.5/g) · 4.1★ from 140+ Amazon India ratings
 - **Skip it if**: you have very dry or eczema-prone skin, or are pregnant and have not checked with your doctor.
 
 **Pros:** 2.5% benzoyl peroxide, the gentlest effective strength. **Cons:** Bleaches towels, pillowcases and clothes.
@@ -65,7 +65,7 @@ Plain 2.5% benzoyl peroxide in a glycerin gel, with the full formula on the list
 - **Key actives**: Benzoyl Peroxide (2.5%)
 - **Texture & finish**: Gel — dries clear
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹102 for 30g (₹3.4/g) · 4★ from 209 Amazon India ratings
+- **Price**: ₹102 for 30g (₹3.4/g) · 4★ from 200+ Amazon India ratings
 - **Skip it if**: you have very dry or sensitive skin.
 
 **Pros:** 2.5% benzoyl peroxide. **Cons:** The listing gives only the active ingredient, not the full formula.
@@ -97,7 +97,7 @@ A light, oil-free gel moisturiser to offset benzoyl peroxide dryness.
 - **Key actives**: 10% Vitamin B5 (Panthenol), Zinc Gluconate, Copper Gluconate, Magnesium Aspartate
 - **Texture & finish**: Featherlight Gel Cream — matte clean hydration
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹237 for 30g (₹7.9/g) · 4.2★ from 16,500+ Amazon India ratings
+- **Price**: ₹224 for 30g (₹7.5/g) · 4.2★ from 16,000+ Amazon India ratings
 - **Skip it if**: you suffer from severely cracked skin and need thick occlusive waxes.
 
 **Pros:** Oil-free gel that suits most oily and acne-prone skin. **Cons:** May feel insufficient in severe winter conditions for dry cheek zones.
@@ -108,7 +108,7 @@ A light, oil-free gel moisturiser to offset benzoyl peroxide dryness.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Persol AC 2.5 Benzoyl Peroxide Gel](/reviews/persol-ac-2-5-gel/) works out cheapest at about ₹3.4 per g (₹102 for 30g). [Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/) is next at about ₹6.7 per g. Prices were checked on Amazon.in in October 2026 and change often.
+[Persol AC 2.5 Benzoyl Peroxide Gel](/reviews/persol-ac-2-5-gel/) works out cheapest at about ₹3.4 per g (₹102 for 30g). [Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/) is next at about ₹6.7 per g. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Benzac AC 2.5% Benzoyl Peroxide Gel](/reviews/benzac-ac-2-5-gel/), [Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/) and [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) are fragrance-free. The listing for Persol AC 2.5 Benzoyl Peroxide Gel does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -117,4 +117,4 @@ A light, oil-free gel moisturiser to offset benzoyl peroxide dryness.
 [Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) is the pick here that suits sensitive skin, going by each formula and its listing. Even gentle formulas can irritate, so patch-test a new product on your jaw for a few days first.
 
 ### Which is the most popular on Amazon India?
-[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) has the most ratings of these picks, with 16,500+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist Vitamin B5 10% Moisturizer](/reviews/minimalist-b5-moisturizer/) has the most ratings of these picks, with 16,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

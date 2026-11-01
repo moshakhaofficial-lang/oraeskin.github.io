@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Gentle Lip Exfoliators for Dry, Flaky Lips in India"
 image: "/images/products/the-ordinary-pha-lip-serum.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Lip Care & SPF Balms"
 rating: 4.8
 keywords: "chemical lip exfoliant, gentle lip peel india, smooth peeling lips"
@@ -33,10 +33,10 @@ Peeling that won't stop, or lips that keep cracking at the corners, may be cause
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Ordinary PHA 5% Exfoliating Lip Serum](/reviews/the-ordinary-pha-lip-serum/)** | Gluconolactone (PHA, 5%) | Flaky Lips, Rough Texture | ₹750 (15ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FTZCWGSK?tag=oraeskin-21) |
 | **[e.l.f. Lip Exfoliator](/reviews/elf-lip-exfoliator/)** | Sugar (Sucrose) + Jojoba Oil | Flaky Lips, Dryness | ₹637 (3g) | 7.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CB23VJNH?tag=oraeskin-21) |
-| **[Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/)** | Shea Butter + Vitamin C | Chapped Lips, Dry Lips | ₹510 (8g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21) |
+| **[Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/)** | Shea Butter + Vitamin C | Chapped Lips, Dry Lips | ₹539 (8g) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BPC8KG73?tag=oraeskin-21) |
 | **[Dot & Key Vitamin C+E Lip Sleeping Mask](/reviews/dotkey-lip-mask/)** | Vitamin C (Ascorbyl Palmitate) + Vitamin E | Dry Flaking Lips, Dehydration Fissures | ₹194 (15ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08RX6S5D1?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -79,7 +79,7 @@ A rich overnight mask to apply after exfoliating.
 - **Key actives**: Shea Butter, Vitamin C, Berry Fruit Complex
 - **Texture & finish**: Thick, Balmy Mask — glossy overnight layer
 - **Fragrance**: Added Fragrance
-- **Price**: ₹510 for 8g (₹63.8/g) · 4.5★ from 16,000+ Amazon India ratings
+- **Price**: ₹539 for 8g (₹67.4/g) · 4.5★ from 16,000+ Amazon India ratings
 - **Skip it if**: your lips react to fragrance or flavouring.
 
 **Pros:** Thick texture seals in moisture overnight. **Cons:** Only 8g for ₹510 — expensive per gram.
@@ -106,7 +106,7 @@ A shea butter and castor oil overnight lip mask for under ₹200.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Dot & Key Vitamin C+E Lip Sleeping Mask](/reviews/dotkey-lip-mask/) works out cheapest at about ₹13 per ml (₹194 for 15ml). [The Ordinary PHA 5% Exfoliating Lip Serum](/reviews/the-ordinary-pha-lip-serum/) is next at about ₹50 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Dot & Key Vitamin C+E Lip Sleeping Mask](/reviews/dotkey-lip-mask/) works out cheapest at about ₹13 per ml (₹194 for 15ml). [The Ordinary PHA 5% Exfoliating Lip Serum](/reviews/the-ordinary-pha-lip-serum/) is next at about ₹50 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 None of these picks is confirmed fragrance-free. [e.l.f. Lip Exfoliator](/reviews/elf-lip-exfoliator/) and [Laneige Lip Sleeping Mask](/reviews/laneige-lip-sleeping-mask/) contain added fragrance or flavour. The listings for The Ordinary PHA 5% Exfoliating Lip Serum and Dot & Key Vitamin C+E Lip Sleeping Mask do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

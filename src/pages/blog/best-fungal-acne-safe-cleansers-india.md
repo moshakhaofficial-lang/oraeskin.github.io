@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Fungal Acne Safe Cleansers in India: Malassezia-Proof Facial Washes"
 image: "/images/products/simple-refreshing-wash.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Cleansers"
 rating: 4.8
 keywords: "fungal acne safe cleanser india, best face wash for malassezia folliculitis, simple refreshing wash fungal acne, fungal acne safe skincare"
@@ -11,7 +11,7 @@ description: "Struggling with itchy, uniform forehead bumps that won't respond t
 topPickTitle: "Simple Kind to Skin Refreshing Facial Wash"
 topPickBrand: "Simple"
 topPickAsin: "B0FJMB2NZM"
-topPickRating: "4.6 ★"
+topPickRating: "4.2 ★"
 topPickPrice: "~₹384"
 ---
 
@@ -26,7 +26,7 @@ Malassezia folliculitis (commonly known as fungal acne) is an opportunistic yeas
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Panthenol, Vitamin E & Cocamidopropyl Betaine | Malassezia Folliculitis, Itchy Forehead Bumps & Oily Skin | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
-| **CeraVe — Foaming Facial Cleanser** | Ceramides 1, 3, 6-II, Niacinamide & Hyaluronic Acid | Compromised Barriers Suffering from Fungal Acne | ~₹1,061 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
+| **CeraVe — Foaming Facial Cleanser** | Ceramides 1, 3, 6-II, Niacinamide & Hyaluronic Acid | Compromised Barriers Suffering from Fungal Acne | ~₹1,054 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07C5SKVL7?tag=oraeskin-21) |
 | **Sebogel — Salicylic Acid & Nicotinamide Blemish Gel** | 2% Salicylic Acid & 6% Nicotinamide | Persistent Follicular Bumps Along Hairline & Cheeks | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
 ---

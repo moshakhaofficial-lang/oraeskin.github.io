@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Authentic Korean Skincare Products on Amazon India: Glass Skin Routine"
 image: "/images/products/faceshop-rice-cleanser.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Korean Skincare"
 rating: 4.8
 keywords: "korean skincare amazon india, the face shop rice water cleanser review, cosrx snail mucin essence amazon india, k-beauty glass skin, authentic k-beauty india"
@@ -12,7 +12,7 @@ topPickTitle: "The Face Shop Rice Water Bright Foaming Cleanser"
 topPickBrand: "The Face Shop"
 topPickAsin: "B0DRYQ6274"
 topPickRating: "4.5 ★"
-topPickPrice: "~₹674"
+topPickPrice: "~₹629"
 ---
 
 Achieve radiant, hydrated glass skin with verified K-beauty essentials available on Amazon India with Prime delivery. Buy from the brand’s own store or ‘Ships from Amazon’ listings to avoid fakes.
@@ -25,8 +25,8 @@ Korean skincare routines have revolutionized global dermatology through hydratio
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Jojoba Oil | Dull Skin, Makeup Wearers & Combination Skin | ~₹674 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
-| **[COSRX Advanced Snail 96 Mucin Power Essence](/reviews/cosrx-snail-96-essence/)** | 96% Snail Secretion Filtrate + Sodium Hyaluronate | Dehydration, Barrier Damage | ~₹1,300 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21) |
+| **The Face Shop — Rice Water Bright Foaming Cleanser** | Fermented Rice Water Extract, Soapwort & Jojoba Oil | Dull Skin, Makeup Wearers & Combination Skin | ~₹629 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DRYQ6274?tag=oraeskin-21) |
+| **[COSRX Advanced Snail 96 Mucin Power Essence](/reviews/cosrx-snail-96-essence/)** | 96% Snail Secretion Filtrate + Sodium Hyaluronate | Dehydration, Barrier Damage | ~₹1,015 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00PBX3L7K?tag=oraeskin-21) |
 | **Dot & Key — Rice Water & Ceramide Hydrating Cream** | Fermented Rice Water, Ceramides & Hyaluronic Acid | Dehydrated, Stressed & Compromised Skin | ~₹328 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BDVG99J5?tag=oraeskin-21) |
 
 ---
@@ -50,7 +50,7 @@ A short, fragrance-free formula built around snail mucin with hyaluronate, panth
 - **Key actives**: 96% Snail Secretion Filtrate, Sodium Hyaluronate, Panthenol, Allantoin
 - **Texture & finish**: Light, Stretchy Essence — dewy & plump
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹1,300 for 100ml (₹13.0/ml) · 4.3★ from 103,400+ Amazon India ratings
+- **Price**: ₹1,015 for 100ml (₹10.2/ml) · 4.3★ from 1,03,000+ Amazon India ratings
 - **Skip it if**: you are vegan or avoid animal-derived ingredients, or you dislike a slightly slippery texture.
 
 **Pros:** Very short, fragrance-free ingredient list. **Cons:** Animal-derived — not suitable for vegans.

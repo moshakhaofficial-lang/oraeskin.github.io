@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Treat Stress & Cortisol-Induced Adult Acne in India: Clinical Soothing Routine"
 image: "/images/products/minimalist-niacinamide-10.jpg"
 date: "2026-09-30"
+updated: "2026-11-01"
 category: "Acne Care"
 rating: 4.8
 keywords: "stress acne adult women india, cortisol breakouts jawline cheeks, work from home corporate stress acne, minimalist niacinamide stress breakouts, sebogel adult acne"
@@ -11,7 +12,7 @@ topPickTitle: "Minimalist 10% Niacinamide Face Serum"
 topPickBrand: "Minimalist"
 topPickAsin: "B08F9MF314"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹485"
+topPickPrice: "~₹475"
 ---
 
 In India's fast-paced corporate hubs, competitive exam coaching centers, and high-pressure work environments, a growing number of adults in their 20s, 30s, and 40s find themselves struggling with painful, unexpected breakouts. Unlike the surface blackheads and oily T-zone acne of adolescence, adult stress acne presents as deep, tender, inflammatory papules clustered along the lower cheeks, jawline, and chin—often on skin that otherwise feels dry or dehydrated. Here is how psychological stress alters your hormones and how to soothe adult acne clinically.
@@ -22,9 +23,9 @@ In India's fast-paced corporate hubs, competitive exam coaching centers, and hig
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA + Matmarine | Regulating Cortisol-Driven Sebum & Calming Neuro-Redness | ~₹485 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **Minimalist — 10% Niacinamide Face Serum** | 10% Niacinamide + Zinc PCA + Matmarine | Regulating Cortisol-Driven Sebum & Calming Neuro-Redness | ~₹475 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 | **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Emergency Flattening of Deep Tender Stress Nodules | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA + Magnesium | Restoring Cortisol-Depleted Skin Barrier Without Heavy Oils | ~₹237 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
+| **Minimalist — Vitamin B5 10% Moisturizer** | 10% Panthenol + Zinc PCA + Magnesium | Restoring Cortisol-Depleted Skin Barrier Without Heavy Oils | ~₹224 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0F6Y86BSD?tag=oraeskin-21) |
 
 ---
 

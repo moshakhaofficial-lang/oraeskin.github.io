@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Hand Creams in India for Dry, Washed Hands & Cracked Cuticles"
 image: "/images/products/neutrogena-norwegian-hand-cream.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Dermatological Body Care"
 rating: 4.8
 keywords: "best hand cream india, cracked cuticles cream amazon, non greasy hand moisturizer"
@@ -38,10 +38,10 @@ Itchy, blistering or persistently cracked hands may be hand eczema, which can ne
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Neutrogena Norwegian Formula Concentrated Hand Cream (Fragrance-Free)](/reviews/neutrogena-norwegian-hand-cream/)** | Glycerin (high concentration) | Dry Hands, Cracked Skin | ₹449 (50ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0006SQ9CE?tag=oraeskin-21) |
 | **[O'Keeffe's Working Hands Hand Cream](/reviews/okeeffes-working-hands/)** | Glycerin + Protective Barrier Layer | Cracked Skin, Dry Hands | ₹1195 (100ml) | 8.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00121UVU0?tag=oraeskin-21) |
-| **[Charmis Vit C & Hyaluronic Hand Cream](/reviews/charmis-hand-cream/)** | Vitamin C + Hyaluronic Acid | Dry Hands | ₹170 (150g) | 7.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08PVDWT4Q?tag=oraeskin-21) |
+| **[Charmis Vit C & Hyaluronic Hand Cream](/reviews/charmis-hand-cream/)** | Vitamin C + Hyaluronic Acid | Dry Hands | ₹149 (150g) | 7.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08PVDWT4Q?tag=oraeskin-21) |
 | **[Fixderma Hand Cream with Cocoa Butter](/reviews/fixderma-hand-cream/)** | Cocoa Butter + Sea Buckthorn Oil | Dry Hands, Dry Cuticles | ₹192 (30g) | 7.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CG5L3VZG?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -84,7 +84,7 @@ A light, non-sticky everyday cream in a 150g tube for ₹170.
 - **Key actives**: Vitamin C, Hyaluronic Acid
 - **Texture & finish**: Light Cream — non-sticky
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹170 for 150g (₹1.1/g) · 4.2★ from 2,100+ Amazon India ratings
+- **Price**: ₹149 for 150g (₹1.0/g) · 4.2★ from 2,100+ Amazon India ratings
 - **Skip it if**: your hands are badly cracked; it is a light cream.
 
 **Pros:** 150g for ₹170. **Cons:** The listing names only vitamin C and hyaluronic acid, not the full formula.
@@ -111,7 +111,7 @@ Cocoa butter and sea buckthorn oil in a small tube for knuckles and cuticles.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Neutrogena Norwegian Formula Concentrated Hand Cream (Fragrance-Free)](/reviews/neutrogena-norwegian-hand-cream/) works out cheapest at about ₹9 per ml (₹449 for 50ml). [O'Keeffe's Working Hands Hand Cream](/reviews/okeeffes-working-hands/) is next at about ₹12 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Neutrogena Norwegian Formula Concentrated Hand Cream (Fragrance-Free)](/reviews/neutrogena-norwegian-hand-cream/) works out cheapest at about ₹9 per ml (₹449 for 50ml). [O'Keeffe's Working Hands Hand Cream](/reviews/okeeffes-working-hands/) is next at about ₹12 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Neutrogena Norwegian Formula Concentrated Hand Cream (Fragrance-Free)](/reviews/neutrogena-norwegian-hand-cream/) is fragrance-free. The listings for O'Keeffe's Working Hands Hand Cream, Charmis Vit C & Hyaluronic Hand Cream and Fixderma Hand Cream with Cocoa Butter do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

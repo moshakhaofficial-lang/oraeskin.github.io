@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Bakuchiol Serums in India: A Gentle Retinol Alternative"
 image: "/images/products/eqqualberry-bakuchiol-serum.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Retinoids & Anti-Aging"
 rating: 4.8
 keywords: "bakuchiol serum india, natural retinol alternative amazon, pregnancy safe anti aging"
@@ -12,7 +12,7 @@ topPickTitle: "EQQUALBERRY Bakuchiol Plumping Serum"
 topPickBrand: "EQQUALBERRY"
 topPickAsin: "B0D8W2W8C2"
 topPickRating: "4.4 ★"
-topPickPrice: "~₹2100"
+topPickPrice: "~₹2,199"
 ---
 
 Bakuchiol comes from the babchi plant (*Psoralea corylifolia*), long used in Ayurveda. In a small 2019 study, **0.5% bakuchiol twice daily** improved fine lines and pigmentation about as much as 0.5% retinol over 12 weeks, with less dryness and stinging.
@@ -27,12 +27,12 @@ Bakuchiol comes from the babchi plant (*Psoralea corylifolia*), long used in Ayu
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[EQQUALBERRY Bakuchiol Plumping Serum](/reviews/eqqualberry-bakuchiol-serum/)** | Bakuchiol (0.5%) + Niacinamide (4%) | Fine Lines, Texture | ₹2100 (30ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D8W2W8C2?tag=oraeskin-21) |
+| **[EQQUALBERRY Bakuchiol Plumping Serum](/reviews/eqqualberry-bakuchiol-serum/)** | Bakuchiol (0.5%) + Niacinamide (4%) | Fine Lines, Texture | ₹2,199 (30ml) | 8.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0D8W2W8C2?tag=oraeskin-21) |
 | **[Blue Nectar 5% Bakuchiol Serum](/reviews/blue-nectar-bakuchiol-serum/)** | Bakuchi (Babchi) Oil + Ayurvedic Herb Blend | Fine Lines, Dullness | ₹657 (30ml) | 7.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BW5KJGHT?tag=oraeskin-21) |
-| **[Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/)** | 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate) + Dimethyl Isosorbide | Crow's Feet, Dull Tone | ₹629 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
-| **[Minimalist Multi Peptide Serum (7% Matrixyl 3000)](/reviews/minimalist-multi-peptide/)** | Matrixyl 3000 (7%) + Bio-Placenta (plant peptides, 3%) | Fine Lines, Firmness | ₹593 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVD6T8V?tag=oraeskin-21) |
+| **[Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/)** | 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate) + Dimethyl Isosorbide | Crow's Feet, Dull Tone | ₹628 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F8W91F8?tag=oraeskin-21) |
+| **[Minimalist Multi Peptide Serum (7% Matrixyl 3000)](/reviews/minimalist-multi-peptide/)** | Matrixyl 3000 (7%) + Bio-Placenta (plant peptides, 3%) | Fine Lines, Firmness | ₹629 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVD6T8V?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -43,7 +43,7 @@ Bakuchiol comes from the babchi plant (*Psoralea corylifolia*), long used in Ayu
 - **Key actives**: Bakuchiol (0.5%), Niacinamide (4%), Peptides, Ceramides
 - **Texture & finish**: Light Serum — plump, dewy
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹2100 for 30ml (₹70.0/ml) · 4.4★ from 3,900+ Amazon India ratings
+- **Price**: ₹2,199 for 30ml (₹73.3/ml) · 4.4★ from 3,900+ Amazon India ratings
 - **Skip it if**: you can tolerate retinoids and want the strongest results for the money.
 
 **Pros:** Bakuchiol at a studied 0.5% level. **Cons:** ₹2,100 for 30ml.
@@ -75,7 +75,7 @@ If you can tolerate a mild retinoid, granactive retinoid has stronger evidence.
 - **Key actives**: 2% Granactive Retinoid (0.2% Hydroxypinacolone Retinoate), Dimethyl Isosorbide
 - **Texture & finish**: Silky Emulsion Fluid — featherlight satin
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹629 for 30ml (₹21.0/ml) · 4.1★ from 4,700+ Amazon India ratings
+- **Price**: ₹628 for 30ml (₹20.9/ml) · 4.1★ from 4,700+ Amazon India ratings
 - **Skip it if**: you are pregnant or breastfeeding.
 
 **Pros:** Bypasses the enzymatic conversion cascade, binding directly to cellular receptors. **Cons:** Slightly higher price point than basic entry retinol serums.
@@ -91,7 +91,7 @@ A fragrance-free peptide serum that pairs well with bakuchiol.
 - **Key actives**: Matrixyl 3000 (7%), Bio-Placenta (plant peptides, 3%), Hyaluronic Acid
 - **Texture & finish**: Light Serum — smooth, slightly tacky
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹593 for 30ml (₹19.8/ml) · 4.3★ from 4,100+ Amazon India ratings
+- **Price**: ₹629 for 30ml (₹21.0/ml) · 4.3★ from 4,100+ Amazon India ratings
 - **Skip it if**: you expect retinoid-level results; peptide evidence is more modest.
 
 **Pros:** Non-irritating, can be used daily. **Cons:** Peptide evidence is weaker than for retinoids.
@@ -102,7 +102,7 @@ A fragrance-free peptide serum that pairs well with bakuchiol.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist Multi Peptide Serum (7% Matrixyl 3000)](/reviews/minimalist-multi-peptide/) works out cheapest at about ₹20 per ml (₹593 for 30ml). [Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/) is next at about ₹21 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/) works out cheapest at about ₹21 per ml (₹628 for 30ml). [Minimalist Multi Peptide Serum (7% Matrixyl 3000)](/reviews/minimalist-multi-peptide/) works out about the same. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [EQQUALBERRY Bakuchiol Plumping Serum](/reviews/eqqualberry-bakuchiol-serum/), [Minimalist Granactive Retinoid 2% (0.2% HPR)](/reviews/minimalist-granactive-retinoid-2/) and [Minimalist Multi Peptide Serum (7% Matrixyl 3000)](/reviews/minimalist-multi-peptide/) are fragrance-free. The listing for Blue Nectar 5% Bakuchiol Serum does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

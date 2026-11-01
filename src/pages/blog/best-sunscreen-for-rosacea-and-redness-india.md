@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Calming Sunscreens for Rosacea, Facial Flushing & Heat Sensitivity in India"
 image: "/images/products/drsheths-ceramide-vitc-spf50.jpg"
 date: "2026-09-10"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Sunscreens"
 rating: 4.8
 keywords: "sunscreen for rosacea india, best sunscreen for facial redness flushing, dr sheths ceramide sunscreen review, calming sunscreen sensitive skin"
@@ -12,7 +12,7 @@ topPickTitle: "Dr. Sheth's Ceramide & Vitamin C Sunscreen"
 topPickBrand: "Dr. Sheth's"
 topPickAsin: "B0DVB9CGDS"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹369"
+topPickPrice: "~₹339"
 ---
 
 Calm facial flushing, prevent heat-induced capillary dilation, and shield reactive skin without burning. Here are gentle sunscreens in India that suit redness-prone skin.
@@ -25,9 +25,9 @@ Rosacea, facial erythema, and chronic flushing are triggered primarily by solar 
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | 1% Ceramide Complex & Ethyl Ascorbic Acid | Flushing-Prone, Rosacea & Heat-Sensitive Skin | ~₹369 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
-| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract & Hyaluronic Acid | Dehydrated Red Skin Needing Temperature Reduction | ~₹382 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
-| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamin B5, F & Photostable Filters | Ultra-Sensitive Complexions Needing Pure Formulations | ~₹346 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
+| **Dr. Sheth's — Ceramide & Vitamin C Sunscreen** | 1% Ceramide Complex & Ethyl Ascorbic Acid | Flushing-Prone, Rosacea & Heat-Sensitive Skin | ~₹339 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0DVB9CGDS?tag=oraeskin-21) |
+| **Aqualogica — Radiance+ Dewy Sunscreen SPF 50+** | Watermelon Extract & Hyaluronic Acid | Dehydrated Red Skin Needing Temperature Reduction | ~₹350 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0B3MNVPDV?tag=oraeskin-21) |
+| **Minimalist — SPF 50 Multi-Vitamin Sunscreen** | Vitamin B5, F & Photostable Filters | Ultra-Sensitive Complexions Needing Pure Formulations | ~₹338 | [Check Price on Amazon.in](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21) |
 
 ---
 

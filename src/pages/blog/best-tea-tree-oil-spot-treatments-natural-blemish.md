@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Tea Tree Oil Spot Treatments for Mild Pimples in India"
 image: "/images/products/body-shop-tea-tree-oil.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Acne Spot Treatments"
 rating: 4.8
 keywords: "tea tree oil for acne india, tea tree spot gel amazon, natural blemish treatment"
@@ -35,10 +35,10 @@ These are the tea tree products we rate most highly.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[The Body Shop Tea Tree Oil](/reviews/body-shop-tea-tree-oil/)** | Tea Tree Oil | Small Pimples, Blemishes | ₹476 (10ml) | 7.3/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B001N1SZF2?tag=oraeskin-21) |
 | **[Indus Valley Calming Acne Gel](/reviews/indus-valley-calming-acne-gel/)** | Tea Tree Oil + Seaweed Extract | Small Pimples, Oiliness | ₹224 (30ml) | 7.2/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CVN1PF8Z?tag=oraeskin-21) |
-| **[Avarelle Clear Cover Patch with Tea Tree](/reviews/avarelle-clear-cover-patch/)** | Hydrocolloid + Tea Tree Oil | Surface Pimples, Picking | ₹799 (40 patches) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21) |
+| **[Avarelle Clear Cover Patch with Tea Tree](/reviews/avarelle-clear-cover-patch/)** | Hydrocolloid + Tea Tree Oil | Surface Pimples, Picking | ₹664 (40 patches) | 8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B075QNC39Q?tag=oraeskin-21) |
 | **[Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/)** | 2% Salicylic Acid + 6% Nicotinamide (Niacinamide) | Under-the-Skin Bumps, Inflamed Acne | ₹200 (30g) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -65,7 +65,7 @@ A short botanical gel with tea tree oil and 11,200+ ratings at ₹224.
 - **Key actives**: Tea Tree Oil, Seaweed Extract, Rose Water
 - **Texture & finish**: Light Gel — non-greasy
 - **Fragrance**: No Synthetic Fragrance (contains essential oil)
-- **Price**: ₹224 for 30ml (₹7.5/ml) · 4★ from 11,200+ Amazon India ratings
+- **Price**: ₹224 for 30ml (₹7.5/ml) · 4★ from 11,000+ Amazon India ratings
 - **Skip it if**: you have moderate or severe acne that needs a proven active.
 
 **Pros:** 11,200+ ratings. **Cons:** The tea tree percentage is not given.
@@ -81,7 +81,7 @@ A hydrocolloid patch with tea tree and calendula, rated by 70,000+ buyers.
 - **Key actives**: Hydrocolloid, Tea Tree Oil, Calendula Oil
 - **Texture & finish**: Thin Patch — clear
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹799 for 40 patches · 4.2★ from 70,000+ Amazon India ratings
+- **Price**: ₹664 for 40 patches · 4.2★ from 70,000+ Amazon India ratings
 - **Skip it if**: your pimple is deep with no white head; a plain patch will not reach it.
 
 **Pros:** 70,000+ ratings. **Cons:** About ₹20 a patch.
@@ -108,7 +108,7 @@ Salicylic acid and niacinamide if tea tree is not doing enough.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Indus Valley Calming Acne Gel](/reviews/indus-valley-calming-acne-gel/) works out cheapest at about ₹7.5 per ml (₹224 for 30ml). [The Body Shop Tea Tree Oil](/reviews/body-shop-tea-tree-oil/) is next at about ₹48 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Indus Valley Calming Acne Gel](/reviews/indus-valley-calming-acne-gel/) works out cheapest at about ₹7.5 per ml (₹224 for 30ml). [The Body Shop Tea Tree Oil](/reviews/body-shop-tea-tree-oil/) is next at about ₹48 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Sebogel Salicylic Acid & Nicotinamide Blemish Gel](/reviews/sebogel-spot-gel/) is fragrance-free. [The Body Shop Tea Tree Oil](/reviews/body-shop-tea-tree-oil/), [Indus Valley Calming Acne Gel](/reviews/indus-valley-calming-acne-gel/) and [Avarelle Clear Cover Patch with Tea Tree](/reviews/avarelle-clear-cover-patch/) contain essential oils, which can also irritate. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

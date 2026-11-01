@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Prevent Post-Waxing Bumps & Strawberry Skin on Body in Indian Weather"
 image: "/images/products/minimalist-salicylic-bodywash.jpg"
 date: "2026-09-22"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Body Care"
 rating: 4.8
 keywords: "post waxing bumps body care, strawberry skin keratosis pilaris india, minimalist salicylic body wash waxing, prevent waxing folliculitis arms legs, smooth body routine"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 2% Salicylic Acid Body Wash"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BSN7LHC4"
 topPickRating: "4.2 ★"
-topPickPrice: "~₹296"
+topPickPrice: "~₹314"
 ---
 
 Visiting the salon for a body wax (*rica* or normal sugar wax) or shaving your legs at home is supposed to leave your limbs sleek and silky. Instead, within 24 to 48 hours, many Indian women develop angry red bumps, itchy pustules, or notice dark dotted pores resembling strawberry skin. Here is your dermatologist-backed body care guide to eliminating post-wax folliculitis and smoothing keratosis pilaris.
@@ -23,9 +23,9 @@ Visiting the salon for a body wax (*rica* or normal sugar wax) or shaving your l
 
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid + Betaine + LHA | Clearing Open Follicles & Preventing Post-Wax Bumps | ~₹296 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
-| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Soothing Post-Wax Trauma & Sealing Raw Body Skin | ~₹472 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
-| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid + Bamboo Water | Dissolving Keratin Plugs & Smoothing Strawberry Skin | ~₹474 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Body Wash** | 2% Salicylic Acid + Betaine + LHA | Clearing Open Follicles & Preventing Post-Wax Bumps | ~₹314 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BSN7LHC4?tag=oraeskin-21) |
+| **Bioderma — Atoderm Intensive Baume** | Lipigenium Complex + PEA | Soothing Post-Wax Trauma & Sealing Raw Body Skin | ~₹535 | [Check Price on Amazon.in](https://www.amazon.in/dp/B07SGC46XW?tag=oraeskin-21) |
+| **Minimalist — 8% Glycolic Acid Exfoliating Liquid** | 8% Pure Glycolic Acid + Bamboo Water | Dissolving Keratin Plugs & Smoothing Strawberry Skin | ~₹439 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
 
 ---
 

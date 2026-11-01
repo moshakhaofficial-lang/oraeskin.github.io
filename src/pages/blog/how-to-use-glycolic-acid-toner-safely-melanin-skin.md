@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Use Glycolic Acid Safely on Indian (Melanin-Rich) Skin"
 image: "/images/products/minimalist-glycolic-toner.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Toners & Exfoliants"
 rating: 4.8
 keywords: "how to use glycolic acid safely, glycolic acid dark skin, minimalist glycolic toner guide"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 8% Glycolic Acid Exfoliating Liquid"
 topPickBrand: "Minimalist"
 topPickAsin: "B0BNBXWVY3"
 topPickRating: "4.3 ★"
-topPickPrice: "~₹474"
+topPickPrice: "~₹439"
 ---
 
 Glycolic acid smooths texture and fades dullness, but melanin-rich skin is prone to **post-inflammatory hyperpigmentation**. Over-exfoliating can actually cause dark patches. Use it safely:
@@ -30,11 +30,11 @@ These are the exfoliating toners on Amazon India we rate most highly, from stron
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ₹474 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
-| **[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/)** | Green Tea Extract + 0.5% Glycolic Acid | Open Pores, Greasy T-Zone | ₹351 (200ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
+| **[Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/)** | 8% Pure Glycolic Acid (AHA) + Bamboo Water | Rough Texture, Dull Skin | ₹439 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0BNBXWVY3?tag=oraeskin-21) |
+| **[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/)** | Green Tea Extract + 0.5% Glycolic Acid | Open Pores, Greasy T-Zone | ₹336 (200ml) | 8.4/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00OCJ5M6C?tag=oraeskin-21) |
 | **[Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/)** | 3% Gluconolactone (PHA) + Multi-Biotics (Pre & Probiotics) | Stinging Skin, Micro-Flakes | ₹338 (150ml) | 8.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08S581RXJ?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -45,7 +45,7 @@ These are the exfoliating toners on Amazon India we rate most highly, from stron
 - **Key actives**: 8% Pure Glycolic Acid (AHA), Bamboo Water, Chamomile Extract
 - **Texture & finish**: Water Liquid — smooth glow
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹474 for 150ml (₹3.2/ml) · 4.3★ from 5,400+ Amazon India ratings
+- **Price**: ₹439 for 150ml (₹2.9/ml) · 4.3★ from 5,400+ Amazon India ratings
 - **Skip it if**: you have sensitive, broken, or actively stinging skin.
 
 **Pros:** 8% Glycolic Acid dissolves cemented dead skin cells on surface layer. **Cons:** Potent AHA formulation requires wearing daily sunscreen to prevent photosensitivity.
@@ -61,7 +61,7 @@ A green tea toner with a lower-strength glycolic acid.
 - **Key actives**: Green Tea Extract, 0.5% Glycolic Acid, Glycerin
 - **Texture & finish**: Refreshing Water — clean matte tone
 - **Fragrance**: Subtle Natural Fragrance
-- **Price**: ₹351 for 200ml (₹1.8/ml) · 4.2★ from 14,100+ Amazon India ratings
+- **Price**: ₹336 for 200ml (₹1.7/ml) · 4.2★ from 14,000+ Amazon India ratings
 - **Skip it if**: you want a fragrance-free formula.
 
 **Pros:** Alcohol-free toner that does not leave skin tight or dry. **Cons:** Contains mild fragrance that very sensitive skin may prefer to avoid.
@@ -88,7 +88,7 @@ PHA exfoliates with less irritation, making it safer if glycolic causes darkenin
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) works out cheapest at about ₹1.8 per ml (₹351 for 200ml). [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) is next at about ₹2.3 per ml. Prices were checked on Amazon.in in October 2026 and change often.
+[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) works out cheapest at about ₹1.7 per ml (₹336 for 200ml). [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) is next at about ₹2.3 per ml. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/) and [Minimalist PHA 3% Alcohol-Free Face Toner](/reviews/minimalist-pha-toner/) are fragrance-free. The listing for Plum Green Tea Alcohol-Free Toner does not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -100,4 +100,4 @@ PHA exfoliates with less irritation, making it safer if glycolic causes darkenin
 [Minimalist 8% Glycolic Acid Exfoliating Liquid](/reviews/minimalist-glycolic-toner/) and [Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) has the most ratings of these picks, with 14,100+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Plum Green Tea Alcohol-Free Toner](/reviews/plum-greentea-toner/) has the most ratings of these picks, with 14,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.

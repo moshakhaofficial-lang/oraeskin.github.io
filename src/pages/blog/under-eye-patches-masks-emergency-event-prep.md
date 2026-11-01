@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Hydrogel Under-Eye Patches for Quick Event & Makeup Prep"
 image: "/images/products/mizon-snail-gold-eye-patch.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Under-Eye Treatments"
 rating: 4.8
 keywords: "under eye patches india, hydrogel eye mask amazon, pre makeup eye prep"
@@ -38,7 +38,7 @@ For longer-term dark circle care, an eye cream with caffeine, retinoids or niaci
 | **[mCaffeine Coffee Hydrogel Under Eye Patches](/reviews/mcaffeine-coffee-eye-patches/)** | Caffeine (Coffee) + Hyaluronic Acid | Puffiness, Tired Eyes | ₹399 (30 patches) | 7.7/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0CR44H3PC?tag=oraeskin-21) |
 | **[The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/)** | 5% Caffeine + EGCG (Green Tea) | Puffy Eyes, Late Night Fatigue | ₹900 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -49,7 +49,7 @@ Snail mucin hydrogel patches, 30 pairs, rated by 13,800+ buyers.
 - **Key actives**: Snail Mucin, Gold
 - **Texture & finish**: Hydrogel Patch — hydrated, cool
 - **Fragrance**: Not Disclosed on Listing
-- **Price**: ₹899 for 60 patches · 4.2★ from 13,800+ Amazon India ratings
+- **Price**: ₹899 for 60 patches · 4.2★ from 13,000+ Amazon India ratings
 - **Skip it if**: you expect them to remove dark circles.
 
 **Pros:** 13,800+ ratings. **Cons:** Effects are temporary, mainly hydration and cooling.
@@ -108,7 +108,7 @@ A caffeine eye serum for longer-term care between events.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Dot & Key Watermelon Cooling Hydrogel Under Eye Patches](/reviews/dotkey-watermelon-eye-patches/) works out cheapest at about ₹10 per patch (₹623 for 60 patches). [mCaffeine Coffee Hydrogel Under Eye Patches](/reviews/mcaffeine-coffee-eye-patches/) is next at about ₹13 per patch. Prices were checked on Amazon.in in October 2026 and change often.
+[Dot & Key Watermelon Cooling Hydrogel Under Eye Patches](/reviews/dotkey-watermelon-eye-patches/) works out cheapest at about ₹10 per patch (₹623 for 60 patches). [mCaffeine Coffee Hydrogel Under Eye Patches](/reviews/mcaffeine-coffee-eye-patches/) is next at about ₹13 per patch. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [The Ordinary Caffeine Solution 5% + EGCG](/reviews/theordinary-caffeine-egcg/) is fragrance-free. The listings for Mizon Snail Intensive Gold Eye Gel Patch, Dot & Key Watermelon Cooling Hydrogel Under Eye Patches and mCaffeine Coffee Hydrogel Under Eye Patches do not say either way. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.

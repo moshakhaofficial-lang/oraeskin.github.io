@@ -3,6 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "How to Prevent Helmet Acne & Chinstrap Breakouts for Bike Commuters in India"
 image: "/images/products/sebogel-spot-gel.jpg"
 date: "2026-09-30"
+updated: "2026-11-01"
 category: "Acne Care"
 rating: 4.8
 keywords: "helmet acne bike commuters india, acne mechanica chinstrap breakouts, two wheeler helmet pimples jawline, sebogel helmet acne, minimalist salicylic cleanser commute"
@@ -23,7 +24,7 @@ Millions of Indian commuters navigate bustling city traffic daily on motorcycles
 | Product | Key Active Complex | Best Suited For | Est. Price | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Sebogel — Salicylic Acid & Nicotinamide Gel** | 2% Salicylic Acid + 6% Nicotinamide | Emergency Flattening of Inflamed Chinstrap Pustules | ~₹200 | [Check Price on Amazon.in](https://www.amazon.in/dp/B00U7CRJ00?tag=oraeskin-21) |
-| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated BHA + LHA + Zinc | Dissolving Commute Soot & Sebum Deep Inside Pores | ~₹284 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
+| **Minimalist — 2% Salicylic Acid Face Wash** | 2% Encapsulated BHA + LHA + Zinc | Dissolving Commute Soot & Sebum Deep Inside Pores | ~₹269 | [Check Price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21) |
 | **Simple — Kind to Skin Refreshing Facial Wash** | Pro-Vitamin B5 + Vitamin E | Gentle Morning Pre-Ride Cleansing Without Stripping | ~₹384 | [Check Price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21) |
 
 ---

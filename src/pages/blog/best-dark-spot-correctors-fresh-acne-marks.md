@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: "Best Serums for Fading Fresh Acne Marks (Dark Spots) in India"
 image: "/images/products/minimalist-alpha-arbutin.jpg"
 date: "2026-10-30"
-updated: "2026-10-30"
+updated: "2026-11-01"
 category: "Acne Spot Treatments"
 rating: 4.8
 keywords: "dark spot corrector india, fade fresh acne marks, post inflammatory hyperpigmentation spot gel"
@@ -12,7 +12,7 @@ topPickTitle: "Minimalist 2% Alpha Arbutin Face Serum"
 topPickBrand: "Minimalist"
 topPickAsin: "B08GGDRRQ8"
 topPickRating: "4 ★"
-topPickPrice: "~₹466"
+topPickPrice: "~₹481"
 ---
 
 The brown or dark marks left after pimples are **post-inflammatory hyperpigmentation (PIH)**, which is very common in Indian skin. They fade on their own over months, but brightening ingredients like **niacinamide, alpha arbutin and vitamin C**, plus **daily sunscreen**, speed things up. Without sunscreen, marks darken and linger.
@@ -25,12 +25,12 @@ These are the dark-spot serums on Amazon India we rate most highly.
 
 | Product | Key Actives | Best For | Price | OraeSkin Score | Amazon Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Minimalist 2% Alpha Arbutin Face Serum](/reviews/minimalist-alpha-arbutin/)** | 2% Alpha Arbutin + 1% Hyaluronic Acid | Melasma, Post-Acne Brown Marks (PIH) | ₹466 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21) |
-| **[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/)** | 10% Pure Niacinamide (Vitamin B3) + 1% Zinc PCA | Enlarged Pores, Midday Greasiness | ₹485 (30ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
+| **[Minimalist 2% Alpha Arbutin Face Serum](/reviews/minimalist-alpha-arbutin/)** | 2% Alpha Arbutin + 1% Hyaluronic Acid | Melasma, Post-Acne Brown Marks (PIH) | ₹481 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08GGDRRQ8?tag=oraeskin-21) |
+| **[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/)** | 10% Pure Niacinamide (Vitamin B3) + 1% Zinc PCA | Enlarged Pores, Midday Greasiness | ₹475 (30ml) | 8.8/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08F9MF314?tag=oraeskin-21) |
 | **[Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/)** | 10% Ethyl Ascorbic Acid + 1% Centella Asiatica Extract | Dark Spots, Dullness | ₹593 (30ml) | 8.6/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08MVBF4P8?tag=oraeskin-21) |
-| **[The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/)** | 10% Niacinamide + Zinc PCA | Pore Texture, Acne Redness | ₹490 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21) |
+| **[The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/)** | 10% Niacinamide + Zinc PCA | Pore Texture, Acne Redness | ₹469 (30ml) | 8.5/10 | [Check Price on Amazon.in](https://www.amazon.in/dp/B08TQGMWT1?tag=oraeskin-21) |
 
-*Prices and ratings were checked on Amazon.in in October 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
+*Prices and ratings were checked on Amazon.in in November 2026 and change often. Scores come from our [formulation-based scoring method](/how-we-review/).*
 
 ---
 
@@ -41,7 +41,7 @@ These are the dark-spot serums on Amazon India we rate most highly.
 - **Key actives**: 2% Alpha Arbutin, 1% Hyaluronic Acid, Hydroxyphenoxy Propionic Acid (HPA)
 - **Texture & finish**: Featherlight Serum — bare-skin hydrated
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹466 for 30ml (₹15.5/ml) · 4★ from 18,800+ Amazon India ratings
+- **Price**: ₹481 for 30ml (₹16.0/ml) · 4★ from 18,000+ Amazon India ratings
 - **Skip it if**: you are looking for active exfoliation or pore unclogging (use Salicylic Acid instead).
 
 **Pros:** One of the safest, most effective dark spot ingredients for melanin-rich skin. **Cons:** Requires strict daily sunscreen use to prevent UV from reversing fading progress.
@@ -57,7 +57,7 @@ These are the dark-spot serums on Amazon India we rate most highly.
 - **Key actives**: 10% Pure Niacinamide (Vitamin B3), 1% Zinc PCA, EUGROL G
 - **Texture & finish**: Water Gel Fluid — non-sticky clean
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹485 for 30ml (₹16.2/ml) · 4.2★ from 27,100+ Amazon India ratings
+- **Price**: ₹475 for 30ml (₹15.8/ml) · 4.2★ from 27,000+ Amazon India ratings
 - **Skip it if**: your skin experiences temporary flushing from high-strength Vitamin B3 (start with 5% if sensitive).
 
 **Pros:** Helps reduce oiliness without drying the skin. **Cons:** 10% active concentration can cause mild flushing on ultra-dry, irritated skin.
@@ -89,7 +89,7 @@ A gentle 10% vitamin C derivative under sunscreen.
 - **Key actives**: 10% Niacinamide, Zinc PCA, Centella Asiatica
 - **Texture & finish**: Fluid Gel — smooth matte
 - **Fragrance**: Fragrance-Free
-- **Price**: ₹490 for 30ml (₹16.3/ml) · 4.1★ from 16,700+ Amazon India ratings
+- **Price**: ₹469 for 30ml (₹15.6/ml) · 4.1★ from 16,000+ Amazon India ratings
 - **Skip it if**: you are allergic to Vitamin B3 complexes.
 
 **Pros:** Centella Asiatica calms irritation while Niacinamide balances sebum. **Cons:** Dropper can occasionally dispense too much product due to fluid viscosity.
@@ -104,7 +104,7 @@ A gentle 10% vitamin C derivative under sunscreen.
 ## Frequently Asked Questions
 
 ### Which is the best value?
-[Minimalist 2% Alpha Arbutin Face Serum](/reviews/minimalist-alpha-arbutin/) works out cheapest at about ₹16 per ml (₹466 for 30ml). [Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) works out about the same. Prices were checked on Amazon.in in October 2026 and change often.
+[The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/) works out cheapest at about ₹16 per ml (₹469 for 30ml). [Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) works out about the same. Prices were checked on Amazon.in in November 2026 and change often.
 
 ### Are any of these fragrance-free?
 [Minimalist 2% Alpha Arbutin Face Serum](/reviews/minimalist-alpha-arbutin/), [Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/), [Minimalist 10% Vitamin C Face Serum](/reviews/minimalist-vitc-10/) and [The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/) are fragrance-free. Fragrance is a common cause of irritation, so choose a fragrance-free option if your skin is sensitive or broken.
@@ -116,4 +116,4 @@ A gentle 10% vitamin C derivative under sunscreen.
 [Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) and [The Derma Co 10% Niacinamide Serum with Zinc](/reviews/dermaco-10-niacinamide/) are the picks here that suit oily or acne-prone skin, going by each formula and its listing. Introduce one new product at a time so you can tell what helps and what causes breakouts.
 
 ### Which is the most popular on Amazon India?
-[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) has the most ratings of these picks, with 27,100+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
+[Minimalist 10% Niacinamide Face Serum](/reviews/minimalist-niacinamide-10/) has the most ratings of these picks, with 27,000+ at 4.2★. Ratings show popularity, not whether a product suits your skin, so check the "Skip it if" note for each pick above.
