@@ -37,7 +37,8 @@
     "plum-greentea-toner",
     "plum-vitc-mandarin",
     "reequil-ultra-matte-spf50",
-    "simple-refreshing-wash"
+    "simple-refreshing-wash",
+    "theordinary-salicylic-solution-2"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
@@ -48,6 +49,7 @@
     "best-brightening-body-lotions-sun-tanned-arms",
     "best-budget-face-washes-under-300-india",
     "best-budget-lip-balms-under-200-india",
+    "best-budget-moisturizers-under-350-india",
     "best-ceramide-lip-balms-restoring-barrier",
     "best-chemical-exfoliating-lip-scrubs-smoothness",
     "best-complete-skincare-routine-under-1000-india",
@@ -821,6 +823,26 @@
       "type": "blog",
       "title": "Best Face Washes Under \u20b9300 on Amazon India",
       "date": "2026-11-01T11:23:51.378855+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "theordinary-salicylic-solution-2",
+      "type": "product",
+      "title": "Salicylic Acid 2% Solution",
+      "date": "2026-11-02T12:42:27.876963+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-budget-moisturizers-under-350-india",
+      "type": "blog",
+      "title": "Best Budget Moisturizers Under \u20b9350 in India",
+      "date": "2026-11-02T12:42:28.974241+00:00",
       "channels": [
         "twitter",
         "instagram"
