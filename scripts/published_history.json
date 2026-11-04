@@ -34,6 +34,7 @@
     "minimalist-spf30-lipbalm",
     "minimalist-spf50",
     "minimalist-vitc-10",
+    "pink-foundry-spot-corrector",
     "plum-bodylovin-vanilla-lotion",
     "plum-greentea-toner",
     "plum-vitc-mandarin",
@@ -76,6 +77,7 @@
     "complete-body-skincare-routine-indian-monsoon",
     "how-to-fix-hair-oil-acne-forehead-temples-india",
     "how-to-lighten-pigmented-dark-lips-skincare-guide",
+    "how-to-treat-hereditary-dark-circles-south-asian-skin",
     "how-to-use-glycolic-acid-toner-safely-melanin-skin",
     "morning-vs-night-cleanser-should-you-wash-twice",
     "transformative-power-facewash",
@@ -865,6 +867,26 @@
       "type": "blog",
       "title": "Best Soothing Aftershave Moisturizers for Men: Eliminating Razor Bumps & Burn",
       "date": "2026-11-03T12:08:16.058533+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "pink-foundry-spot-corrector",
+      "type": "product",
+      "title": "Acne Spot Corrector",
+      "date": "2026-11-04T12:21:01.119868+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "how-to-treat-hereditary-dark-circles-south-asian-skin",
+      "type": "blog",
+      "title": "How to Treat Hereditary Dark Circles in South Asian Skin",
+      "date": "2026-11-04T12:21:02.217232+00:00",
       "channels": [
         "twitter",
         "instagram"
