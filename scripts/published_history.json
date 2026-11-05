@@ -21,6 +21,7 @@
     "drsheths-ceramide-vitc-spf50",
     "elf-lip-exfoliator",
     "faceshop-rice-cleanser",
+    "minimalist-ala-glycolic-facewash",
     "minimalist-alpha-arbutin",
     "minimalist-b5-moisturizer",
     "minimalist-caffeine-eye-serum",
@@ -74,6 +75,7 @@
     "best-salicylic-acid-spot-gels-urgent-breakouts",
     "best-tranexamic-acid-serums-stubborn-pigmentation-india",
     "best-vitamin-c-serums-for-indian-skin",
+    "best-vitamin-c-under-eye-creams-brightening",
     "complete-body-skincare-routine-indian-monsoon",
     "how-to-fix-hair-oil-acne-forehead-temples-india",
     "how-to-lighten-pigmented-dark-lips-skincare-guide",
@@ -887,6 +889,26 @@
       "type": "blog",
       "title": "How to Treat Hereditary Dark Circles in South Asian Skin",
       "date": "2026-11-04T12:21:02.217232+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "minimalist-ala-glycolic-facewash",
+      "type": "product",
+      "title": "7% ALA + Glycolic Brightening Face Wash",
+      "date": "2026-11-05T12:35:05.043319+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-vitamin-c-under-eye-creams-brightening",
+      "type": "blog",
+      "title": "Best Under-Eye Creams for Brown, Pigmented Dark Circles in India",
+      "date": "2026-11-05T12:35:05.890523+00:00",
       "channels": [
         "twitter",
         "instagram"
