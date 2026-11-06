@@ -21,6 +21,7 @@
     "drsheths-ceramide-vitc-spf50",
     "elf-lip-exfoliator",
     "faceshop-rice-cleanser",
+    "fixderma-sunscreen-stick",
     "minimalist-ala-glycolic-facewash",
     "minimalist-alpha-arbutin",
     "minimalist-b5-moisturizer",
@@ -78,6 +79,7 @@
     "best-vitamin-c-under-eye-creams-brightening",
     "complete-body-skincare-routine-indian-monsoon",
     "how-to-fix-hair-oil-acne-forehead-temples-india",
+    "how-to-lighten-dark-knuckles-finger-hyperpigmentation-india",
     "how-to-lighten-pigmented-dark-lips-skincare-guide",
     "how-to-treat-hereditary-dark-circles-south-asian-skin",
     "how-to-use-glycolic-acid-toner-safely-melanin-skin",
@@ -909,6 +911,26 @@
       "type": "blog",
       "title": "Best Under-Eye Creams for Brown, Pigmented Dark Circles in India",
       "date": "2026-11-05T12:35:05.890523+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "fixderma-sunscreen-stick",
+      "type": "product",
+      "title": "Shadow Invisible Sunscreen Stick SPF 50",
+      "date": "2026-11-06T12:17:54.955411+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "how-to-lighten-dark-knuckles-finger-hyperpigmentation-india",
+      "type": "blog",
+      "title": "How to Lighten Dark Knuckles & Finger Hyperpigmentation: Clinical Routine for Indian Hands",
+      "date": "2026-11-06T12:17:55.893527+00:00",
       "channels": [
         "twitter",
         "instagram"
