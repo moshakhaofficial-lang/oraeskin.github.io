@@ -42,6 +42,7 @@
     "plum-vitc-mandarin",
     "reequil-ultra-matte-spf50",
     "simple-refreshing-wash",
+    "skin1004-probio-cica-ampoule",
     "theordinary-salicylic-solution-2"
   ],
   "published_blogs": [
@@ -75,6 +76,7 @@
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-salicylic-acid-spot-gels-urgent-breakouts",
     "best-tranexamic-acid-serums-stubborn-pigmentation-india",
+    "best-under-eye-serums-metal-roller-applicator",
     "best-vitamin-c-serums-for-indian-skin",
     "best-vitamin-c-under-eye-creams-brightening",
     "complete-body-skincare-routine-indian-monsoon",
@@ -931,6 +933,26 @@
       "type": "blog",
       "title": "How to Lighten Dark Knuckles & Finger Hyperpigmentation: Clinical Routine for Indian Hands",
       "date": "2026-11-06T12:17:55.893527+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "skin1004-probio-cica-ampoule",
+      "type": "product",
+      "title": "Centella Probio-Cica Intensive Ampoule",
+      "date": "2026-11-07T11:12:51.255952+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-under-eye-serums-metal-roller-applicator",
+      "type": "blog",
+      "title": "Best Under-Eye Serums with Metal Roller Applicators in India",
+      "date": "2026-11-07T11:12:52.317522+00:00",
       "channels": [
         "twitter",
         "instagram"
