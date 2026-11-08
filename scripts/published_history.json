@@ -39,6 +39,7 @@
     "pink-foundry-spot-corrector",
     "plum-bodylovin-vanilla-lotion",
     "plum-greentea-toner",
+    "plum-vanilla-caramello-lotion",
     "plum-vitc-mandarin",
     "reequil-ultra-matte-spf50",
     "simple-refreshing-wash",
@@ -65,6 +66,7 @@
     "best-fermented-rice-kombucha-toners-india",
     "best-foot-creams-cracked-heels-urea-salicylic",
     "best-gentle-cleansers-for-dry-skin-india",
+    "best-hydrating-eye-gels-screen-fatigue-india",
     "best-hydrating-milky-toners-glass-skin-india",
     "best-lactic-acid-lotions-rough-elbows-knees-india",
     "best-lip-sleeping-masks-chapped-peeling-lips",
@@ -953,6 +955,26 @@
       "type": "blog",
       "title": "Best Under-Eye Serums with Metal Roller Applicators in India",
       "date": "2026-11-07T11:12:52.317522+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "plum-vanilla-caramello-lotion",
+      "type": "product",
+      "title": "BodyLovin' Vanilla Caramello Body Lotion",
+      "date": "2026-11-08T11:24:36.142652+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-hydrating-eye-gels-screen-fatigue-india",
+      "type": "blog",
+      "title": "Best Lightweight Eye Serums for Screen Fatigue & Tired Eyes in India",
+      "date": "2026-11-08T11:24:37.196352+00:00",
       "channels": [
         "twitter",
         "instagram"
