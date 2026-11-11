@@ -1,6 +1,7 @@
 {
   "published_products": [
     "aqualogica-radiance-spf50",
+    "aquaoat-moisturizing-cream",
     "bebodywise-lactic-5-lotion",
     "benzac-ac-5-wash",
     "bioderma-atoderm-baume",
@@ -89,6 +90,7 @@
     "how-to-fix-hair-oil-acne-forehead-temples-india",
     "how-to-lighten-dark-knuckles-finger-hyperpigmentation-india",
     "how-to-lighten-pigmented-dark-lips-skincare-guide",
+    "how-to-prevent-post-waxing-bumps-strawberry-skin-india",
     "how-to-treat-hereditary-dark-circles-south-asian-skin",
     "how-to-use-glycolic-acid-toner-safely-melanin-skin",
     "morning-vs-night-cleanser-should-you-wash-twice",
@@ -1019,6 +1021,26 @@
       "type": "blog",
       "title": "Best Vitamin C Serums for Beginners & Sensitive Skin in India",
       "date": "2026-11-10T12:49:56.459931+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "aquaoat-moisturizing-cream",
+      "type": "product",
+      "title": "Aqua Oat Moisturizing Cream",
+      "date": "2026-11-11T11:59:01.381899+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "how-to-prevent-post-waxing-bumps-strawberry-skin-india",
+      "type": "blog",
+      "title": "How to Prevent Post-Waxing Bumps & Strawberry Skin on Body in Indian Weather",
+      "date": "2026-11-11T11:59:02.494210+00:00",
       "channels": [
         "twitter",
         "instagram"
