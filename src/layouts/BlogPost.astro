@@ -2,10 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import AffiliateDisclaimer from '../components/AffiliateDisclaimer.astro';
 import MobileStickyBar from '../components/MobileStickyBar.astro';
 import RelatedProducts from '../components/RelatedProducts.astro';
-import { getRelatedProducts } from '../data/products';
+import { getRelatedProducts, PRODUCTS } from '../data/products';
+import { getAmazonAffiliateUrl, PRODUCT_SEARCH_FALLBACKS } from '../config/site';
 import fs from 'node:fs';
 
 const { frontmatter } = Astro.props;
@@ -23,6 +23,28 @@ const bodyText = rawContent.replace(/^---[\s\S]*?\n---\n/, '').replace(/\]\([^)]
 const readMinutes = Math.max(2, Math.round(bodyText.split(/\s+/).filter(Boolean).length / 200));
 const topicText = [frontmatter.title, frontmatter.category, frontmatter.keywords, frontmatter.description].filter(Boolean).join(' ');
 const relatedProducts = getRelatedProducts(topicText, mentionedAsins);
+
+// Top pick shown above the fold and in the sticky bar. Live product data wins over frontmatter.
+// Guides without a named top pick feature the first reviewed product they link to instead.
+const resolveAsin = (a: string) => PRODUCT_SEARCH_FALLBACKS[a] || a;
+const firstReviewed = mentionedAsins.map(resolveAsin).find(a => PRODUCTS.some(p => p.asin === a && p.inStock));
+const pickAsin = frontmatter.topPickAsin ? resolveAsin(frontmatter.topPickAsin) : firstReviewed;
+const pickLabel = frontmatter.topPickAsin ? 'Our top pick in this guide' : 'Featured in this guide';
+const pickProduct = pickAsin ? PRODUCTS.find(p => p.asin === pickAsin && p.inStock) : undefined;
+const topPick = pickAsin && frontmatter.noindex !== true ? {
+    asin: pickAsin,
+    url: getAmazonAffiliateUrl(pickAsin),
+    brand: pickProduct?.brand || frontmatter.topPickBrand || '',
+    title: pickProduct?.name || frontmatter.topPickTitle || '',
+    image: pickProduct?.image,
+    rating: pickProduct?.amazonRating ?? (parseFloat(frontmatter.topPickRating) || undefined),
+    reviews: pickProduct?.amazonReviews,
+    price: pickProduct?.priceEst || frontmatter.topPickPrice,
+    priceChecked: pickProduct?.lastPriceChecked,
+    score: pickProduct?.oraeSkinScore,
+    bestFor: pickProduct?.bestFor,
+    reviewUrl: pickProduct ? `/reviews/${pickProduct.id}/` : undefined,
+} : undefined;
 
 const rawDate = frontmatter.updated || frontmatter.date;
 const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
@@ -88,9 +110,43 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
                     <span class="read-time">{readMinutes} Min Read</span>
                 </div>
 
-                <AffiliateDisclaimer compact={true} />
+                <p class="disclosure-line">
+                    We earn a commission when you buy through Amazon links on this page, at no extra cost to you. <a href="/disclosure/">How we earn</a>
+                </p>
 
-                {frontmatter.image && (
+                {topPick && topPick.title ? (
+                    <div class="top-pick-box" id="top-pick-box">
+                        <span class="tp-label">{pickLabel}</span>
+                        <div class="tp-main">
+                            {topPick.image && (
+                                <a href={topPick.url} target="_blank" rel="nofollow sponsored noopener" class="tp-img" data-placement="guide_top_pick_image" tabindex="-1" aria-hidden="true">
+                                    <img src={topPick.image} alt="" width="120" height="120" fetchpriority="high" />
+                                </a>
+                            )}
+                            <div class="tp-info">
+                                <span class="tp-brand">{topPick.brand}</span>
+                                <strong class="tp-title">{topPick.title}</strong>
+                                <div class="tp-meta">
+                                    {topPick.rating && (
+                                        <span class="tp-rating">
+                                            <span class="star-meter" style={`--rating: ${topPick.rating}`} aria-hidden="true"></span>
+                                            <span>{topPick.rating.toFixed(1)} on Amazon{topPick.reviews ? ` (${topPick.reviews})` : ''}</span>
+                                        </span>
+                                    )}
+                                    {topPick.score && <span class="tp-score">OraeSkin Score {topPick.score.toFixed(1)}/10</span>}
+                                </div>
+                                {topPick.bestFor && <p class="tp-best"><strong>Best for:</strong> {topPick.bestFor}</p>}
+                            </div>
+                        </div>
+                        <div class="tp-actions">
+                            <a href={topPick.url} target="_blank" rel="nofollow sponsored noopener" class="btn-buy" data-placement="guide_top_pick">
+                                {topPick.price ? `Check price on Amazon · ${topPick.price}` : 'Check price on Amazon'}{'\u00a0→'}
+                            </a>
+                            {topPick.reviewUrl && <a href={topPick.reviewUrl} class="tp-review">Read our review</a>}
+                        </div>
+                        {topPick.priceChecked && <p class="tp-note">Price last checked {topPick.priceChecked}. Amazon's price may have changed.</p>}
+                    </div>
+                ) : frontmatter.image && (
                     <div class="hero-image-wrapper">
                         <img src={frontmatter.image} alt={frontmatter.title} class="article-hero-img" width="800" height="800" fetchpriority="high" />
                     </div>
@@ -121,13 +177,15 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
             </footer>
         </article>
     </main>
-    {frontmatter.noindex !== true && (
-        <MobileStickyBar 
-            title={frontmatter.topPickTitle || "Minimalist SPF 50 Multi-Vitamin Sunscreen"}
-            brand={frontmatter.topPickBrand || "Minimalist"}
-            asinOrUrl={frontmatter.topPickAsin || "B09FPS9D5T"}
-            rating={frontmatter.topPickRating || "4.8 ★"}
-            priceEst={frontmatter.topPickPrice || "~₹399"}
+    {topPick && topPick.title && (
+        <MobileStickyBar
+            title={topPick.title}
+            brand={topPick.brand}
+            asinOrUrl={topPick.asin}
+            rating={topPick.rating ? topPick.rating.toFixed(1) : undefined}
+            priceEst={topPick.price}
+            image={topPick.image}
+            label={pickLabel.replace('Our top', 'Top')}
         />
     )}
     <Footer />
@@ -198,10 +256,141 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
     }
 
     .hero-image-wrapper {
-        margin-top: 24px;
+        margin-top: 20px;
         border-radius: 12px;
         overflow: hidden;
-        max-height: 420px;
+        max-height: 320px;
+    }
+
+    .disclosure-line {
+        margin: 0;
+        font-size: 0.82rem;
+        line-height: 1.5;
+        color: var(--ink-mute);
+    }
+
+    .disclosure-line a {
+        color: var(--accent);
+        font-weight: 600;
+    }
+
+    .top-pick-box {
+        margin-top: 20px;
+        padding: 18px;
+        background: linear-gradient(180deg, #fffaf0 0%, #ffffff 70%);
+        border: 1px solid #f0dfb8;
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+    }
+
+    .tp-label {
+        display: inline-block;
+        margin-bottom: 12px;
+        padding: 4px 10px;
+        background: var(--ink);
+        color: #fff;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.8px;
+        text-transform: uppercase;
+        border-radius: 6px;
+    }
+
+    .tp-main {
+        display: flex;
+        gap: 16px;
+        align-items: flex-start;
+    }
+
+    .tp-img {
+        flex: 0 0 108px;
+        height: 108px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    .tp-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+    .tp-info {
+        min-width: 0;
+    }
+
+    .tp-brand {
+        display: block;
+        font-size: 0.74rem;
+        font-weight: 700;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: var(--accent);
+    }
+
+    .tp-title {
+        display: block;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.2rem;
+        line-height: 1.3;
+        color: var(--ink);
+        margin: 2px 0 8px;
+    }
+
+    .tp-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px 14px;
+        align-items: center;
+        font-size: 0.84rem;
+        color: var(--ink-soft);
+    }
+
+    .tp-rating {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        white-space: nowrap;
+    }
+
+    .tp-score {
+        padding: 2px 8px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        font-weight: 700;
+        border-radius: 6px;
+    }
+
+    .tp-best {
+        margin: 8px 0 0;
+        font-size: 0.88rem;
+        line-height: 1.45;
+        color: var(--ink-soft);
+    }
+
+    .tp-actions {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px 18px;
+        margin-top: 16px;
+    }
+
+    .tp-review {
+        color: var(--accent);
+        font-weight: 600;
+        font-size: 0.92rem;
+    }
+
+    .tp-note {
+        margin: 10px 0 0;
+        font-size: 0.76rem;
+        color: var(--ink-mute);
     }
 
     .article-hero-img {
@@ -375,7 +564,47 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
         }
 
         .article-title {
-            font-size: 1.85rem;
+            font-size: 1.7rem;
+        }
+
+        .article-header {
+            margin-bottom: 24px;
+        }
+
+        .top-pick-box {
+            padding: 14px;
+        }
+
+        .tp-img {
+            flex-basis: 84px;
+            height: 84px;
+        }
+
+        .tp-title {
+            font-size: 1.05rem;
+        }
+
+        .tp-best {
+            display: none;
+        }
+
+        .tp-meta {
+            font-size: 0.8rem;
+        }
+
+        .tp-actions {
+            margin-top: 12px;
+        }
+
+        .tp-actions .btn-buy {
+            flex: 1 0 100%;
+            padding: 12px 10px;
+            font-size: 0.94rem;
+        }
+
+        .tp-review {
+            flex: 1 0 100%;
+            text-align: center;
         }
 
         .article-content {

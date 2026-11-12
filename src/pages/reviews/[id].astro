@@ -207,8 +207,10 @@ const faqSchema = {
                                     target="_blank" 
                                     rel="nofollow sponsored noopener" 
                                     class="btn-primary-amazon"
+                                    data-placement="review_hero"
+                                    data-product={product.id}
                                 >
-                                    <span>Check Price on Amazon →</span>
+                                    <span>Check price on Amazon →</span>
                                 </a>
                                 <p class="affiliate-disclosure-note">
                                     Affiliate link · We may earn a commission at no extra cost to you.
@@ -232,7 +234,6 @@ const faqSchema = {
                                 <span class="score-num">{product.oraeSkinScore.toFixed(1)}</span>
                                 <span class="score-denom">/10</span>
                             </div>
-                            <span class="score-rating-stars">★★★★★</span>
                             <span class="score-desc">Weighted score from our review method</span>
                         </div>
 
@@ -242,7 +243,7 @@ const faqSchema = {
                                 <span class="score-num">{product.rating.toFixed(1)}</span>
                                 <span class="score-denom">/5</span>
                             </div>
-                            <span class="score-rating-stars amazon-stars">★★★★★</span>
+                            <span class="score-rating-stars"><span class="star-meter" style={`--rating: ${product.rating}`} aria-hidden="true"></span></span>
                             <span class="score-desc">{product.reviewCount} verified consumer reviews</span>
                         </div>
                     </div>
@@ -432,6 +433,15 @@ const faqSchema = {
                     </div>
                 </section>
 
+                {product.inStock && (
+                    <div class="mid-buy-row">
+                        <a href={affiliateUrl} target="_blank" rel="nofollow sponsored noopener" class="btn-buy" data-placement="review_after_pros_cons" data-product={product.id}>
+                            Check today's price on Amazon · ₹{product.price}{'\u00a0→'}
+                        </a>
+                        <span>Price last checked {product.lastPriceChecked}. Affiliate link.</span>
+                    </div>
+                )}
+
                 <!-- Section 4: Value Economics -->
                 <section class="review-section">
                     <h2>4. Value for Money & Daily Cost-Per-Use</h2>
@@ -467,6 +477,8 @@ const faqSchema = {
                                                 target="_blank" 
                                                 rel="nofollow sponsored noopener" 
                                                 class="alt-buy-link"
+                                                data-placement="review_alternative"
+                                                data-product={alt.product.id}
                                             >
                                                 ₹{alt.product.price} on Amazon
                                             </a>
@@ -508,6 +520,8 @@ const faqSchema = {
                                 target="_blank" 
                                 rel="nofollow sponsored noopener" 
                                 class="sticky-btn"
+                                data-placement="review_sticky"
+                                data-product={product.id}
                             >
                                 Check Price on Amazon →
                             </a>
@@ -669,19 +683,20 @@ const faqSchema = {
         display: block;
         width: 100%;
         box-sizing: border-box;
-        background: linear-gradient(135deg, #e8863d, #c87a54);
-        color: #ffffff !important;
+        background: var(--buy);
+        color: var(--buy-ink) !important;
+        border: 1px solid #e0a400;
         font-weight: 700;
-        font-size: 0.92rem;
-        padding: 11px 18px;
-        border-radius: 24px;
+        font-size: 1rem;
+        padding: 14px 18px;
+        border-radius: 12px;
         text-decoration: none;
-        box-shadow: 0 4px 14px rgba(200, 122, 84, 0.35);
+        box-shadow: 0 2px 0 #d99f00;
         transition: all 0.2s ease;
     }
 
     .btn-primary-amazon:hover {
-        background: linear-gradient(135deg, #d3732b, #b3633d);
+        background: var(--buy-hover);
         transform: translateY(-2px);
     }
 
@@ -1136,9 +1151,36 @@ const faqSchema = {
     }
 
     .alt-buy-link {
-        color: #2e7d32;
+        color: var(--buy-ink);
+        background: var(--buy);
+        border: 1px solid #e0a400;
+        border-radius: 8px;
+        padding: 4px 10px;
         text-decoration: none;
         font-weight: 700;
+        white-space: nowrap;
+    }
+
+    .alt-links {
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .mid-buy-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px 16px;
+        margin: 4px 0 28px;
+        padding: 16px;
+        background: #fffaf0;
+        border: 1px solid #f0dfb8;
+        border-radius: var(--radius);
+    }
+
+    .mid-buy-row span {
+        font-size: 0.78rem;
+        color: var(--ink-mute);
     }
 
     /* FAQ List */
@@ -1230,19 +1272,20 @@ const faqSchema = {
     }
 
     .sticky-btn {
-        background: linear-gradient(135deg, #e8863d, #c87a54);
-        color: #ffffff !important;
+        background: var(--buy);
+        color: var(--buy-ink) !important;
+        border: 1px solid #e0a400;
         font-weight: 700;
         font-size: 0.9rem;
         padding: 10px 20px;
-        border-radius: 20px;
+        border-radius: 10px;
         text-decoration: none;
         white-space: nowrap;
         transition: all 0.2s ease;
     }
 
     .sticky-btn:hover {
-        background: linear-gradient(135deg, #d3732b, #b3633d);
+        background: var(--buy-hover);
         transform: translateY(-1px);
     }
 
@@ -1252,8 +1295,22 @@ const faqSchema = {
             padding: 20px;
         }
 
-        .dual-rating-banner {
-            grid-template-columns: 1fr;
+        /* Keep both scores side by side and the photo short so the buy button is on the first screen */
+        .product-img-frame {
+            padding: 10px;
+        }
+
+        .product-img-frame img {
+            max-height: 170px;
+            width: auto;
+        }
+
+        .review-subtitle {
+            display: none;
+        }
+
+        .mid-buy-row .btn-buy {
+            flex: 1 0 100%;
         }
 
         .suitability-cards {

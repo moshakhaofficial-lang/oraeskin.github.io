@@ -96,8 +96,8 @@ const links = [
                         <p class="spotlight-rating">⭐ {spotlightProduct.rating}/5.0 • <span class="badge-text">{spotlightProduct.badge}</span></p>
                         <div class="spotlight-actions">
                             <a href={spotlightProduct.reviewUrl} class="btn-review">Read Our Review</a>
-                            <a href={spotlightProduct.amazonUrl} target="_blank" rel="sponsored nofollow noopener noreferrer" class="btn-amazon">
-                                Buy on Amazon ({spotlightProduct.price})
+                            <a href={spotlightProduct.amazonUrl} target="_blank" rel="sponsored nofollow noopener noreferrer" class="btn-amazon" data-placement="links_spotlight">
+                                Check price on Amazon ({spotlightProduct.price})
                             </a>
                         </div>
                     </div>
@@ -353,12 +353,13 @@ const links = [
     }
 
     .btn-amazon {
-        background: #d4a574;
-        color: #ffffff;
+        background: var(--buy);
+        border: 1px solid #e0a400;
+        color: var(--buy-ink) !important;
     }
 
     .btn-amazon:hover {
-        background: #bf8d58;
+        background: var(--buy-hover);
     }
 
     /* Links List */

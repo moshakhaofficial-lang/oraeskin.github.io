@@ -43,6 +43,7 @@ const { products, heading = 'Products We Recommend', eyebrow = 'Shop This Guide'
                             target="_blank"
                             rel="nofollow sponsored noopener"
                             class="rp-shop"
+                            data-placement="related_products"
                             data-product={p.id}
                         >
                             Shop on Amazon
@@ -62,14 +63,6 @@ const { products, heading = 'Products We Recommend', eyebrow = 'Shop This Guide'
     </aside>
 )}
 
-<script>
-    document.querySelectorAll<HTMLAnchorElement>('.rp-shop').forEach(link => {
-        link.addEventListener('click', () => {
-            const w = window as unknown as { gtag?: (...args: unknown[]) => void };
-            w.gtag?.('event', 'affiliate_click', { placement: 'related_products', product_id: link.dataset.product });
-        });
-    });
-</script>
 
 <style>
     .related-products {
@@ -266,20 +259,20 @@ const { products, heading = 'Products We Recommend', eyebrow = 'Shop This Guide'
         align-items: center;
         justify-content: center;
         gap: 6px;
-        background: linear-gradient(135deg, #e8863d, #c87a54);
-        color: #ffffff !important;
+        background: var(--buy);
+        color: var(--buy-ink) !important;
+        border: 1px solid #e0a400;
         font-weight: 700;
         font-size: 0.86rem;
         padding: 11px 14px;
-        border-radius: 24px;
+        border-radius: 10px;
         text-decoration: none !important;
-        box-shadow: 0 4px 12px rgba(200, 122, 84, 0.28);
+        box-shadow: 0 2px 0 #d99f00;
         transition: all 0.25s ease;
     }
 
     .rp-shop:hover {
-        background: linear-gradient(135deg, #d3732b, #b3633d);
-        box-shadow: 0 6px 18px rgba(200, 122, 84, 0.4);
+        background: var(--buy-hover);
     }
 
     .rp-shop svg {

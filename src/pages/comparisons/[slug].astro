@@ -133,8 +133,9 @@ const breadcrumbSchema = {
                             target="_blank" 
                             rel="nofollow sponsored noopener" 
                             class="btn-amazon-primary"
+                            data-placement="comparison_hero"
                         >
-                            Check Price on Amazon →
+                            Check price on Amazon →
                         </a>
                         <a href={`/reviews/${productA.id}/`} class="btn-review-link">Read Full Review →</a>
                     </div>
@@ -170,8 +171,9 @@ const breadcrumbSchema = {
                             target="_blank" 
                             rel="nofollow sponsored noopener" 
                             class="btn-amazon-primary"
+                            data-placement="comparison_hero"
                         >
-                            Check Price on Amazon →
+                            Check price on Amazon →
                         </a>
                         <a href={`/reviews/${productB.id}/`} class="btn-review-link">Read Full Review →</a>
                     </div>
@@ -268,7 +270,7 @@ const breadcrumbSchema = {
                         <span class="winner-tag">Choose {productA.brand} If:</span>
                         <h4>{productA.name}</h4>
                         <p>{comp.winnerForA}</p>
-                        <a href={affiliateUrlA} target="_blank" rel="nofollow sponsored noopener" class="btn-winner">
+                        <a href={affiliateUrlA} target="_blank" rel="nofollow sponsored noopener" class="btn-winner" data-placement="comparison_verdict">
                             Check {productA.brand} Price →
                         </a>
                     </div>
@@ -277,7 +279,7 @@ const breadcrumbSchema = {
                         <span class="winner-tag">Choose {productB.brand} If:</span>
                         <h4>{productB.name}</h4>
                         <p>{comp.winnerForB}</p>
-                        <a href={affiliateUrlB} target="_blank" rel="nofollow sponsored noopener" class="btn-winner">
+                        <a href={affiliateUrlB} target="_blank" rel="nofollow sponsored noopener" class="btn-winner" data-placement="comparison_verdict">
                             Check {productB.brand} Price →
                         </a>
                     </div>
@@ -529,18 +531,20 @@ const breadcrumbSchema = {
     }
 
     .btn-amazon-primary {
-        background: linear-gradient(135deg, #e8863d, #c87a54);
-        color: #fff !important;
+        background: var(--buy);
+        border: 1px solid #e0a400;
+        color: var(--buy-ink) !important;
         font-weight: 700;
-        font-size: 0.86rem;
-        padding: 8px 14px;
-        border-radius: 20px;
+        font-size: 0.92rem;
+        padding: 11px 14px;
+        border-radius: 10px;
+        text-align: center;
         text-decoration: none;
         transition: all 0.2s ease;
     }
 
     .btn-amazon-primary:hover {
-        background: linear-gradient(135deg, #d3732b, #b3633d);
+        background: var(--buy-hover);
         transform: translateY(-2px);
     }
 
@@ -699,18 +703,19 @@ const breadcrumbSchema = {
 
     .btn-winner {
         align-self: flex-start;
-        background: #2c2c2c;
-        color: #fff;
+        background: var(--buy);
+        border: 1px solid #e0a400;
+        color: var(--buy-ink) !important;
         font-size: 0.82rem;
         font-weight: 700;
-        padding: 6px 14px;
-        border-radius: 16px;
+        padding: 9px 14px;
+        border-radius: 10px;
         text-decoration: none;
         transition: all 0.2s ease;
     }
 
     .btn-winner:hover {
-        background: #c87a54;
+        background: var(--buy-hover);
     }
 
     .analysis-box {

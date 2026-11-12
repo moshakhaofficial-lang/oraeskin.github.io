@@ -61,8 +61,9 @@ const { title = "Quick Comparison: Best Skincare Picks on Amazon India", product
                                     target="_blank" 
                                     rel="nofollow sponsored noopener" 
                                     class="table-btn"
+                                    data-placement="comparison_table"
                                 >
-                                    Check on Amazon
+                                    Check price →
                                 </a>
                             </td>
                         </tr>
@@ -188,10 +189,11 @@ const { title = "Quick Comparison: Best Skincare Picks on Amazon India", product
 
     .table-btn {
         display: inline-block;
-        background: #e8863d;
-        color: #ffffff !important;
+        background: var(--buy);
+        border: 1px solid #e0a400;
+        color: var(--buy-ink) !important;
         padding: 7px 14px;
-        border-radius: 20px;
+        border-radius: 10px;
         text-decoration: none;
         font-weight: 600;
         font-size: 0.8rem;
@@ -200,6 +202,6 @@ const { title = "Quick Comparison: Best Skincare Picks on Amazon India", product
     }
 
     .table-btn:hover {
-        background: #d3732b;
+        background: var(--buy-hover);
     }
 </style>

@@ -1,162 +1,90 @@
 ---
-import ProductCard from './ProductCard.astro';
-import { getProductById } from '../data/products';
+import { getAmazonAffiliateUrl } from '../config/site';
+import { getProductById, AVAILABLE_PRODUCTS, type SkincareProduct } from '../data/products';
+import { CATEGORIES } from '../data/categories';
 
-const editorialPicks = [
-    {
-        rank: 1,
-        id: "minimalist-spf50",
-        oraeSkinScore: 9.6,
-        title: "SPF 50 PA++++ Multi-Vitamin Sunscreen with Niacinamide",
-        brand: "Minimalist",
-        image: "/images/products/minimalist-spf50.jpg",
-        asinOrUrl: "B09FPS9D5T",
-        rating: 4.8,
-        reviewCount: "24,300+",
-        badge: "Best Overall Sunscreen",
-        bestFor: "All Indian Skin Types (Zero White Cast & Lightweight)",
-        keyIngredients: ["Niacinamide (Vitamin B3)", "Vitamin B5", "Photostable European Filters"],
-        pros: [
-            "Completely invisible on melanin-rich Indian skin",
-            "Non-comedogenic, won't clog pores in humid weather",
-            "Photostable and fragrance-free daily wear"
-        ],
-        cons: [
-            "Slightly dewy finish (oily skin may prefer powder touch-up)"
-        ],
-        priceEstimate: "₹399"
-    },
-    {
-        rank: 2,
-        id: "dermaco-hyaluronic-spf50",
-        oraeSkinScore: 9.5,
-        title: "1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++)",
-        brand: "The Derma Co",
-        image: "/images/products/dermaco-hyaluronic.jpg",
-        asinOrUrl: "B0BVWDJTHF",
-        rating: 4.7,
-        reviewCount: "21,800+",
-        badge: "Best for Oily & Acne-Prone",
-        bestFor: "Oily skin, active acne, and hot humid climate",
-        keyIngredients: ["1% Hyaluronic Acid", "Vitamin E", "Broad Spectrum UV Filters"],
-        pros: [
-            "Ultra-lightweight water gel that absorbs in seconds",
-            "Protects against blue light and harsh UV damage",
-            "Zero greasy residue beneath daily makeup"
-        ],
-        cons: [
-            "Shake tube gently before first dispensing"
-        ],
-        priceEstimate: "₹449"
-    },
-    {
-        rank: 3,
-        id: "cerave-foaming-cleanser",
-        oraeSkinScore: 9.6,
-        title: "Foaming Facial Cleanser with 3 Essential Ceramides",
-        brand: "CeraVe",
-        image: "/images/products/cerave-cleanser.jpg",
-        asinOrUrl: "B07C5SKVL7",
-        rating: 4.8,
-        reviewCount: "42,500+",
-        badge: "Editor's Barrier Pick",
-        bestFor: "Normal to oily, sensitive, and barrier-compromised skin",
-        keyIngredients: ["Ceramides 1, 3, 6-II", "Hyaluronic Acid", "Niacinamide"],
-        pros: [
-            "Maintains natural skin barrier while purifying excess sebum",
-            "Fragrance-free formula suited to sensitive skin",
-            "Generous size that lasts multiple months"
-        ],
-        cons: [
-            "Mild lather (does not foam aggressively)"
-        ],
-        priceEstimate: "₹625"
-    },
-    {
-        rank: 4,
-        id: "dotkey-rice-ceramide-cream",
-        oraeSkinScore: 9.4,
-        title: "Barrier Repair Moisturizer with Ceramides & Rice Water",
-        brand: "Dot & Key",
-        image: "/images/products/dotkey-rice-cream.jpg",
-        asinOrUrl: "B0BDVG99J5",
-        rating: 4.7,
-        reviewCount: "18,300+",
-        badge: "Best Barrier Repair",
-        bestFor: "Dullness, dehydrated skin barrier, and post-acne marks",
-        keyIngredients: ["Fermented Rice Water", "5 Essential Ceramides", "Hyaluronic Acid", "Probiotics"],
-        pros: [
-            "Deeply replenishes intercellular lipids and heals dry patches",
-            "Delivers radiant, supple Korean glass-skin bounce",
-            "Lightweight gel-cream texture, zero stickiness"
-        ],
-        cons: [
-            "Subtle natural scent"
-        ],
-        priceEstimate: "₹395"
-    }
+// Hand-picked by the editors. Everything shown on the tile comes from the product database.
+const editorialPicks: { id: string; badge: string }[] = [
+    { id: 'minimalist-spf50', badge: 'Best overall sunscreen' },
+    { id: 'dermaco-hyaluronic-spf50', badge: 'Best for oily skin' },
+    { id: 'cerave-foaming-cleanser', badge: 'Best gentle cleanser' },
+    { id: 'dotkey-rice-ceramide-cream', badge: 'Best barrier repair' },
 ];
 
-// Price, rating, score, ASIN and name always come from the product database
-const topPicks = editorialPicks.map(pick => {
-    const p = getProductById(pick.id);
-    if (!p) return pick;
-    return {
-        ...pick,
-        title: p.name,
-        image: p.image,
-        asinOrUrl: p.asin,
-        oraeSkinScore: p.oraeSkinScore,
-        rating: p.amazonRating,
-        reviewCount: p.amazonReviews,
-        priceEstimate: p.priceEst,
-    };
-});
+const picks: { p: SkincareProduct; badge: string }[] = editorialPicks
+    .map(e => ({ p: getProductById(e.id), badge: e.badge }))
+    .filter((x): x is { p: SkincareProduct; badge: string } => !!x.p && x.p.inStock);
+
+// Fill the remaining tiles with the highest-scoring product from each category not yet shown
+const usedCategories = new Set(picks.map(x => x.p.category));
+for (const cat of CATEGORIES) {
+    if (picks.length >= 8) break;
+    if (usedCategories.has(cat.slug)) continue;
+    const best = AVAILABLE_PRODUCTS
+        .filter(p => p.category === cat.slug)
+        .sort((a, b) => b.oraeSkinScore - a.oraeSkinScore)[0];
+    if (best) {
+        picks.push({ p: best, badge: `Top scored: ${cat.name.split(/[&,]/)[0].trim().toLowerCase()}` });
+        usedCategories.add(cat.slug);
+    }
+}
+
+const priceChecked = picks[0]?.p.lastPriceChecked;
 ---
 
 <section id="top-picks" class="top-picks-section">
     <div class="container">
-        <div class="section-header">
-            <div class="header-left">
-                <span class="eyebrow">Editorial Intelligence • 2026</span>
-                <h2>Editor's Choice Top Skincare Products</h2>
-                <p>Editorially evaluated formulations with verified Amazon ratings, transparent OraeSkin Scores, and direct Prime links.</p>
-            </div>
-            <div class="header-right">
-                <span class="verified-badge">
-                    <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
-                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-                    </svg>
-                    Amazon Verified Products
-                </span>
-            </div>
+        <div class="tpk-header">
+            <span class="eyebrow">Editors' picks</span>
+            <h2>Top-scored skincare on Amazon India</h2>
+            <p>The products that came out on top in our reviews. {priceChecked && `Prices and ratings last checked ${priceChecked}.`}</p>
         </div>
 
-        <div class="products-list">
-            {topPicks.map((product) => (
-                <ProductCard {...product} />
-            ))}
+        <div class="tpk-grid">
+            {picks.map(({ p, badge }, i) => {
+                const url = getAmazonAffiliateUrl(p.asin);
+                return (
+                    <article class="tpk-card">
+                        <span class="tpk-badge">{badge}</span>
+                        <a href={url} target="_blank" rel="nofollow sponsored noopener" class="tpk-img" data-placement="home_top_picks_image" data-product={p.id} tabindex="-1" aria-hidden="true">
+                            <img src={p.image} alt="" loading={i < 4 ? 'eager' : 'lazy'} decoding="async" width="200" height="200" />
+                        </a>
+                        <div class="tpk-body">
+                            <span class="tpk-brand">{p.brand}</span>
+                            <h3 class="tpk-name"><a href={`/reviews/${p.id}/`}>{p.name}</a></h3>
+                            <div class="tpk-meta">
+                                <span class="star-meter" style={`--rating: ${p.amazonRating}`} aria-hidden="true"></span>
+                                <span>{p.amazonRating.toFixed(1)} <span class="tpk-count">({p.amazonReviews})</span></span>
+                            </div>
+                            <div class="tpk-price-row">
+                                <span class="tpk-price">{p.priceEst}</span>
+                                <span class="tpk-score" title="OraeSkin Score out of 10">Score {p.oraeSkinScore.toFixed(1)}</span>
+                            </div>
+                            <a href={url} target="_blank" rel="nofollow sponsored noopener" class="btn-buy small block" data-placement="home_top_picks" data-product={p.id}>
+                                Check price <span class="tpk-on">on Amazon</span> →
+                            </a>
+                            <a href={`/reviews/${p.id}/`} class="tpk-review">Read our review</a>
+                        </div>
+                    </article>
+                );
+            })}
         </div>
+
+        <p class="tpk-disclosure">
+            Affiliate links: we may earn a commission at no extra cost to you. Scores are ours and can't be bought. <a href="/how-we-review/">How we score</a>
+        </p>
     </div>
 </section>
 
 <style>
     .top-picks-section {
-        padding: 70px 0;
+        padding: 56px 0;
         background: #ffffff;
     }
 
-    .section-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: flex-end;
-        margin-bottom: 30px;
-        flex-wrap: wrap;
-        gap: 16px;
-    }
-
-    .header-left {
-        max-width: 650px;
+    .tpk-header {
+        max-width: 680px;
+        margin-bottom: 28px;
     }
 
     .eyebrow {
@@ -164,48 +92,218 @@ const topPicks = editorialPicks.map(pick => {
         font-size: 0.8rem;
         font-weight: 700;
         text-transform: uppercase;
-        color: #c87a54;
+        color: var(--accent);
         letter-spacing: 1.5px;
         margin-bottom: 6px;
     }
 
-    .section-header h2 {
+    .tpk-header h2 {
         font-family: 'Playfair Display', serif;
-        font-size: 2.3rem;
-        color: #2c2c2c;
+        font-size: 2.1rem;
+        line-height: 1.2;
+        color: var(--ink);
         margin: 0 0 8px 0;
+        text-align: left;
+        letter-spacing: 0;
     }
 
-    .section-header p {
-        color: #666;
+    .tpk-header p {
+        color: var(--ink-soft);
         margin: 0;
-        font-size: 1.05rem;
+        font-size: 1rem;
     }
 
-    .verified-badge {
-        display: inline-flex;
+    .tpk-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 18px;
+    }
+
+    .tpk-card {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        overflow: hidden;
+        transition: box-shadow 0.2s ease, border-color 0.2s ease;
+    }
+
+    .tpk-card:hover {
+        border-color: #dccfbd;
+        box-shadow: var(--shadow);
+    }
+
+    .tpk-badge {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 1;
+        max-width: calc(100% - 20px);
+        padding: 4px 9px;
+        background: var(--ink);
+        color: #fff;
+        font-size: 0.68rem;
+        font-weight: 700;
+        letter-spacing: 0.3px;
+        border-radius: 6px;
+    }
+
+    .tpk-img {
+        display: flex;
         align-items: center;
-        gap: 6px;
-        background: #eef7ee;
-        color: #2b7a2b;
+        justify-content: center;
+        height: 190px;
+        background: var(--paper);
+        padding: 34px 16px 12px;
+    }
+
+    .tpk-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        mix-blend-mode: multiply;
+        transition: transform 0.2s ease;
+    }
+
+    .tpk-card:hover .tpk-img img {
+        transform: scale(1.04);
+    }
+
+    .tpk-body {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        padding: 14px;
+    }
+
+    .tpk-brand {
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: var(--accent);
+    }
+
+    .tpk-name {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 0.95rem;
         font-weight: 600;
-        font-size: 0.85rem;
-        padding: 8px 16px;
-        border-radius: 20px;
+        line-height: 1.35;
+        margin: 2px 0 8px;
+        flex: 1;
     }
 
-    .products-list {
-        margin-top: 20px;
+    .tpk-name a {
+        color: var(--ink);
+        text-decoration: none;
     }
 
-    @media (max-width: 768px) {
-        .section-header {
-            flex-direction: column;
-            align-items: flex-start;
+    .tpk-name a:hover {
+        color: var(--accent);
+    }
+
+    .tpk-meta {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 4px 6px;
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: var(--ink);
+    }
+
+    .tpk-count {
+        font-weight: 400;
+        color: var(--ink-mute);
+    }
+
+    .tpk-price-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        margin: 8px 0 12px;
+    }
+
+    .tpk-price {
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: var(--ink);
+    }
+
+    .tpk-score {
+        padding: 2px 8px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        font-size: 0.74rem;
+        font-weight: 700;
+        border-radius: 6px;
+        white-space: nowrap;
+    }
+
+    .tpk-review {
+        margin-top: 10px;
+        text-align: center;
+        font-size: 0.82rem;
+        font-weight: 600;
+        color: var(--ink-soft);
+    }
+
+    .tpk-review:hover {
+        color: var(--accent);
+    }
+
+    .tpk-disclosure {
+        margin: 20px 0 0;
+        font-size: 0.8rem;
+        color: var(--ink-mute);
+    }
+
+    .tpk-disclosure a {
+        color: var(--accent);
+        font-weight: 600;
+    }
+
+    @media (max-width: 980px) {
+        .tpk-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+    }
+
+    @media (max-width: 600px) {
+        .top-picks-section {
+            padding: 36px 0;
         }
 
-        .section-header h2 {
-            font-size: 1.8rem;
+        .tpk-header h2 {
+            font-size: 1.6rem;
+        }
+
+        .tpk-grid {
+            gap: 10px;
+        }
+
+        .tpk-body {
+            padding: 10px;
+        }
+
+        .tpk-img {
+            height: 150px;
+            padding: 32px 8px 6px;
+        }
+
+        .tpk-name {
+            font-size: 0.86rem;
+        }
+
+        .tpk-price {
+            font-size: 1.02rem;
+        }
+
+        .tpk-on {
+            display: none;
         }
     }
 </style>

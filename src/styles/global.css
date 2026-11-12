@@ -7,6 +7,28 @@
     --dust-rose: #d4a5a5;
     --charcoal: #3a3a3a;
     --gold-accent: #d4af37;
+
+    /* Design tokens */
+    --ink: #221d19;
+    --ink-soft: #5c534b;
+    --ink-mute: #857a70;
+    --paper: #fdfaf6;
+    --card: #ffffff;
+    --line: #ebe2d6;
+    --accent: #a8562f;          /* editorial links and labels (AA on white) */
+    --accent-soft: #f6ebe1;
+    --good: #23703a;
+    --good-soft: #eaf5ec;
+    /* Reserved for "buy on Amazon" actions only, so the buy button always looks the same */
+    --buy: #ffc531;
+    --buy-hover: #f5b400;
+    --buy-ink: #1d1a14;
+    --radius: 14px;
+    --shadow: 0 6px 24px rgba(34, 29, 25, 0.06);
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
 }
 
 body {
@@ -741,5 +763,227 @@ footer {
 
     .contact-methods {
         align-items: center;
+    }
+}
+/* ==========================================================================
+   Shared commerce components
+   ========================================================================== */
+
+/* The one buy button. Used for every Amazon link that is a call to action. */
+.btn-buy,
+.article-content a.buy-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    min-height: 48px;
+    padding: 12px 22px;
+    background: var(--buy);
+    color: var(--buy-ink) !important;
+    font-weight: 700;
+    font-size: 0.98rem;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid #e0a400;
+    border-radius: 12px;
+    box-shadow: 0 2px 0 #d99f00, 0 8px 18px rgba(245, 180, 0, 0.22);
+    transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+    cursor: pointer;
+}
+
+.btn-buy:hover,
+.article-content a.buy-cta:hover {
+    background: var(--buy-hover);
+    color: var(--buy-ink) !important;
+    transform: translateY(-1px);
+}
+
+.btn-buy:active,
+.article-content a.buy-cta:active {
+    transform: translateY(1px);
+    box-shadow: 0 1px 0 #d99f00;
+}
+
+.btn-buy:focus-visible,
+.article-content a:focus-visible {
+    outline: 3px solid var(--ink);
+    outline-offset: 2px;
+}
+
+.btn-buy.block {
+    display: flex;
+    width: 100%;
+}
+
+.btn-buy.small {
+    min-height: 40px;
+    padding: 8px 14px;
+    font-size: 0.88rem;
+    border-radius: 10px;
+}
+
+/* Star meter that fills to the real rating: style="--rating: 4.1" */
+.star-meter {
+    --pct: calc(var(--rating, 0) / 5 * 100%);
+    display: inline-block;
+    font-size: 0.95rem;
+    letter-spacing: 1px;
+    line-height: 1;
+    background: linear-gradient(90deg, #f59e0b var(--pct), #dcd3c8 var(--pct));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
+
+.star-meter::before {
+    content: '★★★★★';
+}
+
+/* --- Affiliate links inside guides (classes are added in astro.config.mjs) --- */
+
+/* A paragraph that is only links (Amazon link, optional review link) becomes a button row */
+.article-content p.buy-cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin: 18px 0 24px;
+}
+
+.article-content p.buy-cta-row > strong,
+.article-content p.buy-cta-row > em {
+    display: contents;
+}
+
+.article-content p.buy-cta-row a.buy-cta {
+    order: -1;
+}
+
+.article-content a.review-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 48px;
+    padding: 12px 18px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--card);
+    color: var(--ink) !important;
+    font-size: 0.92rem;
+    font-weight: 600;
+    line-height: 1.25;
+    text-align: center;
+    text-decoration: none !important;
+}
+
+.article-content a.review-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent) !important;
+}
+
+@media (max-width: 600px) {
+    .article-content a.buy-cta {
+        padding: 12px 14px;
+        font-size: 0.94rem;
+    }
+
+    .article-content p.buy-cta-row a.buy-cta,
+    .article-content a.review-btn {
+        flex: 1 0 100%;
+    }
+}
+
+.article-content a.buy-cta::after,
+.article-content a.buy-chip::after {
+    content: '→';
+    font-weight: 700;
+}
+
+/* Amazon links in comparison tables become small buttons */
+.article-content a.buy-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+    padding: 8px 12px;
+    background: var(--buy);
+    color: var(--buy-ink) !important;
+    border: 1px solid #e0a400;
+    border-radius: 10px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+.article-content a.buy-chip:hover {
+    background: var(--buy-hover);
+}
+
+/* Inline Amazon links in running text stay links, marked so they read as shoppable */
+.article-content a.buy-link {
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--buy-hover);
+}
+
+/* On phones and small tablets a product table turns into a stack of cards, each ending in its buy button */
+@media (max-width: 900px) {
+    .article-content table.picks-table {
+        display: block;
+        overflow: visible;
+        margin: 20px 0;
+    }
+
+    .article-content table.picks-table thead {
+        display: none;
+    }
+
+    .article-content table.picks-table tbody {
+        display: grid;
+        gap: 12px;
+    }
+
+    .article-content table.picks-table tr {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px 14px;
+        padding: 14px;
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+    }
+
+    .article-content table.picks-table td {
+        min-width: 0;
+        padding: 0;
+        border: none;
+        font-size: 0.86rem;
+        color: var(--ink-soft);
+    }
+
+    .article-content table.picks-table td:first-child {
+        flex: 1 0 100%;
+        font-size: 1rem;
+        color: var(--ink);
+    }
+
+    .article-content table.picks-table td[data-label]:not(:first-child):not(.buy-cell)::before {
+        content: attr(data-label) ': ';
+        color: var(--ink-mute);
+    }
+
+    .article-content table.picks-table td.buy-cell {
+        flex: 1 0 100%;
+        margin-top: 6px;
+    }
+
+    .article-content table.picks-table td.buy-cell a.buy-chip {
+        display: flex;
+        justify-content: center;
+        min-height: 44px;
+        font-size: 0.92rem;
     }
 }

@@ -496,7 +496,7 @@ const liveProducts = Object.fromEntries(PRODUCTS.map(p => [p.id, {
                     <p class="prod-benefit">${prod.benefit}</p>
 
                     <div class="prod-actions-row">
-                        <a href="${affiliateUrl}" target="_blank" rel="nofollow sponsored noopener" class="prod-cta-btn">
+                        <a href="${affiliateUrl}" target="_blank" rel="nofollow sponsored noopener" class="prod-cta-btn" data-placement="routine_finder" data-product="${prod.id}">
                             <span>Check Price on Amazon</span>
                             <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
@@ -937,10 +937,11 @@ const liveProducts = Object.fromEntries(PRODUCTS.map(p => [p.id, {
         align-items: center;
         justify-content: center;
         gap: 0.4rem;
-        background: linear-gradient(135deg, #e8863d, #c87a54);
-        color: #ffffff !important;
+        background: var(--buy);
+        border: 1px solid #e0a400;
+        color: var(--buy-ink) !important;
         padding: 0.75rem 1rem;
-        border-radius: 8px;
+        border-radius: 10px;
         font-weight: 700;
         font-size: 0.86rem;
         text-decoration: none;
@@ -948,7 +949,7 @@ const liveProducts = Object.fromEntries(PRODUCTS.map(p => [p.id, {
     }
 
     .prod-cta-btn:hover {
-        background: linear-gradient(135deg, #d3732b, #b3633d);
+        background: var(--buy-hover);
     }
 
     .prod-review-btn {

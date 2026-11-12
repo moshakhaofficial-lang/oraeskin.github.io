@@ -98,6 +98,20 @@ const metaDescription = description.length > 160
         <script>
             import '../scripts/animations.js';
         </script>
+
+        <!-- One GA4 event for every Amazon click, with where on the page it happened -->
+        <script is:inline>
+            document.addEventListener('click', function (e) {
+                var a = e.target && e.target.closest ? e.target.closest('a[href*="amazon.in"], a[href*="amzn.to"]') : null;
+                if (!a || typeof gtag !== 'function') return;
+                var asin = (a.href.match(/\/dp\/([A-Z0-9]{10})/i) || [])[1];
+                gtag('event', 'affiliate_click', {
+                    placement: a.dataset.placement || 'other',
+                    product_id: a.dataset.product || asin || '',
+                    page_path: location.pathname
+                });
+            });
+        </script>
         
         <Consent />
 	</body>

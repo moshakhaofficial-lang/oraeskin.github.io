@@ -79,7 +79,7 @@ const categories = [
                             </h3>
 
                             <div class="card-ratings">
-                                <span class="stars">★★★★★</span>
+                                <span class="star-meter" style={`--rating: ${p.rating}`} aria-hidden="true"></span>
                                 <span class="amazon-text">{p.rating}/5 on Amazon ({p.reviewCount})</span>
                             </div>
 
@@ -109,9 +109,10 @@ const categories = [
                                         target="_blank" 
                                         rel="nofollow sponsored noopener" 
                                         class="btn-amazon-pill"
-                                        title="Check Price on Amazon"
+                                        data-placement="reviews_index"
+                                        data-product={p.id}
                                     >
-                                        Amazon
+                                        Check price →
                                     </a>
                                 </div>
                             </div>
@@ -462,11 +463,13 @@ const categories = [
     }
 
     .btn-amazon-pill {
-        background: #f7ede4;
-        color: #c87a54;
+        background: var(--buy);
+        border: 1px solid #e0a400;
+        color: var(--buy-ink) !important;
         border: 1px solid #ebd9cb;
-        padding: 6px 12px;
-        border-radius: 20px;
+        padding: 8px 12px;
+        border-radius: 10px;
+        white-space: nowrap;
         font-size: 0.8rem;
         font-weight: 700;
         text-decoration: none;
@@ -474,8 +477,7 @@ const categories = [
     }
 
     .btn-amazon-pill:hover {
-        background: #c87a54;
-        color: #fff;
+        background: var(--buy-hover);
     }
 
     .empty-state {
