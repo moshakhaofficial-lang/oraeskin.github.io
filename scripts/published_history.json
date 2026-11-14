@@ -26,6 +26,7 @@
     "elf-lip-exfoliator",
     "faceshop-rice-cleanser",
     "fixderma-sunscreen-stick",
+    "mcaffeine-salicylic-acne-pads",
     "minimalist-ala-glycolic-facewash",
     "minimalist-alpha-arbutin",
     "minimalist-b5-moisturizer",
@@ -84,6 +85,7 @@
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-salicylic-acid-spot-gels-urgent-breakouts",
     "best-tinted-lip-balms-spf-daily-college-office",
+    "best-tinted-sunscreens-indian-skin-tones",
     "best-tranexamic-acid-serums-stubborn-pigmentation-india",
     "best-under-eye-serums-metal-roller-applicator",
     "best-vitamin-c-for-beginners-sensitive-skin",
@@ -103,15 +105,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "minimalist-retinol-03",
-      "type": "product",
-      "title": "0.3% Retinol Face Serum in Squalane",
-      "date": "2026-09-06T02:58:28Z",
-      "channels": [
-        "instagram"
-      ]
-    },
     {
       "id": "best-exfoliating-peeling-pads-convenience-india",
       "type": "blog",
@@ -1085,6 +1078,26 @@
       "type": "blog",
       "title": "Winter Smog & PM2.5 Pollution Skincare: Protecting Your Skin Barrier in Delhi-NCR & North India",
       "date": "2026-11-13T12:25:38.325837+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "mcaffeine-salicylic-acne-pads",
+      "type": "product",
+      "title": "2% Salicylic Acid Acne Pads",
+      "date": "2026-11-14T11:38:42.587260+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-tinted-sunscreens-indian-skin-tones",
+      "type": "blog",
+      "title": "Best Tinted Sunscreens for Indian Skin Tones",
+      "date": "2026-11-14T11:38:43.280351+00:00",
       "channels": [
         "twitter",
         "instagram"
