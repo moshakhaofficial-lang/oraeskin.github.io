@@ -187,6 +187,15 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B07PSKR85S', // The Ordinary Squalane Cleanser (50ml)
     'B0D8CXZKF3', // The Ordinary Squalane + Amino Acids Hydrating Lip Balm (15ml)
     'B0DGGPFD1H', // WishCare Super Bright C16 10% Vitamin C Serum with Niacinamide & Kojic Acid (30ml)
+    'B00NW7NTTW', // NIVEA Cocoa Nourish Body Lotion with Cocoa Butter (400ml)
+    'B08M4QF7V9', // Vaseline Deep Moisture Body Lotion for Dry Skin (400ml)
+    'B00IJ72QWQ', // NIVEA Nourishing Body Milk Body Lotion with Almond Oil (400ml)
+    'B00CBRJ34E', // Parachute Advansed Coco Nourish Body Lotion with Coconut Milk (400ml)
+    'B01ER4HR4Q', // Cetaphil Moisturising Lotion with Niacinamide & Panthenol, Fragrance-Free (118ml)
+    'B0FD3WNYRZ', // DERMATOUCH Kojic Acid 2% Brightening Cream with Niacinamide (15g)
+    'B0DVSNG7NC', // Be Bodywise 6% AHA BHA Underarm Roll-On Deodorant with Kojic Acid (50ml)
+    'B00JZF78DS', // Kozicare Skin Brightening Soap with Kojic Acid, Arbutin & Glutathione (Pack of 3 x 75g)
+    'B0G7ZK6GJ8', // Seoulskin Kojic & Rice Water Brightening Soap (Pack of 3 x 100g)
 ]);
 
 // Map of legacy/dead ASINs to verified direct ASINs

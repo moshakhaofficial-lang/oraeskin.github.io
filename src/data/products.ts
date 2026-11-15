@@ -15428,6 +15428,983 @@ export const PRODUCTS: SkincareProduct[] = [
             "value": 7.8,
             "overall": 8.2
         }
+    },
+    {
+        "id": "nivea-cocoa-nourish-lotion",
+        "name": "Cocoa Nourish Body Lotion",
+        "title": "NIVEA Cocoa Nourish Body Lotion with Cocoa Butter (400ml)",
+        "brand": "NIVEA",
+        "category": "body-care",
+        "subcategory": "Rich Body Lotion",
+        "asin": "B00NW7NTTW",
+        "amazonUrl": "https://www.amazon.in/dp/B00NW7NTTW?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00NW7NTTW?tag=oraeskin-21",
+        "badge": "Best for Very Dry Winter Skin",
+        "price": 299,
+        "priceEst": "₹299",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/nivea-cocoa-nourish-lotion.jpg",
+        "amazonRating": 4.5,
+        "rating": 4.5,
+        "amazonReviews": "33,000+",
+        "reviewCount": "33,000+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 7.8,
+            "evidence": 8,
+            "userFeedback": 9,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Dry",
+            "Very Dry",
+            "Normal"
+        ],
+        "concerns": [
+            "Dryness",
+            "Winter Dryness",
+            "Rough Skin",
+            "Flaky Skin"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Shea Butter",
+            "Cocoa Butter",
+            "Coconut Oil"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Shea Butter",
+            "Cocoa Butter",
+            "Coconut Oil"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerin",
+            "Cetearyl Alcohol",
+            "Isohexadecane",
+            "Isopropyl Palmitate",
+            "Paraffinum Liquidum",
+            "Glyceryl Stearate SE",
+            "Butyrospermum Parkii Butter",
+            "Dimethicone",
+            "Theobroma Cacao Seed Butter",
+            "Cocos Nucifera Oil",
+            "Tocopheryl Acetate",
+            "Ethylparaben",
+            "Methylparaben",
+            "Phenoxyethanol",
+            "Perfume",
+            "Linalool",
+            "Coumarin"
+        ],
+        "fragrance": "Added Fragrance (Cocoa Butter)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Rich Lotion",
+        "finish": "Soft, lightly dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Very dry, flaky arms and legs in winter and in air-conditioned rooms.",
+        "avoidIf": "You have fragrance-sensitive skin or body acne, as it contains perfume and rich butters.",
+        "whyWeLikeIt": "Glycerin sits second on the ingredient list, backed by shea butter, cocoa butter and coconut oil, with no drying alcohol.",
+        "pros": [
+            "Glycerin, shea butter and cocoa butter high in the ingredient list",
+            "No denatured alcohol in the listed ingredients",
+            "4.5★ from more than 33,000 Amazon India ratings"
+        ],
+        "cons": [
+            "Contains perfume and parabens",
+            "The listing copy mentions hyaluronic acid, but the printed ingredient list does not show it"
+        ],
+        "verdict": "The richest of the mass-market winter lotions we looked at, and the one we would pick for very dry skin.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free Alternative",
+                "productId": "cetaphil-moisturising-lotion",
+                "reason": "No fragrance or parabens, for sensitive or eczema-prone skin."
+            },
+            {
+                "label": "Lighter, Cheaper Alternative",
+                "productId": "vaseline-deep-moisture-lotion",
+                "reason": "Absorbs faster and costs less per ml."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 7.8,
+            "texture": 7.8,
+            "value": 9,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "vaseline-deep-moisture-lotion",
+        "name": "Deep Moisture Body Lotion",
+        "title": "Vaseline Deep Moisture Body Lotion for Dry Skin (400ml)",
+        "brand": "Vaseline",
+        "category": "body-care",
+        "subcategory": "Daily Body Lotion",
+        "asin": "B08M4QF7V9",
+        "amazonUrl": "https://www.amazon.in/dp/B08M4QF7V9?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08M4QF7V9?tag=oraeskin-21",
+        "badge": "Best Value Daily Lotion",
+        "price": 215,
+        "priceEst": "₹215",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/vaseline-deep-moisture-lotion.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "73,000+",
+        "reviewCount": "73,000+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8,
+            "evidence": 8,
+            "userFeedback": 8.8,
+            "value": 9.5,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Dry",
+            "Normal",
+            "Combination"
+        ],
+        "concerns": [
+            "Dryness",
+            "Winter Dryness",
+            "Rough Skin"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Petroleum Jelly (Vaseline Jelly)",
+            "Pro-Ceramides"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Petroleum Jelly (Vaseline Jelly)",
+            "Pro-Ceramides"
+        ],
+        "ingredients": [
+            "Glycerin",
+            "Petrolatum (Vaseline Jelly)",
+            "Ceramide-Hyaluron Moisture Fillers (as named on the listing)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Lotion",
+        "finish": "Non-sticky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Everyday all-over moisturising for dry skin on a budget.",
+        "avoidIf": "You need to check every ingredient before buying, as the listing does not print the full list.",
+        "whyWeLikeIt": "Glycerin plus petroleum jelly is a simple, well-proven pairing for dry skin, at about ₹0.5 per ml.",
+        "pros": [
+            "Glycerin and petroleum jelly, two of the best-studied moisturising ingredients",
+            "About ₹0.5 per ml",
+            "More than 73,000 Amazon India ratings at 4.4★"
+        ],
+        "cons": [
+            "The Amazon listing does not print the full ingredient list",
+            "May not be rich enough for cracked or very flaky skin"
+        ],
+        "verdict": "The best value of the group for daily use; choose a richer lotion if your skin is very dry.",
+        "alternatives": [
+            {
+                "label": "Richer Alternative",
+                "productId": "nivea-cocoa-nourish-lotion",
+                "reason": "Shea and cocoa butter for very dry, flaky skin."
+            },
+            {
+                "label": "Cheapest Alternative",
+                "productId": "parachute-coco-nourish-lotion",
+                "reason": "Lower price per ml with a coconut scent."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 9.5,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "nivea-nourishing-body-milk",
+        "name": "Nourishing Body Milk",
+        "title": "NIVEA Nourishing Body Milk Body Lotion with Almond Oil (400ml)",
+        "brand": "NIVEA",
+        "category": "body-care",
+        "subcategory": "Rich Body Lotion",
+        "asin": "B00IJ72QWQ",
+        "amazonUrl": "https://www.amazon.in/dp/B00IJ72QWQ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00IJ72QWQ?tag=oraeskin-21",
+        "badge": "Most Popular Winter Lotion",
+        "price": 300,
+        "priceEst": "₹300",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/nivea-nourishing-body-milk.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "63,000+",
+        "reviewCount": "63,000+",
+        "scoreBreakdown": {
+            "formula": 7.2,
+            "skinSuitability": 7.8,
+            "evidence": 7.8,
+            "userFeedback": 8.8,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Dry",
+            "Very Dry",
+            "Normal"
+        ],
+        "concerns": [
+            "Dryness",
+            "Winter Dryness",
+            "Rough Skin"
+        ],
+        "keyActives": [
+            "Mineral Oil",
+            "Glycerin",
+            "Almond Oil"
+        ],
+        "keyIngredients": [
+            "Mineral Oil",
+            "Glycerin",
+            "Almond Oil"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Paraffinum Liquidum",
+            "C15-19 Alkane",
+            "Alcohol Denat. (3.66%)",
+            "Glycerin",
+            "Cetearyl Alcohol",
+            "Glyceryl Stearate Citrate",
+            "Dimethicone",
+            "Phenoxyethanol",
+            "Glyceryl Glucoside",
+            "Methylparaben",
+            "Carbomer",
+            "Prunus Amygdalus Dulcis Oil",
+            "Linalool",
+            "Citronellol",
+            "Limonene",
+            "Perfume"
+        ],
+        "fragrance": "Added Fragrance (Almond)",
+        "essentialOils": false,
+        "alcoholFree": false,
+        "texture": "Milky Lotion",
+        "finish": "Non-greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Dry skin that likes a classic, quick-absorbing milky lotion with a noticeable scent.",
+        "avoidIf": "Your skin is sensitive or eczema-prone, as it contains denatured alcohol, perfume and several fragrance allergens.",
+        "whyWeLikeIt": "Mineral oil and glycerin seal in water well, and the texture spreads easily over large areas.",
+        "pros": [
+            "Mineral oil and glycerin base that holds moisture in",
+            "Spreads and absorbs quickly",
+            "More than 63,000 Amazon India ratings at 4.4★"
+        ],
+        "cons": [
+            "Contains 3.66% denatured alcohol and perfume",
+            "The listing copy mentions hyaluronic acid, but the printed ingredient list does not show it"
+        ],
+        "verdict": "A dependable, popular winter lotion, though NIVEA Cocoa Nourish has the better formula at the same price.",
+        "alternatives": [
+            {
+                "label": "Better Formula, Same Price",
+                "productId": "nivea-cocoa-nourish-lotion",
+                "reason": "No denatured alcohol, with shea and cocoa butter."
+            },
+            {
+                "label": "Fragrance-Free Alternative",
+                "productId": "cetaphil-moisturising-lotion",
+                "reason": "No fragrance, for sensitive skin."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 7.2,
+            "weatherResilience": 7.8,
+            "texture": 7.8,
+            "value": 9,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "parachute-coco-nourish-lotion",
+        "name": "Advansed Coco Nourish Body Lotion",
+        "title": "Parachute Advansed Coco Nourish Body Lotion with Coconut Milk (400ml)",
+        "brand": "Parachute Advansed",
+        "category": "body-care",
+        "subcategory": "Daily Body Lotion",
+        "asin": "B00CBRJ34E",
+        "amazonUrl": "https://www.amazon.in/dp/B00CBRJ34E?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00CBRJ34E?tag=oraeskin-21",
+        "badge": "Cheapest Winter Lotion",
+        "price": 136,
+        "priceEst": "₹136",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/parachute-coco-nourish-lotion.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "70,000+",
+        "reviewCount": "70,000+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.5,
+            "evidence": 7.6,
+            "userFeedback": 8.4,
+            "value": 9.8,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Dry",
+            "Normal"
+        ],
+        "concerns": [
+            "Dryness",
+            "Winter Dryness"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Coconut Oil",
+            "Sunflower Seed Oil",
+            "Coconut Milk Extract"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Coconut Oil",
+            "Sunflower Seed Oil",
+            "Coconut Milk Extract"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Isopropyl Myristate",
+            "Glycerin",
+            "Cocos Nucifera Oil",
+            "Hydrogenated Coconut Oil",
+            "Cetearyl Alcohol",
+            "Helianthus Annuus Seed Oil",
+            "Glyceryl Stearate SE",
+            "Cocos Nucifera Fruit Extract",
+            "Tocopheryl Acetate",
+            "Dimethicone",
+            "Perfume",
+            "Phenoxyethanol",
+            "Coumarin",
+            "Eugenol",
+            "Geraniol",
+            "Limonene",
+            "Linalool"
+        ],
+        "fragrance": "Added Fragrance (Coconut)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Lotion",
+        "finish": "Non-greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Families who go through a lot of lotion and want the lowest price per ml.",
+        "avoidIf": "You get body acne on your back or chest, as isopropyl myristate and coconut oil can clog pores, or you react to fragrance.",
+        "whyWeLikeIt": "Glycerin and coconut oil at about ₹0.34 per ml, with the full ingredient list printed on the listing.",
+        "pros": [
+            "About ₹0.34 per ml, the cheapest here",
+            "Full ingredient list on the listing, with no ethyl alcohol",
+            "More than 70,000 Amazon India ratings"
+        ],
+        "cons": [
+            "Isopropyl myristate and coconut oil can clog pores on acne-prone skin",
+            "Perfume plus eight listed fragrance allergens"
+        ],
+        "verdict": "Good everyday value for normal to dry skin that is not acne-prone or fragrance-sensitive.",
+        "alternatives": [
+            {
+                "label": "Richer Alternative",
+                "productId": "nivea-cocoa-nourish-lotion",
+                "reason": "More butters for very dry skin."
+            },
+            {
+                "label": "Less Pore-Clogging Alternative",
+                "productId": "vaseline-deep-moisture-lotion",
+                "reason": "A glycerin and petroleum jelly base at a similar budget."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 7.5,
+            "texture": 7.5,
+            "value": 9.8,
+            "overall": 8
+        }
+    },
+    {
+        "id": "cetaphil-moisturising-lotion",
+        "name": "Moisturising Lotion",
+        "title": "Cetaphil Moisturising Lotion with Niacinamide & Panthenol, Fragrance-Free (118ml)",
+        "brand": "Cetaphil",
+        "category": "body-care",
+        "subcategory": "Face & Body Lotion",
+        "asin": "B01ER4HR4Q",
+        "amazonUrl": "https://www.amazon.in/dp/B01ER4HR4Q?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01ER4HR4Q?tag=oraeskin-21",
+        "badge": "Best Fragrance-Free Lotion",
+        "price": 607,
+        "priceEst": "₹607",
+        "currency": "₹",
+        "size": "118ml",
+        "image": "/images/products/cetaphil-moisturising-lotion.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "26,000+",
+        "reviewCount": "26,000+",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 8.8,
+            "evidence": 8.6,
+            "userFeedback": 8.6,
+            "value": 6,
+            "availability": 9.3
+        },
+        "skinType": [
+            "Sensitive",
+            "Dry",
+            "Normal",
+            "Combination"
+        ],
+        "concerns": [
+            "Dryness",
+            "Sensitive Skin",
+            "Winter Dryness",
+            "Weak Skin Barrier"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Panthenol (Vitamin B5)",
+            "Niacinamide (Vitamin B3)",
+            "Avocado Oil",
+            "Sunflower Seed Oil"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Panthenol (Vitamin B5)",
+            "Niacinamide (Vitamin B3)",
+            "Avocado Oil",
+            "Sunflower Seed Oil"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerin",
+            "Isopropyl Palmitate",
+            "Cetearyl Alcohol",
+            "Ceteareth-20",
+            "Panthenol",
+            "Niacinamide",
+            "Tocopheryl Acetate",
+            "Dimethicone",
+            "Persea Gratissima Oil",
+            "Helianthus Annuus Seed Oil",
+            "Pantolactone",
+            "Glyceryl Stearate",
+            "Sodium Benzoate",
+            "Benzyl Alcohol",
+            "Citric Acid"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Lotion",
+        "finish": "Non-greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Sensitive or easily irritated skin on the face and body that reacts to perfumed lotions.",
+        "avoidIf": "You want one bottle to cover your whole body all winter, as 118ml runs out quickly at this price.",
+        "whyWeLikeIt": "A short, fragrance-free formula with glycerin, panthenol and niacinamide, and no parabens or sulphates.",
+        "pros": [
+            "Fragrance-free, paraben-free and sulphate-free",
+            "Glycerin, panthenol and niacinamide support the skin barrier",
+            "Works for face and body"
+        ],
+        "cons": [
+            "About ₹5.1 per ml, many times the price of the others",
+            "Isopropyl palmitate may not suit very acne-prone skin"
+        ],
+        "verdict": "The safest choice for sensitive skin, but expensive for all-over body use.",
+        "alternatives": [
+            {
+                "label": "Budget Alternative",
+                "productId": "vaseline-deep-moisture-lotion",
+                "reason": "About a tenth of the price per ml for all-over use."
+            },
+            {
+                "label": "Richer Alternative",
+                "productId": "nivea-cocoa-nourish-lotion",
+                "reason": "More butters for very dry, non-sensitive skin."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 8.8,
+            "texture": 8.8,
+            "value": 6,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "dermatouch-kojic-acid-cream",
+        "name": "Kojic Acid 2% Brightening Cream",
+        "title": "DERMATOUCH Kojic Acid 2% Brightening Cream with Niacinamide (15g)",
+        "brand": "DERMATOUCH",
+        "category": "spot-treatments",
+        "subcategory": "Dark Spot Cream",
+        "asin": "B0FD3WNYRZ",
+        "amazonUrl": "https://www.amazon.in/dp/B0FD3WNYRZ?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FD3WNYRZ?tag=oraeskin-21",
+        "badge": "Best Budget Kojic Cream",
+        "price": 99,
+        "priceEst": "₹99",
+        "currency": "₹",
+        "size": "15g",
+        "image": "/images/products/dermatouch-kojic-acid-cream.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "2,200+",
+        "reviewCount": "2,200+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 7.8,
+            "evidence": 7.8,
+            "userFeedback": 7.6,
+            "value": 8,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Dark Spots",
+            "Pigmentation",
+            "Acne Marks",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Kojic Acid Dipalmitate (2%)",
+            "Niacinamide",
+            "Alpha Arbutin",
+            "Tyrostat"
+        ],
+        "keyIngredients": [
+            "Kojic Acid Dipalmitate (2%)",
+            "Niacinamide",
+            "Alpha Arbutin",
+            "Tyrostat"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Niacinamide",
+            "Caprylic/Capric Triglyceride",
+            "Almond Oil",
+            "Glycerine",
+            "Kojic Acid Dipalmitate",
+            "Lecigel",
+            "Alpha Arbutin",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Vitamin E",
+            "Butylated Hydroxytoluene",
+            "Disodium EDTA",
+            "Tyrostat-09",
+            "Fragrance"
+        ],
+        "fragrance": "Added Fragrance (Citrus)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Cream",
+        "finish": "Non-greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Trying a leave-on kojic product on a few dark spots or acne marks for under ₹100.",
+        "avoidIf": "You have very oily, acne-prone skin, as it contains almond oil, or you avoid fragranced face products.",
+        "whyWeLikeIt": "A leave-on cream that pairs a kojic acid ester with niacinamide and alpha arbutin, which stay on the skin long enough to work.",
+        "pros": [
+            "Leave-on formula with three pigment-targeting ingredients",
+            "Full ingredient list on the listing",
+            "₹99 for a 15g tube to test before committing"
+        ],
+        "cons": [
+            "Uses kojic acid dipalmitate, an ester with less direct evidence than pure kojic acid",
+            "Contains fragrance and almond oil",
+            "Only about 2,200 ratings so far"
+        ],
+        "verdict": "The most sensible low-cost way to try kojic acid, because it stays on the skin.",
+        "alternatives": [
+            {
+                "label": "Serum Alternative",
+                "productId": "wishcare-c16-vitc-serum",
+                "reason": "Pure kojic acid at 1% with vitamin C and niacinamide."
+            },
+            {
+                "label": "For Underarms",
+                "productId": "bebodywise-underarm-roll-on",
+                "reason": "Kojic acid with exfoliating acids in a roll-on."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 7.8,
+            "texture": 7.8,
+            "value": 8,
+            "overall": 8
+        }
+    },
+    {
+        "id": "bebodywise-underarm-roll-on",
+        "name": "6% AHA BHA Underarm Roll-On",
+        "title": "Be Bodywise 6% AHA BHA Underarm Roll-On Deodorant with Kojic Acid (50ml)",
+        "brand": "Be Bodywise",
+        "category": "body-care",
+        "subcategory": "Underarm Roll-On",
+        "asin": "B0DVSNG7NC",
+        "amazonUrl": "https://www.amazon.in/dp/B0DVSNG7NC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DVSNG7NC?tag=oraeskin-21",
+        "badge": "Best for Dark Underarms",
+        "price": 390,
+        "priceEst": "₹390",
+        "currency": "₹",
+        "size": "50ml",
+        "image": "/images/products/bebodywise-underarm-roll-on.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "17,000+",
+        "reviewCount": "17,000+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8,
+            "evidence": 7.8,
+            "userFeedback": 8.6,
+            "value": 7.2,
+            "availability": 9.3
+        },
+        "skinType": [
+            "All",
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dark Underarms",
+            "Body Odour",
+            "Pigmentation",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Lactic Acid (4%)",
+            "Mandelic Acid (1%)",
+            "Salicylic Acid (1%)",
+            "Kojic Acid"
+        ],
+        "keyIngredients": [
+            "Lactic Acid (4%)",
+            "Mandelic Acid (1%)",
+            "Salicylic Acid (1%)",
+            "Kojic Acid"
+        ],
+        "ingredients": [
+            "Lactic Acid (4%)",
+            "Mandelic Acid (1%)",
+            "Salicylic Acid (1%)",
+            "Kojic Acid",
+            "Fragrance (full list not printed on the listing)"
+        ],
+        "fragrance": "Added Fragrance (Flora)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Liquid Roll-On",
+        "finish": "Dries clear",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Underarm darkening from shaving and friction, with odour control in the same step.",
+        "avoidIf": "You have just shaved or waxed, or have broken skin, as the acids will sting. It is also not an antiperspirant.",
+        "whyWeLikeIt": "Acids lower underarm pH, which limits odour-causing bacteria, while lactic acid and kojic acid work on dark patches.",
+        "pros": [
+            "Combines exfoliating acids with kojic acid for dark patches",
+            "Free of alcohol and aluminium",
+            "4.3★ from more than 17,000 Amazon India ratings"
+        ],
+        "cons": [
+            "Does not reduce sweating, as it has no aluminium salts",
+            "Fragranced, and the full ingredient list is not on the listing",
+            "About ₹7.8 per ml"
+        ],
+        "verdict": "A useful two-in-one for dark underarms; wait a day after hair removal before using it.",
+        "alternatives": [
+            {
+                "label": "Cheaper Per ml",
+                "productId": "minimalist-glycolic-toner",
+                "reason": "8% glycolic acid liquid that many people use on underarms."
+            },
+            {
+                "label": "For Face Dark Spots",
+                "productId": "dermatouch-kojic-acid-cream",
+                "reason": "A leave-on kojic cream meant for facial marks."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.2,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "kozicare-kojic-soap",
+        "name": "Skin Brightening Soap",
+        "title": "Kozicare Skin Brightening Soap with Kojic Acid, Arbutin & Glutathione (Pack of 3 x 75g)",
+        "brand": "Kozicare",
+        "category": "body-care",
+        "subcategory": "Kojic Acid Soap",
+        "asin": "B00JZF78DS",
+        "amazonUrl": "https://www.amazon.in/dp/B00JZF78DS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00JZF78DS?tag=oraeskin-21",
+        "badge": "Most-Rated Kojic Soap",
+        "price": 169,
+        "priceEst": "₹169",
+        "currency": "₹",
+        "size": "225g",
+        "image": "/images/products/kozicare-kojic-soap.jpg",
+        "amazonRating": 3.8,
+        "rating": 3.8,
+        "amazonReviews": "19,000+",
+        "reviewCount": "19,000+",
+        "scoreBreakdown": {
+            "formula": 6.5,
+            "skinSuitability": 6.8,
+            "evidence": 6,
+            "userFeedback": 7.2,
+            "value": 9,
+            "availability": 9.3
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Body Tan",
+            "Uneven Tone",
+            "Pigmentation"
+        ],
+        "keyActives": [
+            "Kojic Acid (0.5%)",
+            "Arbutin (0.5%)",
+            "Vitamin C (0.5%)",
+            "Glutathione (0.3%)"
+        ],
+        "keyIngredients": [
+            "Kojic Acid (0.5%)",
+            "Arbutin (0.5%)",
+            "Vitamin C (0.5%)",
+            "Glutathione (0.3%)"
+        ],
+        "ingredients": [
+            "Kojic Acid (0.5%)",
+            "Arbutin (0.5%)",
+            "Vitamin C (0.5%)",
+            "Vitamin E (0.5%)",
+            "Glutathione (0.3%)",
+            "Soap base (not printed on the listing)"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Soap Bar",
+        "finish": "Clean rinse",
+        "whiteCast": "Not Applicable",
+        "bestFor": "People who want an inexpensive body soap and are curious about kojic acid.",
+        "avoidIf": "You expect visible fading of dark spots, or have dry or sensitive skin, as soap bars can be drying.",
+        "whyWeLikeIt": "It states the percentage of every active and costs about ₹56 a bar.",
+        "pros": [
+            "States the percentage of each active",
+            "About ₹56 per 75g bar",
+            "More than 19,000 Amazon India ratings"
+        ],
+        "cons": [
+            "Low strengths that are rinsed off within a minute, so the effect on pigment is likely to be small",
+            "3.8★, the lowest rating in this guide",
+            "The soap base is not printed on the listing"
+        ],
+        "verdict": "Fine as a cheap body soap, but do not rely on it to fade pigmentation.",
+        "alternatives": [
+            {
+                "label": "Leave-On Alternative",
+                "productId": "dermatouch-kojic-acid-cream",
+                "reason": "A cream stays on the skin, which gives kojic acid time to act."
+            },
+            {
+                "label": "Soap with Full Ingredient List",
+                "productId": "seoulskin-kojic-rice-soap",
+                "reason": "Prints its full ingredients, including niacinamide and salicylic acid."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.1,
+        "scores": {
+            "formula": 6.5,
+            "weatherResilience": 6.8,
+            "texture": 6.8,
+            "value": 9,
+            "overall": 7.1
+        }
+    },
+    {
+        "id": "seoulskin-kojic-rice-soap",
+        "name": "Kojic & Rice Water Brightening Soap",
+        "title": "Seoulskin Kojic & Rice Water Brightening Soap (Pack of 3 x 100g)",
+        "brand": "Seoulskin",
+        "category": "body-care",
+        "subcategory": "Kojic Acid Soap",
+        "asin": "B0G7ZK6GJ8",
+        "amazonUrl": "https://www.amazon.in/dp/B0G7ZK6GJ8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0G7ZK6GJ8?tag=oraeskin-21",
+        "badge": "Kojic Soap with Full Ingredient List",
+        "price": 268,
+        "priceEst": "₹268",
+        "currency": "₹",
+        "size": "300g",
+        "image": "/images/products/seoulskin-kojic-rice-soap.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "2,000+",
+        "reviewCount": "2,000+",
+        "scoreBreakdown": {
+            "formula": 6.6,
+            "skinSuitability": 6.5,
+            "evidence": 6,
+            "userFeedback": 7.2,
+            "value": 8.5,
+            "availability": 9
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Body Tan",
+            "Uneven Tone",
+            "Rough Skin"
+        ],
+        "keyActives": [
+            "Kojic Acid Dipalmitate",
+            "Fermented Rice Water",
+            "Salicylic Acid",
+            "Niacinamide",
+            "Glutathione"
+        ],
+        "keyIngredients": [
+            "Kojic Acid Dipalmitate",
+            "Fermented Rice Water",
+            "Salicylic Acid",
+            "Niacinamide",
+            "Glutathione"
+        ],
+        "ingredients": [
+            "Sodium Palmate",
+            "Sodium Palm Kernelate",
+            "Aqua",
+            "Sodium Lauroyl Isethionate",
+            "Coco Amido Propyl Betaine",
+            "Stearic Acid",
+            "Fragrance",
+            "Kojic Acid Dipalmitate",
+            "Fermented Rice Water",
+            "Phenoxyethanol",
+            "Salicylic Acid",
+            "Niacinamide",
+            "L-Glutathione",
+            "Walnut Scrub",
+            "Titanium Dioxide",
+            "CI 47005"
+        ],
+        "fragrance": "Added Fragrance (Musk)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Soap Bar with Scrub Particles",
+        "finish": "Clean rinse",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Rough elbows, knees and body skin, where the walnut scrub particles add physical exfoliation.",
+        "avoidIf": "You plan to use it on your face, as walnut scrub particles and soap are harsh there, or you have dry or sensitive skin.",
+        "whyWeLikeIt": "It prints its full ingredient list, so you can see exactly what you are using.",
+        "pros": [
+            "Full ingredient list on the listing",
+            "Adds salicylic acid and niacinamide to the kojic ester",
+            "100g bars, about ₹89 each"
+        ],
+        "cons": [
+            "Walnut scrub particles are too abrasive for the face",
+            "Wash-off contact time limits what the actives can do",
+            "Only about 2,000 ratings at 3.9★"
+        ],
+        "verdict": "Use it as an exfoliating body soap, not as a pigmentation treatment.",
+        "alternatives": [
+            {
+                "label": "Leave-On Alternative",
+                "productId": "dermatouch-kojic-acid-cream",
+                "reason": "A cream gives kojic acid time on the skin."
+            },
+            {
+                "label": "Cheaper Soap",
+                "productId": "kozicare-kojic-soap",
+                "reason": "Lower price per bar with stated percentages."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7,
+        "scores": {
+            "formula": 6.6,
+            "weatherResilience": 6.5,
+            "texture": 6.5,
+            "value": 8.5,
+            "overall": 7
+        }
     }
 ];
 
