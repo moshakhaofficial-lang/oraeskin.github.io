@@ -48,6 +48,7 @@
     "plum-vanilla-caramello-lotion",
     "plum-vitc-mandarin",
     "reequil-ultra-matte-spf50",
+    "seoulskin-kojic-rice-soap",
     "simple-refreshing-wash",
     "skin1004-probio-cica-ampoule",
     "theordinary-salicylic-solution-2"
@@ -78,6 +79,7 @@
     "best-lactic-acid-lotions-rough-elbows-knees-india",
     "best-lip-sleeping-masks-chapped-peeling-lips",
     "best-micro-dart-patches-deep-blind-pimples",
+    "best-mineral-physical-sunscreens-india",
     "best-moisturizers-for-combination-skin-tzone",
     "best-night-creams-for-glowing-radiant-skin-india",
     "best-non-comedogenic-moisturizers-acne-prone-skin",
@@ -105,25 +107,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "best-exfoliating-peeling-pads-convenience-india",
-      "type": "blog",
-      "title": "Best Pre-Soaked Exfoliating Toner Pads for Travel & Convenience",
-      "date": "2026-09-06T02:58:50Z",
-      "channels": [
-        "instagram"
-      ]
-    },
-    {
-      "id": "minimalist-spf50",
-      "type": "product",
-      "title": "SPF 50 Multi-Vitamin Sunscreen",
-      "date": "2026-09-06T03:21:54Z",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "bioderma-atoderm-baume",
       "type": "product",
@@ -1098,6 +1081,26 @@
       "type": "blog",
       "title": "Best Tinted Sunscreens for Indian Skin Tones",
       "date": "2026-11-14T11:38:43.280351+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "seoulskin-kojic-rice-soap",
+      "type": "product",
+      "title": "Kojic & Rice Water Brightening Soap",
+      "date": "2026-11-15T12:05:44.995854+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-mineral-physical-sunscreens-india",
+      "type": "blog",
+      "title": "Best Mineral (Physical) Sunscreens in India for Sensitive Skin",
+      "date": "2026-11-15T12:05:46.127923+00:00",
       "channels": [
         "twitter",
         "instagram"
