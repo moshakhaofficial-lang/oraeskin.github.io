@@ -25,6 +25,7 @@
     "earth-rhythm-vitc-sunstick",
     "elf-lip-exfoliator",
     "faceshop-rice-cleanser",
+    "fixderma-foobetik-cream",
     "fixderma-sunscreen-stick",
     "mcaffeine-salicylic-acne-pads",
     "minimalist-ala-glycolic-facewash",
@@ -83,6 +84,7 @@
     "best-moisturizers-for-combination-skin-tzone",
     "best-night-creams-for-glowing-radiant-skin-india",
     "best-non-comedogenic-moisturizers-acne-prone-skin",
+    "best-pcos-hormonal-acne-skincare-routine-india",
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-salicylic-acid-spot-gels-urgent-breakouts",
@@ -107,26 +109,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "bioderma-atoderm-baume",
-      "type": "product",
-      "title": "Atoderm Intensive Baume",
-      "date": "2026-09-05T21:57:57.110618+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "complete-body-skincare-routine-indian-monsoon",
-      "type": "blog",
-      "title": "Complete Body Skincare Routine for Indian Monsoon & High Humidity",
-      "date": "2026-09-05T21:57:59.019816+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "minimalist-glycolic-toner",
       "type": "product",
@@ -1101,6 +1083,26 @@
       "type": "blog",
       "title": "Best Mineral (Physical) Sunscreens in India for Sensitive Skin",
       "date": "2026-11-15T12:05:46.127923+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "fixderma-foobetik-cream",
+      "type": "product",
+      "title": "Foobetik Foot Cream",
+      "date": "2026-11-16T12:59:02.076886+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-pcos-hormonal-acne-skincare-routine-india",
+      "type": "blog",
+      "title": "Best PCOS & Hormonal Acne Skincare Routine for Indian Women",
+      "date": "2026-11-16T12:59:02.824693+00:00",
       "channels": [
         "twitter",
         "instagram"
