@@ -52,6 +52,7 @@
     "seoulskin-kojic-rice-soap",
     "simple-refreshing-wash",
     "skin1004-probio-cica-ampoule",
+    "the-ordinary-squalane-cleanser",
     "theordinary-salicylic-solution-2"
   ],
   "published_blogs": [
@@ -88,6 +89,7 @@
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-salicylic-acid-spot-gels-urgent-breakouts",
+    "best-spf-lip-balms-prevent-dark-lips-india",
     "best-tinted-lip-balms-spf-daily-college-office",
     "best-tinted-sunscreens-indian-skin-tones",
     "best-tranexamic-acid-serums-stubborn-pigmentation-india",
@@ -109,26 +111,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "minimalist-glycolic-toner",
-      "type": "product",
-      "title": "8% Glycolic Acid Exfoliating Liquid",
-      "date": "2026-09-06T08:45:06.000280+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-night-creams-for-glowing-radiant-skin-india",
-      "type": "blog",
-      "title": "Best Night Creams in India for Waking Up with Radiant, Plump Skin",
-      "date": "2026-09-06T08:45:07.471914+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "minimalist-pha-toner",
       "type": "product",
@@ -1103,6 +1085,26 @@
       "type": "blog",
       "title": "Best PCOS & Hormonal Acne Skincare Routine for Indian Women",
       "date": "2026-11-16T12:59:02.824693+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "the-ordinary-squalane-cleanser",
+      "type": "product",
+      "title": "Squalane Cleanser",
+      "date": "2026-11-17T13:41:13.645577+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-spf-lip-balms-prevent-dark-lips-india",
+      "type": "blog",
+      "title": "Best SPF Lip Balms in India to Prevent Dark Lips",
+      "date": "2026-11-17T13:41:14.615105+00:00",
       "channels": [
         "twitter",
         "instagram"
