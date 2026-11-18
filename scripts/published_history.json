@@ -13,6 +13,7 @@
     "cetaphil-gentle-cleanser",
     "cosrx-ahabha-toner",
     "dabur-gulabari-rose-water",
+    "de-la-cruz-sulfur-ointment",
     "deconstruct-brightening-lip-balm-spf50",
     "dermaco-10-niacinamide",
     "dermaco-5-caffeine-serum",
@@ -76,6 +77,7 @@
     "best-fermented-rice-kombucha-toners-india",
     "best-foot-creams-cracked-heels-urea-salicylic",
     "best-gentle-cleansers-for-dry-skin-india",
+    "best-hyaluronic-acid-serums-dehydrated-skin-india",
     "best-hydrating-eye-gels-screen-fatigue-india",
     "best-hydrating-milky-toners-glass-skin-india",
     "best-lactic-acid-lotions-rough-elbows-knees-india",
@@ -111,26 +113,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "minimalist-pha-toner",
-      "type": "product",
-      "title": "PHA 3% Alcohol-Free Face Toner",
-      "date": "2026-09-07T09:31:12.090190+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "when-should-you-start-using-retinol-in-india",
-      "type": "blog",
-      "title": "At What Age Should You Start Using Retinol? Evidence-Informed Age Guide",
-      "date": "2026-09-07T09:31:13.843735+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "biotique-morning-nectar-lotion",
       "type": "product",
@@ -1105,6 +1087,26 @@
       "type": "blog",
       "title": "Best SPF Lip Balms in India to Prevent Dark Lips",
       "date": "2026-11-17T13:41:14.615105+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "de-la-cruz-sulfur-ointment",
+      "type": "product",
+      "title": "10% Sulfur Ointment",
+      "date": "2026-11-18T13:15:26.340639+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-hyaluronic-acid-serums-dehydrated-skin-india",
+      "type": "blog",
+      "title": "Best Hyaluronic Acid Serums for Dehydrated Skin in India",
+      "date": "2026-11-18T13:15:27.621220+00:00",
       "channels": [
         "twitter",
         "instagram"
