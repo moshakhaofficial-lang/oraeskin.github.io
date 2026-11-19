@@ -19,6 +19,7 @@
     "dermaco-5-caffeine-serum",
     "dermaco-acne-patch",
     "dermaco-hyaluronic-spf50",
+    "dotkey-barrier-repair-lip-balm-spf50",
     "dotkey-lip-mask",
     "dotkey-rice-ceramide-cream",
     "dotkey-watermelon-spf50",
@@ -92,6 +93,7 @@
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-salicylic-acid-spot-gels-urgent-breakouts",
     "best-spf-lip-balms-prevent-dark-lips-india",
+    "best-sunscreen-for-bike-commuters-traffic-pollution",
     "best-tinted-lip-balms-spf-daily-college-office",
     "best-tinted-sunscreens-indian-skin-tones",
     "best-tranexamic-acid-serums-stubborn-pigmentation-india",
@@ -113,26 +115,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "biotique-morning-nectar-lotion",
-      "type": "product",
-      "title": "Morning Nectar Nourishing Lotion",
-      "date": "2026-09-08T08:57:04.816572+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-retinol-eye-creams-fine-lines-crow-feet",
-      "type": "blog",
-      "title": "Best Retinol Eye Creams for Smoothing Crow\u2019s Feet & Wrinkles",
-      "date": "2026-09-08T08:57:06.410759+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "dotkey-lip-mask",
       "type": "product",
@@ -1107,6 +1089,26 @@
       "type": "blog",
       "title": "Best Hyaluronic Acid Serums for Dehydrated Skin in India",
       "date": "2026-11-18T13:15:27.621220+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "dotkey-barrier-repair-lip-balm-spf50",
+      "type": "product",
+      "title": "Barrier Repair Hydrating Lip Balm SPF 50",
+      "date": "2026-11-19T13:38:13.167616+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-sunscreen-for-bike-commuters-traffic-pollution",
+      "type": "blog",
+      "title": "Best Sunscreens for Two-Wheeler Bike Commuters in Indian Traffic & Pollution",
+      "date": "2026-11-19T13:38:14.160418+00:00",
       "channels": [
         "twitter",
         "instagram"
