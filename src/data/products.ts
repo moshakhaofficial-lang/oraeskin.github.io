@@ -16405,6 +16405,1526 @@ export const PRODUCTS: SkincareProduct[] = [
             "value": 8.5,
             "overall": 7
         }
+    },
+    {
+        "id": "ponds-bright-beauty-facewash",
+        "name": "Bright Beauty Brightening Face Wash",
+        "title": "Pond's Bright Beauty Brightening Face Wash with Niacinamide (200g)",
+        "brand": "Pond's",
+        "category": "cleansers",
+        "subcategory": "Brightening Cream Cleanser",
+        "asin": "B08NYD1GGK",
+        "amazonUrl": "https://www.amazon.in/dp/B08NYD1GGK?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08NYD1GGK?tag=oraeskin-21",
+        "badge": "Most-Rated Brightening Face Wash",
+        "price": 180,
+        "priceEst": "₹180",
+        "currency": "₹",
+        "size": "200g",
+        "image": "/images/products/ponds-bright-beauty-facewash.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "15,000+",
+        "reviewCount": "15,000+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.4,
+            "evidence": 7.4,
+            "userFeedback": 8.6,
+            "value": 9.4,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination"
+        ],
+        "concerns": [
+            "Dullness",
+            "Uneven Tone",
+            "Tanning"
+        ],
+        "keyActives": [
+            "Niacinamide (Vitamin B3)",
+            "Glycerin"
+        ],
+        "keyIngredients": [
+            "Niacinamide (Vitamin B3)",
+            "Glycerin"
+        ],
+        "ingredients": [
+            "Myristic Acid",
+            "Water",
+            "Glycerin",
+            "Niacinamide (full list not printed on the listing)"
+        ],
+        "fragrance": "Added Fragrance (Floral)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Creamy Foam",
+        "finish": "Soft, clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A cheap, creamy daily face wash for normal to dry skin that wants a brighter look.",
+        "avoidIf": "You have oily or acne-prone skin, as fatty-acid soap cleansers can feel stripping, or you avoid fragrance.",
+        "whyWeLikeIt": "Large 200g tube at about ₹0.9 per gram with niacinamide, from a widely available brand.",
+        "pros": [
+            "About ₹0.9 per gram, the cheapest here",
+            "Creamy lather that does not feel tight on most normal skin",
+            "More than 15,000 Amazon India ratings at 4.3★"
+        ],
+        "cons": [
+            "The listing prints only three ingredients, so the niacinamide strength is unknown",
+            "Fragranced"
+        ],
+        "verdict": "A pleasant budget wash, but niacinamide in a rinse-off product does little for tan on its own.",
+        "alternatives": [
+            {
+                "label": "Gentler, Fragrance-Light Option",
+                "productId": "foxtale-super-glow-detan-facewash",
+                "reason": "Sulphate-free and soap-free, with stabilised vitamin C."
+            },
+            {
+                "label": "For Oily Skin",
+                "productId": "dermatouch-bright-even-facewash",
+                "reason": "Adds salicylic, glycolic and lactic acid for oily skin."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 7.4,
+            "texture": 7.4,
+            "value": 9.4,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "garnier-bright-complete-vitc-facewash",
+        "name": "Bright Complete Vitamin C Face Wash",
+        "title": "Garnier Bright Complete Vitamin C Face Wash (160g)",
+        "brand": "Garnier",
+        "category": "cleansers",
+        "subcategory": "Brightening Cream Cleanser",
+        "asin": "B0G4WQX1WR",
+        "amazonUrl": "https://www.amazon.in/dp/B0G4WQX1WR?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0G4WQX1WR?tag=oraeskin-21",
+        "badge": "Best Budget Vitamin C Wash",
+        "price": 192,
+        "priceEst": "₹192",
+        "currency": "₹",
+        "size": "160g",
+        "image": "/images/products/garnier-bright-complete-vitc-facewash.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "15,000+",
+        "reviewCount": "15,000+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.2,
+            "evidence": 7.2,
+            "userFeedback": 8.4,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Oily",
+            "Combination"
+        ],
+        "concerns": [
+            "Dullness",
+            "Tanning",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "Ascorbyl Glucoside (Vitamin C)",
+            "Salicylic Acid",
+            "Kaolin",
+            "Lemon Fruit Extract"
+        ],
+        "keyIngredients": [
+            "Ascorbyl Glucoside (Vitamin C)",
+            "Salicylic Acid",
+            "Kaolin",
+            "Lemon Fruit Extract"
+        ],
+        "ingredients": [
+            "Water",
+            "Glycerin",
+            "Myristic Acid",
+            "Palmitic Acid",
+            "Stearic Acid",
+            "Potassium Hydroxide",
+            "Lauric Acid",
+            "Kaolin",
+            "Linalool",
+            "Salicylic Acid",
+            "Phenoxyethanol",
+            "Limonene",
+            "Ascorbyl Glucoside",
+            "Lemon Fruit Extract",
+            "Citrus Junos Fruit Extract",
+            "Benzyl Salicylate",
+            "Benzyl Alcohol",
+            "Fragrance"
+        ],
+        "fragrance": "Added Fragrance (Lemon)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Cream Foam",
+        "finish": "Matte, clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Normal to oily skin that likes a squeaky-clean, foamy wash with a lemon scent.",
+        "avoidIf": "Your skin is dry or sensitive; this is a soap-based cleanser with fragrance and citrus extracts.",
+        "whyWeLikeIt": "Full ingredient list on the listing, with kaolin clay and a little salicylic acid for oily skin.",
+        "pros": [
+            "Full ingredient list printed on the listing",
+            "Kaolin and salicylic acid help oily skin feel clean",
+            "About ₹1.2 per gram"
+        ],
+        "cons": [
+            "Soap-based (potassium hydroxide with fatty acids), which can dry out skin",
+            "Fragranced, with several listed fragrance allergens"
+        ],
+        "verdict": "Fine for oily skin on a budget; the vitamin C is rinsed off too quickly to fade tan.",
+        "alternatives": [
+            {
+                "label": "Gentler Vitamin C Wash",
+                "productId": "foxtale-super-glow-detan-facewash",
+                "reason": "Sulphate-free and soap-free."
+            },
+            {
+                "label": "Cheaper per Gram",
+                "productId": "ponds-bright-beauty-facewash",
+                "reason": "Larger 200g tube for less."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.7,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 7.2,
+            "texture": 7.2,
+            "value": 9,
+            "overall": 7.7
+        }
+    },
+    {
+        "id": "dermatouch-bright-even-facewash",
+        "name": "Bright & Even Tone Face Wash",
+        "title": "DERMATOUCH Bright & Even Tone Face Wash with Niacinamide & Kojic Acid (70g)",
+        "brand": "DERMATOUCH",
+        "category": "cleansers",
+        "subcategory": "Brightening Gel Cleanser",
+        "asin": "B0BJQJCD87",
+        "amazonUrl": "https://www.amazon.in/dp/B0BJQJCD87?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BJQJCD87?tag=oraeskin-21",
+        "badge": "Best for Oily, Tanned Skin",
+        "price": 148,
+        "priceEst": "₹148",
+        "currency": "₹",
+        "size": "70g",
+        "image": "/images/products/dermatouch-bright-even-facewash.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "10,000+",
+        "reviewCount": "10,000+",
+        "scoreBreakdown": {
+            "formula": 7.2,
+            "skinSuitability": 7.4,
+            "evidence": 7.4,
+            "userFeedback": 7.8,
+            "value": 8.6,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Tanning",
+            "Uneven Tone",
+            "Oily Skin",
+            "Dark Spots"
+        ],
+        "keyActives": [
+            "Salicylic Acid (0.5%)",
+            "Niacinamide",
+            "Kojic Acid",
+            "Glycolic Acid",
+            "Lactic Acid"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid (0.5%)",
+            "Niacinamide",
+            "Kojic Acid",
+            "Glycolic Acid",
+            "Lactic Acid"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Stearic Acid",
+            "Lauric Acid",
+            "Glycerin",
+            "Sorbitol",
+            "Myristic Acid",
+            "Coco Glucoside",
+            "Propylene Glycol",
+            "Kojic Acid Globules",
+            "Liquorice Extract",
+            "Niacinamide",
+            "Sodium Hydroxide",
+            "Salicylic Acid (0.5%)",
+            "Triclosan",
+            "Allantoin",
+            "D-Panthenol",
+            "Glycolic Acid",
+            "Lactic Acid",
+            "Vitamin E",
+            "Vitamin C",
+            "Potassium Hydroxide",
+            "Fragrance"
+        ],
+        "fragrance": "Added Fragrance (Fresh)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel-Cream Foam",
+        "finish": "Matte",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily skin with tan and dullness that wants a gently exfoliating daily wash.",
+        "avoidIf": "You want to avoid triclosan, an antibacterial ingredient that many regulators have restricted in wash-off products.",
+        "whyWeLikeIt": "Combines mild salicylic, glycolic and lactic acids with niacinamide and kojic acid, all printed on the listing.",
+        "pros": [
+            "Full ingredient list on the listing",
+            "Mild exfoliating acids help shed tanned surface skin",
+            "₹148, about ₹2.1 per gram"
+        ],
+        "cons": [
+            "Contains triclosan",
+            "Soap-based (sodium and potassium hydroxide), so it may feel tight on dry skin",
+            "Fragranced"
+        ],
+        "verdict": "The most active de-tan wash here, but we would rather it had no triclosan.",
+        "alternatives": [
+            {
+                "label": "Triclosan-Free Option",
+                "productId": "foxtale-super-glow-detan-facewash",
+                "reason": "Sulphate-free and soap-free, with no triclosan."
+            },
+            {
+                "label": "Stronger Salicylic Version",
+                "productId": "dermatouch-bye-bye-pigmentation-facewash",
+                "reason": "2% salicylic acid from the same brand."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.7,
+        "scores": {
+            "formula": 7.2,
+            "weatherResilience": 7.4,
+            "texture": 7.4,
+            "value": 8.6,
+            "overall": 7.7
+        }
+    },
+    {
+        "id": "dermatouch-bye-bye-pigmentation-facewash",
+        "name": "Bye Bye Pigmentation Face Wash",
+        "title": "DERMATOUCH Bye Bye Pigmentation Face Wash with Niacinamide, Kojic Acid & Glutathione (70g)",
+        "brand": "DERMATOUCH",
+        "category": "cleansers",
+        "subcategory": "Brightening Gel Cleanser",
+        "asin": "B0BJQK51SM",
+        "amazonUrl": "https://www.amazon.in/dp/B0BJQK51SM?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BJQK51SM?tag=oraeskin-21",
+        "badge": "Strongest Acid De-Tan Wash",
+        "price": 228,
+        "priceEst": "₹228",
+        "currency": "₹",
+        "size": "70g",
+        "image": "/images/products/dermatouch-bye-bye-pigmentation-facewash.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "6,900+",
+        "reviewCount": "6,900+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7,
+            "evidence": 7.4,
+            "userFeedback": 7.8,
+            "value": 7.8,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Acne-Prone"
+        ],
+        "concerns": [
+            "Tanning",
+            "Pigmentation",
+            "Acne Marks",
+            "Oily Skin"
+        ],
+        "keyActives": [
+            "Salicylic Acid (2%)",
+            "Niacinamide",
+            "Kojic Acid",
+            "Glutathione",
+            "Glycolic Acid",
+            "Lactic Acid"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid (2%)",
+            "Niacinamide",
+            "Kojic Acid",
+            "Glutathione",
+            "Glycolic Acid",
+            "Lactic Acid"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Stearic Acid",
+            "Lauric Acid",
+            "Sorbitol",
+            "Glycerine",
+            "Myristic Acid",
+            "Coco Glucoside",
+            "Propylene Glycol",
+            "Liquorice Extract",
+            "Kojic Acid Globules",
+            "Niacinamide",
+            "Glutathione",
+            "Sodium Hydroxide",
+            "Salicylic Acid (2%)",
+            "Vitamin E",
+            "Triclosan",
+            "Lactic Acid",
+            "Glycolic Acid",
+            "D-Panthenol",
+            "Allantoin",
+            "Vitamin C",
+            "Potassium Hydroxide",
+            "Fragrance"
+        ],
+        "fragrance": "Added Fragrance (Fresh)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel-Cream Foam",
+        "finish": "Matte",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily, acne-prone skin with tan and post-acne marks.",
+        "avoidIf": "Your skin is dry or sensitive, or you want to avoid triclosan. The listing calls it for normal to dry skin, but 2% salicylic acid in a soap base suits oily skin better.",
+        "whyWeLikeIt": "Full 2% salicylic acid plus glycolic and lactic acids, which help with breakouts and dull, tanned surface skin.",
+        "pros": [
+            "2% salicylic acid helps unclog pores",
+            "Full ingredient list on the listing",
+            "Adds kojic acid and niacinamide"
+        ],
+        "cons": [
+            "Contains triclosan",
+            "Soap base plus 2% salicylic acid can dry out non-oily skin",
+            "About ₹3.3 per gram, the priciest DERMATOUCH wash"
+        ],
+        "verdict": "Good for oily, acne-prone skin with marks; others should pick something gentler.",
+        "alternatives": [
+            {
+                "label": "Milder Version",
+                "productId": "dermatouch-bright-even-facewash",
+                "reason": "0.5% salicylic acid and cheaper."
+            },
+            {
+                "label": "Triclosan-Free Salicylic Wash",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "2% salicylic acid with LHA and no triclosan."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.5,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 7,
+            "texture": 7,
+            "value": 7.8,
+            "overall": 7.5
+        }
+    },
+    {
+        "id": "foxtale-super-glow-detan-facewash",
+        "name": "Super Glow Detan Face Wash",
+        "title": "Foxtale Super Glow Detan Face Wash with Vitamin C & Papaya Enzyme (100ml)",
+        "brand": "Foxtale",
+        "category": "cleansers",
+        "subcategory": "Brightening Gel Cleanser",
+        "asin": "B0F6444T7P",
+        "amazonUrl": "https://www.amazon.in/dp/B0F6444T7P?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0F6444T7P?tag=oraeskin-21",
+        "badge": "Best Gentle De-Tan Wash",
+        "price": 224,
+        "priceEst": "₹224",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/foxtale-super-glow-detan-facewash.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "3,900+",
+        "reviewCount": "3,900+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.4,
+            "evidence": 7.6,
+            "userFeedback": 8,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All",
+            "Normal",
+            "Oily",
+            "Combination",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Tanning",
+            "Dullness",
+            "Uneven Tone"
+        ],
+        "keyActives": [
+            "3-O-Ethyl Ascorbic Acid (Vitamin C)",
+            "Papain (Papaya Enzyme)",
+            "Sodium Hyaluronate"
+        ],
+        "keyIngredients": [
+            "3-O-Ethyl Ascorbic Acid (Vitamin C)",
+            "Papain (Papaya Enzyme)",
+            "Sodium Hyaluronate"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Decyl Glucoside",
+            "Sodium Cocoamphoacetate",
+            "Glycerin",
+            "Cocamidopropyl Betaine",
+            "Coco-Glucoside",
+            "Glyceryl Oleate",
+            "Sodium Cocoyl Isethionate",
+            "Phenoxyethanol",
+            "Ethylhexylglycerin",
+            "Papain",
+            "3-O-Ethyl Ascorbic Acid",
+            "Sodium Hyaluronate",
+            "Glyceryl Glucoside",
+            "Disodium EDTA",
+            "Allergen Free Fragrance",
+            "CI 16255",
+            "CI 15985"
+        ],
+        "fragrance": "Added Fragrance (Allergen-Free)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel",
+        "finish": "Soft, not tight",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Daily cleansing for tanned, dull skin without the tight feel of soap-based washes.",
+        "avoidIf": "You want a strong exfoliating wash for very oily skin; this one is gentle.",
+        "whyWeLikeIt": "Mild, sulphate-free and soap-free surfactants with papain and a stable vitamin C, all printed on the listing.",
+        "pros": [
+            "Sulphate-free and soap-free, so it suits most skin types",
+            "Papain gently loosens dead surface skin",
+            "Full ingredient list on the listing"
+        ],
+        "cons": [
+            "Only about 3,900 ratings so far",
+            "Contains added colourants (CI 16255, CI 15985)"
+        ],
+        "verdict": "Our top pick for a daily de-tan wash: it cleans well without stripping the skin.",
+        "alternatives": [
+            {
+                "label": "For Oily, Acne-Prone Skin",
+                "productId": "dermatouch-bye-bye-pigmentation-facewash",
+                "reason": "2% salicylic acid for breakouts and marks."
+            },
+            {
+                "label": "Cheapest Option",
+                "productId": "ponds-bright-beauty-facewash",
+                "reason": "Larger tube for less money."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.4,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "ghar-soaps-detan-facewash",
+        "name": "De-Tan Face Wash",
+        "title": "Ghar Soaps De-Tan Face Wash with Saffron, Lactic Acid & Provitamin B5 (100ml)",
+        "brand": "Ghar Soaps",
+        "category": "cleansers",
+        "subcategory": "De-Tan Gel Cleanser",
+        "asin": "B0GYCT961V",
+        "amazonUrl": "https://www.amazon.in/dp/B0GYCT961V?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GYCT961V?tag=oraeskin-21",
+        "badge": "Trending De-Tan Wash",
+        "price": 299,
+        "priceEst": "₹299",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/ghar-soaps-detan-facewash.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "2,900+",
+        "reviewCount": "2,900+",
+        "scoreBreakdown": {
+            "formula": 6.4,
+            "skinSuitability": 7,
+            "evidence": 6.4,
+            "userFeedback": 7.8,
+            "value": 7.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All",
+            "Normal",
+            "Oily"
+        ],
+        "concerns": [
+            "Tanning",
+            "Dullness"
+        ],
+        "keyActives": [
+            "Lactic Acid",
+            "Provitamin B5",
+            "Saffron Extract"
+        ],
+        "keyIngredients": [
+            "Lactic Acid",
+            "Provitamin B5",
+            "Saffron Extract"
+        ],
+        "ingredients": [
+            "Saffron",
+            "Lactic Acid",
+            "Provitamin B5 (full list not printed on the listing)"
+        ],
+        "fragrance": "Added Fragrance (Fresh)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel",
+        "finish": "Clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "People who like a herbal-style de-tan wash and do not need to check every ingredient.",
+        "avoidIf": "You need to know the full ingredient list before buying; the listing names only three ingredients.",
+        "whyWeLikeIt": "It is climbing the bestseller list and includes lactic acid, a mild exfoliant.",
+        "pros": [
+            "Lactic acid is a gentle exfoliant",
+            "Rising fast on Amazon India bestseller lists",
+            "Gel texture suits oily skin"
+        ],
+        "cons": [
+            "The listing names only three ingredients, so strengths and the cleansing base are unknown",
+            "The listing copy mentions glutathione, but it is not in the printed ingredients",
+            "₹299 for 100ml, the priciest per ml here"
+        ],
+        "verdict": "Popular, but we cannot judge the formula properly without a full ingredient list.",
+        "alternatives": [
+            {
+                "label": "Fully Listed Gentle Option",
+                "productId": "foxtale-super-glow-detan-facewash",
+                "reason": "Full ingredient list, sulphate-free and soap-free."
+            },
+            {
+                "label": "Cheaper Exfoliating Option",
+                "productId": "dermatouch-bright-even-facewash",
+                "reason": "Lactic, glycolic and salicylic acids for less."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.1,
+        "scores": {
+            "formula": 6.4,
+            "weatherResilience": 7,
+            "texture": 7,
+            "value": 7.4,
+            "overall": 7.1
+        }
+    },
+    {
+        "id": "ponds-super-light-gel",
+        "name": "Super Light Gel Oil Free Moisturizer",
+        "title": "Pond's Super Light Gel Oil-Free Face Moisturizer (200g)",
+        "brand": "Pond's",
+        "category": "moisturizers",
+        "subcategory": "Gel Moisturizer",
+        "asin": "B09Z6TJP7Y",
+        "amazonUrl": "https://www.amazon.in/dp/B09Z6TJP7Y?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09Z6TJP7Y?tag=oraeskin-21",
+        "badge": "Most Popular Gel Moisturizer",
+        "price": 299,
+        "priceEst": "₹299",
+        "currency": "₹",
+        "size": "200g",
+        "image": "/images/products/ponds-super-light-gel.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "53,000+",
+        "reviewCount": "53,000+",
+        "scoreBreakdown": {
+            "formula": 7.2,
+            "skinSuitability": 8.4,
+            "evidence": 7.6,
+            "userFeedback": 9,
+            "value": 9.4,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Oily Skin",
+            "Daily Hydration"
+        ],
+        "keyActives": [
+            "Hyaluronic Acid",
+            "Vitamin E",
+            "Cera-Hyamino (brand complex)"
+        ],
+        "keyIngredients": [
+            "Hyaluronic Acid",
+            "Vitamin E",
+            "Cera-Hyamino (brand complex)"
+        ],
+        "ingredients": [
+            "Hyaluronic Acid",
+            "Vitamin E",
+            "Cera-Hyamino complex (full list not printed on the listing)"
+        ],
+        "fragrance": "Added Fragrance (Musk)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Gel",
+        "finish": "Non-oily, fresh",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily and combination skin in humid weather that wants a light, non-greasy daily moisturiser.",
+        "avoidIf": "You have very dry skin in winter, or need to check every ingredient before buying.",
+        "whyWeLikeIt": "A light, oil-free gel in a big 200g jar at about ₹1.5 per gram, rated by more than 53,000 buyers.",
+        "pros": [
+            "Very light, oil-free gel that suits humid weather",
+            "About ₹1.5 per gram",
+            "More than 53,000 Amazon India ratings at 4.4★"
+        ],
+        "cons": [
+            "The full ingredient list is not printed on the listing",
+            "Fragranced (musk)",
+            "A jar means fingers go into the product each use"
+        ],
+        "verdict": "The easiest pick for oily skin on a budget, if you are fine with fragrance.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free Gel",
+                "productId": "minimalist-b5-moisturizer",
+                "reason": "Oil-free gel with 10% panthenol and a full ingredient list."
+            },
+            {
+                "label": "Richer Barrier Cream",
+                "productId": "reequil-ceramide-ha-moisturiser",
+                "reason": "Three ceramides for drier skin."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 7.2,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 9.4,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "nivea-soft-cream",
+        "name": "Soft Light Moisturising Cream",
+        "title": "NIVEA Soft Light Moisturising Cream with Vitamin E & Jojoba Oil (300ml)",
+        "brand": "NIVEA",
+        "category": "moisturizers",
+        "subcategory": "Face & Body Cream",
+        "asin": "B00E96N6O8",
+        "amazonUrl": "https://www.amazon.in/dp/B00E96N6O8?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00E96N6O8?tag=oraeskin-21",
+        "badge": "Best Face, Body & Hand Cream",
+        "price": 334,
+        "priceEst": "₹334",
+        "currency": "₹",
+        "size": "300ml",
+        "image": "/images/products/nivea-soft-cream.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "54,000+",
+        "reviewCount": "54,000+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7.2,
+            "evidence": 7.6,
+            "userFeedback": 9,
+            "value": 9.2,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Normal",
+            "Dry"
+        ],
+        "concerns": [
+            "Dryness",
+            "Daily Hydration",
+            "Winter Dryness"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Mineral Oil",
+            "Jojoba Oil",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Mineral Oil",
+            "Jojoba Oil",
+            "Vitamin E"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerin",
+            "Paraffinum Liquidum",
+            "Myristyl Alcohol",
+            "Butylene Glycol",
+            "Alcohol Denat",
+            "Stearic Acid",
+            "Myristyl Myristate",
+            "Cera Microcristallina",
+            "Glyceryl Stearate",
+            "Simmondsia Chinensis Seed Oil",
+            "Tocopheryl Acetate",
+            "Lanolin Alcohol",
+            "Dimethicone",
+            "Phenoxyethanol",
+            "Linalool",
+            "Citronellol",
+            "Limonene",
+            "Benzyl Alcohol",
+            "Benzyl Salicylate",
+            "Parfum"
+        ],
+        "fragrance": "Added Fragrance (Fresh)",
+        "essentialOils": false,
+        "alcoholFree": false,
+        "texture": "Light Cream",
+        "finish": "Soft, slightly dewy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "One big tub for dry hands, elbows and body, and the face if it is normal and not reactive.",
+        "avoidIf": "Your face is acne-prone or sensitive; it contains denatured alcohol, lanolin alcohol and perfume.",
+        "whyWeLikeIt": "Glycerin and mineral oil keep skin soft, and 300ml covers face, hands and body for months.",
+        "pros": [
+            "Glycerin is the second ingredient",
+            "About ₹1.1 per ml for a 300ml tub",
+            "More than 54,000 Amazon India ratings at 4.4★"
+        ],
+        "cons": [
+            "Contains denatured alcohol and perfume",
+            "Myristyl myristate and lanolin alcohol may not suit acne-prone faces"
+        ],
+        "verdict": "Great value as an all-over cream; choose a dedicated face moisturiser if your skin breaks out.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free Face Cream",
+                "productId": "cetaphil-moisturising-cream",
+                "reason": "No fragrance, for sensitive faces."
+            },
+            {
+                "label": "Lighter for Oily Skin",
+                "productId": "ponds-super-light-gel",
+                "reason": "Oil-free gel for humid weather."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 7.2,
+            "texture": 7.2,
+            "value": 9.2,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "reequil-ceramide-ha-moisturiser",
+        "name": "Ceramide & Hyaluronic Acid Moisturiser",
+        "title": "Re'equil Ceramide & Hyaluronic Acid Moisturiser (100g)",
+        "brand": "Re'equil",
+        "category": "moisturizers",
+        "subcategory": "Barrier Repair Cream",
+        "asin": "B082KWT81N",
+        "amazonUrl": "https://www.amazon.in/dp/B082KWT81N?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B082KWT81N?tag=oraeskin-21",
+        "badge": "Best Barrier Cream Under ₹300",
+        "price": 290,
+        "priceEst": "₹290",
+        "currency": "₹",
+        "size": "100g",
+        "image": "/images/products/reequil-ceramide-ha-moisturiser.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "10,000+",
+        "reviewCount": "10,000+",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 8.4,
+            "evidence": 8.6,
+            "userFeedback": 8.6,
+            "value": 8.8,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Normal",
+            "Dry",
+            "Combination",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Weak Skin Barrier",
+            "Dryness",
+            "Dehydration",
+            "Sensitive Skin"
+        ],
+        "keyActives": [
+            "Ceramides AP, NP & EOP",
+            "Sodium Hyaluronate",
+            "Panthenol",
+            "Squalane",
+            "Mango Seed Butter"
+        ],
+        "keyIngredients": [
+            "Ceramides AP, NP & EOP",
+            "Sodium Hyaluronate",
+            "Panthenol",
+            "Squalane",
+            "Mango Seed Butter"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Caprylic/Capric Triglyceride",
+            "Propanediol",
+            "Cetearyl Ethylhexanoate",
+            "Glycerin",
+            "Mangifera Indica Seed Butter",
+            "Dimethicone",
+            "Panthenol",
+            "Squalane",
+            "Simmondsia Chinensis Seed Oil",
+            "Borago Officinalis Seed Oil",
+            "Ceramide AP",
+            "Phytosphingosine",
+            "Phytosterols",
+            "Sodium Hyaluronate",
+            "Ceramide NP",
+            "Ceramide EOP",
+            "Tocopheryl Acetate",
+            "Allantoin",
+            "Fragrance"
+        ],
+        "fragrance": "Added Fragrance (Mango)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Light Cream",
+        "finish": "Soft, non-greasy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Normal to dry or irritated skin that needs barrier repair, especially in winter or alongside actives like retinol.",
+        "avoidIf": "You are strictly fragrance-free; fragrance is the last listed ingredient.",
+        "whyWeLikeIt": "Three ceramides with phytosphingosine, squalane, panthenol and hyaluronic acid for under ₹300, with the full list printed.",
+        "pros": [
+            "Three ceramides plus phytosphingosine, the barrier-repair ingredients with the most evidence",
+            "Full ingredient list on the listing",
+            "₹2.9 per gram"
+        ],
+        "cons": [
+            "Contains a small amount of fragrance",
+            "Rich oils may feel heavy on very oily skin in summer"
+        ],
+        "verdict": "Our best-scoring moisturiser in this guide and excellent value for dry or stressed skin.",
+        "alternatives": [
+            {
+                "label": "Fragrance-Free Option",
+                "productId": "cetaphil-moisturising-cream",
+                "reason": "No added fragrance."
+            },
+            {
+                "label": "Similar Ceramide Cream",
+                "productId": "dotkey-rice-ceramide-cream",
+                "reason": "Five ceramides in a gel-cream texture."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.7,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.8,
+            "overall": 8.7
+        }
+    },
+    {
+        "id": "cetaphil-moisturising-cream",
+        "name": "Moisturising Cream",
+        "title": "Cetaphil Moisturising Cream for Dry & Sensitive Skin (100g)",
+        "brand": "Cetaphil",
+        "category": "moisturizers",
+        "subcategory": "Rich Cream",
+        "asin": "B01HMLB0LW",
+        "amazonUrl": "https://www.amazon.in/dp/B01HMLB0LW?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01HMLB0LW?tag=oraeskin-21",
+        "badge": "Best for Dry, Sensitive Faces",
+        "price": 673,
+        "priceEst": "₹673",
+        "currency": "₹",
+        "size": "100g",
+        "image": "/images/products/cetaphil-moisturising-cream.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "22,000+",
+        "reviewCount": "22,000+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 8.2,
+            "userFeedback": 8.6,
+            "value": 6.4,
+            "availability": 9.3
+        },
+        "skinType": [
+            "Dry",
+            "Very Dry",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Dryness",
+            "Sensitive Skin",
+            "Winter Dryness",
+            "Eczema-Prone Skin"
+        ],
+        "keyActives": [
+            "Glycerin",
+            "Mineral Oil",
+            "Dimethicone",
+            "Almond Oil",
+            "Vitamin E"
+        ],
+        "keyIngredients": [
+            "Glycerin",
+            "Mineral Oil",
+            "Dimethicone",
+            "Almond Oil",
+            "Vitamin E"
+        ],
+        "ingredients": [
+            "Purified Water",
+            "Polyglycerylmethacrylate and Propylene Glycol",
+            "Glyceryl Stearate",
+            "Light Liquid Paraffin",
+            "Dicaprylyl Ether",
+            "PEG-5 Glyceryl Stearate",
+            "Glycerine",
+            "Dimethicone and Dimethiconol",
+            "Cetyl Alcohol",
+            "Refined Almond Oil",
+            "Benzyl Alcohol",
+            "Tocopheryl Acetate",
+            "Disodium Edetate",
+            "All-rac-alpha Tocopherol"
+        ],
+        "fragrance": "Fragrance-Free",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Rich Cream",
+        "finish": "Soft, cushiony",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Very dry, flaky or sensitive faces, including skin irritated by acne treatments.",
+        "avoidIf": "You have an almond allergy, or oily skin that dislikes rich creams.",
+        "whyWeLikeIt": "Fragrance-free and paraben-free, with mineral oil, dimethicone and glycerin to seal moisture in.",
+        "pros": [
+            "Fragrance-free and paraben-free",
+            "Rich enough for very dry, flaky winter skin",
+            "More than 22,000 Amazon India ratings at 4.3★"
+        ],
+        "cons": [
+            "About ₹6.7 per gram, the most expensive here",
+            "The product title mentions niacinamide and panthenol, but the printed ingredient list does not include them"
+        ],
+        "verdict": "The safest rich cream for sensitive skin, though you pay for the name.",
+        "alternatives": [
+            {
+                "label": "Cheaper Barrier Cream",
+                "productId": "reequil-ceramide-ha-moisturiser",
+                "reason": "Ceramides for less than half the price per gram."
+            },
+            {
+                "label": "Classic Rich Cream",
+                "productId": "cerave-moisturizing-cream",
+                "reason": "Three ceramides, fragrance-free."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 6.4,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "neutrogena-hydro-boost",
+        "name": "Hydro Boost Water Gel",
+        "title": "Neutrogena Hydro Boost Hyaluronic Acid Water Gel (50g)",
+        "brand": "Neutrogena",
+        "category": "moisturizers",
+        "subcategory": "Gel Moisturizer",
+        "asin": "B00BQFTQW6",
+        "amazonUrl": "https://www.amazon.in/dp/B00BQFTQW6?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00BQFTQW6?tag=oraeskin-21",
+        "badge": "Best Silicone Gel Under Makeup",
+        "price": 797,
+        "priceEst": "₹797",
+        "currency": "₹",
+        "size": "50g",
+        "image": "/images/products/neutrogena-hydro-boost.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "11,000+",
+        "reviewCount": "11,000+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.4,
+            "evidence": 7.8,
+            "userFeedback": 8.8,
+            "value": 5.6,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Dehydration",
+            "Oily Skin",
+            "Daily Hydration"
+        ],
+        "keyActives": [
+            "Dimethicone",
+            "Glycerin",
+            "Sodium Hyaluronate"
+        ],
+        "keyIngredients": [
+            "Dimethicone",
+            "Glycerin",
+            "Sodium Hyaluronate"
+        ],
+        "ingredients": [
+            "Water",
+            "Dimethicone",
+            "Glycerin",
+            "Dimethicone/Vinyl Dimethicone Crosspolymer",
+            "Phenoxyethanol",
+            "Polyacrylamide",
+            "Cetearyl Olivate",
+            "Sorbitan Olivate",
+            "Dimethiconol",
+            "C13-14 Isoparaffin",
+            "Dimethicone Crosspolymer",
+            "Chlorphenesin",
+            "Carbomer",
+            "Laureth-7",
+            "Sodium Hyaluronate",
+            "Ethylhexylglycerin",
+            "Fragrance",
+            "Blue 1"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Water Gel",
+        "finish": "Smooth, silky",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily or combination skin that wants a silky, fast-absorbing gel that sits well under makeup or sunscreen.",
+        "avoidIf": "You are on a budget or have dry skin in winter; it is light and expensive per gram.",
+        "whyWeLikeIt": "Silicones and glycerin give a silky, non-greasy finish that many people like under makeup.",
+        "pros": [
+            "Silky, fast-absorbing finish",
+            "Full ingredient list on the listing",
+            "Works well under sunscreen and makeup"
+        ],
+        "cons": [
+            "About ₹16 per gram, by far the priciest per gram here",
+            "Hyaluronic acid sits low in the list despite the name",
+            "Fragranced and contains a dye"
+        ],
+        "verdict": "Nice to use, but Pond's Super Light Gel gives a similar light feel for a tenth of the price per gram.",
+        "alternatives": [
+            {
+                "label": "Budget Gel Alternative",
+                "productId": "ponds-super-light-gel",
+                "reason": "Light, oil-free gel for about ₹1.5 per gram."
+            },
+            {
+                "label": "Fragrance-Free Gel",
+                "productId": "minimalist-b5-moisturizer",
+                "reason": "Oil-free gel with panthenol, fragrance-free."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 5.6,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "himalaya-neem-facewash",
+        "name": "Purifying Neem Face Wash",
+        "title": "Himalaya Purifying Neem Face Wash with Neem & Turmeric (400ml)",
+        "brand": "Himalaya",
+        "category": "cleansers",
+        "subcategory": "Herbal Gel Cleanser",
+        "asin": "B07XS46Q73",
+        "amazonUrl": "https://www.amazon.in/dp/B07XS46Q73?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07XS46Q73?tag=oraeskin-21",
+        "badge": "Most-Rated Face Wash in India",
+        "price": 300,
+        "priceEst": "₹300",
+        "currency": "₹",
+        "size": "400ml",
+        "image": "/images/products/himalaya-neem-facewash.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "65,000+",
+        "reviewCount": "65,000+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7.6,
+            "evidence": 6.6,
+            "userFeedback": 9,
+            "value": 9.6,
+            "availability": 9.6
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Oily Skin",
+            "Acne",
+            "Daily Cleansing"
+        ],
+        "keyActives": [
+            "Neem Extract",
+            "Turmeric Extract"
+        ],
+        "keyIngredients": [
+            "Neem Extract",
+            "Turmeric Extract"
+        ],
+        "ingredients": [
+            "Neem",
+            "Turmeric (full list not printed on the listing)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel",
+        "finish": "Fresh, clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A cheap, soap-free daily wash for oily skin, bought in a large family-size bottle.",
+        "avoidIf": "You have active acne and want an ingredient with strong evidence, such as salicylic acid or benzoyl peroxide.",
+        "whyWeLikeIt": "A soap-free gel at about ₹0.75 per ml, rated by more than 65,000 buyers.",
+        "pros": [
+            "Soap-free gel that cleans without much tightness",
+            "About ₹0.75 per ml in the 400ml size",
+            "More than 65,000 Amazon India ratings at 4.3★"
+        ],
+        "cons": [
+            "The listing names only neem and turmeric, not the full ingredient list",
+            "Neem has much weaker evidence for acne than salicylic acid or benzoyl peroxide"
+        ],
+        "verdict": "A good everyday cleanser for oily skin, but not a real acne treatment.",
+        "alternatives": [
+            {
+                "label": "For Active Acne",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "2% salicylic acid with LHA to clear clogged pores."
+            },
+            {
+                "label": "Gentler Salicylic Wash",
+                "productId": "dermaco-1-salicylic-facewash",
+                "reason": "1% salicylic acid, good for daily use."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.8,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 7.6,
+            "texture": 7.6,
+            "value": 9.6,
+            "overall": 7.8
+        }
+    },
+    {
+        "id": "muuchstac-ocean-facewash",
+        "name": "Ocean Face Wash for Men",
+        "title": "Muuchstac Ocean Face Wash for Men (Pack of 3 x 100ml)",
+        "brand": "Muuchstac",
+        "category": "cleansers",
+        "subcategory": "Men's Gel Cleanser",
+        "asin": "B09TZTHHBC",
+        "amazonUrl": "https://www.amazon.in/dp/B09TZTHHBC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09TZTHHBC?tag=oraeskin-21",
+        "badge": "Popular Men's Face Wash",
+        "price": 285,
+        "priceEst": "₹285",
+        "currency": "₹",
+        "size": "300ml",
+        "image": "/images/products/muuchstac-ocean-facewash.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "23,000+",
+        "reviewCount": "23,000+",
+        "scoreBreakdown": {
+            "formula": 6.2,
+            "skinSuitability": 6.8,
+            "evidence": 6.6,
+            "userFeedback": 7.4,
+            "value": 9,
+            "availability": 9.2
+        },
+        "skinType": [
+            "Oily",
+            "Normal"
+        ],
+        "concerns": [
+            "Oily Skin",
+            "Daily Cleansing"
+        ],
+        "keyActives": [
+            "Salicylic Acid",
+            "Menthol",
+            "Licorice Extract"
+        ],
+        "keyIngredients": [
+            "Salicylic Acid",
+            "Menthol",
+            "Licorice Extract"
+        ],
+        "ingredients": [
+            "Menthol",
+            "Licorice Extract",
+            "Salicylic Acid (full list not printed on the listing)"
+        ],
+        "fragrance": "Added Fragrance (Ocean)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel",
+        "finish": "Cooling",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Men who like a strongly scented, cooling wash after the gym or a hot commute.",
+        "avoidIf": "You have sensitive skin or rosacea; menthol and fragrance can sting and redden skin.",
+        "whyWeLikeIt": "Three 100ml bottles at about ₹0.95 per ml, with a little salicylic acid.",
+        "pros": [
+            "About ₹0.95 per ml for three bottles",
+            "Cooling feel that many men like in summer",
+            "Contains salicylic acid"
+        ],
+        "cons": [
+            "Salicylic acid strength is not stated, and the full ingredient list is not on the listing",
+            "Menthol and fragrance can irritate sensitive skin",
+            "3.9★, the lowest rating in this guide"
+        ],
+        "verdict": "Pleasant if you like a cooling wash, but there are better-formulated options for acne.",
+        "alternatives": [
+            {
+                "label": "Stated 2% Salicylic",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "Fragrance-free with a stated strength."
+            },
+            {
+                "label": "Cheaper and Gentler",
+                "productId": "himalaya-neem-facewash",
+                "reason": "Soap-free gel with no menthol."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.2,
+        "scores": {
+            "formula": 6.2,
+            "weatherResilience": 6.8,
+            "texture": 6.8,
+            "value": 9,
+            "overall": 7.2
+        }
+    },
+    {
+        "id": "garnier-men-turbobright-facewash",
+        "name": "Men TurboBright Double Action Face Wash",
+        "title": "Garnier Men TurboBright Double Action Face Wash with Charcoal & Clay (155g)",
+        "brand": "Garnier",
+        "category": "cleansers",
+        "subcategory": "Men's Cream Cleanser",
+        "asin": "B0GR5KTPBY",
+        "amazonUrl": "https://www.amazon.in/dp/B0GR5KTPBY?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GR5KTPBY?tag=oraeskin-21",
+        "badge": "Best for Pollution & Grime",
+        "price": 204,
+        "priceEst": "₹204",
+        "currency": "₹",
+        "size": "155g",
+        "image": "/images/products/garnier-men-turbobright-facewash.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "33,000+",
+        "reviewCount": "33,000+",
+        "scoreBreakdown": {
+            "formula": 6.6,
+            "skinSuitability": 7,
+            "evidence": 7,
+            "userFeedback": 8.6,
+            "value": 9,
+            "availability": 9.5
+        },
+        "skinType": [
+            "Oily",
+            "Normal"
+        ],
+        "concerns": [
+            "Oily Skin",
+            "Dullness",
+            "Pollution"
+        ],
+        "keyActives": [
+            "Kaolin",
+            "Charcoal Powder",
+            "Salicylic Acid",
+            "Ascorbyl Glucoside (Vitamin C)"
+        ],
+        "keyIngredients": [
+            "Kaolin",
+            "Charcoal Powder",
+            "Salicylic Acid",
+            "Ascorbyl Glucoside (Vitamin C)"
+        ],
+        "ingredients": [
+            "Water",
+            "Glycerine",
+            "Myristic Acid",
+            "Stearic Acid",
+            "Palmitic Acid",
+            "Potassium Hydroxide",
+            "Lauric Acid",
+            "Butylene Glycol",
+            "Sorbitol",
+            "Fragrance",
+            "Ascorbyl Glucoside",
+            "Benzyl Alcohol",
+            "Benzyl Salicylate",
+            "Charcoal Powder",
+            "Kaolin",
+            "Limonene",
+            "Linalool",
+            "Menthol",
+            "Methylisothiazolinone",
+            "Salicylic Acid",
+            "Tetrasodium EDTA"
+        ],
+        "fragrance": "Added Fragrance",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Cream-to-Gel Foam",
+        "finish": "Matte, squeaky-clean",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily skin after a day of traffic, sweat and dust, for men who want a strong, foamy clean.",
+        "avoidIf": "Your skin is dry or sensitive; it is soap-based and contains methylisothiazolinone, a common cause of skin allergy.",
+        "whyWeLikeIt": "Kaolin and charcoal soak up oil and grime, with the full ingredient list on the listing.",
+        "pros": [
+            "Kaolin clay absorbs excess oil",
+            "Full ingredient list on the listing",
+            "More than 33,000 Amazon India ratings at 4.3★"
+        ],
+        "cons": [
+            "Soap-based, so it can leave skin tight",
+            "Contains methylisothiazolinone and fragrance, both common irritants"
+        ],
+        "verdict": "Good at removing grime from oily skin; use a moisturiser after.",
+        "alternatives": [
+            {
+                "label": "Gentler Daily Option",
+                "productId": "himalaya-neem-facewash",
+                "reason": "Soap-free gel that is less stripping."
+            },
+            {
+                "label": "For Acne",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "2% salicylic acid, fragrance-free."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.6,
+        "scores": {
+            "formula": 6.6,
+            "weatherResilience": 7,
+            "texture": 7,
+            "value": 9,
+            "overall": 7.6
+        }
     }
 ];
 

@@ -196,6 +196,20 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B0DVSNG7NC', // Be Bodywise 6% AHA BHA Underarm Roll-On Deodorant with Kojic Acid (50ml)
     'B00JZF78DS', // Kozicare Skin Brightening Soap with Kojic Acid, Arbutin & Glutathione (Pack of 3 x 75g)
     'B0G7ZK6GJ8', // Seoulskin Kojic & Rice Water Brightening Soap (Pack of 3 x 100g)
+    'B08NYD1GGK', // Pond's Bright Beauty Brightening Face Wash with Niacinamide (200g)
+    'B0G4WQX1WR', // Garnier Bright Complete Vitamin C Face Wash (160g)
+    'B0BJQJCD87', // DERMATOUCH Bright & Even Tone Face Wash with Niacinamide & Kojic Acid (70g)
+    'B0BJQK51SM', // DERMATOUCH Bye Bye Pigmentation Face Wash with Niacinamide, Kojic Acid & Glutathione (70g)
+    'B0F6444T7P', // Foxtale Super Glow Detan Face Wash with Vitamin C & Papaya Enzyme (100ml)
+    'B0GYCT961V', // Ghar Soaps De-Tan Face Wash with Saffron, Lactic Acid & Provitamin B5 (100ml)
+    'B09Z6TJP7Y', // Pond's Super Light Gel Oil-Free Face Moisturizer (200g)
+    'B00E96N6O8', // NIVEA Soft Light Moisturising Cream with Vitamin E & Jojoba Oil (300ml)
+    'B082KWT81N', // Re'equil Ceramide & Hyaluronic Acid Moisturiser (100g)
+    'B01HMLB0LW', // Cetaphil Moisturising Cream for Dry & Sensitive Skin (100g)
+    'B00BQFTQW6', // Neutrogena Hydro Boost Hyaluronic Acid Water Gel (50g)
+    'B07XS46Q73', // Himalaya Purifying Neem Face Wash with Neem & Turmeric (400ml)
+    'B09TZTHHBC', // Muuchstac Ocean Face Wash for Men (Pack of 3 x 100ml)
+    'B0GR5KTPBY', // Garnier Men TurboBright Double Action Face Wash with Charcoal & Clay (155g)
 ]);
 
 // Map of legacy/dead ASINs to verified direct ASINs
