@@ -11,6 +11,7 @@
     "cerave-foaming-cleanser",
     "cerave-moisturizing-cream",
     "cetaphil-gentle-cleanser",
+    "cetaphil-moisturising-cream",
     "cosrx-ahabha-toner",
     "dabur-gulabari-rose-water",
     "de-la-cruz-sulfur-ointment",
@@ -91,6 +92,7 @@
     "best-pcos-hormonal-acne-skincare-routine-india",
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
+    "best-salicylic-acid-body-washes-bacne-india",
     "best-salicylic-acid-spot-gels-urgent-breakouts",
     "best-spf-lip-balms-prevent-dark-lips-india",
     "best-sunscreen-for-bike-commuters-traffic-pollution",
@@ -115,26 +117,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "dotkey-lip-mask",
-      "type": "product",
-      "title": "Vitamin C+E Lip Sleeping Mask",
-      "date": "2026-09-09T09:03:00.191756+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-body-oils-for-glowing-skin-post-shower",
-      "type": "blog",
-      "title": "Best Body Oils in India for a Radiant Post-Shower Glow (Non-Sticky)",
-      "date": "2026-09-09T09:03:01.685329+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "dermaco-hyaluronic-spf50",
       "type": "product",
@@ -1109,6 +1091,26 @@
       "type": "blog",
       "title": "Best Sunscreens for Two-Wheeler Bike Commuters in Indian Traffic & Pollution",
       "date": "2026-11-19T13:38:14.160418+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "cetaphil-moisturising-cream",
+      "type": "product",
+      "title": "Moisturising Cream",
+      "date": "2026-11-20T13:18:49.262016+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-salicylic-acid-body-washes-bacne-india",
+      "type": "blog",
+      "title": "Best Salicylic Acid Body Washes for Back Acne (Bacne) & Chest Bumps",
+      "date": "2026-11-20T13:18:50.202220+00:00",
       "channels": [
         "twitter",
         "instagram"
