@@ -56,7 +56,8 @@
     "simple-refreshing-wash",
     "skin1004-probio-cica-ampoule",
     "the-ordinary-squalane-cleanser",
-    "theordinary-salicylic-solution-2"
+    "theordinary-salicylic-solution-2",
+    "wishcare-body-sunscreen-spf50"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
@@ -90,6 +91,7 @@
     "best-night-creams-for-glowing-radiant-skin-india",
     "best-non-comedogenic-moisturizers-acne-prone-skin",
     "best-pcos-hormonal-acne-skincare-routine-india",
+    "best-petroleum-free-natural-lip-balms-india",
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
     "best-salicylic-acid-body-washes-bacne-india",
@@ -117,26 +119,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "dermaco-hyaluronic-spf50",
-      "type": "product",
-      "title": "1% Hyaluronic Sunscreen Aqua Gel",
-      "date": "2026-09-10T09:01:53.400425+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-budget-lip-balms-under-200-india",
-      "type": "blog",
-      "title": "Top 5 Pharmacy & Drugstore Lip Balms Under \u20b9200 on Amazon India",
-      "date": "2026-09-10T09:01:56.041975+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "minimalist-salicylic-cleanser",
       "type": "product",
@@ -1111,6 +1093,26 @@
       "type": "blog",
       "title": "Best Salicylic Acid Body Washes for Back Acne (Bacne) & Chest Bumps",
       "date": "2026-11-20T13:18:50.202220+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "wishcare-body-sunscreen-spf50",
+      "type": "product",
+      "title": "Sunscreen Body Lotion SPF 50 PA++++",
+      "date": "2026-11-21T12:51:29.987934+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-petroleum-free-natural-lip-balms-india",
+      "type": "blog",
+      "title": "Best Petroleum-Free & Vegan Lip Balms in India",
+      "date": "2026-11-21T12:51:30.989677+00:00",
       "channels": [
         "twitter",
         "instagram"
