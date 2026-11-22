@@ -27,6 +27,7 @@
     "drsheths-ceramide-vitc-spf50",
     "earth-rhythm-vitc-sunstick",
     "elf-lip-exfoliator",
+    "eqqualberry-bakuchiol-serum",
     "faceshop-rice-cleanser",
     "fixderma-foobetik-cream",
     "fixderma-sunscreen-stick",
@@ -70,6 +71,7 @@
     "best-budget-face-washes-under-300-india",
     "best-budget-lip-balms-under-200-india",
     "best-budget-moisturizers-under-350-india",
+    "best-budget-vitamin-c-serums-under-350-india",
     "best-ceramide-lip-balms-restoring-barrier",
     "best-chemical-exfoliating-lip-scrubs-smoothness",
     "best-complete-skincare-routine-under-1000-india",
@@ -119,25 +121,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "minimalist-salicylic-cleanser",
-      "type": "product",
-      "title": "2% Salicylic Acid Face Wash",
-      "date": "2026-09-11T08:59:58.553732+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "avocado-cream-benefits",
-      "type": "blog",
-      "title": "Avocado Cream for Skin: Deep Hydration, Anti-Aging & Best Amazon India Picks",
-      "date": "2026-09-11T08:59:59.462655+00:00",
-      "channels": [
-        "instagram"
-      ]
-    },
     {
       "id": "cerave-moisturizing-cream",
       "type": "product",
@@ -1113,6 +1096,26 @@
       "type": "blog",
       "title": "Best Petroleum-Free & Vegan Lip Balms in India",
       "date": "2026-11-21T12:51:30.989677+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "eqqualberry-bakuchiol-serum",
+      "type": "product",
+      "title": "Bakuchiol Plumping Serum",
+      "date": "2026-11-22T12:44:00.158391+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-budget-vitamin-c-serums-under-350-india",
+      "type": "blog",
+      "title": "Best Vitamin C Serums Under \u20b9350 in India: Garnier vs Pilgrim vs Chemist At Play",
+      "date": "2026-11-22T12:44:01.151891+00:00",
       "channels": [
         "twitter",
         "instagram"
