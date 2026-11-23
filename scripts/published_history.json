@@ -31,6 +31,7 @@
     "faceshop-rice-cleanser",
     "fixderma-foobetik-cream",
     "fixderma-sunscreen-stick",
+    "lashield-fisico-mineral-spf50",
     "mcaffeine-salicylic-acne-pads",
     "minimalist-ala-glycolic-facewash",
     "minimalist-alpha-arbutin",
@@ -72,6 +73,7 @@
     "best-budget-lip-balms-under-200-india",
     "best-budget-moisturizers-under-350-india",
     "best-budget-vitamin-c-serums-under-350-india",
+    "best-calming-facial-mists-for-summer-heatwave",
     "best-ceramide-lip-balms-restoring-barrier",
     "best-chemical-exfoliating-lip-scrubs-smoothness",
     "best-complete-skincare-routine-under-1000-india",
@@ -121,26 +123,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "cerave-moisturizing-cream",
-      "type": "product",
-      "title": "Moisturizing Cream with Ceramides",
-      "date": "2026-09-12T08:42:56.953156+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-post-workout-face-washes-sweat-acne",
-      "type": "blog",
-      "title": "Best Post-Workout Face Washes for Gym Sweat Acne & Congestion in India",
-      "date": "2026-09-12T08:42:58.310066+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "cerave-foaming-cleanser",
       "type": "product",
@@ -1116,6 +1098,26 @@
       "type": "blog",
       "title": "Best Vitamin C Serums Under \u20b9350 in India: Garnier vs Pilgrim vs Chemist At Play",
       "date": "2026-11-22T12:44:01.151891+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "lashield-fisico-mineral-spf50",
+      "type": "product",
+      "title": "Fisico Mineral Sunscreen SPF 50+",
+      "date": "2026-11-23T15:03:43.634299+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-calming-facial-mists-for-summer-heatwave",
+      "type": "blog",
+      "title": "Best Refreshing Facial Mists for Tropical Indian Heatwaves & Travel",
+      "date": "2026-11-23T15:03:45.356180+00:00",
       "channels": [
         "twitter",
         "instagram"
