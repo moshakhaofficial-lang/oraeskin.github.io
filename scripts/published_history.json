@@ -47,6 +47,7 @@
     "minimalist-spf30-lipbalm",
     "minimalist-spf50",
     "minimalist-vitc-10",
+    "nivea-nourishing-body-milk",
     "persol-ac-2-5-gel",
     "pink-foundry-spot-corrector",
     "plum-bodylovin-vanilla-lotion",
@@ -102,6 +103,7 @@
     "best-salicylic-acid-spot-gels-urgent-breakouts",
     "best-spf-lip-balms-prevent-dark-lips-india",
     "best-sunscreen-for-bike-commuters-traffic-pollution",
+    "best-sunscreen-for-rosacea-and-redness-india",
     "best-tinted-lip-balms-spf-daily-college-office",
     "best-tinted-sunscreens-indian-skin-tones",
     "best-tranexamic-acid-serums-stubborn-pigmentation-india",
@@ -123,26 +125,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "cerave-foaming-cleanser",
-      "type": "product",
-      "title": "Foaming Facial Cleanser",
-      "date": "2026-09-13T09:38:15.270001+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-lip-sleeping-masks-chapped-peeling-lips",
-      "type": "blog",
-      "title": "Top Lip Sleeping Masks in India for Severely Chapped, Peeling Lips",
-      "date": "2026-09-13T09:38:16.531275+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "dermaco-acne-patch",
       "type": "product",
@@ -1118,6 +1100,26 @@
       "type": "blog",
       "title": "Best Refreshing Facial Mists for Tropical Indian Heatwaves & Travel",
       "date": "2026-11-23T15:03:45.356180+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "nivea-nourishing-body-milk",
+      "type": "product",
+      "title": "Nourishing Body Milk",
+      "date": "2026-11-24T15:02:24.341339+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-sunscreen-for-rosacea-and-redness-india",
+      "type": "blog",
+      "title": "Best Calming Sunscreens for Rosacea, Facial Flushing & Heat Sensitivity in India",
+      "date": "2026-11-24T15:02:25.993166+00:00",
       "channels": [
         "twitter",
         "instagram"
