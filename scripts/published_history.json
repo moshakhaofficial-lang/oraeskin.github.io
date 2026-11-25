@@ -60,6 +60,7 @@
     "skin1004-probio-cica-ampoule",
     "the-ordinary-squalane-cleanser",
     "theordinary-salicylic-solution-2",
+    "vaseline-daily-brightening-lotion",
     "wishcare-body-sunscreen-spf50"
   ],
   "published_blogs": [
@@ -113,6 +114,7 @@
     "best-vitamin-c-under-eye-creams-brightening",
     "complete-body-skincare-routine-indian-monsoon",
     "how-to-fix-hair-oil-acne-forehead-temples-india",
+    "how-to-heal-skin-barrier-after-salon-bleach-facial-burns",
     "how-to-lighten-dark-knuckles-finger-hyperpigmentation-india",
     "how-to-lighten-pigmented-dark-lips-skincare-guide",
     "how-to-prevent-post-waxing-bumps-strawberry-skin-india",
@@ -125,26 +127,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "dermaco-acne-patch",
-      "type": "product",
-      "title": "100% Hydrocolloid Invisible Acne Patches",
-      "date": "2026-09-14T10:00:55.995536+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-ceramide-lip-balms-restoring-barrier",
-      "type": "blog",
-      "title": "Best Ceramide Lip Treatments for Chronic Angular Cheilitis & Cracks",
-      "date": "2026-09-14T10:01:18.593591+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "dermaco-10-niacinamide",
       "type": "product",
@@ -1120,6 +1102,26 @@
       "type": "blog",
       "title": "Best Calming Sunscreens for Rosacea, Facial Flushing & Heat Sensitivity in India",
       "date": "2026-11-24T15:02:25.993166+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "vaseline-daily-brightening-lotion",
+      "type": "product",
+      "title": "Daily Brightening Body Lotion",
+      "date": "2026-11-25T14:42:41.258554+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "how-to-heal-skin-barrier-after-salon-bleach-facial-burns",
+      "type": "blog",
+      "title": "How to Heal Damaged Skin After Salon Bleach & Aggressive Facial Burns in India",
+      "date": "2026-11-25T14:42:42.012986+00:00",
       "channels": [
         "twitter",
         "instagram"
