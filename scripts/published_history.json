@@ -61,7 +61,8 @@
     "the-ordinary-squalane-cleanser",
     "theordinary-salicylic-solution-2",
     "vaseline-daily-brightening-lotion",
-    "wishcare-body-sunscreen-spf50"
+    "wishcare-body-sunscreen-spf50",
+    "wishcare-c16-vitc-serum"
   ],
   "published_blogs": [
     "avocado-cream-benefits",
@@ -97,6 +98,7 @@
     "best-night-creams-for-glowing-radiant-skin-india",
     "best-non-comedogenic-moisturizers-acne-prone-skin",
     "best-pcos-hormonal-acne-skincare-routine-india",
+    "best-peptides-eye-creams-dark-circle-rejuvenation",
     "best-petroleum-free-natural-lip-balms-india",
     "best-post-workout-face-washes-sweat-acne",
     "best-retinol-eye-creams-fine-lines-crow-feet",
@@ -127,26 +129,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "dermaco-10-niacinamide",
-      "type": "product",
-      "title": "10% Niacinamide Serum with Zinc",
-      "date": "2026-09-15T09:30:32.528753+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-chemical-exfoliating-lip-scrubs-smoothness",
-      "type": "blog",
-      "title": "Best Gentle Chemical Exfoliating Lip Peels (No Walnut Scrubs)",
-      "date": "2026-09-15T09:30:37.727649+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "minimalist-niacinamide-10",
       "type": "product",
@@ -1122,6 +1104,26 @@
       "type": "blog",
       "title": "How to Heal Damaged Skin After Salon Bleach & Aggressive Facial Burns in India",
       "date": "2026-11-25T14:42:42.012986+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "wishcare-c16-vitc-serum",
+      "type": "product",
+      "title": "Super Bright C16 Vitamin C Serum",
+      "date": "2026-11-26T14:05:54.560171+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-peptides-eye-creams-dark-circle-rejuvenation",
+      "type": "blog",
+      "title": "Best Peptide Eye Creams & Serums in India for Firmer Under-Eyes",
+      "date": "2026-11-26T14:05:55.630261+00:00",
       "channels": [
         "twitter",
         "instagram"
