@@ -47,7 +47,7 @@ const priceChecked = picks[0]?.p.lastPriceChecked;
                     <article class="tpk-card">
                         <span class="tpk-badge">{badge}</span>
                         <a href={url} target="_blank" rel="nofollow sponsored noopener" class="tpk-img" data-placement="home_top_picks_image" data-product={p.id} tabindex="-1" aria-hidden="true">
-                            <img src={p.image} alt="" loading={i < 4 ? 'eager' : 'lazy'} decoding="async" width="200" height="200" />
+                            <img src={p.image} alt={`${p.brand} ${p.name}`} loading={i < 4 ? 'eager' : 'lazy'} decoding="async" width="200" height="200" />
                         </a>
                         <div class="tpk-body">
                             <span class="tpk-brand">{p.brand}</span>

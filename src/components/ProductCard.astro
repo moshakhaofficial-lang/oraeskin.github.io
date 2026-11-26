@@ -49,7 +49,7 @@ const affiliateUrl = getAmazonAffiliateUrl(asinOrUrl);
         <div class="product-image-col">
             {rank && <span class="rank-indicator">#{rank}</span>}
             <a href={affiliateUrl} target="_blank" rel="nofollow sponsored noopener" class="product-img-wrapper" data-placement="product_card_image" data-product={id} tabindex="-1" aria-hidden="true">
-                <img src={image} alt="" loading="lazy" decoding="async" width="180" height="180" />
+                <img src={image} alt={`${brand} ${title}`} loading="lazy" decoding="async" width="180" height="180" />
             </a>
             
             <!-- Dual Score Display -->

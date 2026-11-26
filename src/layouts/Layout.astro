@@ -84,6 +84,29 @@ const metaDescription = description.length > 160
         <meta name="twitter:description" content={metaDescription} />
         <meta name="twitter:image" content={fullImageUrl} />
 
+        <!-- Site-wide structured data: who publishes the site -->
+        <script is:inline type="application/ld+json" set:html={JSON.stringify({
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://www.oraeskin.in/#organization",
+                    "name": "OraeSkin",
+                    "url": "https://www.oraeskin.in/",
+                    "logo": "https://www.oraeskin.in/images/favicon-logo.png",
+                    "sameAs": Object.values(SITE_CONFIG.social)
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://www.oraeskin.in/#website",
+                    "name": "OraeSkin",
+                    "url": "https://www.oraeskin.in/",
+                    "publisher": { "@id": "https://www.oraeskin.in/#organization" },
+                    "inLanguage": "en-IN"
+                }
+            ]
+        })} />
+
         <!-- Preconnect Critical Resources -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

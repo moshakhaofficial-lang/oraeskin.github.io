@@ -39,3 +39,22 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Ping Bing & other IndexNow engines with the pages this push changed
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Submit changed URLs to IndexNow
+        continue-on-error: true
+        run: |
+          BEFORE="${{ github.event.before }}"
+          git cat-file -e "$BEFORE" 2>/dev/null || BEFORE="HEAD~1"
+          node scripts/indexnow.mjs --since "$BEFORE"

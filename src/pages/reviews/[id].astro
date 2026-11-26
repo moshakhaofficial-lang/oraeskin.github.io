@@ -178,7 +178,7 @@ const faqSchema = {
 ---
 
 <Layout 
-    title={`${product.brand} ${product.name} Review | OraeSkin`}
+    title={`${product.brand} ${product.name} Review`.length > 49 ? `${product.brand} ${product.name} Review` : `${product.brand} ${product.name} Review | OraeSkin`}
     description={`In-depth editorial review of ${product.brand} ${product.name}. OraeSkin Score: ${product.oraeSkinScore}/10. Formulation breakdown, texture in Indian humidity, pros, cons, and verified alternatives.`}
 >
     <!-- Structured Data -->

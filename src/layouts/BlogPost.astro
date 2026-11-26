@@ -53,7 +53,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
 ---
 
 <Layout
-    title={`${frontmatter.title} | OraeSkin`}
+    title={frontmatter.title.length > 49 ? frontmatter.title : `${frontmatter.title} | OraeSkin`}
     description={frontmatter.description}
     image={articleImage}
     keywords={frontmatter.keywords || "skincare reviews, amazon india skincare, best skincare products, indian skin routines, OraeSkin"}
@@ -120,7 +120,7 @@ const displayDate = rawDate && !isNaN(new Date(rawDate).getTime())
                         <div class="tp-main">
                             {topPick.image && (
                                 <a href={topPick.url} target="_blank" rel="nofollow sponsored noopener" class="tp-img" data-placement="guide_top_pick_image" tabindex="-1" aria-hidden="true">
-                                    <img src={topPick.image} alt="" width="120" height="120" fetchpriority="high" />
+                                    <img src={topPick.image} alt={`${topPick.brand} ${topPick.title}`} width="120" height="120" fetchpriority="high" />
                                 </a>
                             )}
                             <div class="tp-info">
