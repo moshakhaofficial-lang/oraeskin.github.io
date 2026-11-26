@@ -20,7 +20,8 @@ const { category } = Astro.props;
 
 // Filter products for this category
 const categoryProducts = PRODUCTS.filter(p => p.category === category.slug);
-const isTools = category.slug === 'tools';
+const isHairTools = category.slug === 'hair-tools';
+const isTools = category.slug === 'tools' || isHairTools;
 
 // Comparison items formatted for ComparisonTable component
 const comparisonProducts = categoryProducts.map(p => ({
@@ -134,6 +135,20 @@ const comparisonProducts = categoryProducts.map(p => ({
             <div class="guide-box">
 {isTools ? (
 <Fragment>
+{isHairTools ? (
+<Fragment>
+                <h3 class="guide-title">How to Choose a Hair Tool Without Damaging Your Hair</h3>
+                <div class="guide-content">
+                    <p>Heat styling changes hair temporarily, and too much heat breaks it. The right tool is the one that lets you use the least heat for the style you want.</p>
+                    <ul>
+                        <li><strong>Look for adjustable heat</strong>: tools with several heat or temperature settings let you stay low. Fine or chemically treated hair rarely needs high heat.</li>
+                        <li><strong>Always use a heat protectant</strong>, and style dry hair with straighteners and curlers. Let a dryer do most of the drying on a medium setting.</li>
+                        <li><strong>Check safety features and warranty</strong>: overheat protection, a cool shot, a swivel cord and an Indian plug and warranty are worth more than extra watts.</li>
+                    </ul>
+                </div>
+</Fragment>
+) : (
+<Fragment>
                 <h3 class="guide-title">How to Choose Skincare Tools That Help, Not Harm</h3>
                 <div class="guide-content">
                     <p>Most skincare tools work through simple effects: cold reduces puffiness, gentle massage feels relaxing, and soft silicone helps spread cleanser. None replace sunscreen or a good routine.</p>
@@ -143,6 +158,8 @@ const comparisonProducts = categoryProducts.map(p => ({
                         <li><strong>Be gentle</strong>: a tool should never hurt or leave redness that lasts more than a few minutes. Avoid active acne, broken skin and rashes.</li>
                     </ul>
                 </div>
+</Fragment>
+)}
 </Fragment>
 ) : (
 <Fragment>

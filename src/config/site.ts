@@ -249,6 +249,24 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B0FPGDNWQH', // KROYWEN Silicone Back Scrubber, Body Brush, Face Brush & Scalp Massager Set
     'B08XX6FXC1', // Ross Large Bath Loofah Sponge Scrubber (Pack of 2)
     'B0H292624R', // Mighty Patch Ultra-Thin Hydrocolloid Pimple Patches (72 Dots)
+    'B00KCD8NFY', // Philips ThermoProtect Hair Dryer 1000W with Concentrator
+    'B01N33BLDT', // Havells HD3151 Foldable Hair Dryer with Cool Shot
+    'B074KKM2MP', // Philips Compact ThermoProtect Hair Dryer 1000W
+    'B00TO7JUFG', // Philips Foldable ThermoProtect Hair Dryer 1200W
+    'B094XSDC41', // AGARO 2000W AC Professional Hair Dryer with Concentrator & Diffuser
+    'B0H5L55GJY', // Havells HD1702 Hair Dryer 1000W with ThermoProtect
+    'B00TGXJBNE', // Philips Selfie Hair Straightener with Ceramic Plates (90–210°C)
+    'B0GZMT4WDG', // Havells HS4222 Wide Plate Hair Straightener with 5 Temperature Settings
+    'B071WRNFRY', // Havells HS4101 Ceramic Plate Hair Straightener
+    'B07Q2ZM5LS', // Philips Hair Straightening Brush with ThermoProtect
+    'B071J3YJ73', // Vega 3-in-1 Hair Styler: Straightener, Curler & Crimper
+    'B0D9B4XH9S', // Urban Yog MakeMeeBold Automatic Hair Curler with 4 Temperature Settings
+    'B0BZ4WQLZV', // Urban Yog MakeMeeBold 3-in-1 Hot Air Brush (1200W)
+    'B09MJ3FL43', // AGARO Hot Air Brush Volumizer with Ionic Technology
+    'B0DKFW7LRC', // VEGA Litstyle L3 Volumizer Hot Air Brush
+    'B0GJ6DWB4S', // Caresmith Bloom 3-in-1 Hot Air Brush with Straightener Head
+    'B07W458135', // Bblunt Hot Shot Heat Protection Hair Mist (150ml)
+    'B0CT3RHP5Y', // Streax Heat Protectant Spray (100ml)
 ]);
 
 // Map of legacy/dead ASINs to verified direct ASINs

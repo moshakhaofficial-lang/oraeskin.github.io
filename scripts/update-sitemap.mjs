@@ -17,7 +17,8 @@ const CATEGORY_SLUGS = [
     'body-care',
     'spot-treatments',
     'anti-aging',
-    'tools'
+    'tools',
+    'hair-tools'
 ];
 
 // Posts marked `noindex: true` are being rewritten and stay out of the sitemap

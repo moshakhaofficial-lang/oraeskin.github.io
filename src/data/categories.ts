@@ -143,5 +143,17 @@ export const CATEGORIES: Category[] = [
         topActives: ['Ice Rollers', 'Gua Sha', 'Silicone Cleansing Brushes', 'Cooling Eye Masks'],
         featuredConcern: 'Puffiness, Blackheads & Gentle Exfoliation',
         itemCount: 0
+    },
+    {
+        id: 'hair-tools',
+        slug: 'hair-tools',
+        name: 'Hair Styling Tools',
+        tagline: 'Hair Dryers, Straighteners, Curlers & Hot Air Brushes',
+        description: 'Honest reviews of the hair dryers, straighteners, curlers and hot air brushes Indians buy most on Amazon, with a focus on heat control and avoiding damage.',
+        icon: '💇‍♀️',
+        heroImage: '/images/products/philips-thermoprotect-hair-dryer-1000w.jpg',
+        topActives: ['Hair Dryers', 'Straighteners', 'Curlers', 'Hot Air Brushes'],
+        featuredConcern: 'Styling with Less Heat Damage',
+        itemCount: 0
     }
 ];

@@ -21710,6 +21710,1716 @@ export const PRODUCTS: SkincareProduct[] = [
             "value": 8.6,
             "overall": 8.4
         }
+    },
+    {
+        "id": "philips-thermoprotect-hair-dryer-1000w",
+        "name": "ThermoProtect Hair Dryer 1000W",
+        "title": "Philips ThermoProtect Hair Dryer 1000W with Concentrator",
+        "brand": "Philips",
+        "category": "hair-tools",
+        "subcategory": "Hair Dryer",
+        "asin": "B00KCD8NFY",
+        "amazonUrl": "https://www.amazon.in/dp/B00KCD8NFY?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00KCD8NFY?tag=oraeskin-21",
+        "badge": "Most-Rated Hair Dryer in India",
+        "price": 999,
+        "priceEst": "₹999",
+        "currency": "₹",
+        "size": "1 dryer",
+        "image": "/images/products/philips-thermoprotect-hair-dryer-1000w.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "1,14,000+",
+        "reviewCount": "1,14,000+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 8.6,
+            "availability": 9.4
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Hair Drying",
+            "Blow Drying",
+            "Frizz"
+        ],
+        "keyActives": [
+            "1000 W with 2 heat settings",
+            "ThermoProtect temperature setting",
+            "Concentrator nozzle",
+            "2-year Philips India warranty"
+        ],
+        "keyIngredients": [
+            "1000 W with 2 heat settings",
+            "ThermoProtect temperature setting",
+            "Concentrator nozzle",
+            "2-year Philips India warranty"
+        ],
+        "ingredients": [
+            "Plastic body, 1.5 m cord"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Corded hair dryer",
+        "finish": "Gentle, moderate airflow",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Everyday drying of short to medium hair, and first-time dryer buyers.",
+        "avoidIf": "You have very long, thick hair and want fast drying; 1000 W is on the gentle side.",
+        "whyWeLikeIt": "A gentle 1000 W dryer with a heat-limiting setting and a 2-year warranty, bought by more people than any other dryer on Amazon India.",
+        "pros": [
+            "More than 1,14,000 Amazon India ratings at 4.2★",
+            "ThermoProtect setting limits heat",
+            "2-year warranty"
+        ],
+        "cons": [
+            "No cool-shot setting listed",
+            "Slow on long, thick hair",
+            "Not foldable"
+        ],
+        "verdict": "The safe default pick for everyday drying.",
+        "alternatives": [
+            {
+                "label": "Foldable with Cool Shot",
+                "productId": "philips-foldable-hair-dryer-1200w",
+                "reason": "1200 W, foldable, with a cool setting."
+            },
+            {
+                "label": "More Power",
+                "productId": "havells-hd3151-hair-dryer",
+                "reason": "More power, three heat settings and a cool shot."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.6,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "havells-hd3151-hair-dryer",
+        "name": "HD3151 Foldable Hair Dryer",
+        "title": "Havells HD3151 Foldable Hair Dryer with Cool Shot",
+        "brand": "Havells",
+        "category": "hair-tools",
+        "subcategory": "Hair Dryer",
+        "asin": "B01N33BLDT",
+        "amazonUrl": "https://www.amazon.in/dp/B01N33BLDT?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B01N33BLDT?tag=oraeskin-21",
+        "badge": "Best Value with Cool Shot",
+        "price": 1099,
+        "priceEst": "₹1099",
+        "currency": "₹",
+        "size": "1 dryer",
+        "image": "/images/products/havells-hd3151-hair-dryer.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "68,000+",
+        "reviewCount": "68,000+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.8,
+            "value": 8.6,
+            "availability": 9.4
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Hair Drying",
+            "Blow Drying",
+            "Frizz"
+        ],
+        "keyActives": [
+            "Hot, warm and cool settings",
+            "Separate cool-shot button",
+            "Double overheat protection",
+            "Foldable handle, 2-year guarantee"
+        ],
+        "keyIngredients": [
+            "Hot, warm and cool settings",
+            "Separate cool-shot button",
+            "Double overheat protection",
+            "Foldable handle, 2-year guarantee"
+        ],
+        "ingredients": [
+            "Plastic body"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Corded hair dryer",
+        "finish": "Strong, adjustable airflow",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Most people: medium to long hair, travel, and anyone who wants a cool shot to set styles.",
+        "avoidIf": "You want an ionic dryer; the listing says it is not ionic.",
+        "whyWeLikeIt": "Three heat settings, a cool-shot button and double overheat protection in a foldable dryer.",
+        "pros": [
+            "Cool shot and three heat settings",
+            "Double overheat protection",
+            "4.3★ from more than 68,000 ratings"
+        ],
+        "cons": [
+            "The title says 1200 W but the specification table says 1600 W, so check the box",
+            "Not ionic"
+        ],
+        "verdict": "Our top overall pick: more control and safety features than most dryers at this price.",
+        "alternatives": [
+            {
+                "label": "Cheaper Gentle Dryer",
+                "productId": "philips-thermoprotect-hair-dryer-1000w",
+                "reason": "1000 W with a heat-limiting setting."
+            },
+            {
+                "label": "Salon-Style Power",
+                "productId": "agaro-2000w-professional-hair-dryer",
+                "reason": "2000 W AC motor with a diffuser."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.6,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "philips-compact-hair-dryer-1000w",
+        "name": "Compact Hair Dryer 1000W",
+        "title": "Philips Compact ThermoProtect Hair Dryer 1000W",
+        "brand": "Philips",
+        "category": "hair-tools",
+        "subcategory": "Hair Dryer",
+        "asin": "B074KKM2MP",
+        "amazonUrl": "https://www.amazon.in/dp/B074KKM2MP?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B074KKM2MP?tag=oraeskin-21",
+        "badge": "Cheapest Philips Dryer",
+        "price": 628,
+        "priceEst": "₹628",
+        "currency": "₹",
+        "size": "1 dryer",
+        "image": "/images/products/philips-compact-hair-dryer-1000w.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "39,000+",
+        "reviewCount": "39,000+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 9.2,
+            "availability": 9.4
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Hair Drying",
+            "Blow Drying",
+            "Frizz"
+        ],
+        "keyActives": [
+            "1000 W, hot and warm settings",
+            "ThermoProtect technology",
+            "Compact travel design"
+        ],
+        "keyIngredients": [
+            "1000 W, hot and warm settings",
+            "ThermoProtect technology",
+            "Compact travel design"
+        ],
+        "ingredients": [
+            "Ceramic and plastic"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Corded hair dryer",
+        "finish": "Gentle airflow",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A cheap, light dryer for short hair, hostels and travel.",
+        "avoidIf": "You have long or thick hair, or want a cool shot.",
+        "whyWeLikeIt": "Gentle heat with ThermoProtect from a well-known brand, for about ₹630.",
+        "pros": [
+            "About ₹630",
+            "Light and compact",
+            "More than 39,000 ratings at 4.2★"
+        ],
+        "cons": [
+            "Only hot and warm settings, no cool shot",
+            "Slow on long hair"
+        ],
+        "verdict": "Best for a tight budget.",
+        "alternatives": [
+            {
+                "label": "Similar Budget Dryer",
+                "productId": "havells-hd1702-hair-dryer",
+                "reason": "Havells 1000 W with a 360° air inlet."
+            },
+            {
+                "label": "With Cool Shot",
+                "productId": "philips-foldable-hair-dryer-1200w",
+                "reason": "Adds a cool setting and folds."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 9.2,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "philips-foldable-hair-dryer-1200w",
+        "name": "Foldable Hair Dryer 1200W",
+        "title": "Philips Foldable ThermoProtect Hair Dryer 1200W",
+        "brand": "Philips",
+        "category": "hair-tools",
+        "subcategory": "Hair Dryer",
+        "asin": "B00TO7JUFG",
+        "amazonUrl": "https://www.amazon.in/dp/B00TO7JUFG?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00TO7JUFG?tag=oraeskin-21",
+        "badge": "Best Travel Dryer",
+        "price": 979,
+        "priceEst": "₹979",
+        "currency": "₹",
+        "size": "1 dryer",
+        "image": "/images/products/philips-foldable-hair-dryer-1200w.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "26,000+",
+        "reviewCount": "26,000+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 8.8,
+            "availability": 9.4
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Hair Drying",
+            "Blow Drying",
+            "Frizz"
+        ],
+        "keyActives": [
+            "1200 W",
+            "Hot, warm and cool settings",
+            "ThermoProtect technology",
+            "Foldable handle"
+        ],
+        "keyIngredients": [
+            "1200 W",
+            "Hot, warm and cool settings",
+            "ThermoProtect technology",
+            "Foldable handle"
+        ],
+        "ingredients": [
+            "Plastic body"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Corded hair dryer",
+        "finish": "Moderate airflow",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Travel and small bathrooms, with a cool setting to finish.",
+        "avoidIf": "You need professional power for very thick hair.",
+        "whyWeLikeIt": "A foldable Philips dryer with three settings including cool air, for under ₹1,000.",
+        "pros": [
+            "Folds for travel",
+            "Cool setting",
+            "4.3★ from more than 26,000 ratings"
+        ],
+        "cons": [
+            "Less powerful than 2000 W salon dryers"
+        ],
+        "verdict": "A great all-rounder if you travel.",
+        "alternatives": [
+            {
+                "label": "More Control",
+                "productId": "havells-hd3151-hair-dryer",
+                "reason": "Separate cool-shot button and double overheat protection."
+            },
+            {
+                "label": "Cheaper",
+                "productId": "philips-compact-hair-dryer-1000w",
+                "reason": "Smaller and cheaper, without a cool setting."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.8,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "agaro-2000w-professional-hair-dryer",
+        "name": "2000W AC Professional Hair Dryer",
+        "title": "AGARO 2000W AC Professional Hair Dryer with Concentrator & Diffuser",
+        "brand": "AGARO",
+        "category": "hair-tools",
+        "subcategory": "Hair Dryer",
+        "asin": "B094XSDC41",
+        "amazonUrl": "https://www.amazon.in/dp/B094XSDC41?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B094XSDC41?tag=oraeskin-21",
+        "badge": "Best for Thick or Curly Hair",
+        "price": 1499,
+        "priceEst": "₹1499",
+        "currency": "₹",
+        "size": "1 dryer",
+        "image": "/images/products/agaro-2000w-professional-hair-dryer.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "11,000+",
+        "reviewCount": "11,000+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Hair Drying",
+            "Blow Drying",
+            "Frizz"
+        ],
+        "keyActives": [
+            "2000 W AC motor",
+            "2 speeds, 3 temperatures and a cool shot",
+            "Concentrator, diffuser and comb nozzles",
+            "Auto shut-off and 16 A plug"
+        ],
+        "keyIngredients": [
+            "2000 W AC motor",
+            "2 speeds, 3 temperatures and a cool shot",
+            "Concentrator, diffuser and comb nozzles",
+            "Auto shut-off and 16 A plug"
+        ],
+        "ingredients": [
+            "AC motor, 16 A plug"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Professional corded hair dryer",
+        "finish": "Strong airflow",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Long, thick or curly hair, using the diffuser for curls.",
+        "avoidIf": "Your bathroom only has a 6 A socket; it needs a 16 A socket. It is also heavy at about 1 kg.",
+        "whyWeLikeIt": "A powerful AC-motor dryer that dries thick hair faster, so you spend less time under heat.",
+        "pros": [
+            "Fast drying for thick hair",
+            "Diffuser for curls",
+            "Cool shot and auto shut-off"
+        ],
+        "cons": [
+            "Needs a 16 A socket",
+            "Heavy (about 1 kg)",
+            "High heat can damage fine hair"
+        ],
+        "verdict": "Worth it for thick or curly hair; overkill for short hair.",
+        "alternatives": [
+            {
+                "label": "Lighter Everyday Dryer",
+                "productId": "havells-hd3151-hair-dryer",
+                "reason": "Lighter, with a cool shot."
+            },
+            {
+                "label": "Hot Air Brush",
+                "productId": "agaro-hot-air-brush",
+                "reason": "Dry and style in one step."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "havells-hd1702-hair-dryer",
+        "name": "HD1702 Hair Dryer 1000W",
+        "title": "Havells HD1702 Hair Dryer 1000W with ThermoProtect",
+        "brand": "Havells",
+        "category": "hair-tools",
+        "subcategory": "Hair Dryer",
+        "asin": "B0H5L55GJY",
+        "amazonUrl": "https://www.amazon.in/dp/B0H5L55GJY?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0H5L55GJY?tag=oraeskin-21",
+        "badge": "Lightest Budget Dryer",
+        "price": 697,
+        "priceEst": "₹697",
+        "currency": "₹",
+        "size": "1 dryer",
+        "image": "/images/products/havells-hd1702-hair-dryer.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "4,100+",
+        "reviewCount": "4,100+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.4,
+            "evidence": 8,
+            "userFeedback": 8.4,
+            "value": 9,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Hair Drying",
+            "Blow Drying",
+            "Frizz"
+        ],
+        "keyActives": [
+            "1000 W",
+            "2 heat and 2 speed settings",
+            "360° radial air inlet",
+            "ThermoProtect feature"
+        ],
+        "keyIngredients": [
+            "1000 W",
+            "2 heat and 2 speed settings",
+            "360° radial air inlet",
+            "ThermoProtect feature"
+        ],
+        "ingredients": [
+            "Plastic body"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Corded hair dryer",
+        "finish": "Gentle airflow",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A light, cheap dryer for short hair and travel.",
+        "avoidIf": "You want a cool shot or fast drying for long hair.",
+        "whyWeLikeIt": "Very light (about 240 g) with two heat and two speed settings, for under ₹700.",
+        "pros": [
+            "About 240 g, very light",
+            "Two heat and two speed settings",
+            "Under ₹700"
+        ],
+        "cons": [
+            "No cool shot listed",
+            "Fewer ratings than older models"
+        ],
+        "verdict": "A good light budget alternative to the Philips compact dryer.",
+        "alternatives": [
+            {
+                "label": "Most-Rated Budget Dryer",
+                "productId": "philips-compact-hair-dryer-1000w",
+                "reason": "More reviews, similar price."
+            },
+            {
+                "label": "With Cool Shot",
+                "productId": "havells-hd3151-hair-dryer",
+                "reason": "Three heat settings and a cool shot."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 9,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "philips-selfie-hair-straightener",
+        "name": "Selfie Hair Straightener",
+        "title": "Philips Selfie Hair Straightener with Ceramic Plates (90–210°C)",
+        "brand": "Philips",
+        "category": "hair-tools",
+        "subcategory": "Hair Straightener",
+        "asin": "B00TGXJBNE",
+        "amazonUrl": "https://www.amazon.in/dp/B00TGXJBNE?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B00TGXJBNE?tag=oraeskin-21",
+        "badge": "Most-Rated Straightener",
+        "price": 1062,
+        "priceEst": "₹1062",
+        "currency": "₹",
+        "size": "1 straightener",
+        "image": "/images/products/philips-selfie-hair-straightener.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "58,000+",
+        "reviewCount": "58,000+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.2,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 8.6,
+            "availability": 9.4
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Straightening",
+            "Frizz",
+            "Heat Damage"
+        ],
+        "keyActives": [
+            "Ceramic plates (19 × 85 mm)",
+            "Temperature range 90–210°C",
+            "SilkPro Care for less heat exposure",
+            "360° swivel cord"
+        ],
+        "keyIngredients": [
+            "Ceramic plates (19 × 85 mm)",
+            "Temperature range 90–210°C",
+            "SilkPro Care for less heat exposure",
+            "360° swivel cord"
+        ],
+        "ingredients": [
+            "Ceramic plates"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Flat iron straightener",
+        "finish": "Smooth, straight",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Short to medium hair and quick touch-ups.",
+        "avoidIf": "You have very thick, long hair; the narrow plates take longer.",
+        "whyWeLikeIt": "Ceramic plates and a lower starting temperature from a trusted brand, with the most ratings of any straightener here.",
+        "pros": [
+            "More than 58,000 ratings at 4.2★",
+            "Starts as low as 90°C",
+            "Swivel cord"
+        ],
+        "cons": [
+            "Narrow plates are slow on thick hair",
+            "Straightening lasts hours, not days, as the listing notes"
+        ],
+        "verdict": "The safe default straightener for most people.",
+        "alternatives": [
+            {
+                "label": "Wide Plates with Settings",
+                "productId": "havells-hs4222-wide-hair-straightener",
+                "reason": "Wide plates with five temperature settings and a display."
+            },
+            {
+                "label": "Cheaper",
+                "productId": "havells-hs4101-hair-straightener",
+                "reason": "Under ₹1,000 with ceramic plates."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.6,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "havells-hs4222-wide-hair-straightener",
+        "name": "HS4222 Wide Hair Straightener",
+        "title": "Havells HS4222 Wide Plate Hair Straightener with 5 Temperature Settings",
+        "brand": "Havells",
+        "category": "hair-tools",
+        "subcategory": "Hair Straightener",
+        "asin": "B0GZMT4WDG",
+        "amazonUrl": "https://www.amazon.in/dp/B0GZMT4WDG?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GZMT4WDG?tag=oraeskin-21",
+        "badge": "Best Temperature Control",
+        "price": 1749,
+        "priceEst": "₹1749",
+        "currency": "₹",
+        "size": "1 straightener",
+        "image": "/images/products/havells-hs4222-wide-hair-straightener.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "6,200+",
+        "reviewCount": "6,200+",
+        "scoreBreakdown": {
+            "formula": 8.8,
+            "skinSuitability": 8.6,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 8.2,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Straightening",
+            "Frizz",
+            "Heat Damage"
+        ],
+        "keyActives": [
+            "Wide floating plates (40 × 100 mm)",
+            "5 temperature settings, 150–230°C",
+            "Digital temperature display",
+            "Plate lock and swivel cord"
+        ],
+        "keyIngredients": [
+            "Wide floating plates (40 × 100 mm)",
+            "5 temperature settings, 150–230°C",
+            "Digital temperature display",
+            "Plate lock and swivel cord"
+        ],
+        "ingredients": [
+            "Keratin-infused ceramic plates (as described by the brand)"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Wide-plate straightener",
+        "finish": "Smooth, straight",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Long or thick hair, and anyone who wants to choose an exact, lower temperature.",
+        "avoidIf": "You have short hair; wide plates are harder to use close to the roots.",
+        "whyWeLikeIt": "A digital display and five settings let you use the lowest heat that works, which matters most for avoiding damage.",
+        "pros": [
+            "Five settings with a digital display",
+            "Wide plates straighten faster",
+            "Dual voltage for travel abroad"
+        ],
+        "cons": [
+            "Lowest setting is 150°C",
+            "₹1,749"
+        ],
+        "verdict": "Our top straightener pick, because temperature control is the biggest factor in heat damage.",
+        "alternatives": [
+            {
+                "label": "Lower Starting Heat",
+                "productId": "philips-selfie-hair-straightener",
+                "reason": "Starts at 90°C with narrower plates."
+            },
+            {
+                "label": "Brush Style",
+                "productId": "philips-hair-straightener-brush",
+                "reason": "A straightening brush for a softer finish."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.5,
+        "scores": {
+            "formula": 8.8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.2,
+            "overall": 8.5
+        }
+    },
+    {
+        "id": "havells-hs4101-hair-straightener",
+        "name": "HS4101 Ceramic Hair Straightener",
+        "title": "Havells HS4101 Ceramic Plate Hair Straightener",
+        "brand": "Havells",
+        "category": "hair-tools",
+        "subcategory": "Hair Straightener",
+        "asin": "B071WRNFRY",
+        "amazonUrl": "https://www.amazon.in/dp/B071WRNFRY?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B071WRNFRY?tag=oraeskin-21",
+        "badge": "Best Budget Straightener",
+        "price": 920,
+        "priceEst": "₹920",
+        "currency": "₹",
+        "size": "1 straightener",
+        "image": "/images/products/havells-hs4101-hair-straightener.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "13,000+",
+        "reviewCount": "13,000+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 7.8,
+            "evidence": 8,
+            "userFeedback": 8.6,
+            "value": 9,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Straightening",
+            "Frizz",
+            "Heat Damage"
+        ],
+        "keyActives": [
+            "Ceramic-coated plates",
+            "Heats up in about 45 seconds",
+            "Overheat protection",
+            "Max 210°C"
+        ],
+        "keyIngredients": [
+            "Ceramic-coated plates",
+            "Heats up in about 45 seconds",
+            "Overheat protection",
+            "Max 210°C"
+        ],
+        "ingredients": [
+            "Ceramic-coated plates"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Flat iron straightener",
+        "finish": "Smooth, straight",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Occasional straightening on a budget.",
+        "avoidIf": "You have fine or damaged hair; the listing shows no adjustable temperature.",
+        "whyWeLikeIt": "Ceramic plates, quick heat-up and overheat protection for under ₹1,000.",
+        "pros": [
+            "Under ₹1,000",
+            "Fast heat-up",
+            "4.2★ from more than 13,000 ratings"
+        ],
+        "cons": [
+            "No adjustable temperature listed, so you can't turn the heat down",
+            "Basic features"
+        ],
+        "verdict": "Fine for occasional use; pick an adjustable model if you straighten often.",
+        "alternatives": [
+            {
+                "label": "Adjustable Temperature",
+                "productId": "havells-hs4222-wide-hair-straightener",
+                "reason": "Five settings with a display."
+            },
+            {
+                "label": "Lower Heat",
+                "productId": "philips-selfie-hair-straightener",
+                "reason": "Starts at 90°C."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 7.8,
+            "texture": 7.8,
+            "value": 9,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "philips-hair-straightener-brush",
+        "name": "Hair Straightener Brush",
+        "title": "Philips Hair Straightening Brush with ThermoProtect",
+        "brand": "Philips",
+        "category": "hair-tools",
+        "subcategory": "Straightening Brush",
+        "asin": "B07Q2ZM5LS",
+        "amazonUrl": "https://www.amazon.in/dp/B07Q2ZM5LS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07Q2ZM5LS?tag=oraeskin-21",
+        "badge": "Best Straightening Brush",
+        "price": 1749,
+        "priceEst": "₹1749",
+        "currency": "₹",
+        "size": "1 brush",
+        "image": "/images/products/philips-hair-straightener-brush.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "43,000+",
+        "reviewCount": "43,000+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.4,
+            "evidence": 7.8,
+            "userFeedback": 8.4,
+            "value": 8,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Straightening",
+            "Frizz",
+            "Heat Damage"
+        ],
+        "keyActives": [
+            "Heated paddle brush, max 200°C",
+            "ThermoProtect technology",
+            "Ceramic-coated keratin bristles",
+            "Triple-bristle design to protect the scalp"
+        ],
+        "keyIngredients": [
+            "Heated paddle brush, max 200°C",
+            "ThermoProtect technology",
+            "Ceramic-coated keratin bristles",
+            "Triple-bristle design to protect the scalp"
+        ],
+        "ingredients": [
+            "Ceramic-coated bristles"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Heated straightening brush",
+        "finish": "Soft, natural straight",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Frizzy or wavy hair that you want smoother and more natural-looking, faster than a flat iron.",
+        "avoidIf": "You want pin-straight, sleek results; a flat iron does that better.",
+        "whyWeLikeIt": "A brush straightens with less clamping and tension than a flat iron and gives a softer, more natural finish.",
+        "pros": [
+            "Quick, natural-looking results",
+            "Bristles designed to protect the scalp",
+            "More than 43,000 ratings"
+        ],
+        "cons": [
+            "Less sleek than a flat iron",
+            "₹1,749"
+        ],
+        "verdict": "Great for frizz control and everyday smoothing.",
+        "alternatives": [
+            {
+                "label": "Flat Iron",
+                "productId": "philips-selfie-hair-straightener",
+                "reason": "Sleeker results, cheaper."
+            },
+            {
+                "label": "Hot Air Brush",
+                "productId": "urban-yog-3-in-1-hot-air-brush",
+                "reason": "Dries and smooths at the same time."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "vega-3-in-1-hair-styler",
+        "name": "3-in-1 Hair Styler",
+        "title": "Vega 3-in-1 Hair Styler: Straightener, Curler & Crimper",
+        "brand": "Vega",
+        "category": "hair-tools",
+        "subcategory": "Multi-Styler",
+        "asin": "B071J3YJ73",
+        "amazonUrl": "https://www.amazon.in/dp/B071J3YJ73?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B071J3YJ73?tag=oraeskin-21",
+        "badge": "Best 3-in-1 Styler",
+        "price": 1499,
+        "priceEst": "₹1499",
+        "currency": "₹",
+        "size": "1 styler",
+        "image": "/images/products/vega-3-in-1-hair-styler.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "44,000+",
+        "reviewCount": "44,000+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 7.6,
+            "evidence": 7.6,
+            "userFeedback": 7.8,
+            "value": 8.4,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Straightening",
+            "Curls",
+            "Crimping"
+        ],
+        "keyActives": [
+            "Straightener, curling barrel and crimper in one",
+            "Ceramic-coated plates and barrel",
+            "One-switch control"
+        ],
+        "keyIngredients": [
+            "Straightener, curling barrel and crimper in one",
+            "Ceramic-coated plates and barrel",
+            "One-switch control"
+        ],
+        "ingredients": [
+            "Ceramic-coated plates and barrel"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Multi-styler",
+        "finish": "Straight, curled or crimped",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Students and occasional stylers who want to try different looks with one tool.",
+        "avoidIf": "You style daily or have fine hair; the listing gives no clear temperature control.",
+        "whyWeLikeIt": "Three styles in one tool for less than buying a separate straightener and curler.",
+        "pros": [
+            "Three tools in one",
+            "More than 44,000 ratings",
+            "₹1,499"
+        ],
+        "cons": [
+            "3.9★, lower than the single-purpose tools",
+            "The specification table lists a maximum temperature of 55°C, which looks like a listing error",
+            "No adjustable temperature described"
+        ],
+        "verdict": "Good value for experimenting; a dedicated tool does each job better.",
+        "alternatives": [
+            {
+                "label": "Dedicated Straightener",
+                "productId": "philips-selfie-hair-straightener",
+                "reason": "Better rated, with a stated temperature range."
+            },
+            {
+                "label": "Automatic Curler",
+                "productId": "urban-yog-automatic-hair-curler",
+                "reason": "Easier curls with four temperature settings."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 7.6,
+            "texture": 7.6,
+            "value": 8.4,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "urban-yog-automatic-hair-curler",
+        "name": "MakeMeeBold Automatic Hair Curler",
+        "title": "Urban Yog MakeMeeBold Automatic Hair Curler with 4 Temperature Settings",
+        "brand": "Urban Yog",
+        "category": "hair-tools",
+        "subcategory": "Automatic Curler",
+        "asin": "B0D9B4XH9S",
+        "amazonUrl": "https://www.amazon.in/dp/B0D9B4XH9S?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0D9B4XH9S?tag=oraeskin-21",
+        "badge": "Easiest Curler",
+        "price": 2699,
+        "priceEst": "₹2699",
+        "currency": "₹",
+        "size": "1 curler",
+        "image": "/images/products/urban-yog-automatic-hair-curler.jpg",
+        "amazonRating": 3.8,
+        "rating": 3.8,
+        "amazonReviews": "1,600+",
+        "reviewCount": "1,600+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8,
+            "evidence": 7.6,
+            "userFeedback": 7.6,
+            "value": 7.4,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Curls",
+            "Waves",
+            "Heat Damage"
+        ],
+        "keyActives": [
+            "Automatic two-way curling",
+            "4 temperature settings, up to 220°C",
+            "Anti-scald design",
+            "360° swivel cord"
+        ],
+        "keyIngredients": [
+            "Automatic two-way curling",
+            "4 temperature settings, up to 220°C",
+            "Anti-scald design",
+            "360° swivel cord"
+        ],
+        "ingredients": [
+            "Ceramic barrel"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Automatic rotating curler",
+        "finish": "Curls and waves",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Beginners who struggle with a manual curling iron.",
+        "avoidIf": "You have very long, thick hair that could tangle in the rotating barrel; always feed small sections.",
+        "whyWeLikeIt": "Automatic rotation and an anti-scald design make curls easier and reduce burns, with four heat settings.",
+        "pros": [
+            "Easy for beginners",
+            "Four temperature settings",
+            "Anti-scald design"
+        ],
+        "cons": [
+            "3.8★ with fewer ratings",
+            "Hair can tangle if sections are too big",
+            "₹2,699"
+        ],
+        "verdict": "Worth it if you can't get on with a manual curler.",
+        "alternatives": [
+            {
+                "label": "Cheaper Multi-Styler",
+                "productId": "vega-3-in-1-hair-styler",
+                "reason": "Includes a curling barrel for less."
+            },
+            {
+                "label": "Heatless Option",
+                "productId": "urban-yog-3-in-1-hot-air-brush",
+                "reason": "Hot air brush for soft waves with less direct heat."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.4,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "urban-yog-3-in-1-hot-air-brush",
+        "name": "MakeMeeBold 3-in-1 Hot Air Brush",
+        "title": "Urban Yog MakeMeeBold 3-in-1 Hot Air Brush (1200W)",
+        "brand": "Urban Yog",
+        "category": "hair-tools",
+        "subcategory": "Hot Air Brush",
+        "asin": "B0BZ4WQLZV",
+        "amazonUrl": "https://www.amazon.in/dp/B0BZ4WQLZV?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BZ4WQLZV?tag=oraeskin-21",
+        "badge": "Most Popular Hot Air Brush",
+        "price": 2590,
+        "priceEst": "₹2590",
+        "currency": "₹",
+        "size": "1 brush",
+        "image": "/images/products/urban-yog-3-in-1-hot-air-brush.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "5,400+",
+        "reviewCount": "5,400+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8,
+            "evidence": 7.8,
+            "userFeedback": 8.2,
+            "value": 7.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Blow Drying",
+            "Volume",
+            "Frizz"
+        ],
+        "keyActives": [
+            "1200 W",
+            "Dries, straightens and volumises",
+            "1.5-inch ceramic-coated barrel"
+        ],
+        "keyIngredients": [
+            "1200 W",
+            "Dries, straightens and volumises",
+            "1.5-inch ceramic-coated barrel"
+        ],
+        "ingredients": [
+            "Ceramic-coated barrel"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hot air brush",
+        "finish": "Smooth, bouncy blow-dry",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A salon-style blow-dry at home in one step, for medium to long hair.",
+        "avoidIf": "You have very short hair; the barrel is large.",
+        "whyWeLikeIt": "Dries and styles at the same time, so hair gets one heat session instead of two.",
+        "pros": [
+            "One-step drying and styling",
+            "Ceramic-coated barrel",
+            "More than 5,400 ratings"
+        ],
+        "cons": [
+            "₹2,590",
+            "Heavier than a dryer (about 800 g)"
+        ],
+        "verdict": "The most popular choice for an easy at-home blow-dry.",
+        "alternatives": [
+            {
+                "label": "Cheaper Option",
+                "productId": "agaro-hot-air-brush",
+                "reason": "Similar idea with ionic technology for ₹1,599."
+            },
+            {
+                "label": "Three Heads",
+                "productId": "caresmith-bloom-hot-air-brush",
+                "reason": "Includes a straightening brush head."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 7.6,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "agaro-hot-air-brush",
+        "name": "Hot Air Brush Volumizer",
+        "title": "AGARO Hot Air Brush Volumizer with Ionic Technology",
+        "brand": "AGARO",
+        "category": "hair-tools",
+        "subcategory": "Hot Air Brush",
+        "asin": "B09MJ3FL43",
+        "amazonUrl": "https://www.amazon.in/dp/B09MJ3FL43?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09MJ3FL43?tag=oraeskin-21",
+        "badge": "Best Value Hot Air Brush",
+        "price": 1599,
+        "priceEst": "₹1599",
+        "currency": "₹",
+        "size": "1 brush",
+        "image": "/images/products/agaro-hot-air-brush.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "8,500+",
+        "reviewCount": "8,500+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8,
+            "evidence": 7.8,
+            "userFeedback": 8.2,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Blow Drying",
+            "Volume",
+            "Frizz"
+        ],
+        "keyActives": [
+            "3 heat and 2 speed settings",
+            "Ceramic tourmaline coating with ionic technology",
+            "Oval barrel with 360° airflow vent"
+        ],
+        "keyIngredients": [
+            "3 heat and 2 speed settings",
+            "Ceramic tourmaline coating with ionic technology",
+            "Oval barrel with 360° airflow vent"
+        ],
+        "ingredients": [
+            "Ceramic tourmaline-coated head"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hot air brush",
+        "finish": "Smooth, voluminous",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Volume and a smooth finish on a budget.",
+        "avoidIf": "You need a straightening brush head; this has one oval brush head.",
+        "whyWeLikeIt": "Three heat settings and an oval barrel for volume, with the most ratings of the hot air brushes here.",
+        "pros": [
+            "Most-rated hot air brush here (8,500+)",
+            "Three heat settings",
+            "₹1,599"
+        ],
+        "cons": [
+            "One brush head only",
+            "Wattage not stated on the listing"
+        ],
+        "verdict": "The best value hot air brush.",
+        "alternatives": [
+            {
+                "label": "More Popular, Larger Barrel",
+                "productId": "urban-yog-3-in-1-hot-air-brush",
+                "reason": "1200 W, 1.5-inch barrel."
+            },
+            {
+                "label": "Compact and Cheaper",
+                "productId": "vega-litstyle-l3-hot-air-brush",
+                "reason": "Smaller and ₹400 cheaper."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.4,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "vega-litstyle-l3-hot-air-brush",
+        "name": "Litstyle L3 Volumizer Hot Air Brush",
+        "title": "VEGA Litstyle L3 Volumizer Hot Air Brush",
+        "brand": "Vega",
+        "category": "hair-tools",
+        "subcategory": "Hot Air Brush",
+        "asin": "B0DKFW7LRC",
+        "amazonUrl": "https://www.amazon.in/dp/B0DKFW7LRC?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DKFW7LRC?tag=oraeskin-21",
+        "badge": "Cheapest Hot Air Brush",
+        "price": 1199,
+        "priceEst": "₹1199",
+        "currency": "₹",
+        "size": "1 brush",
+        "image": "/images/products/vega-litstyle-l3-hot-air-brush.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "2,600+",
+        "reviewCount": "2,600+",
+        "scoreBreakdown": {
+            "formula": 7.6,
+            "skinSuitability": 8.2,
+            "evidence": 7.6,
+            "userFeedback": 7.8,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Blow Drying",
+            "Volume",
+            "Frizz"
+        ],
+        "keyActives": [
+            "500 W",
+            "3 heat and 2 speed settings",
+            "360° airflow vent",
+            "Tourmaline ceramic coating"
+        ],
+        "keyIngredients": [
+            "500 W",
+            "3 heat and 2 speed settings",
+            "360° airflow vent",
+            "Tourmaline ceramic coating"
+        ],
+        "ingredients": [
+            "Tourmaline ceramic coating"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hot air brush",
+        "finish": "Soft volume",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Short to medium hair, travel and touch-ups.",
+        "avoidIf": "You have long, thick, wet hair to dry; 500 W is slow.",
+        "whyWeLikeIt": "A compact, low-wattage brush with three heat settings for under ₹1,200.",
+        "pros": [
+            "Under ₹1,200",
+            "Low power is gentler on hair",
+            "Compact for travel"
+        ],
+        "cons": [
+            "Slow on long or thick hair",
+            "3.9★"
+        ],
+        "verdict": "Good for short hair and touch-ups.",
+        "alternatives": [
+            {
+                "label": "More Power",
+                "productId": "agaro-hot-air-brush",
+                "reason": "Faster drying for longer hair."
+            },
+            {
+                "label": "Most Popular",
+                "productId": "urban-yog-3-in-1-hot-air-brush",
+                "reason": "1200 W with a larger barrel."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8,
+        "scores": {
+            "formula": 7.6,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.6,
+            "overall": 8
+        }
+    },
+    {
+        "id": "caresmith-bloom-hot-air-brush",
+        "name": "Bloom 3-in-1 Hot Air Brush",
+        "title": "Caresmith Bloom 3-in-1 Hot Air Brush with Straightener Head",
+        "brand": "Caresmith",
+        "category": "hair-tools",
+        "subcategory": "Hot Air Brush",
+        "asin": "B0GJ6DWB4S",
+        "amazonUrl": "https://www.amazon.in/dp/B0GJ6DWB4S?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0GJ6DWB4S?tag=oraeskin-21",
+        "badge": "Most Versatile Hot Air Brush",
+        "price": 1999,
+        "priceEst": "₹1999",
+        "currency": "₹",
+        "size": "1 brush, 3 heads",
+        "image": "/images/products/caresmith-bloom-hot-air-brush.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "1,200+",
+        "reviewCount": "1,200+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 7.8,
+            "userFeedback": 8.2,
+            "value": 8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Blow Drying",
+            "Volume",
+            "Frizz"
+        ],
+        "keyActives": [
+            "1200 W",
+            "3 heads: dryer, volumiser and straightening brush",
+            "4 mode settings"
+        ],
+        "keyIngredients": [
+            "1200 W",
+            "3 heads: dryer, volumiser and straightening brush",
+            "4 mode settings"
+        ],
+        "ingredients": [
+            "ABS plastic body"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Hot air brush",
+        "finish": "Smooth or voluminous",
+        "whiteCast": "Not Applicable",
+        "bestFor": "People who want drying, volume and smoothing in one kit.",
+        "avoidIf": "You only need one style; a single-head brush is cheaper.",
+        "whyWeLikeIt": "Three interchangeable heads, including a straightening brush that uses hot air, in one 1200 W kit.",
+        "pros": [
+            "Three heads in one kit",
+            "Four modes",
+            "4.1★"
+        ],
+        "cons": [
+            "Fewer ratings (1,200+)",
+            "₹1,999"
+        ],
+        "verdict": "The most versatile pick if you want several looks.",
+        "alternatives": [
+            {
+                "label": "Cheaper Single Head",
+                "productId": "agaro-hot-air-brush",
+                "reason": "One oval head for ₹1,599."
+            },
+            {
+                "label": "Most Popular",
+                "productId": "urban-yog-3-in-1-hot-air-brush",
+                "reason": "More ratings, larger barrel."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.2,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8,
+            "overall": 8.2
+        }
+    },
+    {
+        "id": "bblunt-hot-shot-heat-protection-mist",
+        "name": "Hot Shot Heat Protection Hair Mist",
+        "title": "Bblunt Hot Shot Heat Protection Hair Mist (150ml)",
+        "brand": "Bblunt",
+        "category": "hair-tools",
+        "subcategory": "Heat Protectant",
+        "asin": "B07W458135",
+        "amazonUrl": "https://www.amazon.in/dp/B07W458135?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07W458135?tag=oraeskin-21",
+        "badge": "Best Heat Protectant Mist",
+        "price": 374,
+        "priceEst": "₹374",
+        "currency": "₹",
+        "size": "150ml",
+        "image": "/images/products/bblunt-hot-shot-heat-protection-mist.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "9,700+",
+        "reviewCount": "9,700+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8,
+            "evidence": 7.8,
+            "userFeedback": 8.2,
+            "value": 8.2,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Heat Damage",
+            "Frizz"
+        ],
+        "keyActives": [
+            "Dimethiconol and amodimethicone (silicones)",
+            "VA/Crotonates copolymer (film former)",
+            "Panthenol",
+            "Grape seed oil"
+        ],
+        "keyIngredients": [
+            "Dimethiconol and amodimethicone (silicones)",
+            "VA/Crotonates copolymer (film former)",
+            "Panthenol",
+            "Grape seed oil"
+        ],
+        "ingredients": [
+            "Aqua",
+            "PEG-40 Hydrogenated Castor Oil",
+            "Isopropyl Alcohol",
+            "Dipropylene Glycol",
+            "VA/Crotonates/Vinyl Neodecanoate Copolymer",
+            "Dimethiconol",
+            "Glycerin",
+            "Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer",
+            "Panthenol",
+            "Vitis Vinifera Seed Oil",
+            "Phenoxyethanol",
+            "Parfum"
+        ],
+        "fragrance": "Added Fragrance (Grape)",
+        "essentialOils": false,
+        "alcoholFree": false,
+        "texture": "Light mist",
+        "finish": "Soft, less frizzy",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Spraying on damp or dry hair before blow-drying, straightening or curling.",
+        "avoidIf": "Your hair is very dry; it contains isopropyl alcohol.",
+        "whyWeLikeIt": "Silicones and a film former coat hair to reduce friction and heat damage, with the full ingredient list printed.",
+        "pros": [
+            "Full ingredient list on the listing",
+            "Silicones that coat and protect hair",
+            "More than 9,700 ratings"
+        ],
+        "cons": [
+            "Contains isopropyl alcohol",
+            "Fragranced",
+            "The \"230°C protection\" claim is the brand's; no spray makes very high heat safe"
+        ],
+        "verdict": "A sensible, well-rated heat protectant to use with any hot tool.",
+        "alternatives": [
+            {
+                "label": "Cheaper Spray",
+                "productId": "streax-heat-protectant-spray",
+                "reason": "Alcohol-free, under ₹220."
+            },
+            {
+                "label": "A Gentle Dryer",
+                "productId": "havells-hd3151-hair-dryer",
+                "reason": "Pair with a dryer that has low heat settings."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.2,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "streax-heat-protectant-spray",
+        "name": "Heat Protectant Spray",
+        "title": "Streax Heat Protectant Spray (100ml)",
+        "brand": "Streax",
+        "category": "hair-tools",
+        "subcategory": "Heat Protectant",
+        "asin": "B0CT3RHP5Y",
+        "amazonUrl": "https://www.amazon.in/dp/B0CT3RHP5Y?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CT3RHP5Y?tag=oraeskin-21",
+        "badge": "Best Budget Heat Protectant",
+        "price": 215,
+        "priceEst": "₹215",
+        "currency": "₹",
+        "size": "100ml",
+        "image": "/images/products/streax-heat-protectant-spray.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "5,100+",
+        "reviewCount": "5,100+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.2,
+            "evidence": 7.6,
+            "userFeedback": 8.2,
+            "value": 8.8,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Heat Damage",
+            "Frizz"
+        ],
+        "keyActives": [
+            "PEG-12 dimethicone (silicone)",
+            "Cetrimonium chloride (conditioner)",
+            "Hydrolyzed keratin",
+            "Panthenol",
+            "Jojoba oil"
+        ],
+        "keyIngredients": [
+            "PEG-12 dimethicone (silicone)",
+            "Cetrimonium chloride (conditioner)",
+            "Hydrolyzed keratin",
+            "Panthenol",
+            "Jojoba oil"
+        ],
+        "ingredients": [
+            "Aqua",
+            "Glycerin",
+            "PEG-12 Dimethicone",
+            "Betaine",
+            "Parfum",
+            "Propylene Glycol",
+            "Cetrimonium Chloride",
+            "Hydrolyzed Keratin",
+            "Panthenol",
+            "Wheat Germ Oil",
+            "Tocopherol",
+            "Simmondsia Chinensis Seed Oil",
+            "Polyquaternium-7"
+        ],
+        "fragrance": "Added Fragrance (Jojoba)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Spray",
+        "finish": "Soft, conditioned",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A cheap, alcohol-free heat protectant for everyday blow-drying.",
+        "avoidIf": "You have a wheat allergy; it contains wheat germ oil.",
+        "whyWeLikeIt": "A water-based, alcohol-free spray with a silicone and conditioners, at a low price.",
+        "pros": [
+            "No drying alcohol in the listed ingredients",
+            "Under ₹220",
+            "4.1★ from more than 5,100 ratings"
+        ],
+        "cons": [
+            "Fragranced",
+            "Lighter silicone coating than some sprays",
+            "The \"250°C protection\" claim is the brand's; keep heat low anyway"
+        ],
+        "verdict": "The best budget heat protectant.",
+        "alternatives": [
+            {
+                "label": "Stronger Coating",
+                "productId": "bblunt-hot-shot-heat-protection-mist",
+                "reason": "More silicones and a film former."
+            },
+            {
+                "label": "A Gentle Straightener",
+                "productId": "havells-hs4222-wide-hair-straightener",
+                "reason": "Pair with adjustable temperature."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.8,
+            "overall": 8.1
+        }
     }
 ];
 
@@ -21756,6 +23466,7 @@ const TOPIC_CATEGORY_RULES: [RegExp, string][] = [
     [/spot|pimple|patch|breakout|acne/i, 'spot-treatments'],
     [/retin|anti-?aging|wrinkle|fine lines|mature/i, 'anti-aging'],
     [/ice roller|gua sha|steamer|nose strip|loofah|scrubber|skincare tool|accessor/i, 'tools'],
+    [/hair dryer|straightener|curler|hot air brush|hair styling|blow dry/i, 'hair-tools'],
 ];
 
 /**

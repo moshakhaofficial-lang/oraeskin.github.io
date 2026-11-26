@@ -111,8 +111,11 @@ const bestSeasons = isRich
 const hasWhiteCast = product.whiteCast && product.whiteCast !== 'Not Applicable';
 
 // Skincare tools and accessories get usage-focused sections instead of formula sections
-const isTool = product.category === 'tools';
-const scoreLabels = isTool
+const isHairTool = product.category === 'hair-tools';
+const isTool = product.category === 'tools' || isHairTool;
+const scoreLabels = isHairTool
+    ? ['Design & Heat Control (25%)', 'Hair Safety & Suitability (20%)', 'Evidence for the Claimed Benefit (20%)', 'Verified Consumer Feedback (15%)', 'Value for Money (10%)', 'Availability & Warranty (10%)']
+    : isTool
     ? ['Design & Materials (25%)', 'Skin Safety & Suitability (20%)', 'Evidence for the Claimed Benefit (20%)', 'Verified Consumer Feedback (15%)', 'Value for Money (10%)', 'Availability & Build Quality (10%)']
     : ['Formula & Hero Actives (25%)', 'Skin Suitability & Climate (20%)', 'Scientific Evidence Backing (20%)', 'Verified Consumer Feedback (15%)', 'Value for Money & Economics (10%)', 'Availability & Packaging Quality (10%)'];
 
@@ -147,12 +150,14 @@ const toolFaqs = [
         a: product.avoidIf
     },
     {
-        q: `How do I keep it clean?`,
-        a: `Wash reusable tools with mild soap and water after each use, let them dry fully, and don't share them. Throw away single-use items such as strips, patches and pads after one use. Stop using any tool on broken, inflamed or infected skin.`
+        q: isHairTool ? `How do I use it without damaging my hair?` : `How do I keep it clean?`,
+        a: isHairTool
+            ? `Use a heat protectant first, start on the lowest heat or temperature setting that works, and keep the tool moving rather than holding it on one section. Style dry or nearly dry hair with straighteners and curlers, never wet hair. Keep it away from water, unplug it after use, and let it cool before storing.`
+            : `Wash reusable tools with mild soap and water after each use, let them dry fully, and don't share them. Throw away single-use items such as strips, patches and pads after one use. Stop using any tool on broken, inflamed or infected skin.`
     },
     {
         q: `How does the OraeSkin Score work for tools?`,
-        a: `Amazon ratings (${product.rating}/5 from ${product.reviewCount} users) measure general customer satisfaction. The OraeSkin Score (${product.oraeSkinScore}/10) is our editorial evaluation weighing design and materials (25%), skin safety (20%), evidence for the claimed benefit (20%), user sentiment (15%), value (10%), and availability and build quality (10%).`
+        a: `Amazon ratings (${product.rating}/5 from ${product.reviewCount} users) measure general customer satisfaction. The OraeSkin Score (${product.oraeSkinScore}/10) is our editorial evaluation weighing ${isHairTool ? 'design and heat control (25%), hair safety (20%)' : 'design and materials (25%), skin safety (20%)'}, evidence for the claimed benefit (20%), user sentiment (15%), value (10%), and ${isHairTool ? 'availability and warranty' : 'availability and build quality'} (10%).`
     }
 ];
 
@@ -404,11 +409,19 @@ const faqSchema = {
                             <span class="c-val">{product.avoidIf}</span>
                         </div>
                     </div>
-                    <ul>
-                        <li>Use it on clean skin, with light pressure. Skincare tools should never hurt or leave marks.</li>
-                        <li>Clean reusable tools after every use and let them dry fully. Don't share them.</li>
-                        <li>Avoid active acne, broken skin, sunburn and rashes.</li>
-                    </ul>
+                    {isHairTool ? (
+                        <ul>
+                            <li>Spray a heat protectant on your hair first, and start on the lowest heat setting that works for you.</li>
+                            <li>Keep the tool moving. Don't hold heat on one section of hair for more than a few seconds.</li>
+                            <li>Use straighteners and curlers on dry hair only. Keep every hair tool away from water, and unplug it and let it cool after use.</li>
+                        </ul>
+                    ) : (
+                        <ul>
+                            <li>Use it on clean skin, with light pressure. Skincare tools should never hurt or leave marks.</li>
+                            <li>Clean reusable tools after every use and let them dry fully. Don't share them.</li>
+                            <li>Avoid active acne, broken skin, sunburn and rashes.</li>
+                        </ul>
+                    )}
                 </section>
 
 </Fragment>
@@ -525,10 +538,12 @@ const faqSchema = {
                 <section class="review-section">
                     <h2>4. Value for Money</h2>
                     <p>
-                        At about <strong>₹{product.price}</strong> for {product.size}, this sits in the <strong>{product.price <= 300 ? 'Budget' : product.price <= 1000 ? 'Mid-Range' : 'Premium'}</strong> range for skincare tools on Amazon India.
+                        At about <strong>₹{product.price}</strong> for {product.size}, this sits in the <strong>{isHairTool ? (product.price <= 1000 ? 'Budget' : product.price <= 2000 ? 'Mid-Range' : 'Premium') : (product.price <= 300 ? 'Budget' : product.price <= 1000 ? 'Mid-Range' : 'Premium')}</strong> range for {isHairTool ? 'hair styling tools' : 'skincare tools'} on Amazon India.
                     </p>
                     <p>
-                        Reusable tools such as rollers, brushes and gua sha stones last for months or years with care, so the cost per use is very low. Single-use items such as strips, patches and pads are worth comparing by price per piece.
+                        {isHairTool
+                            ? 'Electric hair tools usually last several years with care. Check the warranty period on the Amazon listing, and register the product with the brand if it asks you to.'
+                            : 'Reusable tools such as rollers, brushes and gua sha stones last for months or years with care, so the cost per use is very low. Single-use items such as strips, patches and pads are worth comparing by price per piece.'}
                     </p>
                 </section>
 
