@@ -20143,6 +20143,1573 @@ export const PRODUCTS: SkincareProduct[] = [
             "value": 6.6,
             "overall": 8
         }
+    },
+    {
+        "id": "aegon-ice-roller",
+        "name": "Silicone Ice Roller for Face",
+        "title": "Aegon Silicone Ice Roller for Face",
+        "brand": "Aegon",
+        "category": "tools",
+        "subcategory": "Ice Roller",
+        "asin": "B0C5MRP8S7",
+        "amazonUrl": "https://www.amazon.in/dp/B0C5MRP8S7?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0C5MRP8S7?tag=oraeskin-21",
+        "badge": "Best Budget Ice Roller",
+        "price": 135,
+        "priceEst": "₹135",
+        "currency": "₹",
+        "size": "1 roller",
+        "image": "/images/products/aegon-ice-roller.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "2,200+",
+        "reviewCount": "2,200+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8.4,
+            "evidence": 7.2,
+            "userFeedback": 7.6,
+            "value": 9,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Redness",
+            "Tired Skin"
+        ],
+        "keyActives": [
+            "Silicone ice mould you fill with water",
+            "Freezes into an ice cube you glide over skin",
+            "Can also hold frozen green tea or cucumber water"
+        ],
+        "keyIngredients": [
+            "Silicone ice mould you fill with water",
+            "Freezes into an ice cube you glide over skin",
+            "Can also hold frozen green tea or cucumber water"
+        ],
+        "ingredients": [
+            "Silicone"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Silicone ice-cube mould",
+        "finish": "Very cold",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Morning puffiness and a quick, refreshing cool-down after a hot commute.",
+        "avoidIf": "You have rosacea that flares with cold, broken capillaries, or very sensitive skin; never hold ice in one spot.",
+        "whyWeLikeIt": "Cold briefly narrows blood vessels and reduces fluid, which can make puffy skin look calmer for a while.",
+        "pros": [
+            "Cheap and reusable",
+            "Silicone is easy to wash",
+            "Lets you freeze plain water or green tea"
+        ],
+        "cons": [
+            "Effects last minutes to hours, not days",
+            "Bare ice can be too cold; keep it moving",
+            "3.9★ rating"
+        ],
+        "verdict": "A cheap, pleasant de-puffing tool; just don't expect lasting skin changes.",
+        "alternatives": [
+            {
+                "label": "Gel Eye Mask",
+                "productId": "boldhealth-cooling-eye-gel-mask",
+                "reason": "Hands-free cooling for puffy eyes."
+            },
+            {
+                "label": "Similar Ice Roller",
+                "productId": "antils-ice-roller",
+                "reason": "Another silicone ice mould with an unbreakable build."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 9,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "antils-ice-roller",
+        "name": "Face Ice Roller",
+        "title": "ANTIL'S Reusable Face Ice Roller",
+        "brand": "ANTIL'S",
+        "category": "tools",
+        "subcategory": "Ice Roller",
+        "asin": "B0F2J3736Y",
+        "amazonUrl": "https://www.amazon.in/dp/B0F2J3736Y?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0F2J3736Y?tag=oraeskin-21",
+        "badge": "Unbreakable Ice Roller",
+        "price": 145,
+        "priceEst": "₹145",
+        "currency": "₹",
+        "size": "1 roller",
+        "image": "/images/products/antils-ice-roller.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "1,400+",
+        "reviewCount": "1,400+",
+        "scoreBreakdown": {
+            "formula": 7.4,
+            "skinSuitability": 8.4,
+            "evidence": 7.2,
+            "userFeedback": 7.6,
+            "value": 8.8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Redness",
+            "Tired Skin"
+        ],
+        "keyActives": [
+            "Reusable ice-cube mould",
+            "Ergonomic handle",
+            "Unbreakable build (as described by the brand)"
+        ],
+        "keyIngredients": [
+            "Reusable ice-cube mould",
+            "Ergonomic handle",
+            "Unbreakable build (as described by the brand)"
+        ],
+        "ingredients": [
+            "Material not stated on the listing"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Ice-cube mould with handle",
+        "finish": "Very cold",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A quick morning de-puff and a cooling face massage.",
+        "avoidIf": "Your skin reacts badly to cold, or you have rosacea.",
+        "whyWeLikeIt": "Does the same simple job as other ice rollers, with a sturdy handle.",
+        "pros": [
+            "Cheap and reusable",
+            "Comfortable handle",
+            "Simple to use"
+        ],
+        "cons": [
+            "The listing does not state the material",
+            "Effects are temporary",
+            "Fewer ratings than some rivals"
+        ],
+        "verdict": "Fine if you want an ice roller; pick on price and colour.",
+        "alternatives": [
+            {
+                "label": "Cheaper Ice Roller",
+                "productId": "aegon-ice-roller",
+                "reason": "Silicone mould for slightly less."
+            },
+            {
+                "label": "Ice Roller with Scrubber",
+                "productId": "skinside-ice-roller",
+                "reason": "Adds a scrubber attachment."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 7.4,
+            "weatherResilience": 8.4,
+            "texture": 8.4,
+            "value": 8.8,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "skinside-ice-roller",
+        "name": "Ice Roller with Scrubber",
+        "title": "SkinSide Ice Roller for Face with Scrubber",
+        "brand": "SkinSide",
+        "category": "tools",
+        "subcategory": "Ice Roller",
+        "asin": "B0D846M27M",
+        "amazonUrl": "https://www.amazon.in/dp/B0D846M27M?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0D846M27M?tag=oraeskin-21",
+        "badge": "Ice Roller with Scrubber",
+        "price": 135,
+        "priceEst": "₹135",
+        "currency": "₹",
+        "size": "1 roller",
+        "image": "/images/products/skinside-ice-roller.jpg",
+        "amazonRating": 3.8,
+        "rating": 3.8,
+        "amazonReviews": "2,100+",
+        "reviewCount": "2,100+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 8,
+            "evidence": 7,
+            "userFeedback": 7.4,
+            "value": 8.8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Tired Skin"
+        ],
+        "keyActives": [
+            "Silicone ice-cube mould",
+            "Scrubber attachment"
+        ],
+        "keyIngredients": [
+            "Silicone ice-cube mould",
+            "Scrubber attachment"
+        ],
+        "ingredients": [
+            "Silicone"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Silicone ice-cube mould with scrubber",
+        "finish": "Very cold",
+        "whiteCast": "Not Applicable",
+        "bestFor": "People who want an ice roller and a soft scrubber in one cheap tool.",
+        "avoidIf": "You have sensitive skin; don't combine ice and scrubbing on the same area.",
+        "whyWeLikeIt": "A standard silicone ice mould with a scrubbing end added.",
+        "pros": [
+            "Two uses in one tool",
+            "Cheap",
+            "Washable silicone"
+        ],
+        "cons": [
+            "Scrubbing plus cold can irritate sensitive skin",
+            "3.8★ rating",
+            "Effects are temporary"
+        ],
+        "verdict": "Works as an ice roller; the scrubber is a minor extra.",
+        "alternatives": [
+            {
+                "label": "Plain Ice Roller",
+                "productId": "aegon-ice-roller",
+                "reason": "Simpler, same price."
+            },
+            {
+                "label": "Soft Face Brush",
+                "productId": "glam21-silicone-face-brush",
+                "reason": "A gentler silicone cleansing brush."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.6,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 8,
+            "texture": 8,
+            "value": 8.8,
+            "overall": 7.6
+        }
+    },
+    {
+        "id": "boldhealth-cooling-eye-gel-mask",
+        "name": "Cooling Eye Gel Mask",
+        "title": "BoldHealth Cooling Eye Gel Mask",
+        "brand": "BoldHealth",
+        "category": "tools",
+        "subcategory": "Eye Mask",
+        "asin": "B0B4WTMRSS",
+        "amazonUrl": "https://www.amazon.in/dp/B0B4WTMRSS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B4WTMRSS?tag=oraeskin-21",
+        "badge": "Best for Puffy Eyes",
+        "price": 189,
+        "priceEst": "₹189",
+        "currency": "₹",
+        "size": "1 mask",
+        "image": "/images/products/boldhealth-cooling-eye-gel-mask.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "5,200+",
+        "reviewCount": "5,200+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 8.6,
+            "evidence": 7.4,
+            "userFeedback": 8,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Tired Eyes",
+            "Dark Circles"
+        ],
+        "keyActives": [
+            "Reusable gel mask you chill or freeze",
+            "Stretchable strap for hands-free use",
+            "Light pressure plus cold"
+        ],
+        "keyIngredients": [
+            "Reusable gel mask you chill or freeze",
+            "Stretchable strap for hands-free use",
+            "Light pressure plus cold"
+        ],
+        "ingredients": [
+            "Gel inside a fabric-covered mask"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Gel eye mask with strap",
+        "finish": "Cold, soothing",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Puffy, tired eyes in the morning or after screen-heavy days.",
+        "avoidIf": "You have an eye condition; this is not a treatment for dry eye disease without a doctor's advice.",
+        "whyWeLikeIt": "Cold plus gentle pressure is a simple, proven way to reduce puffiness for a few hours.",
+        "pros": [
+            "Hands-free, so you can lie down for 10 minutes",
+            "Reusable",
+            "4.0★ from more than 5,200 ratings"
+        ],
+        "cons": [
+            "Doesn't treat pigmented dark circles",
+            "Don't use straight from the freezer on bare skin for long"
+        ],
+        "verdict": "The most useful cooling tool here for eyes, at a low price.",
+        "alternatives": [
+            {
+                "label": "Ice Roller",
+                "productId": "aegon-ice-roller",
+                "reason": "Cooling for the whole face."
+            },
+            {
+                "label": "Caffeine Eye Gel",
+                "productId": "mcaffeine-coffee-eye-cream",
+                "reason": "Caffeine can also reduce puffiness."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.6,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "livronic-steel-gua-sha",
+        "name": "Stainless Steel Gua Sha",
+        "title": "Livronic 304 Stainless Steel Gua Sha Tool for Face",
+        "brand": "Livronic",
+        "category": "tools",
+        "subcategory": "Gua Sha",
+        "asin": "B0B8T59777",
+        "amazonUrl": "https://www.amazon.in/dp/B0B8T59777?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0B8T59777?tag=oraeskin-21",
+        "badge": "Best Gua Sha",
+        "price": 159,
+        "priceEst": "₹159",
+        "currency": "₹",
+        "size": "1 tool",
+        "image": "/images/products/livronic-steel-gua-sha.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "1,100+",
+        "reviewCount": "1,100+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.2,
+            "evidence": 6.8,
+            "userFeedback": 8.6,
+            "value": 8.8,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Puffiness",
+            "Facial Massage",
+            "Relaxation"
+        ],
+        "keyActives": [
+            "304 stainless steel",
+            "Stays cool and is easy to sterilise",
+            "Contoured edges for jaw, cheeks and neck"
+        ],
+        "keyIngredients": [
+            "304 stainless steel",
+            "Stays cool and is easy to sterilise",
+            "Contoured edges for jaw, cheeks and neck"
+        ],
+        "ingredients": [
+            "304 Stainless Steel"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Flat steel massage tool",
+        "finish": "Cool, smooth",
+        "whiteCast": "Not Applicable",
+        "bestFor": "A relaxing facial massage that can briefly reduce morning puffiness.",
+        "avoidIf": "You have active acne, rosacea or broken skin, or you bruise easily; always use oil or moisturiser and light pressure.",
+        "whyWeLikeIt": "Steel is more hygienic and harder to break than jade or rose quartz, and it holds the cold well.",
+        "pros": [
+            "Stainless steel is hygienic and won't shatter",
+            "Highest rating of the tools here at 4.4★",
+            "Cheap"
+        ],
+        "cons": [
+            "Evidence for lasting \"lifting\" or \"sculpting\" is weak",
+            "Too much pressure can cause redness or broken capillaries"
+        ],
+        "verdict": "Buy it for a relaxing massage and a brief de-puff, not to reshape your face.",
+        "alternatives": [
+            {
+                "label": "Ice Roller",
+                "productId": "aegon-ice-roller",
+                "reason": "Cold de-puffing for less effort."
+            },
+            {
+                "label": "Cooling Eye Mask",
+                "productId": "boldhealth-cooling-eye-gel-mask",
+                "reason": "Hands-free cooling for the eye area."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.8,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "glam21-silicone-face-brush",
+        "name": "Silicone Face Brush 2-in-1",
+        "title": "Glam21 2-in-1 Silicone Face Cleansing Brush & Spatula",
+        "brand": "Glam21",
+        "category": "tools",
+        "subcategory": "Manual Cleansing Brush",
+        "asin": "B0BR5RWBYS",
+        "amazonUrl": "https://www.amazon.in/dp/B0BR5RWBYS?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0BR5RWBYS?tag=oraeskin-21",
+        "badge": "Best Manual Cleansing Brush",
+        "price": 150,
+        "priceEst": "₹150",
+        "currency": "₹",
+        "size": "1 brush",
+        "image": "/images/products/glam21-silicone-face-brush.jpg",
+        "amazonRating": 4.2,
+        "rating": 4.2,
+        "amazonReviews": "960+",
+        "reviewCount": "960+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.2,
+            "evidence": 7.4,
+            "userFeedback": 8.2,
+            "value": 8.8,
+            "availability": 8.6
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Daily Cleansing",
+            "Oily Skin",
+            "Sunscreen Removal"
+        ],
+        "keyActives": [
+            "Soft silicone bristles",
+            "Flat spatula end for masks",
+            "Washable and quick-drying"
+        ],
+        "keyIngredients": [
+            "Soft silicone bristles",
+            "Flat spatula end for masks",
+            "Washable and quick-drying"
+        ],
+        "ingredients": [
+            "Silicone"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Handheld silicone brush",
+        "finish": "Gentle",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily or combination skin that wants a slightly deeper clean, especially to remove sunscreen.",
+        "avoidIf": "You have active acne, rosacea or very dry skin; your fingers are gentler.",
+        "whyWeLikeIt": "Silicone bristles are softer and far more hygienic than nylon brushes, and help spread cleanser evenly.",
+        "pros": [
+            "Soft silicone that dries quickly and can be washed easily",
+            "Spatula end for clay masks",
+            "Cheap"
+        ],
+        "cons": [
+            "Not essential; clean fingers work fine for most people",
+            "Fewer than 1,000 ratings"
+        ],
+        "verdict": "A nice, hygienic extra for oily skin; not a must-have.",
+        "alternatives": [
+            {
+                "label": "Electric Option",
+                "productId": "agaro-sonic-facial-cleansing-brush",
+                "reason": "Sonic vibration with adjustable speeds."
+            },
+            {
+                "label": "Body Version",
+                "productId": "kroywen-silicone-body-scrubber-set",
+                "reason": "Silicone brushes for back and body."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.1,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 8.8,
+            "overall": 8.1
+        }
+    },
+    {
+        "id": "agaro-sonic-facial-cleansing-brush",
+        "name": "Sonic Facial Cleansing Massager",
+        "title": "AGARO Sonic Facial Cleansing Massager CM2407",
+        "brand": "AGARO",
+        "category": "tools",
+        "subcategory": "Electric Cleansing Brush",
+        "asin": "B0DJGKCZ9G",
+        "amazonUrl": "https://www.amazon.in/dp/B0DJGKCZ9G?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0DJGKCZ9G?tag=oraeskin-21",
+        "badge": "#1 Powered Cleansing Brush on Amazon.in",
+        "price": 999,
+        "priceEst": "₹999",
+        "currency": "₹",
+        "size": "1 device",
+        "image": "/images/products/agaro-sonic-facial-cleansing-brush.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "780+",
+        "reviewCount": "780+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 7.8,
+            "evidence": 7.4,
+            "userFeedback": 8.2,
+            "value": 7.4,
+            "availability": 8.6
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Daily Cleansing",
+            "Oily Skin",
+            "Sunscreen Removal"
+        ],
+        "keyActives": [
+            "Sonic vibration with 5 modes, including an eye-area mode",
+            "Soft silicone bristles",
+            "IPX7 waterproof and rechargeable (about 3 hours per charge)"
+        ],
+        "keyIngredients": [
+            "Sonic vibration with 5 modes, including an eye-area mode",
+            "Soft silicone bristles",
+            "IPX7 waterproof and rechargeable (about 3 hours per charge)"
+        ],
+        "ingredients": [
+            "Silicone head, rechargeable lithium-ion battery"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Rechargeable sonic brush",
+        "finish": "Gentle to firm, adjustable",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Oily skin and heavy sunscreen or makeup users who like a powered cleansing routine.",
+        "avoidIf": "You have sensitive, acne-inflamed or very dry skin; use the softest mode no more than once a day.",
+        "whyWeLikeIt": "Silicone and sonic vibration give a gentler, more hygienic clean than old spinning nylon brushes.",
+        "pros": [
+            "Silicone head is hygienic and gentle",
+            "Five intensity modes",
+            "Waterproof and rechargeable"
+        ],
+        "cons": [
+            "Over-use can irritate skin",
+            "Under 800 ratings",
+            "₹999 for something your hands mostly do"
+        ],
+        "verdict": "A good electric cleanser if you want one; start on the softest setting.",
+        "alternatives": [
+            {
+                "label": "Manual Option",
+                "productId": "glam21-silicone-face-brush",
+                "reason": "Same silicone idea for ₹150."
+            },
+            {
+                "label": "Gentle Cleanser",
+                "productId": "cetaphil-gentle-cleanser",
+                "reason": "Pair any brush with a mild cleanser."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.9,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 7.8,
+            "texture": 7.8,
+            "value": 7.4,
+            "overall": 7.9
+        }
+    },
+    {
+        "id": "evereve-cotton-pads",
+        "name": "Multipurpose Cotton Pads",
+        "title": "Evereve 100% Cotton Pads (200 Pcs)",
+        "brand": "Evereve",
+        "category": "tools",
+        "subcategory": "Cotton Pads",
+        "asin": "B0D676HJR3",
+        "amazonUrl": "https://www.amazon.in/dp/B0D676HJR3?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0D676HJR3?tag=oraeskin-21",
+        "badge": "Best Cotton Pads",
+        "price": 179,
+        "priceEst": "₹179",
+        "currency": "₹",
+        "size": "200 pads",
+        "image": "/images/products/evereve-cotton-pads.jpg",
+        "amazonRating": 4.4,
+        "rating": 4.4,
+        "amazonReviews": "2,800+",
+        "reviewCount": "2,800+",
+        "scoreBreakdown": {
+            "formula": 8.2,
+            "skinSuitability": 8.6,
+            "evidence": 7.8,
+            "userFeedback": 8.6,
+            "value": 8.8,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Toner Application",
+            "Makeup Removal",
+            "Micellar Water"
+        ],
+        "keyActives": [
+            "100% cotton",
+            "Honeycomb side for cleansing, smooth side for toner",
+            "Sealed edges to reduce lint"
+        ],
+        "keyIngredients": [
+            "100% cotton",
+            "Honeycomb side for cleansing, smooth side for toner",
+            "Sealed edges to reduce lint"
+        ],
+        "ingredients": [
+            "100% Cotton",
+            "Aloe vera extract (as stated on the listing)"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Double-sided cotton pads",
+        "finish": "Soft, lint-free",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Applying toner or micellar water and removing makeup.",
+        "avoidIf": "You want a zero-waste option; these are single-use.",
+        "whyWeLikeIt": "Soft, low-lint cotton pads at under ₹1 each, rated 4.4★ by more than 2,800 buyers.",
+        "pros": [
+            "About ₹0.9 per pad",
+            "Low lint with sealed edges",
+            "4.4★ rating"
+        ],
+        "cons": [
+            "Single-use",
+            "Rubbing hard with any pad irritates skin"
+        ],
+        "verdict": "Good, cheap everyday pads for toner and micellar water.",
+        "alternatives": [
+            {
+                "label": "Micellar Water to Use With",
+                "productId": "garnier-micellar-water",
+                "reason": "A popular micellar water for quick cleansing."
+            },
+            {
+                "label": "Toner to Use With",
+                "productId": "minimalist-pha-toner",
+                "reason": "Gentle PHA toner for sensitive skin."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8.2,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.8,
+            "overall": 8.4
+        }
+    },
+    {
+        "id": "dr-trust-facial-steamer",
+        "name": "3-in-1 Nano Ionic Facial Steamer",
+        "title": "Dr Trust 3-in-1 Nano Ionic Facial Steamer, Humidifier & Towel Warmer",
+        "brand": "Dr Trust",
+        "category": "tools",
+        "subcategory": "Facial Steamer",
+        "asin": "B07RM4GKYR",
+        "amazonUrl": "https://www.amazon.in/dp/B07RM4GKYR?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B07RM4GKYR?tag=oraeskin-21",
+        "badge": "Best Dedicated Facial Steamer",
+        "price": 1999,
+        "priceEst": "₹1999",
+        "currency": "₹",
+        "size": "1 device",
+        "image": "/images/products/dr-trust-facial-steamer.jpg",
+        "amazonRating": 4,
+        "rating": 4,
+        "amazonReviews": "10,000+",
+        "reviewCount": "10,000+",
+        "scoreBreakdown": {
+            "formula": 7.8,
+            "skinSuitability": 6.8,
+            "evidence": 6.6,
+            "userFeedback": 8,
+            "value": 6.8,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Facial Steaming",
+            "Dry Indoor Air"
+        ],
+        "keyActives": [
+            "Nano-mist facial steamer",
+            "Towel-warming chamber",
+            "Doubles as a room humidifier"
+        ],
+        "keyIngredients": [
+            "Nano-mist facial steamer",
+            "Towel-warming chamber",
+            "Doubles as a room humidifier"
+        ],
+        "ingredients": [
+            "Plastic body, corded electric"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Electric facial steamer",
+        "finish": "Warm mist",
+        "whiteCast": "Not Applicable",
+        "bestFor": "An occasional relaxing at-home facial, and a humidifier for dry AC rooms.",
+        "avoidIf": "You have rosacea, melasma, eczema or very sensitive skin; heat and steam can worsen redness and pigmentation.",
+        "whyWeLikeIt": "A dedicated face steamer with a fine mist, which is gentler than leaning over a pot of boiling water.",
+        "pros": [
+            "Fine, even mist",
+            "Towel warmer and humidifier functions",
+            "More than 10,000 ratings"
+        ],
+        "cons": [
+            "Steam does not \"open\" or deep-clean pores; it only softens skin",
+            "Heat can worsen melasma, rosacea and dehydration",
+            "₹1,999"
+        ],
+        "verdict": "Nice as an occasional treat; not something your skin needs.",
+        "alternatives": [
+            {
+                "label": "Cheaper Steamer",
+                "productId": "wonder-steam-inhaler",
+                "reason": "A basic steam inhaler for under ₹400."
+            },
+            {
+                "label": "Cold Alternative",
+                "productId": "aegon-ice-roller",
+                "reason": "Cooling instead of heat, safer for redness-prone skin."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.4,
+        "scores": {
+            "formula": 7.8,
+            "weatherResilience": 6.8,
+            "texture": 6.8,
+            "value": 6.8,
+            "overall": 7.4
+        }
+    },
+    {
+        "id": "wonder-steam-inhaler",
+        "name": "Steam Inhaler Sauna Vaporizer",
+        "title": "Wonder Steam Inhaler Sauna Vaporizer",
+        "brand": "Wonder",
+        "category": "tools",
+        "subcategory": "Steam Vaporizer",
+        "asin": "B074D1XD4V",
+        "amazonUrl": "https://www.amazon.in/dp/B074D1XD4V?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B074D1XD4V?tag=oraeskin-21",
+        "badge": "Cheapest Steamer",
+        "price": 375,
+        "priceEst": "₹375",
+        "currency": "₹",
+        "size": "1 device",
+        "image": "/images/products/wonder-steam-inhaler.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "12,000+",
+        "reviewCount": "12,000+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 6.6,
+            "evidence": 6.4,
+            "userFeedback": 7.6,
+            "value": 8.4,
+            "availability": 9
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Facial Steaming",
+            "Cold Relief"
+        ],
+        "keyActives": [
+            "Steam vaporizer for face and nose",
+            "120 W heating element",
+            "BPA-free plastic (as stated on the listing)"
+        ],
+        "keyIngredients": [
+            "Steam vaporizer for face and nose",
+            "120 W heating element",
+            "BPA-free plastic (as stated on the listing)"
+        ],
+        "ingredients": [
+            "BPA-free plastic body, corded electric"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Steam inhaler",
+        "finish": "Hot steam",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Families who want one cheap steamer mainly for colds, used occasionally on the face.",
+        "avoidIf": "You have rosacea, melasma or sensitive skin, or you plan to steam often.",
+        "whyWeLikeIt": "Cheap and widely bought, mainly as a cold and cough inhaler.",
+        "pros": [
+            "Under ₹400",
+            "More than 12,000 ratings",
+            "Doubles as a cold inhaler"
+        ],
+        "cons": [
+            "Made mainly for colds, not skincare",
+            "Needs soft water; the brand says not to use RO or hard water",
+            "Hot steam can scald if you get too close"
+        ],
+        "verdict": "Fine as a cold inhaler; for skin, steaming is optional at best.",
+        "alternatives": [
+            {
+                "label": "Dedicated Facial Steamer",
+                "productId": "dr-trust-facial-steamer",
+                "reason": "A finer facial mist with more features."
+            },
+            {
+                "label": "Cold Alternative",
+                "productId": "aegon-ice-roller",
+                "reason": "Safer for redness-prone skin."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.2,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 6.6,
+            "texture": 6.6,
+            "value": 8.4,
+            "overall": 7.2
+        }
+    },
+    {
+        "id": "furr-charcoal-nose-strips",
+        "name": "Charcoal Nose Strips",
+        "title": "FURR Bamboo Charcoal Nose Strips (9 Strips)",
+        "brand": "FURR",
+        "category": "tools",
+        "subcategory": "Nose Strips",
+        "asin": "B09MTB6PCB",
+        "amazonUrl": "https://www.amazon.in/dp/B09MTB6PCB?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09MTB6PCB?tag=oraeskin-21",
+        "badge": "Best-Rated Nose Strips",
+        "price": 189,
+        "priceEst": "₹189",
+        "currency": "₹",
+        "size": "9 strips",
+        "image": "/images/products/furr-charcoal-nose-strips.jpg",
+        "amazonRating": 4.1,
+        "rating": 4.1,
+        "amazonReviews": "1,700+",
+        "reviewCount": "1,700+",
+        "scoreBreakdown": {
+            "formula": 7,
+            "skinSuitability": 7.2,
+            "evidence": 6.6,
+            "userFeedback": 8,
+            "value": 7,
+            "availability": 8.8
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Oily Nose"
+        ],
+        "keyActives": [
+            "Adhesive pore strip",
+            "Bamboo charcoal",
+            "Aloe, tea tree and witch hazel (as stated on the listing)"
+        ],
+        "keyIngredients": [
+            "Adhesive pore strip",
+            "Bamboo charcoal",
+            "Aloe, tea tree and witch hazel (as stated on the listing)"
+        ],
+        "ingredients": [
+            "Bamboo Charcoal",
+            "Aloe Vera",
+            "Tea Tree",
+            "Witch Hazel (full ingredient list not printed on the listing)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Adhesive nose strip",
+        "finish": "Peel-off",
+        "whiteCast": "Not Applicable",
+        "bestFor": "An occasional, satisfying clean-up of the top of blackheads before an event.",
+        "avoidIf": "You have sensitive, sunburnt or broken skin on your nose, or use retinoids.",
+        "whyWeLikeIt": "Pulls out the top plug of blackheads for a smoother look that lasts a few days.",
+        "pros": [
+            "Highest rating of the nose strips here at 4.1★",
+            "Visible instant result",
+            "Easy to use"
+        ],
+        "cons": [
+            "Blackheads refill within days",
+            "About ₹21 per strip",
+            "Can irritate and stretch skin if used often"
+        ],
+        "verdict": "Fine once a week at most; use salicylic acid for lasting results.",
+        "alternatives": [
+            {
+                "label": "Long-Term Fix",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "2% salicylic acid keeps pores clear over time."
+            },
+            {
+                "label": "Cheaper Strips",
+                "productId": "sanfe-nose-strips",
+                "reason": "Lower price per strip."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.3,
+        "scores": {
+            "formula": 7,
+            "weatherResilience": 7.2,
+            "texture": 7.2,
+            "value": 7,
+            "overall": 7.3
+        }
+    },
+    {
+        "id": "sanfe-nose-strips",
+        "name": "Deep Purifying Nose Strips",
+        "title": "Sanfe Deep Purifying Nose Strips with Green Tea & Witch Hazel (6 Strips)",
+        "brand": "Sanfe",
+        "category": "tools",
+        "subcategory": "Nose Strips",
+        "asin": "B09878ZR9L",
+        "amazonUrl": "https://www.amazon.in/dp/B09878ZR9L?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B09878ZR9L?tag=oraeskin-21",
+        "badge": "Most-Rated Nose Strips",
+        "price": 102,
+        "priceEst": "₹102",
+        "currency": "₹",
+        "size": "6 strips",
+        "image": "/images/products/sanfe-nose-strips.jpg",
+        "amazonRating": 3.7,
+        "rating": 3.7,
+        "amazonReviews": "5,100+",
+        "reviewCount": "5,100+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7,
+            "evidence": 6.6,
+            "userFeedback": 7.2,
+            "value": 7.6,
+            "availability": 8.8
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Oily Nose"
+        ],
+        "keyActives": [
+            "Adhesive pore strip",
+            "Green tea and witch hazel extracts"
+        ],
+        "keyIngredients": [
+            "Adhesive pore strip",
+            "Green tea and witch hazel extracts"
+        ],
+        "ingredients": [
+            "Green Tea Extract",
+            "Witch Hazel Extract (full ingredient list not printed on the listing)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Adhesive nose strip",
+        "finish": "Peel-off",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Trying nose strips cheaply.",
+        "avoidIf": "You have sensitive or broken skin on your nose.",
+        "whyWeLikeIt": "The most-rated nose strip on Amazon India, at about ₹17 per strip.",
+        "pros": [
+            "About ₹17 per strip",
+            "More than 5,100 ratings",
+            "No residue, according to the brand"
+        ],
+        "cons": [
+            "3.7★ shows mixed results",
+            "Results are temporary"
+        ],
+        "verdict": "A cheap way to try strips; manage expectations.",
+        "alternatives": [
+            {
+                "label": "Better-Rated Strips",
+                "productId": "furr-charcoal-nose-strips",
+                "reason": "4.1★ charcoal strips."
+            },
+            {
+                "label": "Long-Term Fix",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "Salicylic acid cleanser for ongoing blackhead control."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.1,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 7,
+            "texture": 7,
+            "value": 7.6,
+            "overall": 7.1
+        }
+    },
+    {
+        "id": "dr-rashel-charcoal-nose-strips",
+        "name": "Bamboo Charcoal Nose Pore Strips",
+        "title": "DR.RASHEL Bamboo Charcoal Nose Pore Strips (20 Strips)",
+        "brand": "DR.RASHEL",
+        "category": "tools",
+        "subcategory": "Nose Strips",
+        "asin": "B0CVL4ZK4Y",
+        "amazonUrl": "https://www.amazon.in/dp/B0CVL4ZK4Y?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CVL4ZK4Y?tag=oraeskin-21",
+        "badge": "Best Value Nose Strips",
+        "price": 195,
+        "priceEst": "₹195",
+        "currency": "₹",
+        "size": "20 strips",
+        "image": "/images/products/dr-rashel-charcoal-nose-strips.jpg",
+        "amazonRating": 3.6,
+        "rating": 3.6,
+        "amazonReviews": "3,100+",
+        "reviewCount": "3,100+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7,
+            "evidence": 6.6,
+            "userFeedback": 7,
+            "value": 8.6,
+            "availability": 8.8
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Oily Nose"
+        ],
+        "keyActives": [
+            "Adhesive pore strip",
+            "Bamboo charcoal"
+        ],
+        "keyIngredients": [
+            "Adhesive pore strip",
+            "Bamboo charcoal"
+        ],
+        "ingredients": [
+            "Black Charcoal (full ingredient list not printed on the listing)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Adhesive nose strip",
+        "finish": "Peel-off",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Regular strip users who want the lowest price per strip.",
+        "avoidIf": "You have sensitive skin; this has the lowest rating of the strips here.",
+        "whyWeLikeIt": "Twenty strips for under ₹200, the cheapest per strip.",
+        "pros": [
+            "About ₹10 per strip",
+            "Twenty strips per pack"
+        ],
+        "cons": [
+            "3.6★, the lowest rating here",
+            "Results are temporary"
+        ],
+        "verdict": "Cheapest per strip, but reviews are mixed.",
+        "alternatives": [
+            {
+                "label": "Same Brand, Better Rated",
+                "productId": "dr-rashel-vitamin-c-nose-strips",
+                "reason": "Vitamin C version rated 3.9★."
+            },
+            {
+                "label": "Best-Rated Strips",
+                "productId": "furr-charcoal-nose-strips",
+                "reason": "4.1★ charcoal strips."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.2,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 7,
+            "texture": 7,
+            "value": 8.6,
+            "overall": 7.2
+        }
+    },
+    {
+        "id": "dr-rashel-vitamin-c-nose-strips",
+        "name": "Vitamin C Nose Strips",
+        "title": "DR.RASHEL Vitamin C Nose Strips with Witch Hazel & Charcoal (20 Strips)",
+        "brand": "DR.RASHEL",
+        "category": "tools",
+        "subcategory": "Nose Strips",
+        "asin": "B0CTFLQ37M",
+        "amazonUrl": "https://www.amazon.in/dp/B0CTFLQ37M?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0CTFLQ37M?tag=oraeskin-21",
+        "badge": "Value Pick with Better Ratings",
+        "price": 195,
+        "priceEst": "₹195",
+        "currency": "₹",
+        "size": "20 strips",
+        "image": "/images/products/dr-rashel-vitamin-c-nose-strips.jpg",
+        "amazonRating": 3.9,
+        "rating": 3.9,
+        "amazonReviews": "1,700+",
+        "reviewCount": "1,700+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7,
+            "evidence": 6.6,
+            "userFeedback": 7.4,
+            "value": 8.6,
+            "availability": 8.8
+        },
+        "skinType": [
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "concerns": [
+            "Blackheads",
+            "Oily Nose"
+        ],
+        "keyActives": [
+            "Adhesive pore strip",
+            "Activated charcoal",
+            "Vitamin C and witch hazel extracts"
+        ],
+        "keyIngredients": [
+            "Adhesive pore strip",
+            "Activated charcoal",
+            "Vitamin C and witch hazel extracts"
+        ],
+        "ingredients": [
+            "Orange Extract",
+            "Witch Hazel",
+            "Activated Charcoal (full ingredient list not printed on the listing)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Adhesive nose strip",
+        "finish": "Peel-off",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Regular strip users who want a large pack with better reviews than the charcoal version.",
+        "avoidIf": "You have sensitive or broken skin on your nose.",
+        "whyWeLikeIt": "Twenty strips at about ₹10 each, with a 3.9★ rating.",
+        "pros": [
+            "About ₹10 per strip",
+            "Better rated than the brand's charcoal strips"
+        ],
+        "cons": [
+            "Extracts on a peel-off strip do little",
+            "Results are temporary"
+        ],
+        "verdict": "The best value nose strip here.",
+        "alternatives": [
+            {
+                "label": "Best-Rated Strips",
+                "productId": "furr-charcoal-nose-strips",
+                "reason": "4.1★ charcoal strips."
+            },
+            {
+                "label": "Long-Term Fix",
+                "productId": "minimalist-salicylic-cleanser",
+                "reason": "Salicylic acid for ongoing blackhead control."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.3,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 7,
+            "texture": 7,
+            "value": 8.6,
+            "overall": 7.3
+        }
+    },
+    {
+        "id": "kroywen-silicone-body-scrubber-set",
+        "name": "Silicone Bath Brush Set",
+        "title": "KROYWEN Silicone Back Scrubber, Body Brush, Face Brush & Scalp Massager Set",
+        "brand": "KROYWEN",
+        "category": "tools",
+        "subcategory": "Body Scrubber",
+        "asin": "B0FPGDNWQH",
+        "amazonUrl": "https://www.amazon.in/dp/B0FPGDNWQH?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0FPGDNWQH?tag=oraeskin-21",
+        "badge": "Most Hygienic Body Scrubber",
+        "price": 199,
+        "priceEst": "₹199",
+        "currency": "₹",
+        "size": "4 brushes + 3 hooks",
+        "image": "/images/products/kroywen-silicone-body-scrubber-set.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "2,900+",
+        "reviewCount": "2,900+",
+        "scoreBreakdown": {
+            "formula": 8.4,
+            "skinSuitability": 8.2,
+            "evidence": 7.4,
+            "userFeedback": 8.6,
+            "value": 9,
+            "availability": 8.8
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Body Exfoliation",
+            "Back Acne",
+            "Rough Skin"
+        ],
+        "keyActives": [
+            "Food-grade silicone, BPA-free (as stated on the listing)",
+            "Long-handled back brush",
+            "Body, face and scalp brushes with wall hooks"
+        ],
+        "keyIngredients": [
+            "Food-grade silicone, BPA-free (as stated on the listing)",
+            "Long-handled back brush",
+            "Body, face and scalp brushes with wall hooks"
+        ],
+        "ingredients": [
+            "Food-grade silicone"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Silicone brushes",
+        "finish": "Gentle to medium scrub",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Reaching your back and gently exfoliating the body, without the hygiene problems of loofahs.",
+        "avoidIf": "You have eczema or very dry skin; scrub lightly and not every day.",
+        "whyWeLikeIt": "Silicone rinses clean and dries fast, so it holds far fewer bacteria than natural or mesh loofahs.",
+        "pros": [
+            "Silicone is easy to clean and quick-drying",
+            "Long handle for the back",
+            "Four brushes for ₹199"
+        ],
+        "cons": [
+            "Doesn't lather as much as a mesh loofah",
+            "Over-scrubbing still irritates skin"
+        ],
+        "verdict": "Our pick over loofahs for hygiene and value.",
+        "alternatives": [
+            {
+                "label": "Classic Loofah",
+                "productId": "ross-bath-loofah",
+                "reason": "More lather, but needs replacing often."
+            },
+            {
+                "label": "Exfoliating Body Wash",
+                "productId": "minimalist-salicylic-bodywash",
+                "reason": "Chemical exfoliation for back acne."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.3,
+        "scores": {
+            "formula": 8.4,
+            "weatherResilience": 8.2,
+            "texture": 8.2,
+            "value": 9,
+            "overall": 8.3
+        }
+    },
+    {
+        "id": "ross-bath-loofah",
+        "name": "Large Bath Loofah Sponge",
+        "title": "Ross Large Bath Loofah Sponge Scrubber (Pack of 2)",
+        "brand": "Ross",
+        "category": "tools",
+        "subcategory": "Mesh Loofah",
+        "asin": "B08XX6FXC1",
+        "amazonUrl": "https://www.amazon.in/dp/B08XX6FXC1?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B08XX6FXC1?tag=oraeskin-21",
+        "badge": "Most Popular Loofah",
+        "price": 220,
+        "priceEst": "₹220",
+        "currency": "₹",
+        "size": "2 loofahs",
+        "image": "/images/products/ross-bath-loofah.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "12,000+",
+        "reviewCount": "12,000+",
+        "scoreBreakdown": {
+            "formula": 6.8,
+            "skinSuitability": 7.4,
+            "evidence": 7,
+            "userFeedback": 8.6,
+            "value": 8.2,
+            "availability": 9.2
+        },
+        "skinType": [
+            "All"
+        ],
+        "concerns": [
+            "Body Exfoliation",
+            "Lather"
+        ],
+        "keyActives": [
+            "Large mesh loofah for rich lather",
+            "Pack of two (45–50g each)"
+        ],
+        "keyIngredients": [
+            "Large mesh loofah for rich lather",
+            "Pack of two (45–50g each)"
+        ],
+        "ingredients": [
+            "Mesh loofah (material described as loofah on the listing)"
+        ],
+        "fragrance": "No Fragrance (Tool)",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Mesh loofah",
+        "finish": "Rich lather, light scrub",
+        "whiteCast": "Not Applicable",
+        "bestFor": "People who love lots of lather and replace their loofah regularly.",
+        "avoidIf": "You won't replace it every 3–4 weeks or hang it to dry; damp loofahs grow bacteria.",
+        "whyWeLikeIt": "Very popular and makes lots of lather with little body wash.",
+        "pros": [
+            "Rich lather",
+            "Two in a pack",
+            "More than 12,000 ratings at 4.3★"
+        ],
+        "cons": [
+            "Holds water and bacteria; replace every 3–4 weeks",
+            "Can spread bacteria to shaved or broken skin"
+        ],
+        "verdict": "Fine if you hang it dry and replace it monthly; silicone is more hygienic.",
+        "alternatives": [
+            {
+                "label": "More Hygienic Option",
+                "productId": "kroywen-silicone-body-scrubber-set",
+                "reason": "Silicone brushes that dry quickly."
+            },
+            {
+                "label": "Gentle Body Wash",
+                "productId": "dove-nourishing-body-wash",
+                "reason": "A mild wash to use with any scrubber."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 7.6,
+        "scores": {
+            "formula": 6.8,
+            "weatherResilience": 7.4,
+            "texture": 7.4,
+            "value": 8.2,
+            "overall": 7.6
+        }
+    },
+    {
+        "id": "mighty-patch-pimple-patches",
+        "name": "Hydrocolloid Pimple Patches (72 Dots)",
+        "title": "Mighty Patch Ultra-Thin Hydrocolloid Pimple Patches (72 Dots)",
+        "brand": "Mighty Patch",
+        "category": "spot-treatments",
+        "subcategory": "Hydrocolloid Patch",
+        "asin": "B0H292624R",
+        "amazonUrl": "https://www.amazon.in/dp/B0H292624R?tag=oraeskin-21",
+        "affiliateUrl": "https://www.amazon.in/dp/B0H292624R?tag=oraeskin-21",
+        "badge": "Most-Rated Pimple Patch",
+        "price": 179,
+        "priceEst": "₹179",
+        "currency": "₹",
+        "size": "72 patches",
+        "image": "/images/products/mighty-patch-pimple-patches.jpg",
+        "amazonRating": 4.3,
+        "rating": 4.3,
+        "amazonReviews": "150,000+",
+        "reviewCount": "150,000+",
+        "scoreBreakdown": {
+            "formula": 8,
+            "skinSuitability": 8.6,
+            "evidence": 8.2,
+            "userFeedback": 8.8,
+            "value": 8.6,
+            "availability": 9
+        },
+        "skinType": [
+            "All",
+            "Acne-Prone",
+            "Oily",
+            "Sensitive"
+        ],
+        "concerns": [
+            "Acne",
+            "Whiteheads",
+            "Pimple Picking"
+        ],
+        "keyActives": [
+            "Hydrocolloid"
+        ],
+        "keyIngredients": [
+            "Hydrocolloid"
+        ],
+        "ingredients": [
+            "Hydrocolloid (the listing title also mentions salicylic acid, tea tree and hyaluronic acid)"
+        ],
+        "fragrance": "Not Disclosed on Listing",
+        "essentialOils": false,
+        "alcoholFree": true,
+        "texture": "Ultra-thin patch",
+        "finish": "Nearly invisible",
+        "whiteCast": "Not Applicable",
+        "bestFor": "Whiteheads with a visible head, overnight, and stopping yourself from picking.",
+        "avoidIf": "You have deep, painful cystic acne or blackheads; patches don't reach those. The listing also warns against use if you are allergic to pectin or rubber.",
+        "whyWeLikeIt": "Hydrocolloid absorbs fluid from surfaced pimples and protects them from picking, which helps prevent marks.",
+        "pros": [
+            "Hydrocolloid has good evidence for surfaced pimples",
+            "About ₹2.5 per patch",
+            "More ratings than any other skincare product we cover"
+        ],
+        "cons": [
+            "The title mentions salicylic acid, tea tree and hyaluronic acid, but the bullets describe pure hydrocolloid and the ingredient field lists only hydrocolloid",
+            "Doesn't work on cysts or blackheads"
+        ],
+        "verdict": "A great-value hydrocolloid patch for whiteheads; check the pack for whether it contains salicylic acid.",
+        "alternatives": [
+            {
+                "label": "Indian Brand with Salicylic Acid",
+                "productId": "nua-pimple-patch",
+                "reason": "Hydrocolloid plus salicylic acid."
+            },
+            {
+                "label": "For Deeper Spots",
+                "productId": "conscious-chemist-microneedle-patch",
+                "reason": "Microneedle patches for early, under-the-skin pimples."
+            }
+        ],
+        "lastPriceChecked": "November 2026",
+        "lastEditorialReview": "November 2026",
+        "inStock": true,
+        "oraeSkinScore": 8.4,
+        "scores": {
+            "formula": 8,
+            "weatherResilience": 8.6,
+            "texture": 8.6,
+            "value": 8.6,
+            "overall": 8.4
+        }
     }
 ];
 
@@ -20188,6 +21755,7 @@ const TOPIC_CATEGORY_RULES: [RegExp, string][] = [
     [/body|bacne|underarm|thigh|knuckle|neck|chafing|lotion/i, 'body-care'],
     [/spot|pimple|patch|breakout|acne/i, 'spot-treatments'],
     [/retin|anti-?aging|wrinkle|fine lines|mature/i, 'anti-aging'],
+    [/ice roller|gua sha|steamer|nose strip|loofah|scrubber|skincare tool|accessor/i, 'tools'],
 ];
 
 /**

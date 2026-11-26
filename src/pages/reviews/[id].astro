@@ -110,7 +110,13 @@ const bestSeasons = isRich
 
 const hasWhiteCast = product.whiteCast && product.whiteCast !== 'Not Applicable';
 
-const faqs = [
+// Skincare tools and accessories get usage-focused sections instead of formula sections
+const isTool = product.category === 'tools';
+const scoreLabels = isTool
+    ? ['Design & Materials (25%)', 'Skin Safety & Suitability (20%)', 'Evidence for the Claimed Benefit (20%)', 'Verified Consumer Feedback (15%)', 'Value for Money (10%)', 'Availability & Build Quality (10%)']
+    : ['Formula & Hero Actives (25%)', 'Skin Suitability & Climate (20%)', 'Scientific Evidence Backing (20%)', 'Verified Consumer Feedback (15%)', 'Value for Money & Economics (10%)', 'Availability & Packaging Quality (10%)'];
+
+const formulaFaqs = [
     {
         q: `Is ${product.brand} ${product.name} suitable for Indian weather?`,
         a: `It has a ${product.texture.toLowerCase()} texture with a ${product.finish.toLowerCase()} finish. Lighter textures usually feel more comfortable in heat and humidity, while richer ones suit dry winters and air-conditioned rooms. Check the "Best for" and "Skip it if" notes above for your skin type.`
@@ -130,6 +136,27 @@ const faqs = [
         a: `Amazon ratings (${product.rating}/5 from ${product.reviewCount} users) measure general customer satisfaction and delivery experience. The OraeSkin Score (${product.oraeSkinScore}/10) is our proprietary editorial evaluation weighing active ingredients (25%), skin suitability (20%), scientific evidence (20%), user sentiment (15%), value (10%), and availability (10%).`
     }
 ];
+
+const toolFaqs = [
+    {
+        q: `Does the ${product.brand} ${product.name} actually work?`,
+        a: `${product.whyWeLikeIt} ${product.verdict}`
+    },
+    {
+        q: `Who should avoid the ${product.brand} ${product.name}?`,
+        a: product.avoidIf
+    },
+    {
+        q: `How do I keep it clean?`,
+        a: `Wash reusable tools with mild soap and water after each use, let them dry fully, and don't share them. Throw away single-use items such as strips, patches and pads after one use. Stop using any tool on broken, inflamed or infected skin.`
+    },
+    {
+        q: `How does the OraeSkin Score work for tools?`,
+        a: `Amazon ratings (${product.rating}/5 from ${product.reviewCount} users) measure general customer satisfaction. The OraeSkin Score (${product.oraeSkinScore}/10) is our editorial evaluation weighing design and materials (25%), skin safety (20%), evidence for the claimed benefit (20%), user sentiment (15%), value (10%), and availability and build quality (10%).`
+    }
+];
+
+const faqs = isTool ? toolFaqs : formulaFaqs;
 
 const faqSchema = {
     "@context": "https://schema.org",
@@ -172,7 +199,7 @@ const faqSchema = {
             <header class="review-header">
                 <div class="review-category-badge">{product.category.toUpperCase()} EDITORIAL REVIEW</div>
                 <h1 class="review-title">{product.brand} — {product.name}</h1>
-                <p class="review-subtitle">Evidence-informed formulation analysis, texture evaluation for Indian climates, and value assessment.</p>
+                <p class="review-subtitle">{isTool ? 'What it does, what the evidence says, how to use it safely, and whether it is worth the money.' : 'Evidence-informed formulation analysis, texture evaluation for Indian climates, and value assessment.'}</p>
                 
                 <div class="review-audit-strip">
                     <span>📅 Last Editorial Review: <strong>{product.lastEditorialReview}</strong></span>
@@ -258,7 +285,7 @@ const faqSchema = {
                         <div class="breakdown-bars">
                             <div class="bar-row">
                                 <div class="bar-meta">
-                                    <span>Formula & Hero Actives (25%)</span>
+                                    <span>{scoreLabels[0]}</span>
                                     <strong>{product.scoreBreakdown.formula}/10</strong>
                                 </div>
                                 <div class="bar-track">
@@ -268,7 +295,7 @@ const faqSchema = {
 
                             <div class="bar-row">
                                 <div class="bar-meta">
-                                    <span>Skin Suitability & Climate (20%)</span>
+                                    <span>{scoreLabels[1]}</span>
                                     <strong>{product.scoreBreakdown.skinSuitability}/10</strong>
                                 </div>
                                 <div class="bar-track">
@@ -278,7 +305,7 @@ const faqSchema = {
 
                             <div class="bar-row">
                                 <div class="bar-meta">
-                                    <span>Scientific Evidence Backing (20%)</span>
+                                    <span>{scoreLabels[2]}</span>
                                     <strong>{product.scoreBreakdown.evidence}/10</strong>
                                 </div>
                                 <div class="bar-track">
@@ -288,7 +315,7 @@ const faqSchema = {
 
                             <div class="bar-row">
                                 <div class="bar-meta">
-                                    <span>Verified Consumer Feedback (15%)</span>
+                                    <span>{scoreLabels[3]}</span>
                                     <strong>{product.scoreBreakdown.userFeedback}/10</strong>
                                 </div>
                                 <div class="bar-track">
@@ -298,7 +325,7 @@ const faqSchema = {
 
                             <div class="bar-row">
                                 <div class="bar-meta">
-                                    <span>Value for Money & Economics (10%)</span>
+                                    <span>{scoreLabels[4]}</span>
                                     <strong>{product.scoreBreakdown.value}/10</strong>
                                 </div>
                                 <div class="bar-track">
@@ -308,7 +335,7 @@ const faqSchema = {
 
                             <div class="bar-row">
                                 <div class="bar-meta">
-                                    <span>Availability & Packaging Quality (10%)</span>
+                                    <span>{scoreLabels[5]}</span>
                                     <strong>{product.scoreBreakdown.availability}/10</strong>
                                 </div>
                                 <div class="bar-track">
@@ -340,6 +367,53 @@ const faqSchema = {
 
             <!-- Deep Analysis Body -->
             <div class="review-deep-body">
+{isTool ? (
+<Fragment>
+                <!-- Section 1 (tools): What it does -->
+                <section class="review-section">
+                    <h2>1. What It Is & What It Does</h2>
+                    <p>{product.whyWeLikeIt}</p>
+                    <div class="actives-grid">
+                        {product.keyActives.map(feature => (
+                            <div class="active-card">
+                                <span class="active-badge">Key Feature</span>
+                                <h3>{feature}</h3>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+
+                <!-- Section 2 (tools): How to use it safely -->
+                <section class="review-section">
+                    <h2>2. How to Use It Safely</h2>
+                    <div class="climate-eval-card">
+                        <div class="climate-stat">
+                            <span class="c-label">Type:</span>
+                            <span class="c-val">{product.texture}</span>
+                        </div>
+                        <div class="climate-stat">
+                            <span class="c-label">How It Feels:</span>
+                            <span class="c-val">{product.finish}</span>
+                        </div>
+                        <div class="climate-stat">
+                            <span class="c-label">Best For:</span>
+                            <span class="c-val">{product.bestFor}</span>
+                        </div>
+                        <div class="climate-stat">
+                            <span class="c-label">Skip It If:</span>
+                            <span class="c-val">{product.avoidIf}</span>
+                        </div>
+                    </div>
+                    <ul>
+                        <li>Use it on clean skin, with light pressure. Skincare tools should never hurt or leave marks.</li>
+                        <li>Clean reusable tools after every use and let them dry fully. Don't share them.</li>
+                        <li>Avoid active acne, broken skin, sunburn and rashes.</li>
+                    </ul>
+                </section>
+
+</Fragment>
+) : (
+<Fragment>
                 <!-- Section 1: Formulation & Actives -->
                 <section class="review-section">
                     <h2>1. Active Ingredients & Formulation Analysis</h2>
@@ -410,6 +484,9 @@ const faqSchema = {
                     </div>
                 </section>
 
+</Fragment>
+)}
+
                 <!-- Section 3: Balanced Pros and Cons -->
                 <section class="review-section">
                     <h2>3. Pros & Important Limitations</h2>
@@ -442,6 +519,22 @@ const faqSchema = {
                     </div>
                 )}
 
+{isTool ? (
+<Fragment>
+                <!-- Section 4 (tools): Value -->
+                <section class="review-section">
+                    <h2>4. Value for Money</h2>
+                    <p>
+                        At about <strong>₹{product.price}</strong> for {product.size}, this sits in the <strong>{product.price <= 300 ? 'Budget' : product.price <= 1000 ? 'Mid-Range' : 'Premium'}</strong> range for skincare tools on Amazon India.
+                    </p>
+                    <p>
+                        Reusable tools such as rollers, brushes and gua sha stones last for months or years with care, so the cost per use is very low. Single-use items such as strips, patches and pads are worth comparing by price per piece.
+                    </p>
+                </section>
+
+</Fragment>
+) : (
+<Fragment>
                 <!-- Section 4: Value Economics -->
                 <section class="review-section">
                     <h2>4. Value for Money & Daily Cost-Per-Use</h2>
@@ -452,6 +545,9 @@ const faqSchema = {
                         Given standard application amounts (e.g. 1/4 teaspoon for sunscreens, 3-4 drops for serums, pea-sized for moisturizers), a single container should last between <strong>6 to 10 weeks</strong> of daily twice-a-day application.
                     </p>
                 </section>
+
+</Fragment>
+)}
 
                 <!-- Section 5: Alternatives -->
                 {alternatives.length > 0 && (

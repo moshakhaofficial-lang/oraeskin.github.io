@@ -131,5 +131,17 @@ export const CATEGORIES: Category[] = [
         topActives: ['0.3% Retinol with Squalane', 'Granactive Retinoid 2%', 'Multi-Peptides', 'Bakuchiol'],
         featuredConcern: 'Fine Lines, Loss of Firmness & Wrinkles',
         itemCount: 5
+    },
+    {
+        id: 'tools',
+        slug: 'tools',
+        name: 'Skincare Tools & Accessories',
+        tagline: 'Ice Rollers, Gua Sha, Cleansing Brushes, Nose Strips & Body Scrubbers',
+        description: 'Honest reviews of the skincare tools Indians buy most on Amazon: what each one really does, what the evidence says, and which ones to skip.',
+        icon: '🧊',
+        heroImage: '/images/products/aegon-ice-roller.jpg',
+        topActives: ['Ice Rollers', 'Gua Sha', 'Silicone Cleansing Brushes', 'Cooling Eye Masks'],
+        featuredConcern: 'Puffiness, Blackheads & Gentle Exfoliation',
+        itemCount: 0
     }
 ];

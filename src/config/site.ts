@@ -232,6 +232,23 @@ export const VERIFIED_AMAZON_ASINS = new Set([
     'B01IAELKZ6', // Vaseline Lip Therapy Rosy Lips Tinted Balm (7g)
     'B07HB28NFV', // Lakmé Lip Love Care Stick Cherry with SPF 15 (4.5g)
     'B07DY2QRF6', // Laneige Lip Glowy Balm (10g)
+    'B0C5MRP8S7', // Aegon Silicone Ice Roller for Face
+    'B0F2J3736Y', // ANTIL'S Reusable Face Ice Roller
+    'B0D846M27M', // SkinSide Ice Roller for Face with Scrubber
+    'B0B4WTMRSS', // BoldHealth Cooling Eye Gel Mask
+    'B0B8T59777', // Livronic 304 Stainless Steel Gua Sha Tool for Face
+    'B0BR5RWBYS', // Glam21 2-in-1 Silicone Face Cleansing Brush & Spatula
+    'B0DJGKCZ9G', // AGARO Sonic Facial Cleansing Massager CM2407
+    'B0D676HJR3', // Evereve 100% Cotton Pads (200 Pcs)
+    'B07RM4GKYR', // Dr Trust 3-in-1 Nano Ionic Facial Steamer, Humidifier & Towel Warmer
+    'B074D1XD4V', // Wonder Steam Inhaler Sauna Vaporizer
+    'B09MTB6PCB', // FURR Bamboo Charcoal Nose Strips (9 Strips)
+    'B09878ZR9L', // Sanfe Deep Purifying Nose Strips with Green Tea & Witch Hazel (6 Strips)
+    'B0CVL4ZK4Y', // DR.RASHEL Bamboo Charcoal Nose Pore Strips (20 Strips)
+    'B0CTFLQ37M', // DR.RASHEL Vitamin C Nose Strips with Witch Hazel & Charcoal (20 Strips)
+    'B0FPGDNWQH', // KROYWEN Silicone Back Scrubber, Body Brush, Face Brush & Scalp Massager Set
+    'B08XX6FXC1', // Ross Large Bath Loofah Sponge Scrubber (Pack of 2)
+    'B0H292624R', // Mighty Patch Ultra-Thin Hydrocolloid Pimple Patches (72 Dots)
 ]);
 
 // Map of legacy/dead ASINs to verified direct ASINs

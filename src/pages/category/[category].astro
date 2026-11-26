@@ -20,6 +20,7 @@ const { category } = Astro.props;
 
 // Filter products for this category
 const categoryProducts = PRODUCTS.filter(p => p.category === category.slug);
+const isTools = category.slug === 'tools';
 
 // Comparison items formatted for ComparisonTable component
 const comparisonProducts = categoryProducts.map(p => ({
@@ -51,7 +52,7 @@ const comparisonProducts = categoryProducts.map(p => ({
 
                 <!-- Key Actives Bar -->
                 <div class="actives-bar">
-                    <span class="actives-label">Key Dermatological Actives:</span>
+                    <span class="actives-label">{isTools ? 'Tool Types Reviewed:' : 'Key Dermatological Actives:'}</span>
                     <div class="actives-pills">
                         {category.topActives.map(active => (
                             <span class="active-pill">{active}</span>
@@ -64,7 +65,7 @@ const comparisonProducts = categoryProducts.map(p => ({
                         <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                         </svg>
-                        Formulation Evaluated for Indian Skin
+                        {isTools ? 'Design & Safety Evaluated' : 'Formulation Evaluated for Indian Skin'}
                     </span>
                     <span class="meta-item">
                         <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
@@ -102,7 +103,7 @@ const comparisonProducts = categoryProducts.map(p => ({
             <div class="section-heading-group">
                 <span class="section-tag">Audited & Ranked</span>
                 <h2 class="section-heading">Detailed Reviews: The Best {category.name} in India</h2>
-                <p class="section-sub">Comprehensive editorial scorecards based on texture, humidity resistance, and ingredient efficacy.</p>
+                <p class="section-sub">{isTools ? 'Editorial scorecards based on design, materials, safety and the evidence behind each claim.' : 'Comprehensive editorial scorecards based on texture, humidity resistance, and ingredient efficacy.'}</p>
             </div>
 
             <div class="product-cards-stack">
@@ -131,6 +132,20 @@ const comparisonProducts = categoryProducts.map(p => ({
         <!-- Indian Buyer's Guide & FAQ -->
         <section class="container guide-section">
             <div class="guide-box">
+{isTools ? (
+<Fragment>
+                <h3 class="guide-title">How to Choose Skincare Tools That Help, Not Harm</h3>
+                <div class="guide-content">
+                    <p>Most skincare tools work through simple effects: cold reduces puffiness, gentle massage feels relaxing, and soft silicone helps spread cleanser. None replace sunscreen or a good routine.</p>
+                    <ul>
+                        <li><strong>Choose easy-to-clean materials</strong>: silicone and stainless steel can be washed and dried properly. Natural loofahs and sponges hold bacteria and need replacing every few weeks.</li>
+                        <li><strong>Skip tools that injure skin</strong>: at-home derma rollers, blackhead vacuums and metal extractors can cause scarring, infection and dark marks on Indian skin. Leave these to a dermatologist.</li>
+                        <li><strong>Be gentle</strong>: a tool should never hurt or leave redness that lasts more than a few minutes. Avoid active acne, broken skin and rashes.</li>
+                    </ul>
+                </div>
+</Fragment>
+) : (
+<Fragment>
                 <h3 class="guide-title">How to Choose the Right {category.name} for Indian Weather</h3>
                 <div class="guide-content">
                     <p>
@@ -142,6 +157,8 @@ const comparisonProducts = categoryProducts.map(p => ({
                         <li><strong>Patch Test Before Full Application</strong>: When introducing potent actives, always patch test on the jawline or inner forearm for 24 hours to monitor for sensitivity.</li>
                     </ul>
                 </div>
+</Fragment>
+)}
             </div>
         </section>
     </main>

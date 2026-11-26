@@ -78,6 +78,10 @@ Micro-tips that deliver actives into early spots. It costs more per patch.
 📖 **[Read our full The Derma Co Micro-Tip Salicylic Acid Pimple Patches review](/reviews/dermaco-acne-patch/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B09GGCWKR7?tag=oraeskin-21)**
 
 ---
+**Also worth a look:** [Mighty Patch Ultra-Thin Hydrocolloid Pimple Patches](/reviews/mighty-patch-pimple-patches/) come 72 to a pack for about ₹179 (around ₹2.5 each) and have more than 150,000 Amazon ratings. Check the pack you receive: the listing title mentions salicylic acid, but its ingredient field lists only hydrocolloid. [Check price on Amazon.in](https://www.amazon.in/dp/B0H292624R?tag=oraeskin-21).
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

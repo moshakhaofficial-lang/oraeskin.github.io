@@ -82,6 +82,10 @@ A long-running 2% salicylic wash with a rich lather for very oily skin. Skip it 
 
 ---
 
+**Want a quick fix before an event?** Nose strips pull out the top of blackheads for a few days. Our [do nose strips work?](/blog/do-nose-strips-work-best-nose-strips-india/) guide compares the popular ones. Use them once a week at most, alongside a salicylic acid cleanser.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

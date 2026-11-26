@@ -126,6 +126,10 @@ The most-rated eye product of the five, with more than 20,000 ratings. It is a c
 
 ---
 
+**For quick de-puffing,** cold works faster than any cream. A chilled [BoldHealth Cooling Eye Gel Mask](/reviews/boldhealth-cooling-eye-gel-mask/) (₹189, [check price on Amazon.in](https://www.amazon.in/dp/B0B4WTMRSS?tag=oraeskin-21)) or an [Aegon ice roller](/reviews/aegon-ice-roller/) (₹135) calms morning puffiness for a few hours. Our [facial steamer vs ice roller](/blog/facial-steamer-vs-ice-roller-india/) guide compares more cold tools.
+
+---
+
 ## How to Use an Eye Cream
 
 - **Use a rice-grain amount for both eyes**, tapped gently with your ring finger along the bone, not on the eyelid.
