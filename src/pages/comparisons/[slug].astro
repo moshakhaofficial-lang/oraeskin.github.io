@@ -72,8 +72,8 @@ const breadcrumbSchema = {
 ---
 
 <Layout 
-    title={`${comp.title} | Head-to-Head Skincare Comparison | OraeSkin`}
-    description={`${comp.title}. Side-by-side formulation breakdown, OraeSkin Scores, texture in Indian humidity, price per gram, and skin-type recommendations.`}
+    title={comp.title.length <= 45 ? `${comp.title}: Which Is Better?` : comp.title}
+    description={`${productA.brand} (${productA.oraeSkinScore}/10, ${productA.priceEst}) vs ${productB.brand} (${productB.oraeSkinScore}/10, ${productB.priceEst}): ingredients, finish, price per gram and which one suits your skin.`}
 >
     <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 

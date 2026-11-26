@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Best Face Washes Under ₹300 on Amazon India"
+title: "Best Affordable Face Washes & Cleansers Under ₹300 in India (2026)"
 image: "/images/products/dermaco-1-salicylic-facewash.jpg"
 date: "2026-10-29"
 updated: "2026-11-01"
 category: "Facial Cleansers"
 rating: 4.8
 keywords: "best face wash under 300, cheap facewash amazon india, simple refreshing wash review"
-description: "Affordable, effective face washes under ₹300 on Amazon India, compared by formula, price per ml and ratings."
+description: "Three affordable face washes and cleansers under ₹300 on Amazon India for oily and acne-prone skin, compared by formula, price per ml and ratings."
 topPickTitle: "The Derma Co 1% Salicylic Acid Gel Face Wash"
 topPickBrand: "The Derma Co"
 topPickAsin: "B095J52W7P"

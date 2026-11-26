@@ -175,11 +175,17 @@ const faqSchema = {
         }
     }))
 };
+// Search snippet: lead with the verdict, price and ratings people compare on
+const reviewBase = `${product.brand} ${product.name} Review`;
+const seoTitle = reviewBase.length <= 42 ? `${reviewBase} (2026): Honest Verdict`
+    : reviewBase.length <= 56 ? `${reviewBase} (2026)` : reviewBase;
+const actives = product.keyActives.slice(0, 2).join(' + ');
+const seoDescription = `Our verdict: ${product.oraeSkinScore}/10.${actives ? ` ${actives}.` : ''} ${product.priceEst} for ${product.size} on Amazon India (${product.amazonRating}★, ${product.amazonReviews} ratings). Pros, cons and who should skip it.`;
 ---
 
 <Layout 
-    title={`${product.brand} ${product.name} Review`.length > 49 ? `${product.brand} ${product.name} Review` : `${product.brand} ${product.name} Review | OraeSkin`}
-    description={`In-depth editorial review of ${product.brand} ${product.name}. OraeSkin Score: ${product.oraeSkinScore}/10. Formulation breakdown, texture in Indian humidity, pros, cons, and verified alternatives.`}
+    title={seoTitle}
+    description={seoDescription}
 >
     <!-- Structured Data -->
     <script is:inline type="application/ld+json" set:html={JSON.stringify(productSchema)} />
