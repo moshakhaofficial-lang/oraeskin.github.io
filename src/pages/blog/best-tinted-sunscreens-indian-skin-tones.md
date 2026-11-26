@@ -78,6 +78,10 @@ A 100ml tinted sunscreen with niacinamide for under ₹300. It contains perfume.
 📖 **[Read our full Lakmē Sun Expert Tinted Sunscreen SPF 50 review](/reviews/lakme-tinted-sunscreen-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B085T374WK?tag=oraeskin-21)**
 
 ---
+**On a budget?** See our [best sunscreens under ₹400](/blog/best-budget-sunscreens-under-400-india/). **Sweating or swimming?** See [best sweat-resistant sunscreens](/blog/best-sweat-resistant-waterproof-sunscreens-india/).
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

@@ -95,6 +95,10 @@ Niacinamide and ethyl ascorbic acid with new-gen filters. It contains added frag
 📖 **[Read our full Foxtale Glow Sunscreen SPF 50 PA++++ review](/reviews/foxtale-glow-sunscreen-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0C3CP6B5Y?tag=oraeskin-21)**
 
 ---
+**On a budget?** See our [best sunscreens under ₹400](/blog/best-budget-sunscreens-under-400-india/). **Sweating or swimming?** See [best sweat-resistant sunscreens](/blog/best-sweat-resistant-waterproof-sunscreens-india/).
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

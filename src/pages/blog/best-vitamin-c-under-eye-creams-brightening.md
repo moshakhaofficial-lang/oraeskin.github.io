@@ -82,6 +82,10 @@ Better for bluish, puffy circles than brown pigment, but a good morning partner.
 
 ---
 
+**Main guide:** see our [best under-eye creams for dark circles and puffiness](/blog/best-under-eye-creams-dark-circles/), with all our top picks compared by dark-circle type.
+
+---
+
 ## Frequently Asked Questions
 
 ### Can vitamin C fade dark circles?

@@ -95,6 +95,10 @@ A soap-free gel with no added perfume or colour, in a large 250ml bottle.
 📖 **[Read our full Simple Kind to Skin Refreshing Facial Wash review](/reviews/simple-refreshing-wash/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0FJMB2NZM?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

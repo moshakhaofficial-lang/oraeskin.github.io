@@ -75,6 +75,10 @@ Soap-free, with no added perfume or colourants, for under ₹250.
 
 ---
 
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Does sweat alone cause acne?

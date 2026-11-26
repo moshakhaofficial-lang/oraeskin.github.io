@@ -132,6 +132,10 @@ Whatever you choose, reapply every two to three hours outdoors. For melasma spec
 
 ---
 
+**On a budget?** See our [best sunscreens under ₹400](/blog/best-budget-sunscreens-under-400-india/). **Sweating or swimming?** See [best sweat-resistant sunscreens](/blog/best-sweat-resistant-waterproof-sunscreens-india/).
+
+---
+
 ## Frequently Asked Questions
 
 ### Is an expensive sunscreen more protective than a cheap one?

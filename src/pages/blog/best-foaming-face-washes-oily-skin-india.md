@@ -112,6 +112,10 @@ A rich foam with 2% salicylic acid, for resilient skin that wants an acne active
 📖 **[Read our full Neutrogena Oil-Free Acne Wash review](/reviews/neutrogena-oilfree-acne-wash/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B006LXDMCS?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

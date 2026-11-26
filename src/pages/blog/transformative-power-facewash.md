@@ -30,3 +30,7 @@ Most people rinse their facewash after just 10 seconds, not giving active ingred
 1. **Massage for 60 Seconds**: Gently massage lather across your forehead, nose, and chin in circular motions for a full minute before rinsing with lukewarm water.
 2. **Double Cleanse at Night**: If wearing waterproof sunscreen or makeup, start with micellar water or cleansing oil to break down silicones, then follow with your foaming wash.
 3. **Always Follow with Sunscreen (AM)**: Clean skin is more permeable to sunlight. Defend your barrier daily with **[Minimalist SPF 50](https://www.amazon.in/dp/B09FPS9D5T?tag=oraeskin-21)**.
+
+---
+
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.

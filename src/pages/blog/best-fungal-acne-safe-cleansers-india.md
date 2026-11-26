@@ -79,6 +79,10 @@ A long-standing pharmacy gel: 6% nicotinamide helps calm redness while 2% salicy
 
 Fungal acne (*Malassezia* folliculitis) looks like small, itchy, uniform bumps, often on the forehead, chest and back, and it doesn't respond to normal acne treatments. Cleansers help, but it usually clears faster with an **antifungal**, such as a ketoconazole wash or, for widespread cases, an oral medicine your doctor prescribes. See a dermatologist to confirm it is fungal before treating it, especially if the bumps are painful, spreading, or not improving after 2–3 weeks.
 
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### How do I know if my acne is fungal or bacterial?

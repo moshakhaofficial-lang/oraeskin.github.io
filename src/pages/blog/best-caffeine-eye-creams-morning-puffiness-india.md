@@ -78,6 +78,10 @@ Caffeine is the go-to ingredient for morning puffiness: applied to the skin, it 
 📖 **[Read our full Minimalist Vitamin K + Retinal 0.1% Under Eye Cream review](/reviews/minimalist-caffeine-eye-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0CHYR58VF?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best under-eye creams for dark circles and puffiness](/blog/best-under-eye-creams-dark-circles/), with all our top picks compared by dark-circle type.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

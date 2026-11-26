@@ -78,6 +78,10 @@ Silky ginseng and retinal serum with ceramide and hyaluronate for dehydration li
 📖 **[Read our full Beauty of Joseon Revive Eye Serum: Ginseng + Retinal review](/reviews/boj-revive-eye-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0B45LL4DD?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best under-eye creams for dark circles and puffiness](/blog/best-under-eye-creams-dark-circles/), with all our top picks compared by dark-circle type.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

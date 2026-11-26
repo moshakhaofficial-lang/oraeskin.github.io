@@ -82,6 +82,10 @@ A light caffeine serum with a roller applicator.
 📖 **[Read our full The Derma Co 5% Caffeine Under-Eye Serum with Roller review](/reviews/dermaco-5-caffeine-serum/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B08TTW5RJG?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best under-eye creams for dark circles and puffiness](/blog/best-under-eye-creams-dark-circles/), with all our top picks compared by dark-circle type.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

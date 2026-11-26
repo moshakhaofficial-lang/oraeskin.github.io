@@ -82,6 +82,10 @@ Glycolic acid and niacinamide in a ₹119 tube, an easy way to try one.
 📖 **[Read our full L'Oréal Paris Glycolic Bright Daily Foaming Cleanser review](/reviews/loreal-glycolic-bright-cleanser/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0B9RFCS5S?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

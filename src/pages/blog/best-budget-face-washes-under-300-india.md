@@ -78,6 +78,10 @@ A stronger 2% BHA with LHA and zinc for congested pores, still under ₹300.
 📖 **[Read our full Minimalist 2% Salicylic Acid Face Wash review](/reviews/minimalist-salicylic-cleanser/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B096PJMGPL?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

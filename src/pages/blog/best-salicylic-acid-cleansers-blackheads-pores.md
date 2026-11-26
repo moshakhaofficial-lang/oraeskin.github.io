@@ -86,6 +86,10 @@ A long-running 2% salicylic wash with a rich lather for very oily skin. Skip it 
 
 ---
 
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

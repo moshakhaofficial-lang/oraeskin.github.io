@@ -117,6 +117,10 @@ A strongly scented gel with menthol for a cooling feel, sold as a pack of three 
 
 ---
 
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Do men need a special face wash?

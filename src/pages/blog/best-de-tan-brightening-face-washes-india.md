@@ -149,6 +149,10 @@ This wash is climbing the bestseller list quickly. It includes lactic acid, a mi
 
 ---
 
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Can a face wash really remove a tan?

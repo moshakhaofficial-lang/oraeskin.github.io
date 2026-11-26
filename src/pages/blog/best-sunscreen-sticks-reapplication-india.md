@@ -103,6 +103,10 @@ SPF 50+ PA++++ with modern UVA filters in a ₹259 pocket stick.
 📖 **[Read our full Lakmé Sun Expert Invisible Sunstick SPF 50+ review](/reviews/lakme-sunstick-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0F1MY7LZJ?tag=oraeskin-21)**
 
 ---
+**On a budget?** See our [best sunscreens under ₹400](/blog/best-budget-sunscreens-under-400-india/). **Sweating or swimming?** See [best sweat-resistant sunscreens](/blog/best-sweat-resistant-waterproof-sunscreens-india/).
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

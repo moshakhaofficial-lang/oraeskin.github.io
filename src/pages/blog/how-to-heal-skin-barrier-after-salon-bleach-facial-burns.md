@@ -75,6 +75,10 @@ Pairs essential skin-identical ceramides with stable Vitamin C for dual barrier 
 
 ---
 
+**Main guide:** see our [best barrier repair creams](/blog/best-barrier-repair-creams-india/), with seven ceramide moisturizers compared and a step-by-step barrier repair plan.
+
+---
+
 ## Frequently Asked Questions
 
 ### Will salon bleach burns cause permanent dark marks?

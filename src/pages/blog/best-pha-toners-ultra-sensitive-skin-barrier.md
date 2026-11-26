@@ -82,6 +82,10 @@ A ceramide milky toner for the nights you are not exfoliating.
 📖 **[Read our full Hyphen 7% Ceramides-NMF Milky Toner Essence review](/reviews/hyphen-ceramide-milky-toner/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0DMPDCBLH?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best barrier repair creams](/blog/best-barrier-repair-creams-india/), with seven ceramide moisturizers compared and a step-by-step barrier repair plan.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

@@ -82,6 +82,10 @@ A milder retinol-peptide blend alongside 5% caffeine.
 
 ---
 
+**Main guide:** see our [best under-eye creams for dark circles and puffiness](/blog/best-under-eye-creams-dark-circles/), with all our top picks compared by dark-circle type.
+
+---
+
 ## Frequently Asked Questions
 
 ### Is retinol safe around the eyes?

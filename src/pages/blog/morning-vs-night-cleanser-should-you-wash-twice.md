@@ -99,6 +99,10 @@ No-rinse micellar water when you can't manage a full cleanse.
 📖 **[Read our full Garnier Micellar Cleansing Water (Hydrating & Soothing) review](/reviews/garnier-micellar-water/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B071CDDG3H?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best face washes for oily and acne-prone skin](/blog/best-cleansers-acne-oily-skin/), with eight picks compared by active and price per ml.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

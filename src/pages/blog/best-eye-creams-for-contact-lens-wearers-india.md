@@ -86,6 +86,10 @@ A richer but non-sticky option for dryness. Keep it on the orbital bone.
 
 ---
 
+**Main guide:** see our [best under-eye creams for dark circles and puffiness](/blog/best-under-eye-creams-dark-circles/), with all our top picks compared by dark-circle type.
+
+---
+
 ## Frequently Asked Questions
 
 ### Why does my eye cream make my vision blurry?

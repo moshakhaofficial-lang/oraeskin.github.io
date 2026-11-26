@@ -82,6 +82,10 @@ Niacinamide and low-dose retinal for sensitive under-eyes.
 📖 **[Read our full The Ordinary Caffeine Solution 5% + EGCG review](/reviews/theordinary-caffeine-egcg/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B01MUZVE1C?tag=oraeskin-21)**
 
 ---
+**Main guide:** see our [best under-eye creams for dark circles and puffiness](/blog/best-under-eye-creams-dark-circles/), with all our top picks compared by dark-circle type.
+
+---
+
 ## Frequently Asked Questions
 
 ### Can hereditary dark circles be cured?

@@ -78,6 +78,10 @@ A water-burst gel with a weightless semi-matte finish, for oily skin that still 
 📖 **[Read our full The Derma Co 1% Hyaluronic Sunscreen Aqua Gel review](/reviews/dermaco-hyaluronic-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0BVWDJTHF?tag=oraeskin-21)**
 
 ---
+**On a budget?** See our [best sunscreens under ₹400](/blog/best-budget-sunscreens-under-400-india/). **Sweating or swimming?** See [best sweat-resistant sunscreens](/blog/best-sweat-resistant-waterproof-sunscreens-india/).
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?

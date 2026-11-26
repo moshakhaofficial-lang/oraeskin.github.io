@@ -75,6 +75,10 @@ A watery gel that spreads easily and feels light, with little greasy shine.
 
 ---
 
+**On a budget?** See our [best sunscreens under ₹400](/blog/best-budget-sunscreens-under-400-india/). **Sweating or swimming?** See [best sweat-resistant sunscreens](/blog/best-sweat-resistant-waterproof-sunscreens-india/).
+
+---
+
 ## Frequently Asked Questions
 
 ### Does sunscreen cause breakouts for men?

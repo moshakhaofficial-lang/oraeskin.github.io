@@ -86,6 +86,10 @@ SPF 50 PA++++ in a 400ml bottle, about ₹1.2 per ml.
 📖 **[Read our full Vaseline Sun Protect SPF 50 PA++++ Lotion review](/reviews/vaseline-sun-protect-spf50/)** · 👉 **[Check live price on Amazon.in](https://www.amazon.in/dp/B0GLZSD24R?tag=oraeskin-21)**
 
 ---
+**On a budget?** See our [best sunscreens under ₹400](/blog/best-budget-sunscreens-under-400-india/). **Sweating or swimming?** See [best sweat-resistant sunscreens](/blog/best-sweat-resistant-waterproof-sunscreens-india/).
+
+---
+
 ## Frequently Asked Questions
 
 ### Which is the best value?
