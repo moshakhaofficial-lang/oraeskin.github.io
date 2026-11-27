@@ -12,6 +12,7 @@
     "cerave-moisturizing-cream",
     "cetaphil-gentle-cleanser",
     "cetaphil-moisturising-cream",
+    "cetaphil-oily-skin-cleanser",
     "cosrx-ahabha-toner",
     "dabur-gulabari-rose-water",
     "de-la-cruz-sulfur-ointment",
@@ -85,6 +86,7 @@
     "best-emergency-acne-kits-amazon-india",
     "best-exfoliating-peeling-pads-convenience-india",
     "best-fermented-rice-kombucha-toners-india",
+    "best-foaming-face-washes-oily-skin-india",
     "best-foot-creams-cracked-heels-urea-salicylic",
     "best-gentle-cleansers-for-dry-skin-india",
     "best-hyaluronic-acid-serums-dehydrated-skin-india",
@@ -129,26 +131,6 @@
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "minimalist-niacinamide-10",
-      "type": "product",
-      "title": "10% Niacinamide Face Serum",
-      "date": "2026-09-16T09:23:26.297446+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "best-vitamin-c-serums-for-indian-skin",
-      "type": "blog",
-      "title": "Best Vitamin C Serums for Indian Skin: Fading Dark Spots & Hyperpigmentation (2025 Review)",
-      "date": "2026-09-16T09:23:28.378748+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "plum-bodylovin-vanilla-lotion",
       "type": "product",
@@ -1124,6 +1106,26 @@
       "type": "blog",
       "title": "Best Peptide Eye Creams & Serums in India for Firmer Under-Eyes",
       "date": "2026-11-26T14:05:55.630261+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "cetaphil-oily-skin-cleanser",
+      "type": "product",
+      "title": "Oily Skin Cleanser",
+      "date": "2026-11-27T14:03:48.748043+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "best-foaming-face-washes-oily-skin-india",
+      "type": "blog",
+      "title": "Top 5 Foaming Gel Cleansers for Controlling Midday Sebum in India",
+      "date": "2026-11-27T14:03:50.053785+00:00",
       "channels": [
         "twitter",
         "instagram"
