@@ -17,6 +17,7 @@
     "dabur-gulabari-rose-water",
     "de-la-cruz-sulfur-ointment",
     "deconstruct-brightening-lip-balm-spf50",
+    "deconstruct-gel-sunscreen-spf50",
     "dermaco-10-niacinamide",
     "dermaco-5-caffeine-serum",
     "dermaco-acne-patch",
@@ -125,32 +126,13 @@
     "how-to-treat-hereditary-dark-circles-south-asian-skin",
     "how-to-use-glycolic-acid-toner-safely-melanin-skin",
     "morning-vs-night-cleanser-should-you-wash-twice",
+    "office-skincare-routine-ac-environment-india",
     "transformative-power-facewash",
     "ultimate-anti-aging-skincare-routine-guide-india",
     "when-should-you-start-using-retinol-in-india",
     "winter-smog-pollution-skincare-routine-delhi-ncr-india"
   ],
   "history": [
-    {
-      "id": "plum-bodylovin-vanilla-lotion",
-      "type": "product",
-      "title": "BodyLovin Vanilla Caramello Body Lotion",
-      "date": "2026-09-17T09:33:30.890139+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
-    {
-      "id": "how-to-use-glycolic-acid-toner-safely-melanin-skin",
-      "type": "blog",
-      "title": "How to Use Glycolic Acid Toner Safely on Melanin-Rich Indian Skin",
-      "date": "2026-09-17T09:33:38.111174+00:00",
-      "channels": [
-        "twitter",
-        "instagram"
-      ]
-    },
     {
       "id": "minimalist-vitc-10",
       "type": "product",
@@ -1126,6 +1108,26 @@
       "type": "blog",
       "title": "Top 5 Foaming Gel Cleansers for Controlling Midday Sebum in India",
       "date": "2026-11-27T14:03:50.053785+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "deconstruct-gel-sunscreen-spf50",
+      "type": "product",
+      "title": "Gel Sunscreen SPF 50 PA++++",
+      "date": "2026-11-28T13:21:48.779634+00:00",
+      "channels": [
+        "twitter",
+        "instagram"
+      ]
+    },
+    {
+      "id": "office-skincare-routine-ac-environment-india",
+      "type": "blog",
+      "title": "Best Office Skincare Routine for 9-to-5 Workers in India: Beating AC Dehydration & Screen Fatigue",
+      "date": "2026-11-28T13:21:49.736275+00:00",
       "channels": [
         "twitter",
         "instagram"
